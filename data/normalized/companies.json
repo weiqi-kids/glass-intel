@@ -6,8 +6,8 @@
       "short_name": "SCR-Sibelco",
       "position": "upstream",
       "role": "矽砂",
-      "x": 0.05,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.04
     },
     {
       "id": "tata_chemicals",
@@ -15,8 +15,8 @@
       "short_name": "塔塔化工",
       "position": "upstream",
       "role": "純鹼",
-      "x": 0.103,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.13
     },
     {
       "id": "solvay",
@@ -24,8 +24,8 @@
       "short_name": "Solvay",
       "position": "upstream",
       "role": "化學品",
-      "x": 0.156,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.21
     },
     {
       "id": "owens_corning",
@@ -33,8 +33,8 @@
       "short_name": "Owens Corning",
       "position": "upstream",
       "role": "玻璃纖維",
-      "x": 0.209,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.3
     },
     {
       "id": "taiwan_glass",
@@ -42,8 +42,8 @@
       "short_name": "台灣玻璃",
       "position": "midstream",
       "role": "玻璃製造",
-      "x": 0.262,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.35
     },
     {
       "id": "agc",
@@ -51,8 +51,8 @@
       "short_name": "旭硝子",
       "position": "midstream",
       "role": "玻璃製造",
-      "x": 0.315,
-      "y": 0.34
+      "x": 0.275,
+      "y": 0.35
     },
     {
       "id": "nsg",
@@ -60,8 +60,8 @@
       "short_name": "日本板硝子",
       "position": "midstream",
       "role": "玻璃製造",
-      "x": 0.368,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.35
     },
     {
       "id": "xinyi_glass",
@@ -69,8 +69,8 @@
       "short_name": "信義玻璃",
       "position": "midstream",
       "role": "玻璃製造",
-      "x": 0.421,
-      "y": 0.34
+      "x": 0.725,
+      "y": 0.35
     },
     {
       "id": "xinyi_solar",
@@ -78,8 +78,8 @@
       "short_name": "信義光能",
       "position": "midstream",
       "role": "光伏玻璃",
-      "x": 0.474,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.42
     },
     {
       "id": "fuyao",
@@ -87,8 +87,8 @@
       "short_name": "福耀玻璃",
       "position": "midstream",
       "role": "汽車玻璃",
-      "x": 0.526,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.5
     },
     {
       "id": "saint_gobain",
@@ -96,8 +96,8 @@
       "short_name": "聖戈班",
       "position": "midstream",
       "role": "玻璃製造",
-      "x": 0.579,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.35
     },
     {
       "id": "corning",
@@ -105,8 +105,8 @@
       "short_name": "康寧",
       "position": "midstream",
       "role": "特種玻璃",
-      "x": 0.632,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.57
     },
     {
       "id": "oi_glass",
@@ -114,8 +114,8 @@
       "short_name": "O-I Glass",
       "position": "midstream",
       "role": "容器玻璃",
-      "x": 0.685,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.65
     },
     {
       "id": "flat_glass",
@@ -123,8 +123,8 @@
       "short_name": "福萊特",
       "position": "midstream",
       "role": "光伏玻璃",
-      "x": 0.738,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.42
     },
     {
       "id": "longi",
@@ -132,8 +132,8 @@
       "short_name": "隆基綠能",
       "position": "downstream",
       "role": "太陽能",
-      "x": 0.791,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.7
     },
     {
       "id": "first_solar",
@@ -141,8 +141,8 @@
       "short_name": "First Solar",
       "position": "downstream",
       "role": "太陽能",
-      "x": 0.844,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.7
     },
     {
       "id": "au_optronics",
@@ -150,8 +150,8 @@
       "short_name": "友達",
       "position": "downstream",
       "role": "顯示器",
-      "x": 0.897,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.96
     },
     {
       "id": "innolux",
@@ -160,7 +160,7 @@
       "position": "downstream",
       "role": "顯示器",
       "x": 0.95,
-      "y": 0.34
+      "y": 0.96
     }
   ],
   "links": [
