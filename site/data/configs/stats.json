@@ -1,0 +1,106 @@
+{
+  "company_count": 18,
+  "topic_count": 10,
+  "alias_count": 95,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "sibelco",
+      "short_name": "SCR-Sibelco",
+      "tier": ""
+    },
+    {
+      "id": "tata_chemicals",
+      "short_name": "Tata Chemicals",
+      "tier": ""
+    },
+    {
+      "id": "solvay",
+      "short_name": "Solvay",
+      "tier": ""
+    },
+    {
+      "id": "owens_corning",
+      "short_name": "Owens Corning",
+      "tier": ""
+    },
+    {
+      "id": "taiwan_glass",
+      "short_name": "Taiwan Glass",
+      "tier": ""
+    },
+    {
+      "id": "agc",
+      "short_name": "AGC Inc",
+      "tier": ""
+    },
+    {
+      "id": "nsg",
+      "short_name": "Nippon Sheet Glass",
+      "tier": ""
+    },
+    {
+      "id": "xinyi_glass",
+      "short_name": "Xinyi Glass",
+      "tier": ""
+    },
+    {
+      "id": "xinyi_solar",
+      "short_name": "Xinyi Solar",
+      "tier": ""
+    },
+    {
+      "id": "fuyao",
+      "short_name": "Fuyao Glass",
+      "tier": ""
+    },
+    {
+      "id": "saint_gobain",
+      "short_name": "Saint-Gobain",
+      "tier": ""
+    },
+    {
+      "id": "corning",
+      "short_name": "Corning",
+      "tier": ""
+    },
+    {
+      "id": "oi_glass",
+      "short_name": "O-I Glass",
+      "tier": ""
+    },
+    {
+      "id": "flat_glass",
+      "short_name": "Flat Glass Group",
+      "tier": ""
+    },
+    {
+      "id": "longi",
+      "short_name": "LONGi Green",
+      "tier": ""
+    },
+    {
+      "id": "first_solar",
+      "short_name": "First Solar",
+      "tier": ""
+    },
+    {
+      "id": "au_optronics",
+      "short_name": "AU Optronics",
+      "tier": ""
+    },
+    {
+      "id": "innolux",
+      "short_name": "Innolux",
+      "tier": ""
+    }
+  ]
+}
