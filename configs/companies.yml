@@ -1,0 +1,329 @@
+companies:
+- id: sibelco
+  name: SCR-Sibelco
+  aliases: []
+  ticker: SCRVP
+  market: Euronext
+  currency: EUR
+  position: upstream
+  role: 矽砂
+  description: Silica sand supplier for glass manufacturing
+  ir_url: null
+  downstream:
+  - taiwan_glass
+  - agc
+  - nsg
+  - xinyi_glass
+  - saint_gobain
+  - corning
+  - oi_glass
+  - flat_glass
+- id: tata_chemicals
+  name: Tata Chemicals
+  aliases:
+  - 塔塔化工
+  ticker: TATACHEM.NS
+  market: NSE
+  currency: INR
+  position: upstream
+  role: 純鹼
+  description: Soda ash supplier for flat glass production
+  ir_url: null
+  downstream:
+  - taiwan_glass
+  - agc
+  - nsg
+  - xinyi_glass
+  - saint_gobain
+  - oi_glass
+  - flat_glass
+- id: solvay
+  name: Solvay
+  aliases: []
+  ticker: SOLB.BR
+  market: Euronext
+  currency: EUR
+  position: upstream
+  role: 化學品
+  description: Soda ash and specialty chemicals for glass
+  ir_url: null
+  downstream:
+  - taiwan_glass
+  - agc
+  - nsg
+  - xinyi_glass
+  - saint_gobain
+  - corning
+  - oi_glass
+- id: owens_corning
+  name: Owens Corning
+  aliases: []
+  ticker: OC
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 玻璃纖維
+  description: Glass fiber for composites and insulation
+  ir_url: https://investor.owenscorning.com/
+  downstream:
+  - saint_gobain
+- id: taiwan_glass
+  name: Taiwan Glass
+  aliases:
+  - 台灣玻璃
+  - 台玻
+  ticker: 1802.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 玻璃製造
+  description: 台灣最大玻璃製造商
+  ir_url: null
+  upstream:
+  - sibelco
+  - tata_chemicals
+  - solvay
+  downstream:
+  - au_optronics
+  - innolux
+  - longi
+  - first_solar
+- id: agc
+  name: AGC Inc
+  aliases:
+  - 旭硝子
+  ticker: 5201.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 玻璃製造
+  description: 全球最大玻璃製造商之一
+  ir_url: https://www.agc.com/en/ir/
+  upstream:
+  - sibelco
+  - tata_chemicals
+  - solvay
+  downstream:
+  - au_optronics
+  - innolux
+- id: nsg
+  name: Nippon Sheet Glass
+  aliases:
+  - 日本板硝子
+  ticker: 5202.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 玻璃製造
+  description: 日本平板玻璃製造商
+  ir_url: null
+  upstream:
+  - sibelco
+  - tata_chemicals
+  - solvay
+  downstream: []
+- id: xinyi_glass
+  name: Xinyi Glass
+  aliases:
+  - 信義玻璃
+  ticker: 0868.HK
+  market: HKEX
+  currency: HKD
+  position: midstream
+  role: 玻璃製造
+  description: 中國最大浮法玻璃製造商
+  ir_url: https://www.xinyiglass.com/en/investor.php
+  upstream:
+  - sibelco
+  - tata_chemicals
+  - solvay
+  downstream: []
+- id: xinyi_solar
+  name: Xinyi Solar
+  aliases:
+  - 信義光能
+  ticker: 0968.HK
+  market: HKEX
+  currency: HKD
+  position: midstream
+  role: 光伏玻璃
+  description: 全球最大光伏玻璃製造商之一
+  ir_url: https://www.xinyisolar.com/en/investor.php
+  upstream:
+  - sibelco
+  - tata_chemicals
+  downstream:
+  - longi
+  - first_solar
+- id: fuyao
+  name: Fuyao Glass
+  aliases:
+  - 福耀玻璃
+  ticker: 3606.HK
+  market: HKEX
+  currency: HKD
+  position: midstream
+  role: 汽車玻璃
+  description: 全球最大汽車玻璃製造商
+  ir_url: https://www.fuyaogroup.com/en/investor.html
+  upstream:
+  - sibelco
+  - solvay
+  downstream: []
+- id: saint_gobain
+  name: Saint-Gobain
+  aliases:
+  - 聖戈班
+  ticker: SGO.PA
+  market: Euronext
+  currency: EUR
+  position: midstream
+  role: 玻璃製造
+  description: 全球建築玻璃與高性能材料領導者
+  ir_url: https://www.saint-gobain.com/en/investors
+  upstream:
+  - sibelco
+  - tata_chemicals
+  - solvay
+  - owens_corning
+  downstream: []
+- id: corning
+  name: Corning
+  aliases:
+  - 康寧
+  ticker: GLW
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 特種玻璃
+  description: 特種玻璃與光纖技術領導者
+  ir_url: https://investor.corning.com/
+  upstream:
+  - sibelco
+  - solvay
+  downstream:
+  - au_optronics
+  - innolux
+- id: oi_glass
+  name: O-I Glass
+  aliases: []
+  ticker: OI
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 容器玻璃
+  description: 全球最大玻璃容器製造商
+  ir_url: https://investors.o-i.com/
+  upstream:
+  - sibelco
+  - tata_chemicals
+  - solvay
+  downstream: []
+- id: flat_glass
+  name: Flat Glass Group
+  aliases:
+  - 福萊特
+  ticker: 6865.HK
+  market: HKEX
+  currency: HKD
+  position: midstream
+  role: 光伏玻璃
+  description: 中國光伏玻璃龍頭
+  ir_url: null
+  upstream:
+  - sibelco
+  - tata_chemicals
+  downstream:
+  - longi
+  - first_solar
+- id: longi
+  name: LONGi Green
+  aliases:
+  - 隆基綠能
+  ticker: 601012.SS
+  market: SSE
+  currency: CNY
+  position: downstream
+  role: 太陽能
+  description: 全球最大太陽能矽片與組件製造商
+  ir_url: null
+  upstream:
+  - taiwan_glass
+  - xinyi_solar
+  - flat_glass
+  downstream: []
+- id: first_solar
+  name: First Solar
+  aliases: []
+  ticker: FSLR
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 太陽能
+  description: 美國薄膜太陽能電池領導者
+  ir_url: https://investor.firstsolar.com/
+  upstream:
+  - taiwan_glass
+  - xinyi_solar
+  - flat_glass
+  downstream: []
+- id: au_optronics
+  name: AU Optronics
+  aliases:
+  - 友達
+  ticker: 2409.TW
+  market: TWSE
+  currency: TWD
+  position: downstream
+  role: 顯示器
+  description: 台灣面板製造商
+  ir_url: null
+  upstream:
+  - taiwan_glass
+  - agc
+  - corning
+  downstream: []
+- id: innolux
+  name: Innolux
+  aliases:
+  - 群創
+  ticker: 3481.TW
+  market: TWSE
+  currency: TWD
+  position: downstream
+  role: 顯示器
+  description: 台灣面板製造商
+  ir_url: null
+  upstream:
+  - taiwan_glass
+  - agc
+  - corning
+  downstream: []
+etfs:
+- id: mxi
+  name: iShares Global Materials ETF
+  ticker: MXI
+  market: NYSE
+  currency: USD
+  description: 全球原物料 ETF，涵蓋玻璃與化學材料
+- id: tan
+  name: Invesco Solar ETF
+  ticker: TAN
+  market: NYSE
+  currency: USD
+  description: 太陽能 ETF，涵蓋光伏玻璃下游客戶
+supply_chain_positions:
+  upstream:
+  - 矽砂
+  - 純鹼
+  - 化學品
+  - 玻璃纖維
+  midstream:
+  - 玻璃製造
+  - 光伏玻璃
+  - 汽車玻璃
+  - 特種玻璃
+  - 容器玻璃
+  downstream:
+  - 太陽能
+  - 顯示器

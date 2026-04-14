@@ -1,0 +1,141 @@
+# 玻璃供應鏈 - 主題清單
+
+topics:
+  glass_price:
+    display: 玻璃價格
+    keywords:
+    - glass price
+    - 玻璃價格
+    - 玻璃報價
+    - float glass price
+    - 浮法玻璃價格
+    - glass contract price
+    - 玻璃合約價
+    - glass spot price
+    - 玻璃現貨價
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 漲價
+      - 調漲
+      - price hike
+      - price increase
+      negative:
+      - 下跌
+      - 跌價
+      - 降價
+      - price cut
+      - price decline
+  solar_glass_demand:
+    display: 光伏玻璃需求
+    keywords:
+    - solar glass
+    - 光伏玻璃
+    - photovoltaic glass
+    - PV glass
+    - solar panel glass
+    - 太陽能玻璃
+    - solar glass demand
+    - 光伏玻璃需求
+    - solar glass capacity
+  construction_activity:
+    display: 建築活動
+    keywords:
+    - construction
+    - 建築
+    - real estate
+    - 房地產
+    - building
+    - 營建
+    - housing starts
+    - 開工
+    - property
+    - 不動產
+    - construction activity
+    - 建築活動
+  glass_fiber_electronics:
+    display: 玻纖電子
+    keywords:
+    - glass fiber
+    - 玻璃纖維
+    - 玻纖
+    - fiberglass
+    - glass fiber electronics
+    - PCB
+    - 印刷電路板
+    - composite
+    - 複合材料
+    - E-glass
+    - S-glass
+  auto_glass_trends:
+    display: 汽車玻璃趨勢
+    keywords:
+    - auto glass
+    - 汽車玻璃
+    - automotive glass
+    - 車用玻璃
+    - windshield
+    - 擋風玻璃
+    - smart glass
+    - 智慧玻璃
+    - HUD glass
+    - 抬頭顯示
+    - laminated glass
+    - 夾層玻璃
+  capacity:
+    display: 產能
+    keywords:
+    - 產能
+    - capacity
+    - 擴產
+    - expansion
+    - 月產能
+    - 產能利用率
+    - utilization
+    - production line
+    - 產線
+    - new furnace
+    - 新窯
+  earnings:
+    display: 財報
+    keywords:
+    - 財報
+    - earnings
+    - quarterly results
+    - Q1
+    - Q2
+    - Q3
+    - Q4
+    - 營收
+    - revenue
+    - profit
+    - 獲利
+    - 毛利率
+    - gross margin
+  guidance:
+    display: 展望
+    keywords:
+    - 展望
+    - guidance
+    - outlook
+    - forecast
+    - 預測
+    - 下季預估
+  capex:
+    display: 資本支出
+    keywords:
+    - capex
+    - capital expenditure
+    - 資本支出
+    - 投資
+    - 建廠
+    - 設備投資
+  inventory:
+    display: 庫存
+    keywords:
+    - 庫存
+    - inventory
+    - stock
+    - 去化
+    - destocking
+    - 庫存調整

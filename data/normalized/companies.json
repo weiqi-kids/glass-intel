@@ -1,0 +1,361 @@
+{
+  "companies": [
+    {
+      "id": "sibelco",
+      "name": "SCR-Sibelco",
+      "short_name": "SCR-Sibelco",
+      "position": "upstream",
+      "role": "矽砂",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "tata_chemicals",
+      "name": "Tata Chemicals",
+      "short_name": "塔塔化工",
+      "position": "upstream",
+      "role": "純鹼",
+      "x": 0.103,
+      "y": 0.34
+    },
+    {
+      "id": "solvay",
+      "name": "Solvay",
+      "short_name": "Solvay",
+      "position": "upstream",
+      "role": "化學品",
+      "x": 0.156,
+      "y": 0.34
+    },
+    {
+      "id": "owens_corning",
+      "name": "Owens Corning",
+      "short_name": "Owens Corning",
+      "position": "upstream",
+      "role": "玻璃纖維",
+      "x": 0.209,
+      "y": 0.34
+    },
+    {
+      "id": "taiwan_glass",
+      "name": "Taiwan Glass",
+      "short_name": "台灣玻璃",
+      "position": "midstream",
+      "role": "玻璃製造",
+      "x": 0.262,
+      "y": 0.34
+    },
+    {
+      "id": "agc",
+      "name": "AGC Inc",
+      "short_name": "旭硝子",
+      "position": "midstream",
+      "role": "玻璃製造",
+      "x": 0.315,
+      "y": 0.34
+    },
+    {
+      "id": "nsg",
+      "name": "Nippon Sheet Glass",
+      "short_name": "日本板硝子",
+      "position": "midstream",
+      "role": "玻璃製造",
+      "x": 0.368,
+      "y": 0.34
+    },
+    {
+      "id": "xinyi_glass",
+      "name": "Xinyi Glass",
+      "short_name": "信義玻璃",
+      "position": "midstream",
+      "role": "玻璃製造",
+      "x": 0.421,
+      "y": 0.34
+    },
+    {
+      "id": "xinyi_solar",
+      "name": "Xinyi Solar",
+      "short_name": "信義光能",
+      "position": "midstream",
+      "role": "光伏玻璃",
+      "x": 0.474,
+      "y": 0.34
+    },
+    {
+      "id": "fuyao",
+      "name": "Fuyao Glass",
+      "short_name": "福耀玻璃",
+      "position": "midstream",
+      "role": "汽車玻璃",
+      "x": 0.526,
+      "y": 0.34
+    },
+    {
+      "id": "saint_gobain",
+      "name": "Saint-Gobain",
+      "short_name": "聖戈班",
+      "position": "midstream",
+      "role": "玻璃製造",
+      "x": 0.579,
+      "y": 0.34
+    },
+    {
+      "id": "corning",
+      "name": "Corning",
+      "short_name": "康寧",
+      "position": "midstream",
+      "role": "特種玻璃",
+      "x": 0.632,
+      "y": 0.34
+    },
+    {
+      "id": "oi_glass",
+      "name": "O-I Glass",
+      "short_name": "O-I Glass",
+      "position": "midstream",
+      "role": "容器玻璃",
+      "x": 0.685,
+      "y": 0.34
+    },
+    {
+      "id": "flat_glass",
+      "name": "Flat Glass Group",
+      "short_name": "福萊特",
+      "position": "midstream",
+      "role": "光伏玻璃",
+      "x": 0.738,
+      "y": 0.34
+    },
+    {
+      "id": "longi",
+      "name": "LONGi Green",
+      "short_name": "隆基綠能",
+      "position": "downstream",
+      "role": "太陽能",
+      "x": 0.791,
+      "y": 0.34
+    },
+    {
+      "id": "first_solar",
+      "name": "First Solar",
+      "short_name": "First Solar",
+      "position": "downstream",
+      "role": "太陽能",
+      "x": 0.844,
+      "y": 0.34
+    },
+    {
+      "id": "au_optronics",
+      "name": "AU Optronics",
+      "short_name": "友達",
+      "position": "downstream",
+      "role": "顯示器",
+      "x": 0.897,
+      "y": 0.34
+    },
+    {
+      "id": "innolux",
+      "name": "Innolux",
+      "short_name": "群創",
+      "position": "downstream",
+      "role": "顯示器",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "sibelco",
+      "target": "taiwan_glass",
+      "strength": 2
+    },
+    {
+      "source": "sibelco",
+      "target": "agc",
+      "strength": 2
+    },
+    {
+      "source": "sibelco",
+      "target": "nsg",
+      "strength": 2
+    },
+    {
+      "source": "sibelco",
+      "target": "xinyi_glass",
+      "strength": 2
+    },
+    {
+      "source": "sibelco",
+      "target": "saint_gobain",
+      "strength": 2
+    },
+    {
+      "source": "sibelco",
+      "target": "corning",
+      "strength": 2
+    },
+    {
+      "source": "sibelco",
+      "target": "oi_glass",
+      "strength": 2
+    },
+    {
+      "source": "sibelco",
+      "target": "flat_glass",
+      "strength": 2
+    },
+    {
+      "source": "tata_chemicals",
+      "target": "taiwan_glass",
+      "strength": 2
+    },
+    {
+      "source": "tata_chemicals",
+      "target": "agc",
+      "strength": 2
+    },
+    {
+      "source": "tata_chemicals",
+      "target": "nsg",
+      "strength": 2
+    },
+    {
+      "source": "tata_chemicals",
+      "target": "xinyi_glass",
+      "strength": 2
+    },
+    {
+      "source": "tata_chemicals",
+      "target": "saint_gobain",
+      "strength": 2
+    },
+    {
+      "source": "tata_chemicals",
+      "target": "oi_glass",
+      "strength": 2
+    },
+    {
+      "source": "tata_chemicals",
+      "target": "flat_glass",
+      "strength": 2
+    },
+    {
+      "source": "solvay",
+      "target": "taiwan_glass",
+      "strength": 2
+    },
+    {
+      "source": "solvay",
+      "target": "agc",
+      "strength": 2
+    },
+    {
+      "source": "solvay",
+      "target": "nsg",
+      "strength": 2
+    },
+    {
+      "source": "solvay",
+      "target": "xinyi_glass",
+      "strength": 2
+    },
+    {
+      "source": "solvay",
+      "target": "saint_gobain",
+      "strength": 2
+    },
+    {
+      "source": "solvay",
+      "target": "corning",
+      "strength": 2
+    },
+    {
+      "source": "solvay",
+      "target": "oi_glass",
+      "strength": 2
+    },
+    {
+      "source": "owens_corning",
+      "target": "saint_gobain",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "au_optronics",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "longi",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "first_solar",
+      "strength": 2
+    },
+    {
+      "source": "agc",
+      "target": "au_optronics",
+      "strength": 2
+    },
+    {
+      "source": "agc",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "xinyi_solar",
+      "target": "longi",
+      "strength": 2
+    },
+    {
+      "source": "xinyi_solar",
+      "target": "first_solar",
+      "strength": 2
+    },
+    {
+      "source": "corning",
+      "target": "au_optronics",
+      "strength": 2
+    },
+    {
+      "source": "corning",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "flat_glass",
+      "target": "longi",
+      "strength": 2
+    },
+    {
+      "source": "flat_glass",
+      "target": "first_solar",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_mxi",
+      "name": "iShares Global Materials ETF",
+      "ticker": "MXI",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "全球原物料 ETF，涵蓋玻璃與化學材料"
+    },
+    {
+      "id": "etf_tan",
+      "name": "Invesco Solar ETF",
+      "ticker": "TAN",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "太陽能 ETF，涵蓋光伏玻璃下游客戶"
+    }
+  ]
+}
