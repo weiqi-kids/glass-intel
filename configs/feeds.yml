@@ -1,0 +1,34 @@
+# Glass industry news feeds
+feeds:
+# --- Company IR feeds ---
+- id: crh_news
+  name: CRH Corporate News
+  url: https://www.crh.com/feed/
+  description: CRH plc corporate news (building materials, glass downstream)
+
+# --- Industry media feeds ---
+- id: glassonweb
+  name: glassonweb.com
+  url: https://www.glassonweb.com/rss.xml
+  description: Glass and fenestration industry news
+
+- id: usglassmag
+  name: USGlass Magazine
+  url: https://www.usglassmag.com/feed/
+  description: US architectural glass industry news and trends
+
+- id: electrek
+  name: Electrek
+  url: https://electrek.co/feed/
+  description: Clean energy and solar industry news (solar glass downstream)
+
+# --- Google News topic feeds ---
+- id: google_glass_industry
+  name: Google News - Glass Industry
+  url: https://news.google.com/rss/search?q=glass+manufacturing+industry&hl=en-US&gl=US&ceid=US:en
+  description: Google News aggregation for glass manufacturing
+
+- id: google_solar_glass
+  name: Google News - Solar Glass
+  url: https://news.google.com/rss/search?q=solar+glass+photovoltaic+glass&hl=en-US&gl=US&ceid=US:en
+  description: Google News aggregation for solar and photovoltaic glass
