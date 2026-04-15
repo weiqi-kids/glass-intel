@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:27:22.492731+00:00",
+  "updated_at": "2026-04-15T12:01:05.451473+00:00",
   "companies": {
     "solvay": {
       "name": "Solvay",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 156672,
           "pct_held": 0.15,
-          "value": 4214476
+          "value": 4227010
         }
       ]
     },
@@ -250,13 +250,13 @@
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 22900,
           "pct_held": 0.0,
-          "value": 1760551
+          "value": 1759635
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 7238,
           "pct_held": 0.0,
-          "value": 556457
+          "value": 556167
         }
       ]
     },
