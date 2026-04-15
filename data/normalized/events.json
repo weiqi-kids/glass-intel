@@ -1,1001 +1,1641 @@
 [
   {
-    "id": "rss-12298",
-    "date": "Tue, 14 Ap",
+    "id": "rss-77436",
+    "date": "Wed, 08 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
+    "title": "Announcing Our 2025 Sustainability Performance Report",
+    "summary": "<p>A look at our operational excellence and progress Every day across CRH, we solve real‑world customer challenges &#8211; building stronger, more durable roads and resilient infrastructure that futur",
     "sources": [
       {
         "type": "news",
-        "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-        "url": "https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/",
-        "fetchedAt": "2026-04-14T22:59:37.569560Z",
-        "excerpt": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/\">The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</"
+        "title": "Announcing Our 2025 Sustainability Performance Report",
+        "url": "https://www.crh.com/media/sustainability-performance-report/",
+        "fetchedAt": "2026-04-15T09:27:14.160020Z",
+        "excerpt": "<p>A look at our operational excellence and progress Every day across CRH, we solve real‑world customer challenges &#8211; building stronger, more durable roads and resilient infrastructure that future-proofs our communities against the effects of growing populations, aging infrastructure and severe weather events. Our newly released 2025 Sustainability Performance Report, Shaping Communities for a Better Tomorrow, [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/sustainability-perfo"
       }
     ]
   },
   {
-    "id": "rss-15344",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-    "summary": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">He",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/",
-        "fetchedAt": "2026-04-14T22:59:37.569573Z",
-        "excerpt": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">Heterogeneous NPU Data Movement: What The Execution Flow Shows</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-67189",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Research Bits: Apr. 14",
-    "summary": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. ",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Research Bits: Apr. 14",
-        "url": "https://semiengineering.com/research-bits-apr-14/",
-        "fetchedAt": "2026-04-14T22:59:37.569575Z",
-        "excerpt": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-55555",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-    "summary": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated s",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/",
-        "fetchedAt": "2026-04-14T22:59:37.569577Z",
-        "excerpt": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated security assertions with LLMs.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/\">Chip Industry Technical Paper Roundup: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-77361",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-    "summary": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers",
-    "sources": [
-      {
-        "type": "news",
-        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/",
-        "fetchedAt": "2026-04-14T22:59:37.569581Z",
-        "excerpt": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers Up Again, But Numbers Are More Nuanced</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-18105",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Startup Funding: Q1 2026",
-    "summary": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Startup Funding: Q1 2026",
-        "url": "https://semiengineering.com/startup-funding-q1-2026/",
-        "fetchedAt": "2026-04-14T22:59:37.569585Z",
-        "excerpt": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-53039",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-    "summary": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitorin",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-        "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/",
-        "fetchedAt": "2026-04-14T22:59:37.569587Z",
-        "excerpt": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/\">Why Hardware Monitoring Needs Infrastructure, Not Just Sensors</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-71892",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-    "summary": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowham",
-    "sources": [
-      {
-        "type": "news",
-        "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-        "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/",
-        "fetchedAt": "2026-04-14T22:59:37.569593Z",
-        "excerpt": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowhammer attacks can move beyond data corruption to real privilege escalation. By corrupting GPU page tables, an unprivileged CUDA kernel can gain arbitrary GPU memory read/write, and then chain that capability... <a class=\"read_more\" href=\"https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-co"
-      }
-    ]
-  },
-  {
-    "id": "rss-90308",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As L",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/",
-        "fetchedAt": "2026-04-14T22:59:37.569596Z",
-        "excerpt": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As Large Language Models (LLMs) scale in size and complexity, the consequences of failures during training become increasingly severe. A major challenge arises from Silent Data Corruption (SDC): hardware-induced faults that... <a class=\"read_more\" href=\"https://semiengineering.com/silent-data-corruption"
-      }
-    ]
-  },
-  {
-    "id": "rss-64093",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-    "summary": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machi",
-    "sources": [
-      {
-        "type": "news",
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/",
-        "fetchedAt": "2026-04-14T22:59:37.569598Z",
-        "excerpt": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unlike conventional computers, which execute explicit programs, agents, which act over external execution environments, and... <a class=\"read_more\" href=\"https://semiengineering.com/an-engineering-roadmap-toward-completely"
-      }
-    ]
-  },
-  {
-    "id": "rss-57056",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-        "url": "https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears",
-        "fetchedAt": "2026-04-14T22:59:38.131352Z",
-        "excerpt": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-50504",
-    "date": "Fri, 03 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-        "fetchedAt": "2026-04-14T22:59:38.131361Z",
-        "excerpt": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-90988",
-    "date": "Sun, 22 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-    "summary": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-        "url": "https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand",
-        "fetchedAt": "2026-04-14T22:59:38.131363Z",
-        "excerpt": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as these cars are essentially AI supercomputers on wheels. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-38913",
-    "date": "Sun, 22 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-        "url": "https://www.tomshardware.com/pc-components/ram/corsairs-limited-time-memory-sale-brings-25-percent-savings-but-persistent-ddr5-price-hikes-paint-a-grim-outlook-for-buyers",
-        "fetchedAt": "2026-04-14T22:59:38.131366Z",
-        "excerpt": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-87936",
-    "date": "Wed, 18 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-    "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-        "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
-        "fetchedAt": "2026-04-14T22:59:38.131368Z",
-        "excerpt": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four to five years. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-73994",
-    "date": "Wed, 11 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-    "summary": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-        "url": "https://www.tomshardware.com/tech-industry/seagate-cco-says-memory-price-hikes-are-the-new-normal",
-        "fetchedAt": "2026-04-14T22:59:38.131370Z",
-        "excerpt": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven by AI data center demand that shows no sign of following historical patterns of recovery. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-49024",
-    "date": "Sun, 08 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-    "summary": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                          ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-        "url": "https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports",
-        "fetchedAt": "2026-04-14T22:59:38.131371Z",
-        "excerpt": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-4639",
-    "date": "Fri, 06 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-    "summary": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-        "url": "https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option",
-        "fetchedAt": "2026-04-14T22:59:38.131373Z",
-        "excerpt": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-69795",
-    "date": "Thu, 05 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-    "summary": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                             ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent",
-        "fetchedAt": "2026-04-14T22:59:38.131375Z",
-        "excerpt": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-69716",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps",
-        "fetchedAt": "2026-04-14T22:59:38.131377Z",
-        "excerpt": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-56991",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-    "summary": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-        "url": "https://www.tomshardware.com/tech-industry/2026-will-bring-sharpest-pc-declines-in-over-a-decade",
-        "fetchedAt": "2026-04-14T22:59:38.131378Z",
-        "excerpt": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-50847",
-    "date": "Mon, 02 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-    "summary": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-        "url": "https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market",
-        "fetchedAt": "2026-04-14T22:59:38.131380Z",
-        "excerpt": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-92894",
-    "date": "Sun, 22 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-    "summary": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machine",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-        "url": "https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued",
-        "fetchedAt": "2026-04-14T22:59:38.131381Z",
-        "excerpt": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-80615",
-    "date": "Mon, 16 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-    "summary": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
-        "fetchedAt": "2026-04-14T22:59:38.131383Z",
-        "excerpt": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-23715",
-    "date": "Sun, 15 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-    "summary": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks",
-        "fetchedAt": "2026-04-14T22:59:38.131384Z",
-        "excerpt": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing order lead times to more than a month. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-78561",
-    "date": "Sat, 14 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-    "summary": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-        "url": "https://www.tomshardware.com/networking/routers/isp-provided-routers-gateways-and-set-top-boxes-face-price-increases-due-to-7x-uplift-in-memory-costs-home-fiber-rollouts-may-slow-and-installations-could-become-more-expensive",
-        "fetchedAt": "2026-04-14T22:59:38.131386Z",
-        "excerpt": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-47192",
-    "date": "Fri, 13 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-    "summary": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-        "url": "https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers",
-        "fetchedAt": "2026-04-14T22:59:38.131387Z",
-        "excerpt": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible to the weighted average of its costs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-80353",
-    "date": "Wed, 11 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-    "summary": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-        "url": "https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-shorten-memory-contracts-as-pricing-power-shifts-back-to-suppliers",
-        "fetchedAt": "2026-04-14T22:59:38.131389Z",
-        "excerpt": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-30224",
-    "date": "Thu, 05 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-        "url": "https://www.tomshardware.com/pc-components/dram/leading-pc-manufacturers-considering-using-chinese-memory-chips-report-claims-hp-and-dell-qualifying-cxmt-dram-acer-and-asus-asking-chinese-partners-to-source-locally-made-memory-chips",
-        "fetchedAt": "2026-04-14T22:59:38.131391Z",
-        "excerpt": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoing memory chip shortage is forcing even big companies to look for alternative sources to Micron, Samsung, and SK hynix. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-62845",
-    "date": "Mon, 02 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-        "url": "https://www.tomshardware.com/tech-industry/ai-infrastructure-surge-begins-squeezing-apples-component-costs",
-        "fetchedAt": "2026-04-14T22:59:38.131393Z",
-        "excerpt": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leverage. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-30412",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-    "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
-    "sources": [
-      {
-        "type": "news",
-        "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
-        "fetchedAt": "2026-04-14T22:59:38.177865Z",
-        "excerpt": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All this is possible thanks to PCIe bifurcation, splitting an x16 slot into x8 for the GPU, and two x4 lanes for the SSDs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-44601",
-    "date": "Sat, 11 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-    "summary": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as medi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-        "url": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
-        "fetchedAt": "2026-04-14T22:59:38.177875Z",
-        "excerpt": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-14949",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-    "summary": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterpri",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-        "fetchedAt": "2026-04-14T22:59:38.177877Z",
-        "excerpt": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-57439",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-    "summary": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                        ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-        "url": "https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future",
-        "fetchedAt": "2026-04-14T22:59:38.177881Z",
-        "excerpt": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-15429",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-    "summary": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-        "url": "https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette",
-        "fetchedAt": "2026-04-14T22:59:38.177883Z",
-        "excerpt": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-76220",
-    "date": "Tue, 07 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-    "summary": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Ex",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-        "url": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance",
-        "fetchedAt": "2026-04-14T22:59:38.177885Z",
-        "excerpt": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-18724",
-    "date": "Mon, 06 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-    "summary": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-        "url": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
-        "fetchedAt": "2026-04-14T22:59:38.177887Z",
-        "excerpt": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-78043",
-    "date": "Sat, 04 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-    "summary": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive packa",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-        "url": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
-        "fetchedAt": "2026-04-14T22:59:38.177889Z",
-        "excerpt": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-86645",
+    "id": "rss-93509",
     "date": "Thu, 02 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-    "summary": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compe",
+    "title": "Americans Call for Better Roads & Bridges",
+    "summary": "<p>The post <a href=\"https://www.crh.com/news-and-insights/americans-call-for-better-roads-bridges/\">Americans Call for Better Roads &#038; Bridges</a> appeared first on <a href=\"https://www.crh.com\">",
     "sources": [
       {
         "type": "news",
-        "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T22:59:38.177891Z",
-        "excerpt": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package. \n                                                                                                            "
+        "title": "Americans Call for Better Roads & Bridges",
+        "url": "https://www.crh.com/news-and-insights/americans-call-for-better-roads-bridges/",
+        "fetchedAt": "2026-04-15T09:27:14.160032Z",
+        "excerpt": "<p>The post <a href=\"https://www.crh.com/news-and-insights/americans-call-for-better-roads-bridges/\">Americans Call for Better Roads &#038; Bridges</a> appeared first on <a href=\"https://www.crh.com\">CRH</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-24247",
-    "date": "Tue, 31 Ma",
+    "id": "rss-51734",
+    "date": "Tue, 24 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-    "summary": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                           ",
+    "title": "Innovating Toward Water-Resilient Communities",
+    "summary": "<p>Water is essential to life, to thriving communities and to resilient economies. Yet aging infrastructure, population growth and increasing demands are putting unprecedented pressure on how water is",
     "sources": [
       {
         "type": "news",
-        "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life",
-        "fetchedAt": "2026-04-14T22:59:38.177893Z",
-        "excerpt": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                                                                            "
+        "title": "Innovating Toward Water-Resilient Communities",
+        "url": "https://www.crh.com/media/innovating-toward-water-resilient-communities/",
+        "fetchedAt": "2026-04-15T09:27:14.160035Z",
+        "excerpt": "<p>Water is essential to life, to thriving communities and to resilient economies. Yet aging infrastructure, population growth and increasing demands are putting unprecedented pressure on how water is managed, protected and returned to the environment. We focus on smarter, more resilient water solutions that protect people and property, support economic growth, safeguard ecosystems and ensure [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/innovating-toward-water-resilient-communiti"
       }
     ]
   },
   {
-    "id": "rss-21318",
-    "date": "Tue, 31 Ma",
+    "id": "rss-1440",
+    "date": "Fri, 13 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-    "summary": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                       ",
+    "title": "CRH Announces Intention to Delist from the LSE and Cancel Preference Shares",
+    "summary": "<p>This document contains inside information NEW YORK – Mar. 13, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announces its intention to delist from the London Stock Excha",
     "sources": [
       {
         "type": "news",
-        "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-        "url": "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389",
-        "fetchedAt": "2026-04-14T22:59:38.177894Z",
-        "excerpt": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                                            "
+        "title": "CRH Announces Intention to Delist from the LSE and Cancel Preference Shares",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-announces-intention-to-delist-from-the-lse-and-cancel-preference-shares/",
+        "fetchedAt": "2026-04-15T09:27:14.160037Z",
+        "excerpt": "<p>This document contains inside information NEW YORK – Mar. 13, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announces its intention to delist from the London Stock Exchange (LSE) its ordinary shares and 7% preference shares (the “LSE Delisting”) and, subject to shareholder approval, to cancel CRH’s 5% and 7% preference [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-announces-intention-to-delist-from-the-lse-and-cancel-preferenc"
       }
     ]
   },
   {
-    "id": "rss-67248",
-    "date": "Tue, 31 Ma",
+    "id": "rss-2955",
+    "date": "Fri, 06 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-    "summary": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n          ",
+    "title": "CRH CEO Jim Mintern speaks to Bloomberg about 2025 results",
+    "summary": "<p>Jim discussed how our teams delivered another record performance last year, along with the outlook for CRH in the year ahead. Watch the full interview below.</p>\n<p>The post <a href=\"https://www.cr",
     "sources": [
       {
         "type": "news",
-        "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-        "url": "https://www.tomshardware.com/pc-components/storage/grab-an-ssd-or-hdd-upgrade-for-world-backup-day-2026-to-keep-your-files-safe-with-1tb-drives-starting-from-usd109-beat-the-ai-fueled-storage-price-hikes-with-these-savings-on-internal-and-external-drives-enclosures-and-accessories",
-        "fetchedAt": "2026-04-14T22:59:38.177896Z",
-        "excerpt": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n                                                                                                            "
+        "title": "CRH CEO Jim Mintern speaks to Bloomberg about 2025 results",
+        "url": "https://www.crh.com/news-and-insights/crh-ceo-jim-mintern-speaks-to-bloomberg-about-2025-results/",
+        "fetchedAt": "2026-04-15T09:27:14.160039Z",
+        "excerpt": "<p>Jim discussed how our teams delivered another record performance last year, along with the outlook for CRH in the year ahead. Watch the full interview below.</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/crh-ceo-jim-mintern-speaks-to-bloomberg-about-2025-results/\">CRH CEO Jim Mintern speaks to Bloomberg about 2025 results</a> appeared first on <a href=\"https://www.crh.com\">CRH</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-36609",
-    "date": "Tue, 31 Ma",
+    "id": "rss-37021",
+    "date": "Tue, 24 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-    "summary": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD",
+    "title": "Proud to Sponsor The Great American Road Trip",
+    "summary": "<p>From highways to driveways, our work enables the journeys that shape daily life across America.</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/proud-to-sponsor-the-great-american-ro",
     "sources": [
       {
         "type": "news",
-        "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-        "url": "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s",
-        "fetchedAt": "2026-04-14T22:59:38.177897Z",
-        "excerpt": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD enclosure, shaped like an old floppy disk. \n                                                                                                            "
+        "title": "Proud to Sponsor The Great American Road Trip",
+        "url": "https://www.crh.com/news-and-insights/proud-to-sponsor-the-great-american-road-trip/",
+        "fetchedAt": "2026-04-15T09:27:14.160040Z",
+        "excerpt": "<p>From highways to driveways, our work enables the journeys that shape daily life across America.</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/proud-to-sponsor-the-great-american-road-trip/\">Proud to Sponsor The Great American Road Trip</a> appeared first on <a href=\"https://www.crh.com\">CRH</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-64824",
-    "date": "Sat, 28 Ma",
+    "id": "rss-62950",
+    "date": "Wed, 18 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-    "summary": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n               ",
+    "title": "CRH Declares Quarterly Dividend",
+    "summary": "<p>NEW YORK – Feb. 18, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announced that in line with its policy of consistent long-term dividend growth, its Board of Directors ",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd",
-        "fetchedAt": "2026-04-14T22:59:38.177900Z",
-        "excerpt": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n                                                                                                            "
+        "title": "CRH Declares Quarterly Dividend",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-declares-quarterly-dividend-2/",
+        "fetchedAt": "2026-04-15T09:27:14.160042Z",
+        "excerpt": "<p>NEW YORK – Feb. 18, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announced that in line with its policy of consistent long-term dividend growth, its Board of Directors has declared a quarterly dividend of $0.39 per Ordinary Share to be paid on Apr. 8, 2026. This represents an increase of [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-declares-quarterly-dividend-2/\">CRH Declares Quarterly Dividend</a> appeared first on <a href="
       }
     ]
   },
   {
-    "id": "rss-31468",
-    "date": "Sat, 28 Ma",
+    "id": "rss-92275",
+    "date": "Wed, 18 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-    "summary": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                             ",
+    "title": "CRH Continues Share Buyback Program",
+    "summary": "<p>NEW YORK – Feb. 18, 2026 – CRH (NYSE: CRH), the leading provider of building materials, is pleased to announce that it has completed the latest phase of its share buyback program, returning a furth",
     "sources": [
       {
         "type": "news",
-        "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-        "url": "https://www.tomshardware.com/tech-industry/sony-suspends-nearly-all-memory-card-orders-in-japan",
-        "fetchedAt": "2026-04-14T22:59:38.177901Z",
-        "excerpt": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                                                                                                            "
+        "title": "CRH Continues Share Buyback Program",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-continues-share-buyback-program-6/",
+        "fetchedAt": "2026-04-15T09:27:14.160046Z",
+        "excerpt": "<p>NEW YORK – Feb. 18, 2026 – CRH (NYSE: CRH), the leading provider of building materials, is pleased to announce that it has completed the latest phase of its share buyback program, returning a further $0.3 billion of cash to shareholders. Between Nov. 6, 2025 and Feb. 17, 2026, 2.2 million ordinary shares listed on [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-continues-share-buyback-program-6/\">CRH Continues Share Buyback Program</a> appeared first on <a"
       }
     ]
   },
   {
-    "id": "rss-31903",
-    "date": "Fri, 27 Ma",
+    "id": "rss-22361",
+    "date": "Wed, 18 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "title": "CRH Reports Q4 and FY 2025 Results",
+    "summary": "<p>Strong Q4 and FY 2025; continued year‑over‑year growth in Net income (FY 25: +8%) and Adjusted EBITDA* (FY 25: +11%) Record financial performance backed by our Growth Algorithm and the CRH Winning ",
     "sources": [
       {
         "type": "news",
-        "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market",
-        "fetchedAt": "2026-04-14T22:59:38.177903Z",
-        "excerpt": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                                                                                            "
+        "title": "CRH Reports Q4 and FY 2025 Results",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-reports-q4-and-fy-2025-results/",
+        "fetchedAt": "2026-04-15T09:27:14.160049Z",
+        "excerpt": "<p>Strong Q4 and FY 2025; continued year‑over‑year growth in Net income (FY 25: +8%) and Adjusted EBITDA* (FY 25: +11%) Record financial performance backed by our Growth Algorithm and the CRH Winning Way Inclusion in the S&#38;P 500 Index, a powerful recognition of our Unmatched Scale and Market Leadership $4.1bn invested in 38 value-accretive acquisitions; [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-reports-q4-and-fy-2025-results/\">CRH Reports Q4 and FY "
       }
     ]
   },
   {
-    "id": "rss-86953",
-    "date": "Wed, 25 Ma",
+    "id": "rss-46463",
+    "date": "Wed, 11 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-    "summary": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                     ",
+    "title": "The Real Foundation of Data Centers",
+    "summary": "<p>America is in the early stages of the largest infrastructure buildout since the Interstate Highway System. </p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/the-real-foundation-of-dat",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
-        "fetchedAt": "2026-04-14T22:59:38.177905Z",
-        "excerpt": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                                                            "
+        "title": "The Real Foundation of Data Centers",
+        "url": "https://www.crh.com/news-and-insights/the-real-foundation-of-data-centers/",
+        "fetchedAt": "2026-04-15T09:27:14.160051Z",
+        "excerpt": "<p>America is in the early stages of the largest infrastructure buildout since the Interstate Highway System. </p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/the-real-foundation-of-data-centers/\">The Real Foundation of Data Centers</a> appeared first on <a href=\"https://www.crh.com\">CRH</a>.</p>\n"
       }
     ]
   },
   {
-    "id": "rss-52764",
-    "date": "Wed, 25 Ma",
+    "id": "rss-63914",
+    "date": "Thu, 05 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-    "summary": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery s",
+    "title": "CRH Announces Date for Q4 and Full Year 2025 Results Conference Call",
+    "summary": "<p>NEW YORK – Feb. 5, 2026 – CRH (NYSE: CRH), the leading provider of building materials, will publish its fourth quarter and full year 2025 financial results after market close on Wednesday, Feb. 18,",
     "sources": [
       {
         "type": "news",
-        "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T22:59:38.177906Z",
-        "excerpt": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery services, it provides extra peace of mind. \n                                                                                                            "
+        "title": "CRH Announces Date for Q4 and Full Year 2025 Results Conference Call",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-announces-date-for-q4-and-full-year-2025-results-conference-call/",
+        "fetchedAt": "2026-04-15T09:27:14.160052Z",
+        "excerpt": "<p>NEW YORK – Feb. 5, 2026 – CRH (NYSE: CRH), the leading provider of building materials, will publish its fourth quarter and full year 2025 financial results after market close on Wednesday, Feb. 18, 2026 followed by a conference call and webcast presentation at 8:00 a.m. (EST) on Thursday, Feb. 19, 2026. CRH&#8217;s results and [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/media/press-releases/2026/crh-announces-date-for-q4-and-full-year-2025-results-conference-call/\">CRH Announces Da"
       }
     ]
   },
   {
-    "id": "rss-83220",
+    "id": "rss-17373",
+    "date": "Sun, 01 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Our UNICEF Partnership: Two Years On",
+    "summary": "<p>In 2024, CRH embarked on a five-year partnership with UNICEF, committing to an investment of $15 million. The partnership focuses on vaccine procurement and delivery as well as addressing vaccine h",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Our UNICEF Partnership: Two Years On",
+        "url": "https://www.crh.com/news-and-insights/news-and-insights-3/two-years-on-protecting-children-in-partnership-with-unicef-2/",
+        "fetchedAt": "2026-04-15T09:27:14.160054Z",
+        "excerpt": "<p>In 2024, CRH embarked on a five-year partnership with UNICEF, committing to an investment of $15 million. The partnership focuses on vaccine procurement and delivery as well as addressing vaccine hesitancy through education and immunization awareness programs. Our funding is helping prevent outbreaks of deadly diseases in vulnerable communities. CRH is equipping clinics with cold [&#8230;]</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/news-and-insights-3/two-years-on-protecti"
+      }
+    ]
+  },
+  {
+    "id": "rss-75499",
+    "date": "Tue, 15 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "“Global Glass Trends” by Jorma Vitkala",
+    "summary": "&lt;span class=\"field field--name-title field--type-string field--label-hidden\"&gt;“Global Glass Trends” by Jorma Vitkala&lt;/span&gt;\n&lt;span class=\"field field--name-uid field--type-entity-referenc",
+    "sources": [
+      {
+        "type": "news",
+        "title": "“Global Glass Trends” by Jorma Vitkala",
+        "url": "http://www.glassonweb.com/article/global-glass-trends-jorma-vitkala",
+        "fetchedAt": "2026-04-15T09:27:14.537690Z",
+        "excerpt": "&lt;span class=\"field field--name-title field--type-string field--label-hidden\"&gt;“Global Glass Trends” by Jorma Vitkala&lt;/span&gt;\n&lt;span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"&gt;&lt;span&gt;Robert Miklus&lt;/span&gt;&lt;/span&gt;\n&lt;span class=\"field field--name-created field--type-created field--label-hidden\"&gt;&lt;time datetime=\"2022-02-15T22:07:37+01:00\" title=\"Tuesday, February 15, 2022 - 22:07\" class=\"datetime\"&gt;Tue, 15/02/2022 - 22:07&lt;"
+      }
+    ]
+  },
+  {
+    "id": "rss-73456",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "From Sirens to Silence",
+    "summary": "<p>The Next Wave in Acoustic Glazing by Joshua Huff The modern world is rarely quiet. Transportation, construction, entertainment and everyday activity create a constant background &#8230; </p>\n<p>The",
+    "sources": [
+      {
+        "type": "news",
+        "title": "From Sirens to Silence",
+        "url": "https://www.usglassmag.com/from-sirens-to-silence/",
+        "fetchedAt": "2026-04-15T09:27:15.001226Z",
+        "excerpt": "<p>The Next Wave in Acoustic Glazing by Joshua Huff The modern world is rarely quiet. Transportation, construction, entertainment and everyday activity create a constant background &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/from-sirens-to-silence/\">From Sirens to Silence</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-62424",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Better Together",
+    "summary": "<p>USGlass Magazine Ranks the Best Companies to Work for in the Glass and Metal Industry The strength of any company lies not just in the &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/b",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Better Together",
+        "url": "https://www.usglassmag.com/better-together/",
+        "fetchedAt": "2026-04-15T09:27:15.001237Z",
+        "excerpt": "<p>USGlass Magazine Ranks the Best Companies to Work for in the Glass and Metal Industry The strength of any company lies not just in the &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/better-together/\">Better Together</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-764",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "So Cold It’s Hot",
+    "summary": "<p>Curved Unitized Systems are Opening Doors to Bold New Façades by Ellen Rogers Glass isn’t supposed to bend. But it can, and today’s architects are &#8230; </p>\n<p>The post <a href=\"https://www.usgl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "So Cold It’s Hot",
+        "url": "https://www.usglassmag.com/so-cold-its-hot/",
+        "fetchedAt": "2026-04-15T09:27:15.001239Z",
+        "excerpt": "<p>Curved Unitized Systems are Opening Doors to Bold New Façades by Ellen Rogers Glass isn’t supposed to bend. But it can, and today’s architects are &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/so-cold-its-hot/\">So Cold It’s Hot</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-68488",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Three Days, One Big Step",
+    "summary": "<p>Glaziers Embrace Robotics in Philly By Joshua Huff For three days in July, instructors from the International Union of Painters and Allied Trades (IUPAT) Glaziers &#8230; </p>\n<p>The post <a href=\"",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Three Days, One Big Step",
+        "url": "https://www.usglassmag.com/three-days-one-big-step/",
+        "fetchedAt": "2026-04-15T09:27:15.001241Z",
+        "excerpt": "<p>Glaziers Embrace Robotics in Philly By Joshua Huff For three days in July, instructors from the International Union of Painters and Allied Trades (IUPAT) Glaziers &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/three-days-one-big-step/\">Three Days, One Big Step</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-77019",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "ASTM International Loses Appeal to Block Online Publication of Standards",
+    "summary": "<p>ASTM International’s effort to restrict public access to its standards hit another setback after the 3rd Circuit Court of Appeals upheld a lower court’s denial &#8230; </p>\n<p>The post <a href=\"htt",
+    "sources": [
+      {
+        "type": "news",
+        "title": "ASTM International Loses Appeal to Block Online Publication of Standards",
+        "url": "https://www.usglassmag.com/astm-international-loses-appeal-to-block-online-publication-of-standards/",
+        "fetchedAt": "2026-04-15T09:27:15.001243Z",
+        "excerpt": "<p>ASTM International’s effort to restrict public access to its standards hit another setback after the 3rd Circuit Court of Appeals upheld a lower court’s denial &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/astm-international-loses-appeal-to-block-online-publication-of-standards/\">ASTM International Loses Appeal to Block Online Publication of Standards</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-66584",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Float Glass from Solar Waste? NSG Group Demonstrates Feasibility in New Trial",
+    "summary": "<p>NSG Group successfully completed an experiment to manufacture float glass from cover glass recovered from end-of-life photovoltaic (PV) modules. Company officials say the test was &#8230; </p>\n<p>T",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Float Glass from Solar Waste? NSG Group Demonstrates Feasibility in New Trial",
+        "url": "https://www.usglassmag.com/float-glass-from-solar-waste-nsg-group-demonstrates-feasibility-in-new-trial/",
+        "fetchedAt": "2026-04-15T09:27:15.001245Z",
+        "excerpt": "<p>NSG Group successfully completed an experiment to manufacture float glass from cover glass recovered from end-of-life photovoltaic (PV) modules. Company officials say the test was &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/float-glass-from-solar-waste-nsg-group-demonstrates-feasibility-in-new-trial/\">Float Glass from Solar Waste? NSG Group Demonstrates Feasibility in New Trial</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</"
+      }
+    ]
+  },
+  {
+    "id": "rss-45755",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Apogee Architectural Metals Hires Mike Pedersen to Advance Design, Engineering Strategy",
+    "summary": "<p>Apogee Architectural Metals named Mike Pedersen as vice president of design and technical services. The move comes as the company continues to align its portfolio &#8230; </p>\n<p>The post <a href=\"",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Apogee Architectural Metals Hires Mike Pedersen to Advance Design, Engineering Strategy",
+        "url": "https://www.usglassmag.com/apogee-architectural-metals-hires-mike-pedersen-to-advance-design-engineering-strategy/",
+        "fetchedAt": "2026-04-15T09:27:15.001247Z",
+        "excerpt": "<p>Apogee Architectural Metals named Mike Pedersen as vice president of design and technical services. The move comes as the company continues to align its portfolio &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/apogee-architectural-metals-hires-mike-pedersen-to-advance-design-engineering-strategy/\">Apogee Architectural Metals Hires Mike Pedersen to Advance Design, Engineering Strategy</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>"
+      }
+    ]
+  },
+  {
+    "id": "rss-87232",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "JE Dunn Expands Offsite Manufacturing Capabilities with New Firm",
+    "summary": "<p>JE Dunn has launched an offsite manufacturing company that officials say allows for improved installation efficiency, enhanced project safety and quality. The general contractor unveiled &#8230; </",
+    "sources": [
+      {
+        "type": "news",
+        "title": "JE Dunn Expands Offsite Manufacturing Capabilities with New Firm",
+        "url": "https://www.usglassmag.com/je-dunn-expands-offsite-manufacturing-capabilities-with-new-firm/",
+        "fetchedAt": "2026-04-15T09:27:15.001248Z",
+        "excerpt": "<p>JE Dunn has launched an offsite manufacturing company that officials say allows for improved installation efficiency, enhanced project safety and quality. The general contractor unveiled &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/je-dunn-expands-offsite-manufacturing-capabilities-with-new-firm/\">JE Dunn Expands Offsite Manufacturing Capabilities with New Firm</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-18130",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "China Glass 2026 Brings a Focus on Green Tech and Automation",
+    "summary": "<p>China Glass 2026 ended this past weekend in Shanghai at the New International Expo Center. The international event, which tilts heavily into Chinese fabrication and &#8230; </p>\n<p>The post <a href",
+    "sources": [
+      {
+        "type": "news",
+        "title": "China Glass 2026 Brings a Focus on Green Tech and Automation",
+        "url": "https://www.usglassmag.com/china-glass-2026-brings-a-focus-on-green-tech-and-automation/",
+        "fetchedAt": "2026-04-15T09:27:15.001249Z",
+        "excerpt": "<p>China Glass 2026 ended this past weekend in Shanghai at the New International Expo Center. The international event, which tilts heavily into Chinese fabrication and &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/china-glass-2026-brings-a-focus-on-green-tech-and-automation/\">China Glass 2026 Brings a Focus on Green Tech and Automation</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-75203",
+    "date": "Thu, 09 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Price Hikes Sweep Glass and Metal Sectors Amid Global Volatility",
+    "summary": "<p>Continued economic and geopolitical volatility have pushed architectural glass and metal companies to raise prices in recent weeks. The increases come as tariffs, international conflicts &#8230; </",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Price Hikes Sweep Glass and Metal Sectors Amid Global Volatility",
+        "url": "https://www.usglassmag.com/price-hikes-sweep-glass-and-metal-sectors-amid-global-volatility/",
+        "fetchedAt": "2026-04-15T09:27:15.001251Z",
+        "excerpt": "<p>Continued economic and geopolitical volatility have pushed architectural glass and metal companies to raise prices in recent weeks. The increases come as tariffs, international conflicts &#8230; </p>\n<p>The post <a href=\"https://www.usglassmag.com/price-hikes-sweep-glass-and-metal-sectors-amid-global-volatility/\">Price Hikes Sweep Glass and Metal Sectors Amid Global Volatility</a> appeared first on <a href=\"https://www.usglassmag.com\">USGlass Magazine &amp; USGNN News</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-99503",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "SOLARAMA – big proof from Aptera and big savings for solar + EV drivers",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/03/Aptera-IPO-Solar-EV.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>On today’s solar-powered episode of <",
+    "sources": [
+      {
+        "type": "news",
+        "title": "SOLARAMA – big proof from Aptera and big savings for solar + EV drivers",
+        "url": "https://electrek.co/2026/04/14/solarama-big-proof-from-aptera-and-big-savings-for-solar-ev-drivers/",
+        "fetchedAt": "2026-04-15T09:27:15.066458Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/03/Aptera-IPO-Solar-EV.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>On today’s solar-powered episode of <a href=\"https://www.youtube.com/@ElectrekDaily\" target=\"_blank\" rel=\"noreferrer noopener\"><em>Quick Charge</em></a>, Aptera’s CEO shares more proof that his company’s solar car concept has legs, joining dozens of Electrek readers who are topping off their car (and home) batteries with the power of t"
+      }
+    ]
+  },
+  {
+    "id": "rss-52969",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Global EV sales hit 4M in Q1 2026, but growth is uneven",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/Kia-EV2-prices-Europe-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Global EV sales are still huge, ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Global EV sales hit 4M in Q1 2026, but growth is uneven",
+        "url": "https://electrek.co/2026/04/14/global-ev-sales-hit-4m-in-q1-2026-but-growth-is-uneven/",
+        "fetchedAt": "2026-04-15T09:27:15.066468Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/Kia-EV2-prices-Europe-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Global EV sales are still huge, but they’re not moving in the same direction everywhere: New data from <a href=\"https://www.benchmarkminerals.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Benchmark Mineral Intelligence</a> shows 4 million electric vehicles were sold worldwide in Q1 2026, down 3% year over year. </p>\n\n\n\n <a data-"
+      }
+    ]
+  },
+  {
+    "id": "rss-44954",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Ford CEO warns Chinese EVs would hit ‘the heart and soul’ of the US",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/Ford-Trump-Chinese-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>“We should not let them into ou",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Ford CEO warns Chinese EVs would hit ‘the heart and soul’ of the US",
+        "url": "https://electrek.co/2026/04/14/ford-ceo-chinese-evs-would-hit-heart-and-soul-of-the-us/",
+        "fetchedAt": "2026-04-15T09:27:15.066471Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/Ford-Trump-Chinese-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>“We should not let them into our country,” <a href=\"https://electrek.co/guides/ford/\">Ford’s</a> CEO Jim Farley warned during a recent interview, admitting it wouldn’t be a fair fight.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"ford\" data-layer-viewtype=\"unknown\" data-post-id=\"463512\" href=\"https://electrek.co"
+      }
+    ]
+  },
+  {
+    "id": "rss-71423",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai’s new Venus IONIQ EV looks fake after it was caught driving on public streets [Video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Hyundai-Venus-IONIQ-EV-spotted-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>After unveiling the new",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Hyundai’s new Venus IONIQ EV looks fake after it was caught driving on public streets [Video]",
+        "url": "https://electrek.co/2026/04/14/hyundais-new-venus-ioniq-ev-looks-fake-driving-in-public-video/",
+        "fetchedAt": "2026-04-15T09:27:15.066473Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Hyundai-Venus-IONIQ-EV-spotted-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>After unveiling the new Venus and Earth last week, we are already getting our first look at <a href=\"https://electrek.co/guides/hyundai/\">Hyundai’s</a> new IONIQ EV in real life.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"hyundai\" data-layer-viewtype=\"unknown\" data-post-id=\"463296\" href=\"https://electr"
+      }
+    ]
+  },
+  {
+    "id": "rss-4097",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Aptera CEO shows his solar car producing more energy than his home solar",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Aptera-solar-production-hero.png?w=1600\" /></div><p>Aptera co-CEO Steve Fambro posted a data point this morning",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Aptera CEO shows his solar car producing more energy than his home solar",
+        "url": "https://electrek.co/2026/04/14/aptera-ceo-solar-car-producing-more-energy-home-solar/",
+        "fetchedAt": "2026-04-15T09:27:15.066475Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Aptera-solar-production-hero.png?w=1600\" /></div><p>Aptera co-CEO Steve Fambro posted a data point this morning that neatly illustrates what his company has been trying to build for more than a decade: his solar electric vehicle was generating more electricity from the sun than his house was.</p>\n\n\n\n<p>Just after 8 a.m., Fambro said his home rooftop was producing 136 watts of solar power while the Aptera sit"
+      }
+    ]
+  },
+  {
+    "id": "rss-15801",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "IONNA will install hundreds of DC fast chargers at Circle Ks across America",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/ionna-circle-k.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>IONNA, the EV charging network created by ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "IONNA will install hundreds of DC fast chargers at Circle Ks across America",
+        "url": "https://electrek.co/2026/04/14/ionna-will-install-hundreds-of-dc-fast-chargers-at-circle-ks-across-america/",
+        "fetchedAt": "2026-04-15T09:27:15.066478Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/ionna-circle-k.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>IONNA, the EV charging network created by a coalition of large automakers, will install fast chargers at over 350 sites across America in partnership with convenience store chain Circle K.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"dc-charging,ionna\" data-layer-viewtype=\"unknown\" data-post-id=\"463478\" href=\"https://elect"
+      }
+    ]
+  },
+  {
+    "id": "rss-5886",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Earth Day sales on Lectric e-bikes and Jackery power stations, Heybike Villain electric dirt bike flash bundle low, EcoFlow, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lectric-Jackery-Heybike-EcoFlow-GDS-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Our Tuesday Green ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Earth Day sales on Lectric e-bikes and Jackery power stations, Heybike Villain electric dirt bike flash bundle low, EcoFlow, more",
+        "url": "https://electrek.co/2026/04/14/lectric-e-bikes-jackery-power-stations-heybike-villain-electric-dirt-bike-ecoflow-more/",
+        "fetchedAt": "2026-04-15T09:27:15.066480Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lectric-Jackery-Heybike-EcoFlow-GDS-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Our Tuesday Green Deals are jam-packed with notable sales, starting with <a href=\"https://9to5toys.com/2026/04/13/lectric-earth-day-e-bike-sale-up-to-694-savings-starting-from-799/\">Lectric’s Earth Day Sale</a> that is offering up to $694 savings on e-bike bundles <a href=\"https://9to5toys.com/2026/04/13/lectric-eart"
+      }
+    ]
+  },
+  {
+    "id": "rss-56755",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "BMW is killing off the iX in the US to make room for the first Neue Klasse EV",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/guides/bm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "BMW is killing off the iX in the US to make room for the first Neue Klasse EV",
+        "url": "https://electrek.co/2026/04/14/bmw-kills-off-ix-us-with-first-neue-klasse-ev-arriving/",
+        "fetchedAt": "2026-04-15T09:27:15.066484Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/guides/bmw/\">BMW</a> is pulling the iX from its US lineup as it prepares to launch the first Neue Klasse EV later this year, the all-new iX3.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"bmw,bmw-ix,bmw-ix3\" data-layer-viewtype=\"unknown\" data-post-id=\"463448\" href=\"https://electrek.co/2026/0"
+      }
+    ]
+  },
+  {
+    "id": "rss-79649",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Rivian partners with Tesla co-founder’s Redwood on energy storage",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Rivian-and-Redwood-Materials-partnership.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Rivian is partne",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Rivian partners with Tesla co-founder’s Redwood on energy storage",
+        "url": "https://electrek.co/2026/04/14/rivian-redwood-materials-energy-storage-partnership-illinois/",
+        "fetchedAt": "2026-04-15T09:27:15.066486Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Rivian-and-Redwood-Materials-partnership.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Rivian is partnering with Redwood Materials, the battery company founded by Tesla co-founder JB Straubel, to build a second-life battery energy storage system at its EV manufacturing plant in Normal, Illinois.</p>\n\n\n\n<p>The initial deployment will use more than 100 used Rivian battery packs stitched together into a"
+      }
+    ]
+  },
+  {
+    "id": "rss-92078",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "EV charging in 10 minutes or less? It’s happening",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/EV-charging-10-minutes-CATL-1.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>EV battery leader <a href=",
+    "sources": [
+      {
+        "type": "news",
+        "title": "EV charging in 10 minutes or less? It’s happening",
+        "url": "https://electrek.co/2026/04/14/ev-charging-10-minutes-or-less/",
+        "fetchedAt": "2026-04-15T09:27:15.066488Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/EV-charging-10-minutes-CATL-1.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>EV battery leader <a href=\"https://electrek.co/guides/catl/\">CATL</a> will challenge BYD after securing a new partnership to develop fast-charging technology that will take less than 10 minutes.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"catl,dc-fast-charging,ultra-fast-charging\" data-layer-viewtype=\"unkn"
+      }
+    ]
+  },
+  {
+    "id": "rss-65989",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Lightship to more than quadruple all-electric travel trailer production capacity in Colorado",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lightship-trailer-production-2026.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electr",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Lightship to more than quadruple all-electric travel trailer production capacity in Colorado",
+        "url": "https://electrek.co/2026/04/14/lightship-quadruples-electric-travel-trailer-production-colorado/",
+        "fetchedAt": "2026-04-15T09:27:15.066490Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lightship-trailer-production-2026.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/guides/electric-rv/\">All-electric RV</a> developer Lightship said it is significantly expanding its production footprint to “meet surging demand” for its flagship travel trailer, which will see a streamlined configuration process.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\""
+      }
+    ]
+  },
+  {
+    "id": "rss-1553",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nissan’s all-electric Juke EV is bringing a ‘disruptive’ new style [Images]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Nissan-Juke-EV-images-front.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Nissan calls it a “disruptiv",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nissan’s all-electric Juke EV is bringing a ‘disruptive’ new style [Images]",
+        "url": "https://electrek.co/2026/04/14/nissans-electric-juke-ev-debuts-disruptive-style-images/",
+        "fetchedAt": "2026-04-15T09:27:15.066492Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Nissan-Juke-EV-images-front.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Nissan calls it a “disruptive” new style. The all-electric <a href=\"https://electrek.co/guides/nissan-juke-ev/\">Nissan Juke EV</a> looks nothing like the gas-powered crossover and more like a concept.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"nissan,nissan-juke-ev\" data-layer-viewtype=\"unknown\" data-post-i"
+      }
+    ]
+  },
+  {
+    "id": "rss-60997",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Tesla FSD Europe launch backlash: HW3 owners launch claim site",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla’s long-",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Tesla FSD Europe launch backlash: HW3 owners launch claim site",
+        "url": "https://electrek.co/2026/04/14/tesla-fsd-europe-hw3-owners-dutch-claim/",
+        "fetchedAt": "2026-04-15T09:27:15.066494Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla’s long-awaited Full Self-Driving launch in Europe is already running into the same reckoning that blew up in Australia last year: HW3 owners are realizing they paid for something Tesla has now admitted it can’t deliver, and they’re starting to organize.</p>\n\n\n\n<p>A Dutch Model 3 owner who paid €6,400 for F"
+      }
+    ]
+  },
+  {
+    "id": "rss-37322",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Lucid names new CEO as it raises over $1 billion and ramps up robotaxi ambitions",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lucid-new-CEO-Robotaxi-uber.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Lucid names new CEO as it raises over $1 billion and ramps up robotaxi ambitions",
+        "url": "https://electrek.co/2026/04/14/lucid-names-new-ceo-raises-over-1-billion-ramps-robotaxi-ambitions/",
+        "fetchedAt": "2026-04-15T09:27:15.066495Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lucid-new-CEO-Robotaxi-uber.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/guides/lucid-motors/\">Lucid Motors</a> is peppering the public with press releases this morning, sharing a slew of exciting updates. In addition to naming its next CEO, Lucid has confirmed a new funding raise totaling over 1 billion dollars, consisting of a registered public offering of common stock"
+      }
+    ]
+  },
+  {
+    "id": "rss-15108",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Segway launches compact cargo e-bike with some really nice specs",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/segway-muxi-cute-girl-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Segway is expanding its",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Segway launches compact cargo e-bike with some really nice specs",
+        "url": "https://electrek.co/2026/04/14/segway-launches-compact-cargo-e-bike-with-some-really-nice-specs/",
+        "fetchedAt": "2026-04-15T09:27:15.066497Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/segway-muxi-cute-girl-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Segway is expanding its footprint in the electric bike space with the launch of its new MUXI e-bike, a model that blends urban utility with a design that feels more akin to a light electric motorcycle than a traditional bicycle. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"ebikes,segway\" data-layer-view"
+      }
+    ]
+  },
+  {
+    "id": "rss-67069",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Mercedes-Benz unveils new EQS with 926 km range, 800V charging, steer-by-wire",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Mercedes-Benz-EQS-2026-update.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Mercedes-Benz has unveiled ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Mercedes-Benz unveils new EQS with 926 km range, 800V charging, steer-by-wire",
+        "url": "https://electrek.co/2026/04/13/mercedes-benz-new-eqs-926-km-range-800v-steer-by-wire/",
+        "fetchedAt": "2026-04-15T09:27:15.066499Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Mercedes-Benz-EQS-2026-update.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Mercedes-Benz has unveiled a heavily overhauled EQS electric sedan with a WLTP range of up to 926 km (575 miles), a 13% improvement over the outgoing model. The update represents the biggest upgrade to the flagship EV since it launched in 2021.</p>\n\n\n\n<p>The new EQS gets an entirely new 800-volt electrical architecture, up to"
+      }
+    ]
+  },
+  {
+    "id": "rss-9298",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Genesis GV90 interior leaked, and it’s even more luxurious than expected [Video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/01/Genesis-GV90-tech.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>The GV90 looks like something high-ran",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Genesis GV90 interior leaked, and it’s even more luxurious than expected [Video]",
+        "url": "https://electrek.co/2026/04/13/genesis-gv90-interior-leaks-with-ultra-luxe-features-huge-screens/",
+        "fetchedAt": "2026-04-15T09:27:15.066501Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/01/Genesis-GV90-tech.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>The GV90 looks like something high-ranking government officials or celebrities ride in. <a href=\"https://electrek.co/guides/genesis/\">Genesis</a> set out to redefine luxury with the GV90, and the interior proves it. Here’s our first look.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"genesis\" data-layer-viewtype=\"unknow"
+      }
+    ]
+  },
+  {
+    "id": "rss-425",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Tesla launches Spring Update 2026 with ‘Hey Grok,’ new Self-Driving app, and more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-spring-update-2026-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla is rolling out its Sp",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Tesla launches Spring Update 2026 with ‘Hey Grok,’ new Self-Driving app, and more",
+        "url": "https://electrek.co/2026/04/13/tesla-spring-update-2026-hey-grok-self-driving-app-pet-mode/",
+        "fetchedAt": "2026-04-15T09:27:15.066503Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-spring-update-2026-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla is rolling out its Spring Update 2026 software, bringing over a dozen new features to its fleet. The highlights include a redesigned Self-Driving subscription app, voice-activated Grok, and a long-requested auto-install feature for software updates.</p>\n\n\n\n<p>The update also adds some fun touches, like a new “Cyberhog” "
+      }
+    ]
+  },
+  {
+    "id": "rss-30021",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Rivian R2 vs Tesla Model Y spotted side-by-side: Detailed size comparison",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-Y-next-to-Rivian-R2-via-Reddit.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>New photos of ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Rivian R2 vs Tesla Model Y spotted side-by-side: Detailed size comparison",
+        "url": "https://electrek.co/2026/04/13/rivian-r2-vs-tesla-model-y-size-comparison-efficiency/",
+        "fetchedAt": "2026-04-15T09:27:15.066504Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-Y-next-to-Rivian-R2-via-Reddit.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>New photos of the Rivian R2 parked next to the Tesla Model Y are making the rounds on social media, and they offer a great look at how these two critical electric SUVs actually compare in size. The R2 is shorter in length but noticeably taller, with a boxier, more rugged profile.</p>\n\n\n\n<p>We decided to dig into "
+      }
+    ]
+  },
+  {
+    "id": "rss-64162",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Kia builds the first EV3 prototypes in Mexico ahead of US sales",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-first-EV3-US.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Kia is finally bringing the affordable ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Kia builds the first EV3 prototypes in Mexico ahead of US sales",
+        "url": "https://electrek.co/2026/04/13/kia-builds-first-ev3-prototypes-mexico-ahead-of-us-sales/",
+        "fetchedAt": "2026-04-15T09:27:15.066506Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-first-EV3-US.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Kia is finally bringing the affordable electric SUV to the US later this year. The first <a href=\"https://electrek.co/guides/kia-ev3/\">EV3</a> prototypes are now rolling off the assembly line at Kia’s plant in Mexico ahead of sales.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"kia,kia-ev3\" data-layer-viewtype=\"unknown\" "
+      }
+    ]
+  },
+  {
+    "id": "rss-85877",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Shaping a Smarter, More Sustainable Future for Glass Manufacturing - Glass International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVhtSGEtTmdiZGZLUy1fY2lzQXVBeFRWOEFrLVNyWHRBNm8tMjVadGpQcFNSOEh6MTctMlVEdXNDc0dhd19sLXFjMmZqb0pXZ2dDdHZwZXpaZjhzYTZzREZGbm1RdWExUGpHbnpSM2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Shaping a Smarter, More Sustainable Future for Glass Manufacturing - Glass International",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVhtSGEtTmdiZGZLUy1fY2lzQXVBeFRWOEFrLVNyWHRBNm8tMjVadGpQcFNSOEh6MTctMlVEdXNDc0dhd19sLXFjMmZqb0pXZ2dDdHZwZXpaZjhzYTZzREZGbm1RdWExUGpHbnpSM2ZEQ2otclRYUXg2RzNGaHhBQ1FMeHhWVlh1b0wzWkNQVUM0RkdOdUd5ejlGV2g3WEVFQzNQMkFZWFlvdw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600511Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVhtSGEtTmdiZGZLUy1fY2lzQXVBeFRWOEFrLVNyWHRBNm8tMjVadGpQcFNSOEh6MTctMlVEdXNDc0dhd19sLXFjMmZqb0pXZ2dDdHZwZXpaZjhzYTZzREZGbm1RdWExUGpHbnpSM2ZEQ2otclRYUXg2RzNGaHhBQ1FMeHhWVlh1b0wzWkNQVUM0RkdOdUd5ejlGV2g3WEVFQzNQMkFZWFlvdw?oc=5\" target=\"_blank\">Shaping a Smarter, More Sustainable Future for Glass Manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Glass International</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-49078",
+    "date": "Mon, 06 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Gulf war batters India's glass heartland, testing New Delhi's manufacturing drive - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0FfbjEyeWpoQk4zSDhVYW9PMTFYRENaRlpNWWZUQUZ4TEIyN2VKcG5pM3BUNWZpVU93VlJ1bG5UUVhLSDkxY1cybGRldTh1dWFseHJfRzVyMG8yeHZmQ0pqTTI0TURtYndxdENGTE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Gulf war batters India's glass heartland, testing New Delhi's manufacturing drive - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0FfbjEyeWpoQk4zSDhVYW9PMTFYRENaRlpNWWZUQUZ4TEIyN2VKcG5pM3BUNWZpVU93VlJ1bG5UUVhLSDkxY1cybGRldTh1dWFseHJfRzVyMG8yeHZmQ0pqTTI0TURtYndxdENGTEpESXRwSEplYm9UcEJBNnFGYTdwV1E3QXRPa0gxYzczdUp3cWhEQVRFa2gtUjhhcFN0ekVpWnZZSlVtVGphd1pYZXhmMlFpRXZCeWRRTzFfTGJnS3VU?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600522Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0FfbjEyeWpoQk4zSDhVYW9PMTFYRENaRlpNWWZUQUZ4TEIyN2VKcG5pM3BUNWZpVU93VlJ1bG5UUVhLSDkxY1cybGRldTh1dWFseHJfRzVyMG8yeHZmQ0pqTTI0TURtYndxdENGTEpESXRwSEplYm9UcEJBNnFGYTdwV1E3QXRPa0gxYzczdUp3cWhEQVRFa2gtUjhhcFN0ekVpWnZZSlVtVGphd1pYZXhmMlFpRXZCeWRRTzFfTGJnS3VU?oc=5\" target=\"_blank\">Gulf war batters India's glass heartland, testing New Delhi's manufacturing drive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-10681",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar Panel Glass Recycling Breakthrough: NSG Group's Successful Manufacturing Trial - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTRQNWgySlhmZUxtNmdFTlctMW5hVUF4dks1U0YyWjJkM01FaGY2R3lrWW1Yc1dYbGZ4dEtTN1o5TGxMRmVIVWVaVXlsVjNUaUVvcWhFZUlYZHlrSlZnRHlUaHB5N2hyNlNUMkJYTn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar Panel Glass Recycling Breakthrough: NSG Group's Successful Manufacturing Trial - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTRQNWgySlhmZUxtNmdFTlctMW5hVUF4dks1U0YyWjJkM01FaGY2R3lrWW1Yc1dYbGZ4dEtTN1o5TGxMRmVIVWVaVXlsVjNUaUVvcWhFZUlYZHlrSlZnRHlUaHB5N2hyNlNUMkJYTnhnOWhDZWpMQUo4SmN0dmxQeXVWY2lZRWh5Q2FvMXIxb00wdUs3UEdZRS0xTGRpVHRVWmFR?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600524Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTRQNWgySlhmZUxtNmdFTlctMW5hVUF4dks1U0YyWjJkM01FaGY2R3lrWW1Yc1dYbGZ4dEtTN1o5TGxMRmVIVWVaVXlsVjNUaUVvcWhFZUlYZHlrSlZnRHlUaHB5N2hyNlNUMkJYTnhnOWhDZWpMQUo4SmN0dmxQeXVWY2lZRWh5Q2FvMXIxb00wdUs3UEdZRS0xTGRpVHRVWmFR?oc=5\" target=\"_blank\">Solar Panel Glass Recycling Breakthrough: NSG Group's Successful Manufacturing Trial - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-8253",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Strategic Shift in Luxury Packaging: How Sustainable Glass Manufacturing Impacts Brand Equity and Supply Chain Costs - World Business Outlook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHFFaWQ5di14b0dCckIycldUcHJaLVlLQmF6TFdGRTV2NXctb2dtQndYblg1Q1h4VnAxdFkyNVFPLXdWSDZGOVRJY25ObE53bUhmUHlUZVdfYnhpNGdIcTVtdWExaWJTOVdtdUZOTU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Strategic Shift in Luxury Packaging: How Sustainable Glass Manufacturing Impacts Brand Equity and Supply Chain Costs - World Business Outlook",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHFFaWQ5di14b0dCckIycldUcHJaLVlLQmF6TFdGRTV2NXctb2dtQndYblg1Q1h4VnAxdFkyNVFPLXdWSDZGOVRJY25ObE53bUhmUHlUZVdfYnhpNGdIcTVtdWExaWJTOVdtdUZOTU9VS2NLQkVZd2VqTFVIaEdzOUkxTVRzbzJRS3dNUjk5dmxpZnR5dGtiQUhwYkc0ZGNOQk11Z3gzTWZ1NDNNcUhsc2ZrZmJSOEUzaFh5SFpLUG1Hd0d0LXZPbG9WNjkwMTBYVVZGRXA4ckRScEhESnh1TWVhUGQ5YWtf?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600529Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHFFaWQ5di14b0dCckIycldUcHJaLVlLQmF6TFdGRTV2NXctb2dtQndYblg1Q1h4VnAxdFkyNVFPLXdWSDZGOVRJY25ObE53bUhmUHlUZVdfYnhpNGdIcTVtdWExaWJTOVdtdUZOTU9VS2NLQkVZd2VqTFVIaEdzOUkxTVRzbzJRS3dNUjk5dmxpZnR5dGtiQUhwYkc0ZGNOQk11Z3gzTWZ1NDNNcUhsc2ZrZmJSOEUzaFh5SFpLUG1Hd0d0LXZPbG9WNjkwMTBYVVZGRXA4ckRScEhESnh1TWVhUGQ5YWtf?oc=5\" target=\"_blank\">The Strategic Shift in Luxury Packaging: How Sustainable Glass Manufacturing Impacts Brand Equity and Supply Chain "
+      }
+    ]
+  },
+  {
+    "id": "rss-9734",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "NSG Group experiments with recycled solar panel glass in float-glass material mix - Solar Power World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzlka0xhNGxSS2lCWWpDTDN2ZDFORTdMQmNUR0FwTTRVZ3RZQ0ZIcGRyM3JRWWVPMTBucGdwcktWRlp1TE9vWk1UaUlZYmg2aVZHdTdaaXYxQ3ZNc3VZUW5zVEo1NWhWMnVESEVFQj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "NSG Group experiments with recycled solar panel glass in float-glass material mix - Solar Power World",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzlka0xhNGxSS2lCWWpDTDN2ZDFORTdMQmNUR0FwTTRVZ3RZQ0ZIcGRyM3JRWWVPMTBucGdwcktWRlp1TE9vWk1UaUlZYmg2aVZHdTdaaXYxQ3ZNc3VZUW5zVEo1NWhWMnVESEVFQjZxd1UwZjJyVktUZVA1Qnlacy04TTV6Z25XWkdDZFJNTjZIM2RvNFV3Z1RHZ1JZQ0pwc0RpU2dPdVZLZzJMbDdQOVpGUHo2b1ZYX3JoSG4tWWtNaUN2Tk5F?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600530Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzlka0xhNGxSS2lCWWpDTDN2ZDFORTdMQmNUR0FwTTRVZ3RZQ0ZIcGRyM3JRWWVPMTBucGdwcktWRlp1TE9vWk1UaUlZYmg2aVZHdTdaaXYxQ3ZNc3VZUW5zVEo1NWhWMnVESEVFQjZxd1UwZjJyVktUZVA1Qnlacy04TTV6Z25XWkdDZFJNTjZIM2RvNFV3Z1RHZ1JZQ0pwc0RpU2dPdVZLZzJMbDdQOVpGUHo2b1ZYX3JoSG4tWWtNaUN2Tk5F?oc=5\" target=\"_blank\">NSG Group experiments with recycled solar panel glass in float-glass material mix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power World</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-14862",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Energy shortages disrupt India’s glass industry and supply chains - Global Cosmetics News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2FMZjduTXFRa3BhSUozRkg5MWRfcG1sRmNEcDRXVjM1MUZKMVMxcDFtTkJfLTRkc3Y1YmxkcDV5N2FPVjk5ejI4VjNSc2VZMXhheElrbDFWQUlrNGRUdm5pNVRuenhvQjRNWnNIWj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Energy shortages disrupt India’s glass industry and supply chains - Global Cosmetics News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2FMZjduTXFRa3BhSUozRkg5MWRfcG1sRmNEcDRXVjM1MUZKMVMxcDFtTkJfLTRkc3Y1YmxkcDV5N2FPVjk5ejI4VjNSc2VZMXhheElrbDFWQUlrNGRUdm5pNVRuenhvQjRNWnNIWjhIUHZjaTlINWJOdzBjcnY4QmM4c1RBd0NCdFI0akxOYnM5RjZvMVhJTFRBQ09tcGtmNHlR?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600532Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2FMZjduTXFRa3BhSUozRkg5MWRfcG1sRmNEcDRXVjM1MUZKMVMxcDFtTkJfLTRkc3Y1YmxkcDV5N2FPVjk5ejI4VjNSc2VZMXhheElrbDFWQUlrNGRUdm5pNVRuenhvQjRNWnNIWjhIUHZjaTlINWJOdzBjcnY4QmM4c1RBd0NCdFI0akxOYnM5RjZvMVhJTFRBQ09tcGtmNHlR?oc=5\" target=\"_blank\">Energy shortages disrupt India’s glass industry and supply chains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Cosmetics News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-14292",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Flat Glass Group Schedules Board Meeting to Review First-Quarter 2026 Results - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUw5SlhBWHpCX2RqQmh5VjVDUTVUS2NKN0FIWnBhNGx0ZHZiUFk1dXdpMnQ3X3BRUXc0YzV2UW5jam0zam5lWmdGN3dsbDR1RVItd3FicGI5WmdxdXlXWWxWblk0NEhzSGptQjlydF",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Flat Glass Group Schedules Board Meeting to Review First-Quarter 2026 Results - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUw5SlhBWHpCX2RqQmh5VjVDUTVUS2NKN0FIWnBhNGx0ZHZiUFk1dXdpMnQ3X3BRUXc0YzV2UW5jam0zam5lWmdGN3dsbDR1RVItd3FicGI5WmdxdXlXWWxWblk0NEhzSGptQjlydFRfcnhBVG5EMWJZQk5Rc1JibTl4T2dBY2NpQ2Q5OWRlZHkydGprMmFYeUh6NzRNak1aQ0RpSDFkd3k1MU5jODVFV3hWM0Z5QUgwUC1lZDhJclZ2azdJWUYtNg?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600534Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUw5SlhBWHpCX2RqQmh5VjVDUTVUS2NKN0FIWnBhNGx0ZHZiUFk1dXdpMnQ3X3BRUXc0YzV2UW5jam0zam5lWmdGN3dsbDR1RVItd3FicGI5WmdxdXlXWWxWblk0NEhzSGptQjlydFRfcnhBVG5EMWJZQk5Rc1JibTl4T2dBY2NpQ2Q5OWRlZHkydGprMmFYeUh6NzRNak1aQ0RpSDFkd3k1MU5jODVFV3hWM0Z5QUgwUC1lZDhJclZ2azdJWUYtNg?oc=5\" target=\"_blank\">Flat Glass Group Schedules Board Meeting to Review First-Quarter 2026 Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-26646",
+    "date": "Tue, 07 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Best in Glass: From Local Roots to Global Leadership - International Finance Corporation (IFC)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE13OEJZQlhpZEhYd0U5N3hNNWI0NFRleWQzb1F3a2swS1BaN2w3WGZrZ0FBUHYzZ0NzaHRIOWJ5VkVRcXlyaVZqX0k3UGRxRHF5U3Axd0tCcGI5RzE0aXc?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Best in Glass: From Local Roots to Global Leadership - International Finance Corporation (IFC)",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13OEJZQlhpZEhYd0U5N3hNNWI0NFRleWQzb1F3a2swS1BaN2w3WGZrZ0FBUHYzZ0NzaHRIOWJ5VkVRcXlyaVZqX0k3UGRxRHF5U3Axd0tCcGI5RzE0aXc?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600535Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE13OEJZQlhpZEhYd0U5N3hNNWI0NFRleWQzb1F3a2swS1BaN2w3WGZrZ0FBUHYzZ0NzaHRIOWJ5VkVRcXlyaVZqX0k3UGRxRHF5U3Axd0tCcGI5RzE0aXc?oc=5\" target=\"_blank\">Best in Glass: From Local Roots to Global Leadership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Finance Corporation (IFC)</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-56979",
+    "date": "Tue, 17 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "BGSU Leading AI Research to Revolutionize Ohio’s Glass Manufacturing Industry | Newswise - Newswise",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnRuYW03a3lqQjhQWm5oOFFXcm1xTnBJYXBIc0pxTllLVlFuSDB4TFlReWF0cWRsSnp5NFI0Sm9lVWRHUk9fUzF4VGJPZmlJajA4VkN4R2VfR2N2aV9CLXZEeDBpbFA3ZGYxajRaSn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "BGSU Leading AI Research to Revolutionize Ohio’s Glass Manufacturing Industry | Newswise - Newswise",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnRuYW03a3lqQjhQWm5oOFFXcm1xTnBJYXBIc0pxTllLVlFuSDB4TFlReWF0cWRsSnp5NFI0Sm9lVWRHUk9fUzF4VGJPZmlJajA4VkN4R2VfR2N2aV9CLXZEeDBpbFA3ZGYxajRaSnpBV0VEMWRiZXFGRnh1X2hxcVJiWndvalZTelVPRVItbEM3YTVuY3lKczZBSGRZcndJd1UwRmw5ZTI5cGdmNm1FONIBsAFBVV95cUxPZnRuYW03a3lqQjhQWm5oOFFXcm1xTnBJYXBIc0pxTllLVlFuSDB4TFlReWF0cWRsSnp5NFI0Sm9lVWRHUk9fUzF4VGJPZmlJajA4VkN4R2VfR2N2aV9CLXZEeDBpbFA3ZGYxajRaSnpBV0VEMWRiZXFGRnh1X2hxcVJiWndvalZTelVPRVItbEM3YTVuY3lKczZBSGRZcndJd1UwRmw5ZTI5cGdmNm1FOA?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600538Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnRuYW03a3lqQjhQWm5oOFFXcm1xTnBJYXBIc0pxTllLVlFuSDB4TFlReWF0cWRsSnp5NFI0Sm9lVWRHUk9fUzF4VGJPZmlJajA4VkN4R2VfR2N2aV9CLXZEeDBpbFA3ZGYxajRaSnpBV0VEMWRiZXFGRnh1X2hxcVJiWndvalZTelVPRVItbEM3YTVuY3lKczZBSGRZcndJd1UwRmw5ZTI5cGdmNm1FONIBsAFBVV95cUxPZnRuYW03a3lqQjhQWm5oOFFXcm1xTnBJYXBIc0pxTllLVlFuSDB4TFlReWF0cWRsSnp5NFI0Sm9lVWRHUk9fUzF4VGJPZmlJajA4VkN4R2VfR2N2aV9CLXZEeDBpbFA3ZGYxajRaSnpBV0VEMWRiZXFGRnh1X2hxcVJiWndvalZTelVPRVItbEM3YTVuY3lKczZBSG"
+      }
+    ]
+  },
+  {
+    "id": "rss-47519",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Float Glass from Solar Waste? NSG Group Demonstrates Feasibility in New Trial - USGlass Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzJIRF9lcnB5YjBXbU9OQW91anFtbEh0S0pDWGlTaV8wUURyRFRJd191VVdSdkp2eFU5ckRpTVBlZ3ZaRDkxYVNiZWxnSXlXdkFwbFduZXd1SXdFTm5GYkdZMWRvYTlFa2FnTkFoSW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Float Glass from Solar Waste? NSG Group Demonstrates Feasibility in New Trial - USGlass Magazine",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzJIRF9lcnB5YjBXbU9OQW91anFtbEh0S0pDWGlTaV8wUURyRFRJd191VVdSdkp2eFU5ckRpTVBlZ3ZaRDkxYVNiZWxnSXlXdkFwbFduZXd1SXdFTm5GYkdZMWRvYTlFa2FnTkFoSWphN3VaYTkybXlGRTZJUTBMdjBQNTl3Vkl3MENMRzVFU3B4NkVvZEpQc2JvVGdGNjVDazRrR2Fpdw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600540Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzJIRF9lcnB5YjBXbU9OQW91anFtbEh0S0pDWGlTaV8wUURyRFRJd191VVdSdkp2eFU5ckRpTVBlZ3ZaRDkxYVNiZWxnSXlXdkFwbFduZXd1SXdFTm5GYkdZMWRvYTlFa2FnTkFoSWphN3VaYTkybXlGRTZJUTBMdjBQNTl3Vkl3MENMRzVFU3B4NkVvZEpQc2JvVGdGNjVDazRrR2Fpdw?oc=5\" target=\"_blank\">Float Glass from Solar Waste? NSG Group Demonstrates Feasibility in New Trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USGlass Magazine</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-87755",
+    "date": "Wed, 08 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "April 8 webinar tackles glass manufacturing challenges - The Pennsylvania State University",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0ROZHhXeHF1aFhyMkJTZUJCVEpuYkFNWk5qMVBvcUdXcklLS3hJRXVFeWlMdGg4eWZiVnNuRnhCZEVEaF9QVW5IMmNueUphN0dHN2Z6LTh1RlBIY3VlcDNoNm9wc2dxdVdpLTdvaz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "April 8 webinar tackles glass manufacturing challenges - The Pennsylvania State University",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0ROZHhXeHF1aFhyMkJTZUJCVEpuYkFNWk5qMVBvcUdXcklLS3hJRXVFeWlMdGg4eWZiVnNuRnhCZEVEaF9QVW5IMmNueUphN0dHN2Z6LTh1RlBIY3VlcDNoNm9wc2dxdVdpLTdvazluV2F1ZDVVTGU1bVNuWk9FOUxRSkp3XzJLenlPeXRsQWpXUXdZOEphYmc0VTNlOWlSWHRkRGZpTDRjUEtWd2ZfVDhPQUg?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600542Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0ROZHhXeHF1aFhyMkJTZUJCVEpuYkFNWk5qMVBvcUdXcklLS3hJRXVFeWlMdGg4eWZiVnNuRnhCZEVEaF9QVW5IMmNueUphN0dHN2Z6LTh1RlBIY3VlcDNoNm9wc2dxdVdpLTdvazluV2F1ZDVVTGU1bVNuWk9FOUxRSkp3XzJLenlPeXRsQWpXUXdZOEphYmc0VTNlOWlSWHRkRGZpTDRjUEtWd2ZfVDhPQUg?oc=5\" target=\"_blank\">April 8 webinar tackles glass manufacturing challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pennsylvania State University</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-80210",
     "date": "Mon, 23 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-    "summary": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                 ",
+    "title": "Apollo Funds Announce Strategic Investment in NSG Group, a Global Leader in Glass Manufacturing - Apollo Global Management",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXdVQ3poZF80clozVnRCOHNrcjFqVlpNRHJnejRiV3pCWk0tRklMbGJEQXBQSjktSkw5VVJ4NW9TdHRwZi1OUFJCZU01QWJOWll1S01qam93ZFJYclU5VGExOXdlU0ZPYnVrVkVQZl",
     "sources": [
       {
         "type": "news",
-        "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-        "url": "https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers",
-        "fetchedAt": "2026-04-14T22:59:38.177908Z",
-        "excerpt": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                                            "
+        "title": "Apollo Funds Announce Strategic Investment in NSG Group, a Global Leader in Glass Manufacturing - Apollo Global Management",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXdVQ3poZF80clozVnRCOHNrcjFqVlpNRHJnejRiV3pCWk0tRklMbGJEQXBQSjktSkw5VVJ4NW9TdHRwZi1OUFJCZU01QWJOWll1S01qam93ZFJYclU5VGExOXdlU0ZPYnVrVkVQZlAtSDBEMkJjUGtnNWJoN3pZOS1UQ0t0aDlCbEFITnVwSXNucXR4eDJ5TzFiTkJQZWV5M05oWWRVYWF0SnR0RHpMb1k2SmVrLVhO?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600544Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXdVQ3poZF80clozVnRCOHNrcjFqVlpNRHJnejRiV3pCWk0tRklMbGJEQXBQSjktSkw5VVJ4NW9TdHRwZi1OUFJCZU01QWJOWll1S01qam93ZFJYclU5VGExOXdlU0ZPYnVrVkVQZlAtSDBEMkJjUGtnNWJoN3pZOS1UQ0t0aDlCbEFITnVwSXNucXR4eDJ5TzFiTkJQZWV5M05oWWRVYWF0SnR0RHpMb1k2SmVrLVhO?oc=5\" target=\"_blank\">Apollo Funds Announce Strategic Investment in NSG Group, a Global Leader in Glass Manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apollo Global Management</font>"
       }
     ]
   },
   {
-    "id": "rss-88185",
-    "date": "Sun, 22 Ma",
+    "id": "rss-47685",
+    "date": "Sat, 14 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-    "summary": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                   ",
+    "title": "Bandwidth Study U.S. Glass Manufacturing - Department of Energy (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFM5alZNRFprc2hGd05yUURaS015TS1FXzhvQjhSUTVfa1IwN25zVVN6N3dmQTU1U3NXTUNBZDdoYzFTajNWdG00NmJZTzI4eXl3UHNBWk5DbXE1NUxHOU9YM01ZZ2EyRWNGUG1lTj",
     "sources": [
       {
         "type": "news",
-        "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-        "url": "https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire",
-        "fetchedAt": "2026-04-14T22:59:38.177910Z",
-        "excerpt": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                                                                            "
+        "title": "Bandwidth Study U.S. Glass Manufacturing - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFM5alZNRFprc2hGd05yUURaS015TS1FXzhvQjhSUTVfa1IwN25zVVN6N3dmQTU1U3NXTUNBZDdoYzFTajNWdG00NmJZTzI4eXl3UHNBWk5DbXE1NUxHOU9YM01ZZ2EyRWNGUG1lTjhkV2JtTHVBenlrZU9mc2lSZHZoeDAxdw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600546Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFM5alZNRFprc2hGd05yUURaS015TS1FXzhvQjhSUTVfa1IwN25zVVN6N3dmQTU1U3NXTUNBZDdoYzFTajNWdG00NmJZTzI4eXl3UHNBWk5DbXE1NUxHOU9YM01ZZ2EyRWNGUG1lTjhkV2JtTHVBenlrZU9mc2lSZHZoeDAxdw?oc=5\" target=\"_blank\">Bandwidth Study U.S. Glass Manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-49734",
+    "date": "Thu, 27 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "U.S. glass product manufacturing industry selected figures 2018-2024 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkt5SDN4QUI2bDNiSHd6NEduLVRVNTBBbFpkWkRlYWhDaVNaNlJhajRPN2JGSjRNV3B0eU5XQnZaVHRIUmhYRC1pem1GR1owTVlhN05lcnJraTM0NmdnSldTWmdnTEZYRjU2UUNKel",
+    "sources": [
+      {
+        "type": "news",
+        "title": "U.S. glass product manufacturing industry selected figures 2018-2024 - Statista",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkt5SDN4QUI2bDNiSHd6NEduLVRVNTBBbFpkWkRlYWhDaVNaNlJhajRPN2JGSjRNV3B0eU5XQnZaVHRIUmhYRC1pem1GR1owTVlhN05lcnJraTM0NmdnSldTWmdnTEZYRjU2UUNKelFVcUxWcEJQbUZjTWY4LTUwS21XeGg1c01iMUlkTTEwSnVxVjRDcTExOFFTV0l0Vll5M0E?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600547Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkt5SDN4QUI2bDNiSHd6NEduLVRVNTBBbFpkWkRlYWhDaVNaNlJhajRPN2JGSjRNV3B0eU5XQnZaVHRIUmhYRC1pem1GR1owTVlhN05lcnJraTM0NmdnSldTWmdnTEZYRjU2UUNKelFVcUxWcEJQbUZjTWY4LTUwS21XeGg1c01iMUlkTTEwSnVxVjRDcTExOFFTV0l0Vll5M0E?oc=5\" target=\"_blank\">U.S. glass product manufacturing industry selected figures 2018-2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statista</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-41898",
+    "date": "Wed, 10 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "World of Glass 2026 Report - Glass Magazine - NGA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5pQ3FrR21UQlMtamw3LWV4cGYtS2JwM1ctaUtSdktSNms1TGxraG5EbXhXN19KQnYxa05UVjQtOVpwd3hXUEdseVFKUlJuYmh5MVp0ZkYyeDYtbmUxSjhodzVRX3F2bU82VDdTUFln?o",
+    "sources": [
+      {
+        "type": "news",
+        "title": "World of Glass 2026 Report - Glass Magazine - NGA",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pQ3FrR21UQlMtamw3LWV4cGYtS2JwM1ctaUtSdktSNms1TGxraG5EbXhXN19KQnYxa05UVjQtOVpwd3hXUEdseVFKUlJuYmh5MVp0ZkYyeDYtbmUxSjhodzVRX3F2bU82VDdTUFln?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600549Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5pQ3FrR21UQlMtamw3LWV4cGYtS2JwM1ctaUtSdktSNms1TGxraG5EbXhXN19KQnYxa05UVjQtOVpwd3hXUEdseVFKUlJuYmh5MVp0ZkYyeDYtbmUxSjhodzVRX3F2bU82VDdTUFln?oc=5\" target=\"_blank\">World of Glass 2026 Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Glass Magazine - NGA</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-71775",
+    "date": "Mon, 23 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Dubai Hosts Global Glass Industry Leaders at the 3rd International Glass Manufacturing Show in April 2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUlmUFFVdE44VUpnMFBlRVlJWXNRTW5MNkZnNjgxM0dzMTJJb0gwX29FUE9kYVlNQTNnSTlsbXZYMlVKa3pfdVNIcXhhYk9TUThKM1VBaWhqUVpSRGtRQW1pT2tmY3BkLXE1UnR4dX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Dubai Hosts Global Glass Industry Leaders at the 3rd International Glass Manufacturing Show in April 2026 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUlmUFFVdE44VUpnMFBlRVlJWXNRTW5MNkZnNjgxM0dzMTJJb0gwX29FUE9kYVlNQTNnSTlsbXZYMlVKa3pfdVNIcXhhYk9TUThKM1VBaWhqUVpSRGtRQW1pT2tmY3BkLXE1UnR4dXFxX0VUcy05VjBsM0dsMk13MkhVZkJZdw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600550Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUlmUFFVdE44VUpnMFBlRVlJWXNRTW5MNkZnNjgxM0dzMTJJb0gwX29FUE9kYVlNQTNnSTlsbXZYMlVKa3pfdVNIcXhhYk9TUThKM1VBaWhqUVpSRGtRQW1pT2tmY3BkLXE1UnR4dXFxX0VUcy05VjBsM0dsMk13MkhVZkJZdw?oc=5\" target=\"_blank\">Dubai Hosts Global Glass Industry Leaders at the 3rd International Glass Manufacturing Show in April 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-28526",
+    "date": "Mon, 19 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "BGSU leading AI research to revolutionize Ohio’s glass manufacturing industry - Toledo Blade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDh2ZzVrMUtIR1hPaFpIekRBR004dlZtQmlLU2lYdEZ0dnNCUjJRdUpGRV9CUmpXR0xPbmRCMjY0WERIRDVVS2JscGpjYXdUaUt2eGdDNURlc2NGSDZDUUhYYkh5UWtLWFM5endJUm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "BGSU leading AI research to revolutionize Ohio’s glass manufacturing industry - Toledo Blade",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDh2ZzVrMUtIR1hPaFpIekRBR004dlZtQmlLU2lYdEZ0dnNCUjJRdUpGRV9CUmpXR0xPbmRCMjY0WERIRDVVS2JscGpjYXdUaUt2eGdDNURlc2NGSDZDUUhYYkh5UWtLWFM5endJUmxMNktMYmRhSHAzRlVOaHl2a0hZaDZBaWZQVFBLTzdlN3JOcXhLOVhxZkNaSGx1cVBQS1VLV3ZhWTVBZlBocWNQRDk5VEdqNERkZHY4elI1by15TVFqUzdSWElnM1pVWkEtbXZpUncxSHlDZVVP?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600552Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDh2ZzVrMUtIR1hPaFpIekRBR004dlZtQmlLU2lYdEZ0dnNCUjJRdUpGRV9CUmpXR0xPbmRCMjY0WERIRDVVS2JscGpjYXdUaUt2eGdDNURlc2NGSDZDUUhYYkh5UWtLWFM5endJUmxMNktMYmRhSHAzRlVOaHl2a0hZaDZBaWZQVFBLTzdlN3JOcXhLOVhxZkNaSGx1cVBQS1VLV3ZhWTVBZlBocWNQRDk5VEdqNERkZHY4elI1by15TVFqUzdSWElnM1pVWkEtbXZpUncxSHlDZVVP?oc=5\" target=\"_blank\">BGSU leading AI research to revolutionize Ohio’s glass manufacturing industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toledo Blade</fo"
+      }
+    ]
+  },
+  {
+    "id": "rss-95046",
+    "date": "Wed, 24 Se",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Glassmaking needs lots of heat. Can electric furnaces provide it? - Canary Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTU11elo2bi01Z2pmOUdkaTR0NVk0VVhxcWZGR3JOdnViSUhELXNteFgwLWc5MDRUVG1zZDZqNUhkaERVb3h2aGIwVGsxaWNHRVJHR0tiWFpKY3k1UkZkaUtwcEJSeGNmSHBuTEZ3Wk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Glassmaking needs lots of heat. Can electric furnaces provide it? - Canary Media",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTU11elo2bi01Z2pmOUdkaTR0NVk0VVhxcWZGR3JOdnViSUhELXNteFgwLWc5MDRUVG1zZDZqNUhkaERVb3h2aGIwVGsxaWNHRVJHR0tiWFpKY3k1UkZkaUtwcEJSeGNmSHBuTEZ3WkJGWUJUblpSTE83NHBLdC03a3MzWUZCN3liZlM0d0tGam8weXFacG9TQnpvYVQtTUFTMC1PUg?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600553Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTU11elo2bi01Z2pmOUdkaTR0NVk0VVhxcWZGR3JOdnViSUhELXNteFgwLWc5MDRUVG1zZDZqNUhkaERVb3h2aGIwVGsxaWNHRVJHR0tiWFpKY3k1UkZkaUtwcEJSeGNmSHBuTEZ3WkJGWUJUblpSTE83NHBLdC03a3MzWUZCN3liZlM0d0tGam8weXFacG9TQnpvYVQtTUFTMC1PUg?oc=5\" target=\"_blank\">Glassmaking needs lots of heat. Can electric furnaces provide it?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canary Media</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-10164",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Glass Handling Robot Market Forecast Points Higher Toward 2035, Driven by Automotive Electrification - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0VYVjJjZDVIZWJFUGdBaUNKd3NHV0pZby1XRENDQktKbEhBOUNMMTNORjdKaGFhT3ZoT2ZpMTZhV09TQ3R3alMwQUVrMjJkN2tyOXdFZVZJbGtXaXpyUzdGdkFhMFMyeEpnOG5xa0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Glass Handling Robot Market Forecast Points Higher Toward 2035, Driven by Automotive Electrification - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0VYVjJjZDVIZWJFUGdBaUNKd3NHV0pZby1XRENDQktKbEhBOUNMMTNORjdKaGFhT3ZoT2ZpMTZhV09TQ3R3alMwQUVrMjJkN2tyOXdFZVZJbGtXaXpyUzdGdkFhMFMyeEpnOG5xa0lqLXdPbHRnUXVnODBFWHQzRS05U3poZjM0dTFmTEZGTjhKZ19uSVVzdUxOMkVXa2FfbGJSQW5fT0dWS2FjdFVycTBDaHpNT1JuOEpVcWlUczdIZlg5LURaMg?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600555Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0VYVjJjZDVIZWJFUGdBaUNKd3NHV0pZby1XRENDQktKbEhBOUNMMTNORjdKaGFhT3ZoT2ZpMTZhV09TQ3R3alMwQUVrMjJkN2tyOXdFZVZJbGtXaXpyUzdGdkFhMFMyeEpnOG5xa0lqLXdPbHRnUXVnODBFWHQzRS05U3poZjM0dTFmTEZGTjhKZ19uSVVzdUxOMkVXa2FfbGJSQW5fT0dWS2FjdFVycTBDaHpNT1JuOEpVcWlUczdIZlg5LURaMg?oc=5\" target=\"_blank\">Glass Handling Robot Market Forecast Points Higher Toward 2035, Driven by Automotive Electrification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-44797",
+    "date": "Wed, 18 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "US researchers to investigate AI use in glass manufacturing - Glass International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkU1Zk04c05XblB5MmwyaWlpejE4MkFXUUhxYjA2QV9FaFZ4QmpRY01FWWhoYjdkNTFnRUNVcDZ4RU9GWG84NnhxOURRUFNsSGZmbGdiaFMzSzlKVUsyTWpQTi1mdjM0WHhxdEE5bz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "US researchers to investigate AI use in glass manufacturing - Glass International",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkU1Zk04c05XblB5MmwyaWlpejE4MkFXUUhxYjA2QV9FaFZ4QmpRY01FWWhoYjdkNTFnRUNVcDZ4RU9GWG84NnhxOURRUFNsSGZmbGdiaFMzSzlKVUsyTWpQTi1mdjM0WHhxdEE5bzQ4V0x5dE1JTVlIeXZlUVk1dklvYVAxR3Z0TF93Q1llVjgyZHphbjJGdEZENzZlWFphZnc?oc=5",
+        "fetchedAt": "2026-04-15T09:27:15.600556Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkU1Zk04c05XblB5MmwyaWlpejE4MkFXUUhxYjA2QV9FaFZ4QmpRY01FWWhoYjdkNTFnRUNVcDZ4RU9GWG84NnhxOURRUFNsSGZmbGdiaFMzSzlKVUsyTWpQTi1mdjM0WHhxdEE5bzQ4V0x5dE1JTVlIeXZlUVk1dklvYVAxR3Z0TF93Q1llVjgyZHphbjJGdEZENzZlWFphZnc?oc=5\" target=\"_blank\">US researchers to investigate AI use in glass manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Glass International</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-50158",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Porous silica-based anti-reflective coating increases PV glass optical transmission by 5.2% - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRThJaEZIMG9aazFEZ2pPSTZwTTRjeHRVdVRaVGZzQktZSlV5OXFYcGNsV1prNENMams4VHI5VmU0di0tOU1USDdhUEpaT3htY2RCWi1SWXV0alRveWRsaXNMZjIxSVZlWlhyOUJKQV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Porous silica-based anti-reflective coating increases PV glass optical transmission by 5.2% - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRThJaEZIMG9aazFEZ2pPSTZwTTRjeHRVdVRaVGZzQktZSlV5OXFYcGNsV1prNENMams4VHI5VmU0di0tOU1USDdhUEpaT3htY2RCWi1SWXV0alRveWRsaXNMZjIxSVZlWlhyOUJKQVBHUUFSeDA0bTltNlIzS0dRSkltaUZZdDNrb2ZVU1ZnTm9NTGhQUkszQVBObFM2cUd1ck91VzRUeU1xNXEtVzEyVDQ5bEd3RjJMV051alVtZUd0T1QybDhwcVN3?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105275Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRThJaEZIMG9aazFEZ2pPSTZwTTRjeHRVdVRaVGZzQktZSlV5OXFYcGNsV1prNENMams4VHI5VmU0di0tOU1USDdhUEpaT3htY2RCWi1SWXV0alRveWRsaXNMZjIxSVZlWlhyOUJKQVBHUUFSeDA0bTltNlIzS0dRSkltaUZZdDNrb2ZVU1ZnTm9NTGhQUkszQVBObFM2cUd1ck91VzRUeU1xNXEtVzEyVDQ5bEd3RjJMV051alVtZUd0T1QybDhwcVN3?oc=5\" target=\"_blank\">Porous silica-based anti-reflective coating increases PV glass optical transmission by 5.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International<"
+      }
+    ]
+  },
+  {
+    "id": "rss-1487",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar PV Glass Market Size to Hit USD 140.62 Billion by 2035 | Research by SNS Insider - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3pfRnE1alM0bkFfdXJtdDBuUUxxMjQxY2ZxX01zWnl6NWVEWTBqYk1wTzZpMTl5ODNHb2J0aFZuVWFPZTdmNlMzVVJlenhZYTJYaWowMFh2VGhQN2Y5Q09sdkEyNEw5V2huTlNHMm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar PV Glass Market Size to Hit USD 140.62 Billion by 2035 | Research by SNS Insider - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3pfRnE1alM0bkFfdXJtdDBuUUxxMjQxY2ZxX01zWnl6NWVEWTBqYk1wTzZpMTl5ODNHb2J0aFZuVWFPZTdmNlMzVVJlenhZYTJYaWowMFh2VGhQN2Y5Q09sdkEyNEw5V2huTlNHMm9oNjJrY0pSRkMyTl8zMG1hWA?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105286Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3pfRnE1alM0bkFfdXJtdDBuUUxxMjQxY2ZxX01zWnl6NWVEWTBqYk1wTzZpMTl5ODNHb2J0aFZuVWFPZTdmNlMzVVJlenhZYTJYaWowMFh2VGhQN2Y5Q09sdkEyNEw5V2huTlNHMm9oNjJrY0pSRkMyTl8zMG1hWA?oc=5\" target=\"_blank\">Solar PV Glass Market Size to Hit USD 140.62 Billion by 2035 | Research by SNS Insider</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-42494",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Global Ultra-clear Photovoltaic Glass Market Size, ESG - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDRZeU9xUEpEWEI0Q1ExeFppUDgzYXU1XzNOUWpwRHFpa095T0RXVFphY2Y0OFlZTkJ4RXd0WVlpUjZ1WGlILXE1T0h6TnhCMmFNeEQ5VkcyR3Iwa1Rldy11RmlMOTVkc2FUcjRvb1",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Global Ultra-clear Photovoltaic Glass Market Size, ESG - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDRZeU9xUEpEWEI0Q1ExeFppUDgzYXU1XzNOUWpwRHFpa095T0RXVFphY2Y0OFlZTkJ4RXd0WVlpUjZ1WGlILXE1T0h6TnhCMmFNeEQ5VkcyR3Iwa1Rldy11RmlMOTVkc2FUcjRvb1BTbW9yWmozVzBPV3VoQWhpVzdzYzZYT0w0TVMtQ1VVTnBvUGs?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105290Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDRZeU9xUEpEWEI0Q1ExeFppUDgzYXU1XzNOUWpwRHFpa095T0RXVFphY2Y0OFlZTkJ4RXd0WVlpUjZ1WGlILXE1T0h6TnhCMmFNeEQ5VkcyR3Iwa1Rldy11RmlMOTVkc2FUcjRvb1BTbW9yWmozVzBPV3VoQWhpVzdzYzZYT0w0TVMtQ1VVTnBvUGs?oc=5\" target=\"_blank\">Global Ultra-clear Photovoltaic Glass Market Size, ESG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-74668",
+    "date": "Sat, 28 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar Glass Market Analysis 2026-2035: Growth Trajectory and Key Drivers - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGIwSHpKOEx2Rm84OFF4ZWx1ZkRTTWxBWXFWX3pWSkxmTmZvbk9RcG1DWlZhaEtoTlhDMHB6V1dMeHRvU2NfNVM0LTVlc2k1N2ppeVprbEdnajF4bzVsZ1JMN1hUVUM4TTFmTk1kN2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar Glass Market Analysis 2026-2035: Growth Trajectory and Key Drivers - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGIwSHpKOEx2Rm84OFF4ZWx1ZkRTTWxBWXFWX3pWSkxmTmZvbk9RcG1DWlZhaEtoTlhDMHB6V1dMeHRvU2NfNVM0LTVlc2k1N2ppeVprbEdnajF4bzVsZ1JMN1hUVUM4TTFmTk1kN2lwUFl5OHdFTGtFX1drNFFqTzJXbUhUcnZLSWtKcHFFUWM0Q2dCVFh4ZERvQVhYdEFsdWQyMzRZdw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105291Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGIwSHpKOEx2Rm84OFF4ZWx1ZkRTTWxBWXFWX3pWSkxmTmZvbk9RcG1DWlZhaEtoTlhDMHB6V1dMeHRvU2NfNVM0LTVlc2k1N2ppeVprbEdnajF4bzVsZ1JMN1hUVUM4TTFmTk1kN2lwUFl5OHdFTGtFX1drNFFqTzJXbUhUcnZLSWtKcHFFUWM0Q2dCVFh4ZERvQVhYdEFsdWQyMzRZdw?oc=5\" target=\"_blank\">Solar Glass Market Analysis 2026-2035: Growth Trajectory and Key Drivers - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-40565",
+    "date": "Thu, 26 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Şişecam Participates in Solarex Fair - glassonweb.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1qMlZneDhpZGIxeUxLNUZ6ejFBR0tab3ByNUVGVmxrc3pvLWh4ZWZTTXFiRnJMd05WY3pYRGhKb0h2VXFWdmVla3BGbFV1UTNxbUxCY3NYMjh2VlRSczl4SC1halpFUVB4MXJ6MDYwYk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Şişecam Participates in Solarex Fair - glassonweb.com",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qMlZneDhpZGIxeUxLNUZ6ejFBR0tab3ByNUVGVmxrc3pvLWh4ZWZTTXFiRnJMd05WY3pYRGhKb0h2VXFWdmVla3BGbFV1UTNxbUxCY3NYMjh2VlRSczl4SC1halpFUVB4MXJ6MDYwYk52QQ?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105294Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1qMlZneDhpZGIxeUxLNUZ6ejFBR0tab3ByNUVGVmxrc3pvLWh4ZWZTTXFiRnJMd05WY3pYRGhKb0h2VXFWdmVla3BGbFV1UTNxbUxCY3NYMjh2VlRSczl4SC1halpFUVB4MXJ6MDYwYk52QQ?oc=5\" target=\"_blank\">Şişecam Participates in Solarex Fair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">glassonweb.com</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-80831",
+    "date": "Mon, 11 Au",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Illuminate USA to acquire US-made solar glass from Solarcycle - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjZISWVDSVB6TEtOSEJndFpRNHpoc0d0a0t6NzR6SzIxcGJ1MlRicl8ycVgwYXdxNElSV0Q0QTVadjdjcjgxeU9mMHFuNDhwVWlURjhIZnYtM0xRbmsyYTBkTUpTVjRSMm1nSFc4OV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Illuminate USA to acquire US-made solar glass from Solarcycle - PV Tech",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjZISWVDSVB6TEtOSEJndFpRNHpoc0d0a0t6NzR6SzIxcGJ1MlRicl8ycVgwYXdxNElSV0Q0QTVadjdjcjgxeU9mMHFuNDhwVWlURjhIZnYtM0xRbmsyYTBkTUpTVjRSMm1nSFc4OVUwQzNXRTlydGtFSndtMHRBUFVvMjM?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105295Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjZISWVDSVB6TEtOSEJndFpRNHpoc0d0a0t6NzR6SzIxcGJ1MlRicl8ycVgwYXdxNElSV0Q0QTVadjdjcjgxeU9mMHFuNDhwVWlURjhIZnYtM0xRbmsyYTBkTUpTVjRSMm1nSFc4OVUwQzNXRTlydGtFSndtMHRBUFVvMjM?oc=5\" target=\"_blank\">Illuminate USA to acquire US-made solar glass from Solarcycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PV Tech</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-71859",
+    "date": "Thu, 11 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Dark Side of Solar Glass: Antimony, Geopolitics and the Energy Transition - InvestorNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUhMU1ExdzVCdkFDUEJXSFNrbGZDV0YwUEg1UjY5M1IxNk0zdXVLUVRMdmFOQndMRl9ZRkx1dDhwTk1fYVBIOUpmMFNDZGRvallwczIxRlJhRGI1dDJIX0FCc1ZJZXVCeXgwZlpkOW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Dark Side of Solar Glass: Antimony, Geopolitics and the Energy Transition - InvestorNews",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUhMU1ExdzVCdkFDUEJXSFNrbGZDV0YwUEg1UjY5M1IxNk0zdXVLUVRMdmFOQndMRl9ZRkx1dDhwTk1fYVBIOUpmMFNDZGRvallwczIxRlJhRGI1dDJIX0FCc1ZJZXVCeXgwZlpkOWFLZVg2OFV6RndCMFhqdE9GSmVDeEFrZ2c5WWoweUdrTjgzOHVLWE9aSVBTSlk4SDlmdW9McjBmd3VSYnVFOHkwZDVUMExBTnc?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105297Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUhMU1ExdzVCdkFDUEJXSFNrbGZDV0YwUEg1UjY5M1IxNk0zdXVLUVRMdmFOQndMRl9ZRkx1dDhwTk1fYVBIOUpmMFNDZGRvallwczIxRlJhRGI1dDJIX0FCc1ZJZXVCeXgwZlpkOWFLZVg2OFV6RndCMFhqdE9GSmVDeEFrZ2c5WWoweUdrTjgzOHVLWE9aSVBTSlk4SDlmdW9McjBmd3VSYnVFOHkwZDVUMExBTnc?oc=5\" target=\"_blank\">The Dark Side of Solar Glass: Antimony, Geopolitics and the Energy Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestorNews</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-70603",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "US-Iran ceasefire! Photovoltaic upstream material price differentiation, photovoltaic glass is still under pressure. - Solarbe Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmluTGh4S3M0NW9uNVB1WTNtUUlnUWNIaGp5Q0stMTEwV19BN2lWemQzQk0td0NJWjFCWTIwM0xNdWNZMnNpMjhjQUNMNFJzT3hEZXBBdjY1cWg5U1ROcGJWNmluMlVFU2VHQVVUV3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "US-Iran ceasefire! Photovoltaic upstream material price differentiation, photovoltaic glass is still under pressure. - Solarbe Global",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmluTGh4S3M0NW9uNVB1WTNtUUlnUWNIaGp5Q0stMTEwV19BN2lWemQzQk0td0NJWjFCWTIwM0xNdWNZMnNpMjhjQUNMNFJzT3hEZXBBdjY1cWg5U1ROcGJWNmluMlVFU2VHQVVUV3lhZF93QjJGZkk3d1pSbXpzOEh4a0tyNnFRdkNZX2NwbFc5amo4X1FJUDFqRlVqY3BVM25fQXlaUjFkdzNpcXRrUnpqVEpKS2c5NVpMczAwNEZyN283cFpGOXhHOVN6TUxpSGFTRVdQa3gtdG9I?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105299Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmluTGh4S3M0NW9uNVB1WTNtUUlnUWNIaGp5Q0stMTEwV19BN2lWemQzQk0td0NJWjFCWTIwM0xNdWNZMnNpMjhjQUNMNFJzT3hEZXBBdjY1cWg5U1ROcGJWNmluMlVFU2VHQVVUV3lhZF93QjJGZkk3d1pSbXpzOEh4a0tyNnFRdkNZX2NwbFc5amo4X1FJUDFqRlVqY3BVM25fQXlaUjFkdzNpcXRrUnpqVEpKS2c5NVpMczAwNEZyN283cFpGOXhHOVN6TUxpSGFTRVdQa3gtdG9I?oc=5\" target=\"_blank\">US-Iran ceasefire! Photovoltaic upstream material price differentiation, photovoltaic glass is still under pressure.</a>&nbsp;&nbsp"
+      }
+    ]
+  },
+  {
+    "id": "rss-72340",
+    "date": "Sat, 10 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Separate silicon cells from end-of-life bifacial glass photovoltaic modules using continuous lasers - Nature",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsTFRnMExqYWpBaFhnQjdxb3hpd3lpcmVESG5QbnMwXzlNMURNZ21oc2RxQWVCUlJoSGpBNDh2ZGR3RDFidlY2a0duS2wwRVBDR3ZHektzQzBWelFVNXVJ?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Separate silicon cells from end-of-life bifacial glass photovoltaic modules using continuous lasers - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsTFRnMExqYWpBaFhnQjdxb3hpd3lpcmVESG5QbnMwXzlNMURNZ21oc2RxQWVCUlJoSGpBNDh2ZGR3RDFidlY2a0duS2wwRVBDR3ZHektzQzBWelFVNXVJ?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105300Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsTFRnMExqYWpBaFhnQjdxb3hpd3lpcmVESG5QbnMwXzlNMURNZ21oc2RxQWVCUlJoSGpBNDh2ZGR3RDFidlY2a0duS2wwRVBDR3ZHektzQzBWelFVNXVJ?oc=5\" target=\"_blank\">Separate silicon cells from end-of-life bifacial glass photovoltaic modules using continuous lasers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-11293",
+    "date": "Tue, 07 Oc",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "New Solar Glass Cranks Up Lettuce Crop Yields By Almost 40% - CleanTechnica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVEwT1ZSYzZ5U0FfYUFZVjlEX28yMTI0WXVnZUVhZklfRXpYNkZtWGtjWXd0aldfQlAyaXZIQklGNjljS1E1azZiQnRIOWxqaWlYYUtJU3FRNzg3WVhWS01VR2JZbHhMTkt3dHlYaF",
+    "sources": [
+      {
+        "type": "news",
+        "title": "New Solar Glass Cranks Up Lettuce Crop Yields By Almost 40% - CleanTechnica",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVEwT1ZSYzZ5U0FfYUFZVjlEX28yMTI0WXVnZUVhZklfRXpYNkZtWGtjWXd0aldfQlAyaXZIQklGNjljS1E1azZiQnRIOWxqaWlYYUtJU3FRNzg3WVhWS01VR2JZbHhMTkt3dHlYaFVEa2VCbE5pdTBKQkZZcUI1UkpDd2FDN0czdHZSeFJRd3NWem1ZMjVsV0pUbkbSAaIBQVVfeXFMT2RjdVREMlZzamd3dlQ5eTE0M083dmh1TmJoa1hvdW5MT0x1NWZ5RmpDVHlGRFFsMjVuaGh3NDNiYWNhdWducFlGdDI5eFktOUFVd1VtWVNhaC1tLWFtTVNoUmg3Wm9Zc181dzJEWDBMOVJCaDdfSzFlYTJsSDN6WlpSbWVOUU9hYUxnRXVMeExCMVNlVnlTN0h4WTNnUEdnMUdn?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105313Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVEwT1ZSYzZ5U0FfYUFZVjlEX28yMTI0WXVnZUVhZklfRXpYNkZtWGtjWXd0aldfQlAyaXZIQklGNjljS1E1azZiQnRIOWxqaWlYYUtJU3FRNzg3WVhWS01VR2JZbHhMTkt3dHlYaFVEa2VCbE5pdTBKQkZZcUI1UkpDd2FDN0czdHZSeFJRd3NWem1ZMjVsV0pUbkbSAaIBQVVfeXFMT2RjdVREMlZzamd3dlQ5eTE0M083dmh1TmJoa1hvdW5MT0x1NWZ5RmpDVHlGRFFsMjVuaGh3NDNiYWNhdWducFlGdDI5eFktOUFVd1VtWVNhaC1tLWFtTVNoUmg3Wm9Zc181dzJEWDBMOVJCaDdfSzFlYTJsSDN6WlpSbWVOUU9hYUxnRXVMeExCMVNlVnlTN0h4WTNnUEdnMUdn?oc=5\" target=\"_bl"
+      }
+    ]
+  },
+  {
+    "id": "rss-56376",
+    "date": "Wed, 07 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar Photovoltaic Glass Market Size, Demand, Opportunities And Growth to 2033 - Straits Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBIb0V0VWUzVVA5RUtMci1MY1RyYzRkczR6NUdDMnB5UGdHX0YwTGNlWm9zekJIVXBPY2FMZEo1YndjVk9taWVzakVEWTdZYzU4RzNQUWxoMnROczBraTB3aFpad0MyMUNjU0RoeUVpb3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar Photovoltaic Glass Market Size, Demand, Opportunities And Growth to 2033 - Straits Research",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIb0V0VWUzVVA5RUtMci1MY1RyYzRkczR6NUdDMnB5UGdHX0YwTGNlWm9zekJIVXBPY2FMZEo1YndjVk9taWVzakVEWTdZYzU4RzNQUWxoMnROczBraTB3aFpad0MyMUNjU0RoeUVpb3BXNTZh?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105315Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBIb0V0VWUzVVA5RUtMci1MY1RyYzRkczR6NUdDMnB5UGdHX0YwTGNlWm9zekJIVXBPY2FMZEo1YndjVk9taWVzakVEWTdZYzU4RzNQUWxoMnROczBraTB3aFpad0MyMUNjU0RoeUVpb3BXNTZh?oc=5\" target=\"_blank\">Solar Photovoltaic Glass Market Size, Demand, Opportunities And Growth to 2033</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Straits Research</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-26733",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings Ltd stock (HK0968003713): Is its solar glass dominance strong enough for U.S. i - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPOUJQT1VkaERtSnZPQWJTbnFvcGd2ejdPdzlmZllmMTRqLS01QlBIX1doQXhJSFJTRVlKVDRLa0NGNml6THVtZmN3WmtsbTBfa1Z0N1llRGtfTVpaeldDYk9nSm1iT3JQSDlqRF9CbG",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Xinyi Solar Holdings Ltd stock (HK0968003713): Is its solar glass dominance strong enough for U.S. i - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOUJQT1VkaERtSnZPQWJTbnFvcGd2ejdPdzlmZllmMTRqLS01QlBIX1doQXhJSFJTRVlKVDRLa0NGNml6THVtZmN3WmtsbTBfa1Z0N1llRGtfTVpaeldDYk9nSm1iT3JQSDlqRF9CbGtGeVVUUF9sQlNmcHAwUFFxRHotcVpfX01BS3NwUHJuTkMwUFpraTV4Wl9RQTF0N0FETjkwWFhWbTN2UzhKZzBhM3pNYXFTSzg?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105316Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPOUJQT1VkaERtSnZPQWJTbnFvcGd2ejdPdzlmZllmMTRqLS01QlBIX1doQXhJSFJTRVlKVDRLa0NGNml6THVtZmN3WmtsbTBfa1Z0N1llRGtfTVpaeldDYk9nSm1iT3JQSDlqRF9CbGtGeVVUUF9sQlNmcHAwUFFxRHotcVpfX01BS3NwUHJuTkMwUFpraTV4Wl9RQTF0N0FETjkwWFhWbTN2UzhKZzBhM3pNYXFTSzg?oc=5\" target=\"_blank\">Xinyi Solar Holdings Ltd stock (HK0968003713): Is its solar glass dominance strong enough for U.S. i</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-25391",
+    "date": "Mon, 04 Au",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "How to mitigate solar glass breakage - pv magazine USA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOREdqc1ZTOS1NdDZGMUJpLTBWTHZiMjU1b1R4M1ctdTZYOTNUYzF0N25BRTBuQTBETEQyWGg1bGZpMFZaSkdvbURZUXdSU0FsT0s5NkxUOWpBNERCaVBveldNeHY5OHVBeVFLOUkxd3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "How to mitigate solar glass breakage - pv magazine USA",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOREdqc1ZTOS1NdDZGMUJpLTBWTHZiMjU1b1R4M1ctdTZYOTNUYzF0N25BRTBuQTBETEQyWGg1bGZpMFZaSkdvbURZUXdSU0FsT0s5NkxUOWpBNERCaVBveldNeHY5OHVBeVFLOUkxd3M4SHFfQ0s2UHRRcHRwY05OX29B?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105318Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOREdqc1ZTOS1NdDZGMUJpLTBWTHZiMjU1b1R4M1ctdTZYOTNUYzF0N25BRTBuQTBETEQyWGg1bGZpMFZaSkdvbURZUXdSU0FsT0s5NkxUOWpBNERCaVBveldNeHY5OHVBeVFLOUkxd3M4SHFfQ0s2UHRRcHRwY05OX29B?oc=5\" target=\"_blank\">How to mitigate solar glass breakage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine USA</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-31908",
+    "date": "Thu, 02 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar Photovoltaic Glass Market to Reach USD 72.4 Billion by 2032, Says Stratview Research - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGFRYVJBRGtQNWpsNEl5UFhqSUJaUVRvNnpBNmhEWVZvbngyYkhiaWJXTE5rZnpUTXJiU1BGa0ttTzBoa212bmdoY28zRnJoQWUzSFp0UHdvUFRidENRdzh1TGd5SWJPR05RTTZJTV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar Photovoltaic Glass Market to Reach USD 72.4 Billion by 2032, Says Stratview Research - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGFRYVJBRGtQNWpsNEl5UFhqSUJaUVRvNnpBNmhEWVZvbngyYkhiaWJXTE5rZnpUTXJiU1BGa0ttTzBoa212bmdoY28zRnJoQWUzSFp0UHdvUFRidENRdzh1TGd5SWJPR05RTTZJTV9TXzFaSmlwZm9iam5XRWVwVzA0bDVaSWxBeEZlSTB5VmlXVVNFZlVJaw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105319Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGFRYVJBRGtQNWpsNEl5UFhqSUJaUVRvNnpBNmhEWVZvbngyYkhiaWJXTE5rZnpUTXJiU1BGa0ttTzBoa212bmdoY28zRnJoQWUzSFp0UHdvUFRidENRdzh1TGd5SWJPR05RTTZJTV9TXzFaSmlwZm9iam5XRWVwVzA0bDVaSWxBeEZlSTB5VmlXVVNFZlVJaw?oc=5\" target=\"_blank\">Solar Photovoltaic Glass Market to Reach USD 72.4 Billion by 2032, Says Stratview Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-56404",
+    "date": "Mon, 09 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar Windows Market Analysis: Demand to Accelerate by 2035 Amid Net-Zero Construction Push - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPeG1CSXhwM0ozN181aEdZWEdkZi0wMHo0c2RNaDBISXh2bVRrazNxWDUxSVZTN1BETTdacUNFVG5VM2VhWWZIai1IWXFSek1ZWUxtdXo2Tnl1TWkwemt3TGxWWDktZW5LcmlGam1yUW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar Windows Market Analysis: Demand to Accelerate by 2035 Amid Net-Zero Construction Push - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeG1CSXhwM0ozN181aEdZWEdkZi0wMHo0c2RNaDBISXh2bVRrazNxWDUxSVZTN1BETTdacUNFVG5VM2VhWWZIai1IWXFSek1ZWUxtdXo2Tnl1TWkwemt3TGxWWDktZW5LcmlGam1yUWY4cGJPbEpYQWJMLVEtQW1wWVBXWlhGQ2xGMENlcDV2LWtjdHNTT1hRV1JCMHFQV0J4TDk2R2hLa05CMTUyNTJGWmJsVUFtTUE?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105321Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPeG1CSXhwM0ozN181aEdZWEdkZi0wMHo0c2RNaDBISXh2bVRrazNxWDUxSVZTN1BETTdacUNFVG5VM2VhWWZIai1IWXFSek1ZWUxtdXo2Tnl1TWkwemt3TGxWWDktZW5LcmlGam1yUWY4cGJPbEpYQWJMLVEtQW1wWVBXWlhGQ2xGMENlcDV2LWtjdHNTT1hRV1JCMHFQV0J4TDk2R2hLa05CMTUyNTJGWmJsVUFtTUE?oc=5\" target=\"_blank\">Solar Windows Market Analysis: Demand to Accelerate by 2035 Amid Net-Zero Construction Push - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-90164",
+    "date": "Mon, 08 Se",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Investigating solar glass quality for recycling in new glass products - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRk90SFNVZGJYcko2YzR6NUdsWERlaU1FdHFnaTRMV2gwbktZYVlOdTF3aVlES0dtSENYUDNPVWt4SUg0UVduQW9pQWJpb1FIblpCbGpBcnpSNm11X1FjTU8tQkpXU29lZ3hXakxheV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Investigating solar glass quality for recycling in new glass products - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRk90SFNVZGJYcko2YzR6NUdsWERlaU1FdHFnaTRMV2gwbktZYVlOdTF3aVlES0dtSENYUDNPVWt4SUg0UVduQW9pQWJpb1FIblpCbGpBcnpSNm11X1FjTU8tQkpXU29lZ3hXakxheVh2LVd6bHhJdHllbzdTLXAwbGV3TXpLTTVFZEFMeWY3WjNPajJoeGZiTV9vTjA0RzJfbmtjMUk4TmJQN21EV0E?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105322Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRk90SFNVZGJYcko2YzR6NUdsWERlaU1FdHFnaTRMV2gwbktZYVlOdTF3aVlES0dtSENYUDNPVWt4SUg0UVduQW9pQWJpb1FIblpCbGpBcnpSNm11X1FjTU8tQkpXU29lZ3hXakxheVh2LVd6bHhJdHllbzdTLXAwbGV3TXpLTTVFZEFMeWY3WjNPajJoeGZiTV9vTjA0RzJfbmtjMUk4TmJQN21EV0E?oc=5\" target=\"_blank\">Investigating solar glass quality for recycling in new glass products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-27006",
+    "date": "Mon, 04 Au",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solarcycle produces recycled glass test module with ‘peak performance’ - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2F5MjJPVVdjcjd6WXQ0VnY1TEZUMTdKUmdpQmR0Rnkxd0Etb1h2TDBPVlBQZGdsNjRFcUx6WDVjZC1mV0VVRHFjMUo1Wm9OWWg2YTRWOEk0MTFNaktDWjlVbV9OU2dYOWRQZkFBXz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solarcycle produces recycled glass test module with ‘peak performance’ - PV Tech",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2F5MjJPVVdjcjd6WXQ0VnY1TEZUMTdKUmdpQmR0Rnkxd0Etb1h2TDBPVlBQZGdsNjRFcUx6WDVjZC1mV0VVRHFjMUo1Wm9OWWg2YTRWOEk0MTFNaktDWjlVbV9OU2dYOWRQZkFBXzFxd3hpYmJYOHdSZF93WDMxUlFhRjF1bU5ud203bGEtcUdFNVpreFQycQ?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105324Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2F5MjJPVVdjcjd6WXQ0VnY1TEZUMTdKUmdpQmR0Rnkxd0Etb1h2TDBPVlBQZGdsNjRFcUx6WDVjZC1mV0VVRHFjMUo1Wm9OWWg2YTRWOEk0MTFNaktDWjlVbV9OU2dYOWRQZkFBXzFxd3hpYmJYOHdSZF93WDMxUlFhRjF1bU5ud203bGEtcUdFNVpreFQycQ?oc=5\" target=\"_blank\">Solarcycle produces recycled glass test module with ‘peak performance’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PV Tech</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-68840",
+    "date": "Thu, 15 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar modules under pressure: The growing risk of spontaneous glass breakage - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXFETnUzVGMzWFlIcm10NXR3WXJ2OXFLUmRPSV83Smk1N2c4d2huQ2hrM1dTZ0hzbi1SYmFDUVVlREdha3Z6bzdZMi0xOGdXN2RtTXBsc0YyeXRsMWNXSFVXODhmSXRiaHdwRG5kdF",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar modules under pressure: The growing risk of spontaneous glass breakage - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXFETnUzVGMzWFlIcm10NXR3WXJ2OXFLUmRPSV83Smk1N2c4d2huQ2hrM1dTZ0hzbi1SYmFDUVVlREdha3Z6bzdZMi0xOGdXN2RtTXBsc0YyeXRsMWNXSFVXODhmSXRiaHdwRG5kdFdfcVpyZHQ5d0cwbFRpWndEQmdzOTgzQWRKUFlaTlkzMzFTTHg3M2FwXzVwaW9SRS1NaGszYWRzU1pWbWxLdHlzV3dudlVxZw?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105326Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXFETnUzVGMzWFlIcm10NXR3WXJ2OXFLUmRPSV83Smk1N2c4d2huQ2hrM1dTZ0hzbi1SYmFDUVVlREdha3Z6bzdZMi0xOGdXN2RtTXBsc0YyeXRsMWNXSFVXODhmSXRiaHdwRG5kdFdfcVpyZHQ5d0cwbFRpWndEQmdzOTgzQWRKUFlaTlkzMzFTTHg3M2FwXzVwaW9SRS1NaGszYWRzU1pWbWxLdHlzV3dudlVxZw?oc=5\" target=\"_blank\">Solar modules under pressure: The growing risk of spontaneous glass breakage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-65796",
+    "date": "Fri, 19 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Schott launches new space solar cover glass - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFFKYzA3eXdtTXhoN0VtTHZnQmd4UzhrNzhZSjVOaGQ1My1OV1RxQ0tqVUVHWFlnalpZRzc4dlFZc1pLWUt1WFdkNEVSN1dUb2pjREFwRE9WdGljN01hbDdlT3NjY1ZteWRMdktnMU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Schott launches new space solar cover glass - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFFKYzA3eXdtTXhoN0VtTHZnQmd4UzhrNzhZSjVOaGQ1My1OV1RxQ0tqVUVHWFlnalpZRzc4dlFZc1pLWUt1WFdkNEVSN1dUb2pjREFwRE9WdGljN01hbDdlT3NjY1ZteWRMdktnMUN3YTdDLWptVWJFNVlVaDNzZ2N1Ui1ibldoclVr?oc=5",
+        "fetchedAt": "2026-04-15T09:27:16.105327Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFFKYzA3eXdtTXhoN0VtTHZnQmd4UzhrNzhZSjVOaGQ1My1OV1RxQ0tqVUVHWFlnalpZRzc4dlFZc1pLWUt1WFdkNEVSN1dUb2pjREFwRE9WdGljN01hbDdlT3NjY1ZteWRMdktnMUN3YTdDLWptVWJFNVlVaDNzZ2N1Ui1ibldoclVr?oc=5\" target=\"_blank\">Schott launches new space solar cover glass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International</font>"
       }
     ]
   }
