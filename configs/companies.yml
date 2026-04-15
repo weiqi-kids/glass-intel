@@ -9,6 +9,7 @@ companies:
   role: 矽砂
   description: Silica sand supplier for glass manufacturing
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="SCR-Sibelco"&hl=en&gl=US&ceid=US:en
   downstream:
   - taiwan_glass
   - agc
@@ -29,6 +30,7 @@ companies:
   role: 純鹼
   description: Soda ash supplier for flat glass production
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Tata+Chemicals"&hl=en&gl=US&ceid=US:en
   downstream:
   - taiwan_glass
   - agc
@@ -47,6 +49,7 @@ companies:
   role: 化學品
   description: Soda ash and specialty chemicals for glass
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Solvay"+chemicals+glass&hl=en&gl=US&ceid=US:en
   downstream:
   - taiwan_glass
   - agc
@@ -65,6 +68,7 @@ companies:
   role: 玻璃纖維
   description: Glass fiber for composites and insulation
   ir_url: https://investor.owenscorning.com/
+  rss_url: https://news.google.com/rss/search?q="Owens+Corning"&hl=en&gl=US&ceid=US:en
   downstream:
   - saint_gobain
 - id: taiwan_glass
@@ -79,6 +83,7 @@ companies:
   role: 玻璃製造
   description: 台灣最大玻璃製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Taiwan+Glass"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - tata_chemicals
@@ -99,6 +104,7 @@ companies:
   role: 玻璃製造
   description: 全球最大玻璃製造商之一
   ir_url: https://www.agc.com/en/ir/
+  rss_url: https://news.google.com/rss/search?q="AGC+Inc"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - tata_chemicals
@@ -117,6 +123,7 @@ companies:
   role: 玻璃製造
   description: 日本平板玻璃製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Nippon+Sheet+Glass"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - tata_chemicals
@@ -133,6 +140,7 @@ companies:
   role: 玻璃製造
   description: 中國最大浮法玻璃製造商
   ir_url: https://www.xinyiglass.com/en/investor.php
+  rss_url: https://news.google.com/rss/search?q="Xinyi+Glass"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - tata_chemicals
@@ -149,6 +157,7 @@ companies:
   role: 光伏玻璃
   description: 全球最大光伏玻璃製造商之一
   ir_url: https://www.xinyisolar.com/en/investor.php
+  rss_url: https://news.google.com/rss/search?q="Xinyi+Solar"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - tata_chemicals
@@ -166,6 +175,7 @@ companies:
   role: 汽車玻璃
   description: 全球最大汽車玻璃製造商
   ir_url: https://www.fuyaogroup.com/en/investor.html
+  rss_url: https://news.google.com/rss/search?q="Fuyao+Glass"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - solvay
@@ -181,6 +191,7 @@ companies:
   role: 玻璃製造
   description: 全球建築玻璃與高性能材料領導者
   ir_url: https://www.saint-gobain.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="Saint-Gobain"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - tata_chemicals
@@ -198,6 +209,7 @@ companies:
   role: 特種玻璃
   description: 特種玻璃與光纖技術領導者
   ir_url: https://investor.corning.com/
+  rss_url: https://news.google.com/rss/search?q="Corning"+specialty+glass&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - solvay
@@ -214,6 +226,7 @@ companies:
   role: 容器玻璃
   description: 全球最大玻璃容器製造商
   ir_url: https://investors.o-i.com/
+  rss_url: https://news.google.com/rss/search?q="O-I+Glass"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - tata_chemicals
@@ -230,6 +243,7 @@ companies:
   role: 光伏玻璃
   description: 中國光伏玻璃龍頭
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Flat+Glass+Group"&hl=en&gl=US&ceid=US:en
   upstream:
   - sibelco
   - tata_chemicals
@@ -247,6 +261,7 @@ companies:
   role: 太陽能
   description: 全球最大太陽能矽片與組件製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="LONGi+Green"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_glass
   - xinyi_solar
@@ -262,6 +277,7 @@ companies:
   role: 太陽能
   description: 美國薄膜太陽能電池領導者
   ir_url: https://investor.firstsolar.com/
+  rss_url: https://news.google.com/rss/search?q="First+Solar"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_glass
   - xinyi_solar
@@ -278,6 +294,7 @@ companies:
   role: 顯示器
   description: 台灣面板製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="AU+Optronics"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_glass
   - agc
@@ -294,6 +311,7 @@ companies:
   role: 顯示器
   description: 台灣面板製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Innolux"+display&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_glass
   - agc
