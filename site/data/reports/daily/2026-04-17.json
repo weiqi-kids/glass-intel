@@ -1,0 +1,196 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:24:53.688419Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-04-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TCS, Tata Elxsi, Tata Motors PV, Tata Tech, Tata Chemicals shares fall up to 32% in six months; price targets and more - MSN",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "fuyao-2026-04-17-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flames still showing at Fuyao over 24 hours after first initial call - MSN",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-04-17-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ambassador Greer, Policymakers Visit First Solar - National Association of Manufacturers - NAM",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-04-17-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. $FSLR Shares Sold by Massachusetts Financial Services Co. MA - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-17-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GOB.SW Stock Drops 1.34% on April 17 with Volume Spike to 160 - Meyka",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "fuyao",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為First Solar、塔塔化工、福耀玻璃相關動態：「TCS, Tata Elxsi, Tata Motors PV, Tata Tech, Tata Chemical...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "TCS, Tata Elxsi, Tata Motors PV, Tata Tech, Tata Chemicals shares fall up to ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Flames still showing at Fuyao over 24 hours after first initial call - MSN（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
