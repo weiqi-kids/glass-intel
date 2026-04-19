@@ -1,0 +1,243 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T09:01:13.108996Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_solar-2026-04-19-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Solar Holdings Ltd stock (KYG9829N1025): Is its solar glass dominance strong enough for U.S. i - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-04-19-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Solar Holdings Ltd stock (HK0968003713): Is its solar module dominance strong enough for new u - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-04-19-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Compagnie de Saint-Gobain S.A. stock (FR0000121501): Why does its construction materials leadership - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-04-19-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Compagnie de Saint-Gobain S.A. stock (FR0000121501): Why does its construction materials dominance m - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-04-19-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Susquehanna Maintains Positive Rating on First Solar (FSLR) - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 3
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "xinyi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為信義光能、聖戈班、Owens Corning相關動態：「Xinyi Solar Holdings Ltd stock (KYG9829N1025): Is its sol...」。主要關注主題為庫存、財報、光伏玻璃需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Xinyi Solar Holdings Ltd stock (KYG9829N1025): Is its solar glass dominance s...（光伏玻璃需求、財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Xinyi Solar Holdings Ltd stock (HK0968003713): Is its solar module dominance ...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

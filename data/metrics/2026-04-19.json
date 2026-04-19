@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-19",
+  "total_events": 9,
+  "by_company": {
+    "owens_corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_solar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "flat_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "solar_glass_demand": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
