@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-20",
+  "total_events": 12,
+  "by_company": {
+    "tata_chemicals": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "agc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_glass": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_solar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "auto_glass_trends": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
