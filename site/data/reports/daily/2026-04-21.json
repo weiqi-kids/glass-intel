@@ -1,0 +1,236 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:45:24.509042Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-04-21-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Solar PV Market Outlook: LONGi, Trina Solar, and First Solar Powering Renewable Energy Expansion - openPR.com",
+      "companies": [
+        "longi",
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-21-029",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Tesla Robotaxi expansion, heavy duty EVs, and last week’s pain at the pump",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-04-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Buy, sell or hold: Mazgaon Dock, Tata Chemicals, BEL, MRPL, Ather Energy, Ashapura Minechem — Ask Profit - MSN",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_solar-2026-04-21-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bullish block trade of XINYI SOLAR(00968) 1.4M shares at $3.15, $4.41M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-21-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Permitting headwinds, geopolitics drive North American solar PPA prices higher in Q1 - pv magazine International",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為信義光能、First Solar、塔塔化工相關動態：「Solar PV Market Outlook: LONGi, Trina Solar, and First So...」。主要關注主題為財報、庫存、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Solar PV Market Outlook: LONGi, Trina Solar, and First Solar Powering Renewab...（產能、財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "Tesla Robotaxi expansion, heavy duty EVs, and last week’s pain at the pump（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
