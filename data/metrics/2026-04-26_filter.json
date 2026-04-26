@@ -1,11 +1,11 @@
 {
-  "total_raw": 451,
-  "dup_title": 250,
+  "total_raw": 893,
+  "dup_title": 505,
   "no_date": 0,
-  "too_old": 146,
-  "gate1_fail": 34,
-  "gate2_fail": 11,
-  "passed": 10,
+  "too_old": 293,
+  "gate1_fail": 61,
+  "gate2_fail": 22,
+  "passed": 12,
   "gate2_samples": [
     "N Chandrasekaran to step down as Tata Chemicals chairman and director, S Padmanabhan named to take o",
     "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
