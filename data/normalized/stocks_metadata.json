@@ -1,97 +1,97 @@
 {
   "tata_chemicals": {
-    "earliest": "2022-02-11",
+    "earliest": "2021-11-15",
     "latest": "2026-04-24",
-    "count": 1036
+    "count": 1098
   },
   "solvay": {
-    "earliest": "2022-02-11",
+    "earliest": "2021-11-15",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1137
   },
   "owens_corning": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "taiwan_glass": {
-    "earliest": "2022-02-14",
-    "latest": "2026-04-24",
-    "count": 1017
-  },
-  "agc": {
-    "earliest": "2022-02-15",
-    "latest": "2026-04-24",
-    "count": 1026
-  },
-  "nsg": {
-    "earliest": "2022-02-15",
-    "latest": "2026-04-24",
-    "count": 1026
-  },
-  "xinyi_glass": {
-    "earliest": "2022-02-11",
-    "latest": "2026-04-24",
-    "count": 1030
-  },
-  "xinyi_solar": {
-    "earliest": "2022-02-11",
-    "latest": "2026-04-24",
-    "count": 1030
-  },
-  "fuyao": {
-    "earliest": "2022-02-11",
-    "latest": "2026-04-24",
-    "count": 1030
-  },
-  "saint_gobain": {
-    "earliest": "2022-02-11",
+    "earliest": "2021-11-16",
     "latest": "2026-04-24",
     "count": 1073
   },
-  "corning": {
-    "earliest": "2022-02-10",
+  "agc": {
+    "earliest": "2021-11-17",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1085
+  },
+  "nsg": {
+    "earliest": "2021-11-17",
+    "latest": "2026-04-24",
+    "count": 1085
+  },
+  "xinyi_glass": {
+    "earliest": "2021-11-15",
+    "latest": "2026-04-24",
+    "count": 1090
+  },
+  "xinyi_solar": {
+    "earliest": "2021-11-15",
+    "latest": "2026-04-24",
+    "count": 1090
+  },
+  "fuyao": {
+    "earliest": "2021-11-15",
+    "latest": "2026-04-24",
+    "count": 1090
+  },
+  "saint_gobain": {
+    "earliest": "2021-11-15",
+    "latest": "2026-04-24",
+    "count": 1137
+  },
+  "corning": {
+    "earliest": "2021-11-12",
+    "latest": "2026-04-24",
+    "count": 1115
   },
   "oi_glass": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "flat_glass": {
-    "earliest": "2022-02-11",
+    "earliest": "2021-11-15",
     "latest": "2026-04-24",
-    "count": 1030
+    "count": 1090
   },
   "longi": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1020
+    "count": 1078
   },
   "first_solar": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "au_optronics": {
-    "earliest": "2022-02-14",
+    "earliest": "2021-11-16",
     "latest": "2026-04-24",
-    "count": 1017
+    "count": 1073
   },
   "innolux": {
-    "earliest": "2022-02-14",
+    "earliest": "2021-11-16",
     "latest": "2026-04-24",
-    "count": 1017
+    "count": 1073
   },
   "etf_mxi": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "etf_tan": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   }
 }

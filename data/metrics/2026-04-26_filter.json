@@ -1,16 +1,16 @@
 {
-  "total_raw": 440,
-  "dup_title": 260,
+  "total_raw": 451,
+  "dup_title": 250,
   "no_date": 0,
-  "too_old": 141,
-  "gate1_fail": 28,
+  "too_old": 146,
+  "gate1_fail": 34,
   "gate2_fail": 11,
-  "passed": 0,
+  "passed": 10,
   "gate2_samples": [
+    "N Chandrasekaran to step down as Tata Chemicals chairman and director, S Padmanabhan named to take o",
     "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
-    "Owens Corning (OC) Valuation Check After Recent Share Price Strength - Yahoo Finance",
     "Why Owens Corning (OC) Dipped More Than Broader Market Today - Yahoo Finance",
-    "Apollo to acquire Nippon Sheet Glass in landmark $3.7B Japan buyout - MSN",
-    "Nearly a month after Fuyao fire, cause remains unclear - Dayton Daily News"
+    "Owens Corning (OC) Valuation Check After Recent Share Price Strength - Yahoo Finance",
+    "Apollo to acquire Nippon Sheet Glass in landmark $3.7B Japan buyout - MSN"
   ]
 }
