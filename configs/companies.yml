@@ -19,6 +19,7 @@ companies:
   - corning
   - oi_glass
   - flat_glass
+  fetch_mode: http
 - id: tata_chemicals
   name: Tata Chemicals
   aliases:
@@ -39,6 +40,7 @@ companies:
   - saint_gobain
   - oi_glass
   - flat_glass
+  fetch_mode: http
 - id: solvay
   name: Solvay
   aliases: []
@@ -58,6 +60,7 @@ companies:
   - saint_gobain
   - corning
   - oi_glass
+  fetch_mode: http
 - id: owens_corning
   name: Owens Corning
   aliases: []
@@ -71,6 +74,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Owens+Corning"&hl=en&gl=US&ceid=US:en
   downstream:
   - saint_gobain
+  fetch_mode: http
 - id: taiwan_glass
   name: Taiwan Glass
   aliases:
@@ -93,6 +97,7 @@ companies:
   - innolux
   - longi
   - first_solar
+  fetch_mode: http
 - id: agc
   name: AGC Inc
   aliases:
@@ -112,6 +117,7 @@ companies:
   downstream:
   - au_optronics
   - innolux
+  fetch_mode: http
 - id: nsg
   name: Nippon Sheet Glass
   aliases:
@@ -129,6 +135,7 @@ companies:
   - tata_chemicals
   - solvay
   downstream: []
+  fetch_mode: http
 - id: xinyi_glass
   name: Xinyi Glass
   aliases:
@@ -146,6 +153,7 @@ companies:
   - tata_chemicals
   - solvay
   downstream: []
+  fetch_mode: http
 - id: xinyi_solar
   name: Xinyi Solar
   aliases:
@@ -164,6 +172,7 @@ companies:
   downstream:
   - longi
   - first_solar
+  fetch_mode: http
 - id: fuyao
   name: Fuyao Glass
   aliases:
@@ -180,6 +189,7 @@ companies:
   - sibelco
   - solvay
   downstream: []
+  fetch_mode: http
 - id: saint_gobain
   name: Saint-Gobain
   aliases:
@@ -198,6 +208,7 @@ companies:
   - solvay
   - owens_corning
   downstream: []
+  fetch_mode: http
 - id: corning
   name: Corning
   aliases:
@@ -216,6 +227,7 @@ companies:
   downstream:
   - au_optronics
   - innolux
+  fetch_mode: http
 - id: oi_glass
   name: O-I Glass
   aliases: []
@@ -232,6 +244,7 @@ companies:
   - tata_chemicals
   - solvay
   downstream: []
+  fetch_mode: http
 - id: flat_glass
   name: Flat Glass Group
   aliases:
@@ -250,6 +263,7 @@ companies:
   downstream:
   - longi
   - first_solar
+  fetch_mode: http
 - id: longi
   name: LONGi Green
   aliases:
@@ -267,6 +281,7 @@ companies:
   - xinyi_solar
   - flat_glass
   downstream: []
+  fetch_mode: http
 - id: first_solar
   name: First Solar
   aliases: []
@@ -283,6 +298,7 @@ companies:
   - xinyi_solar
   - flat_glass
   downstream: []
+  fetch_mode: http
 - id: au_optronics
   name: AU Optronics
   aliases:
@@ -300,6 +316,7 @@ companies:
   - agc
   - corning
   downstream: []
+  fetch_mode: http
 - id: innolux
   name: Innolux
   aliases:
@@ -317,6 +334,7 @@ companies:
   - agc
   - corning
   downstream: []
+  fetch_mode: http
 etfs:
 - id: mxi
   name: iShares Global Materials ETF
