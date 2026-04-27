@@ -1,29 +1,227 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:36:28.979547Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T10:23:58.102826Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-04-27-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning stock slips after Q4 misses; sees business conditions improving - MSN",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPTy1jb21ITlJkRVF0Wmd6c2ladWhEZF9scTQ0VGw4Ull0alVuT09HVWFHMllSTl83QmJfMlJUU1B3LV9penNpUEpnNDU2VWt4QlRRczlNZUZRM1J3al8wcFNCYlRSamNEcXNJcmV6UEx6eWZ0ZGFPT2F4ei1TQUVWdWd2cnJoLUpOMFBia3JIVXN3YzlQdk9NLUFpVE9ud3BSS3JObEJXanBXNmphUy1zcnRIZHFRdHltcFFFa1IySGZtUVFMaUJCaDFSdkw3OXdNOHRqbFItdzlyOEpCQXZhSVNhVkVSTy14eXlaazFmdmg1VG5DWEJ0bTItSnhCM1FvRUFWWEEydWhSVDJwWHF1VjV3YWtVRjNYXzNUYmJLa0xTdVRGN25HX2swbWdJakNTOW9TZ0ZsZnA0aU5tYlE1aTY4NVk3R2lSV3lFUFJvanlMYjhIZHB6Q0pCbm1rN3h1dDVlMm02OW1GWTFNdzVBMDY0Vk1SRm5iNFQ1VU5R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fuyao-2026-04-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morning Market Movements | Fuyao Glass Rises Nearly 3%, First-Quarter Adjusted Net Profit Up Nearly 20% - 富途牛牛",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMW9DQkRlbnk1ekkyeFBmMGwzYVhxS1RmQW8zanJ1M3h5OFhaMFYzSklnZnhRMDhkUUkxb2NwWExNV3V2MF9KeVJ3ZER2RnU5bS1OSDBrdm9jakpFZ3B0RElYZjhUam1RVXJhdzF5bTUxSHY3eGMxRjZhTmF5ZzdZaXZJOGxJOTR6TmZCeEdVWnJjZ1dhVEg3dHB2T3BLY2ZsZGFleEVPNVViQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "flat_glass-2026-04-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flat Glass Group Profit Slumps in Q1 2026 Despite Stronger Cash Flow - TipRanks",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVc3YzVyTXI2UGVMa0VaLUdrVHE4Und1cm9feDV6Y2xhWUZvTDROdEJGVUE3alFMRDJmb1RlSkdhN1U1Q3VjOHY5aUE5cXBVRE1FUTZ4MkpiSHhBdW8ydW12NWhoMkVmcWphV3FmRDRSNFdBQ3oxSVJSdnVyV284cUMwQk0wSXBHcF9ndjhVTXY0NzlEeVN1d0tjWExDVU9QUnlJR01SUk1pRlI1YXo2ci14bmxNU2J2STRUZQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "owens_corning-2026-04-27-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Owens Corning Inc $OC Shares Acquired by Teachers Retirement System of The State of Kentucky - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWkt4OW53dWxjQlZPVWZNS1Bad2xYT21kSS1fNHp6VkpRMjVoazlVcS1XUFZfQmVnNHMzeklMN2Voemx0LUc1Sk4tbERSQW5rZkFFeEJ3cjgyS3c2a1VFOC1jZkxNQkk3azA2bWhDcDczaXUzV0s3dW5aamg3MklUdGx6QTFWQnJ4UG5ZNGVRclI0RnNFSHRZZmM2UnpHeHBUWWlzZzRfdUl2Z0x3UE13Zzg5UTY3Wl9lWlZEeTFLQXdwQklaVExsTldsLVFMMUtYRGJhWGk2dG9VRFR0dEpfdDdZMWxFUlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "owens_corning-2026-04-27-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Owens Corning Revises Glass Reinforcements Business Sale Terms - TipRanks",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3dEZ2xuSHlFa1VTSTkyaklxMTIwaTExcDBOeEZwVDdORGVBS2JINnVzTDdyNk9MeWczbE1iWWRiaFdpdHpvek9POVRXSnZIbjVYaUtuckRCMXljMXVlbnhaeFlxVVNWNFo3U3dSLWYwdDFOMXBkSzQwTGhFM01lakg4Unk3T0NvYnM5UURDTmFvUVZQNmtRbWpSeEJERGpUalZnSV8wUy1nbVQwQmt4Y1JDbXc?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
-  "supply_chain_activity": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "inventory"
+      ]
+    }
+  ],
   "stats": {
-    "total_events": 0,
+    "total_events": 7,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 7,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 3
+      },
+      {
+        "id": "fuyao",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 883,
-    "dup_title": 504,
-    "too_old": 295,
-    "gate1_blocked": 56,
-    "gate2_blocked": 20,
-    "passed": 8,
-    "pass_rate": "2.1%",
-    "gate2_block_rate": "5.3%",
+    "total_raw": 1324,
+    "dup_title": 749,
+    "too_old": 445,
+    "gate1_blocked": 84,
+    "gate2_blocked": 28,
+    "passed": 18,
+    "pass_rate": "3.1%",
+    "gate2_block_rate": "4.9%",
     "gate2_samples": [
       "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
       "Why Owens Corning (OC) Dipped More Than Broader Market Today - Yahoo Finance",
@@ -34,15 +232,19 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無玻璃產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 7 則事件，焦點為Owens Corning、康寧、福耀玻璃相關動態：「Owens Corning stock slips after Q4 misses; sees business ...」。主要關注主題為財報、建築活動、庫存，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
-        "level": "green"
+        "text": "Owens Corning stock slips after Q4 misses; sees business conditions improving...（財報、庫存）",
+        "level": "red"
       },
       {
-        "text": "建議持續監控後續發展動態。",
-        "level": "green"
+        "text": "Morning Market Movements | Fuyao Glass Rises Nearly 3%, First-Quarter Adjuste...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
       }
     ]
   },

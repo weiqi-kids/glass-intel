@@ -1,11 +1,11 @@
 {
-  "total_raw": 883,
-  "dup_title": 504,
+  "total_raw": 1324,
+  "dup_title": 749,
   "no_date": 0,
-  "too_old": 295,
-  "gate1_fail": 56,
-  "gate2_fail": 20,
-  "passed": 8,
+  "too_old": 445,
+  "gate1_fail": 84,
+  "gate2_fail": 28,
+  "passed": 18,
   "gate2_samples": [
     "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
     "Why Owens Corning (OC) Dipped More Than Broader Market Today - Yahoo Finance",
