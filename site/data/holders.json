@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T14:09:37.943673+00:00",
+  "updated_at": "2026-04-27T01:41:00.274637+00:00",
   "companies": {
     "solvay": {
       "name": "Solvay",
@@ -157,7 +157,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1567805,
           "pct_held": 0.04,
-          "value": 15725083
+          "value": 15756440
         }
       ]
     },

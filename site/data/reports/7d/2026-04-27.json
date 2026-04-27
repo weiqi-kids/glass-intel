@@ -1,0 +1,165 @@
+{
+  "date": "2026-04-27",
+  "date_range": {
+    "start": "2026-04-21",
+    "end": "2026-04-27"
+  },
+  "generated_at": "2026-04-27T01:41:00.697607Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "longi-2026-04-21-018",
+      "date": "2026-04-21",
+      "title": "Solar PV Market Outlook: LONGi, Trina Solar, and First Solar Powering Renewable Energy Expansion - openPR.com",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 21,
+      "last_week": 31,
+      "week_over_week_change": "-32%",
+      "sentiment_this_week": 0.07
+    },
+    "inventory": {
+      "this_week": 8,
+      "last_week": 29,
+      "week_over_week_change": "-72%",
+      "sentiment_this_week": -0.15
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -1.0
+    },
+    "construction_activity": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "auto_glass_trends": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tata_chemicals": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "first_solar": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 1
+    },
+    "fuyao": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 2
+    },
+    "saint_gobain": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 27,
+        "last": 48,
+        "change_pct": -43.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-21",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 27 則事件，重點為「Solar PV Market Outlook: LONGi, Trina Solar, an...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "First Solar",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "福耀玻璃",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "受庫存議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

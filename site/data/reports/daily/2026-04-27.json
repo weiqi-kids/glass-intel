@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:00.632179Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 442,
+    "dup_title": 253,
+    "too_old": 144,
+    "gate1_blocked": 27,
+    "gate2_blocked": 10,
+    "passed": 8,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+      "Why Owens Corning (OC) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Owens Corning (OC) Valuation Check After Recent Share Price Strength - Yahoo Finance",
+      "Apollo to acquire Nippon Sheet Glass in landmark $3.7B Japan buyout - MSN",
+      "Nearly a month after Fuyao fire, cause remains unclear - Dayton Daily News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無玻璃產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
