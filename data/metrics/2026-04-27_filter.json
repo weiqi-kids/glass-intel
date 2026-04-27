@@ -1,10 +1,10 @@
 {
-  "total_raw": 442,
-  "dup_title": 253,
+  "total_raw": 883,
+  "dup_title": 504,
   "no_date": 0,
-  "too_old": 144,
-  "gate1_fail": 27,
-  "gate2_fail": 10,
+  "too_old": 295,
+  "gate1_fail": 56,
+  "gate2_fail": 20,
   "passed": 8,
   "gate2_samples": [
     "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",

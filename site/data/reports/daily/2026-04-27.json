@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:41:00.632179Z",
+  "generated_at": "2026-04-27T03:36:28.979547Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -16,13 +16,13 @@
     "top_topics": []
   },
   "filter_audit": {
-    "total_raw": 442,
-    "dup_title": 253,
-    "too_old": 144,
-    "gate1_blocked": 27,
-    "gate2_blocked": 10,
+    "total_raw": 883,
+    "dup_title": 504,
+    "too_old": 295,
+    "gate1_blocked": 56,
+    "gate2_blocked": 20,
     "passed": 8,
-    "pass_rate": "4.2%",
+    "pass_rate": "2.1%",
     "gate2_block_rate": "5.3%",
     "gate2_samples": [
       "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",

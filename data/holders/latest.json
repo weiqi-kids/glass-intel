@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T01:41:00.274637+00:00",
+  "updated_at": "2026-04-27T03:36:28.619922+00:00",
   "companies": {
     "solvay": {
       "name": "Solvay",
@@ -157,7 +157,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1567805,
           "pct_held": 0.04,
-          "value": 15756440
+          "value": 15881864
         }
       ]
     },
@@ -170,7 +170,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 4141443,
           "pct_held": 0.05,
-          "value": 12672815
+          "value": 12589986
         }
       ]
     },
@@ -183,61 +183,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 8820847,
           "pct_held": 1.45,
-          "value": 545128337
+          "value": 564093172
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Emerging Markets Stock Index Fd",
           "shares": 8271200,
           "pct_held": 1.36,
-          "value": 511160153
+          "value": 528943246
         },
         {
           "holder": "iShares, Inc.-iShares Core MSCI Emerging Markets ETF",
           "shares": 6849600,
           "pct_held": 1.13,
-          "value": 423305274
+          "value": 438031925
         },
         {
           "holder": "VANGUARD HORIZON FUNDS-Vanguard International Core Stock Fund",
           "shares": 5503200,
           "pct_held": 0.91,
-          "value": 340097755
+          "value": 351929644
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Core Eqy. 2 PORT.",
           "shares": 2911600,
           "pct_held": 0.48,
-          "value": 179936877
+          "value": 186196822
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Emerging Markets Min Vol Factor ETF",
           "shares": 1803200,
           "pct_held": 0.3,
-          "value": 111437758
+          "value": 115314641
         },
         {
           "holder": "iShares Trust-iShares MSCI China ETF",
           "shares": 1648000,
           "pct_held": 0.27,
-          "value": 101846398
+          "value": 105389601
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Emerging Markets ETF",
           "shares": 1534000,
           "pct_held": 0.25,
-          "value": 94801198
+          "value": 98099301
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Index Fd.",
           "shares": 1359565,
           "pct_held": 0.22,
-          "value": 84021115
+          "value": 86944182
         },
         {
           "holder": "American Century ETF Trust-Avantis Emerging Markets Equity ETF",
           "shares": 1345600,
           "pct_held": 0.22,
-          "value": 83158078
+          "value": 86051121
         }
       ]
     },
@@ -403,61 +403,61 @@
           "holder": "Invesco Exchange-Traded Fund Trust II-Invesco Solar ETF",
           "shares": 19930758,
           "pct_held": 4.51,
-          "value": 197314496
+          "value": 194922807
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 6023777,
           "pct_held": 1.36,
-          "value": 59635390
+          "value": 58912537
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Emerging Markets Stock Index Fd",
           "shares": 5642000,
           "pct_held": 1.28,
-          "value": 55855797
+          "value": 55178758
         },
         {
           "holder": "Matthews Intl Fd.s-MATTHEWS EMERGING MARKETS SMALL COMPANIES Fd.",
           "shares": 2960000,
           "pct_held": 0.67,
-          "value": 29303998
+          "value": 28948799
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Core Eqy. 2 PORT.",
           "shares": 2305000,
           "pct_held": 0.52,
-          "value": 22819499
+          "value": 22542899
         },
         {
           "holder": "Matthews Intl Fd.s-MATTHEWS EMERGING MARKETS Sustbl FUTURE Fd.",
           "shares": 1460000,
           "pct_held": 0.33,
-          "value": 14453999
+          "value": 14278799
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Index Fd.",
           "shares": 928649,
           "pct_held": 0.21,
-          "value": 9193624
+          "value": 9082186
         },
         {
           "holder": "Invesco Exchange-Traded Fund Trust II-Invesco Global Clean Energy ETF",
           "shares": 941477,
           "pct_held": 0.21,
-          "value": 9320621
+          "value": 9207644
         },
         {
           "holder": "FINANCIAL INVESTORS TRUST-ALPS/CoreCommodity Natural Resources ETF",
           "shares": 891198,
           "pct_held": 0.2,
-          "value": 8822859
+          "value": 8715916
         },
         {
           "holder": "-State Street Climate Transition Emerging Markets Enhanced Equity Fd",
           "shares": 633000,
           "pct_held": 0.14,
-          "value": 6266699
+          "value": 6190739
         }
       ]
     },
