@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 31,
+  "gate2_fail": 9,
+  "passed": 37,
+  "gate2_samples": [
+    "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+    "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+    "Saint-Gobain climbs as RBC spots a buying opportunity - marketscreener.com",
+    "Apogee Growth Offsets Glass Segment Decline; Saint-Gobain Raises Prices Amid Slump - megaproject.com",
+    "Saint-Gobain: The calm spell can be taken advantage of to put on new positions - marketscreener.com"
+  ]
+}

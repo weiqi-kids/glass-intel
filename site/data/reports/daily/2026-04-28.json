@@ -1,0 +1,287 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:22:00.796743Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-04-28-007",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "B. Metzler seel. Sohn & Co. AG Trims Stock Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHh3RG1TeExMT0V3ZndJVkZFUXFSMmVwVC0yeUh5VHhuRlpzV0M2UE8tZ2d2c1JiWEcxcVBGREZqRmdocE9IR2Z5cHRnNHZBdXdCR19QRlA0dVpwYjgyZ1gzQ1RYZ0RlRDNQX0dGbHJqWmQxUko4bEtKN0F3WjN0NVVzalJUMnpWOEFpc2hCckxWT2tUZVBDN3VqbjBBZG13OWh2cGFUVjg1RGFVNHNJbEQ1dVo2TFVtTlBXQW5TVlVqdUpqb1JKVkxpbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-04-28-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Analyst Ratings France: RBC upgrades Saint-Gobain to Outperform, Morgan Stanley cuts Teleperformance - marketscreener.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaVhLWm54RUNBclV4YUMyNm5lWDJ2TXp0TUJNVjVRQXRjLWxXWEYzS2oyM2ZXdmdKeE50LW1rQ0QwTmFRMWI5TnFrTDN5VndfcTJxR0ZwaVVNc2hudUNWYVJqbDBSbElBZmRrNEwyZWd0OTY3RlFoTUd5N24wWkwxTXQ2VG1yRHZSZTVvUXh4TXpGaDBaczFCcmRIVXZyQnowOGZMWDNpTW1BeFcwQzJac1RVcjQxekQ3TzNRMVpWWEhfMXRxdnhaNkI2VTlWRnVqcUd5U1ZhZ2huSkF2dUpGbXF2Uy1PQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "flat_glass-2026-04-28-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stock Movement in Hong Kong | Flat Glass Group (06865) Plummets Over 7% Post-Results as Photovoltaic Glass Selling Prices Drop Significantly; Net Profit Declines More Than 60% Year-on-Year - 富途牛牛",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVBXQUxha3NCNWFVNVowenZSWEFhRmRKbU1ONnNZVWtjbjUtRWE4XzB3WUFGbTNmV3lFeWRUbnV4N1VBVDVJN2E3ZlBudXk0WGl1Nl92MmtxUEpzYWdmTllCTkl6WXRiZ2xnS1NMS20yYnBmcEdneGY5VHdvX29PWTJCMWpsa2hLaUJnX2FKMkZlcWRraG9WLUdGOGFrcmZEMGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tata_chemicals-2026-04-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals up 9% on heavy volumes; board to mull dividend in Q4 results - Business Standard",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQjFEZVRYMzdza3liNWctaExtVjZrQ0FYMzktV01zZ19WSzFuSDdjLUZJY0Nvdzhnc21LbGtaY2Z5S0prLWJ6VE01VnlRQ2JsSGJoOXZpV2R3cU9vZ1JHMHdFbGRTWlUyUlp4NnhxdGxqendxLTRkT1JoSzZ6cWZhdUw1YVV5RkVFZXFmX2ZPejNzOHBZeXMxaXI2azJJeGZ3R3ZuT3hzYzg4ZnVob1RlQUtsYUdGMy1CTmE0aHBvb1RNMXJ5UXhVV2ZfbnFqV29FTGdGNTlQSdIB3AFBVV95cUxOUHY0WmtMVWp0VWVFWWR5MWpPazBjMUZySHQ5ek11N0pjTGFFSlBwTXV1SG5MNTlrTEFtaDl5V2NCX0FzV0ZkTWI0VjZuTGVKTU1fZ2ZrcENjUW9haUltUzhlOXFiQlJyRm8yeV90cFk5VEJzaHNEaVROYnV6MkFQR1JpTkI0d1hPcUdEblVvV3pMSXVSdHNlUS1QbVRuRi1nSnpmY2otMjJSZHNpMlp4YURyMm1OaFJuU0F4NXJYSElueXQtd0FuLVpUWFBORVhUZTZWbUIyM3lkT25m?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-04-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals Stock Surges on High Volume Amid Financial Concerns - Whalesbook",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOGZQZlpQWDBRa19mQ3RFdFBoWXhIbWo4eldLTzl1M2VIZlFtY2tNYVBNYzVSdGsyVUUtTHhadm9Fb3VFM3JqQ2lXSmVfWk1pTjY3dlM3QjhiMmZrNlVlbVlxNGJ3bWVvVFUtZmVlN2otQlJqYlliQnRaSDdtOFpCdWM0NkhJZHZ0MjFxeGc5ZHZHRG45di1QS2Uwa1MtRGlhTmhVSFp3S3kzUnlxTlhYbGtsMWpGNWthMlBEQkVkRGdxR2xfNDBPdzJuSFZpZ1RpdklkeXNxb08?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 4
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "flat_glass",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "inventory",
+        "count": 8
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 226,
+    "too_old": 136,
+    "gate1_blocked": 31,
+    "gate2_blocked": 9,
+    "passed": 37,
+    "pass_rate": "17.4%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+      "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+      "Saint-Gobain climbs as RBC spots a buying opportunity - marketscreener.com",
+      "Apogee Growth Offsets Glass Segment Decline; Saint-Gobain Raises Prices Amid Slump - megaproject.com",
+      "Saint-Gobain: The calm spell can be taken advantage of to put on new positions - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為塔塔化工、聖戈班、康寧相關動態：「B. Metzler seel. Sohn & Co. AG Trims Stock Position in Ow...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "B. Metzler seel. Sohn & Co. AG Trims Stock Position in Owens Corning Inc $OC ...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Analyst Ratings France: RBC upgrades Saint-Gobain to Outperform, Morgan Stanl...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
