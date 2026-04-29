@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-29",
+  "total_events": 5,
+  "by_company": {
+    "owens_corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oi_glass": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "first_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

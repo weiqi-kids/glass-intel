@@ -1,0 +1,230 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:11:54.719450Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-04-29-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ashton Thomas Private Wealth LLC Sells 22,143 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWM0TnlKVGh5bUxzQ3JxbUkwYjJoU001dGlBcUhrb0Z0SUp5cXFrMnJZMzFNS0ROaXdYOEJnNjRjeWp0c244aDJ4c1VQczdPU3A1QWxKZFl5a0U0TXNTSUpIeUFKOHU5NlE3NVhERVdObGdHVHFqbnJ3TTRmY0xsVnhjQXExaU9iVnRkX1UtTWdMSG95SWM4dy1GZUdfZEpOT3RhZlhfcmVWNFEzZHJPT3p3Z2FyQjBrWnlmYkRaTFBxVFlkay1nRTNMWUNPekF2dVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-04-29-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Longi Announces World Record Holding Solar Cell With Nearly 30% Efficiency - ProPakistani",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Tb0hSTHp0Y3c0bHVMVlJOUjNZWXRzYlBDNVRyVHBFbEZDU3F5S0hvbS01QUx0U2pzOEZQYjBQS3lCQXdQZVNYZ3BB0gGzAUFVX3lxTE9KYk8wcHd2b096MkE0UXlvTGVtLUFuMVlNOEx2Z2F1VEFTVWxGT0NMY3pkcjRQT2pxU0h6ZXBhbWdfcTU1aWgzR3k1aUY5Q1pXWnpOQldiYVBIYmF2S2I0X0NUdEM0MFViU2pWcXhuTDBwcmkzVld6REdNUnI4N2dYdFl3NW15a3pPWmNRRks0bng1aXlDakl0aElhZERvSnFMRFI5YU8wODIwWFE2eDFJQ080?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-04-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass Q1 2026 earnings preview - MSN",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelkydHV0WVhfT0k1MFJrS0E4Mk1PRXpnZ0hTcHktMmhVc3E3eGhaZWFJc0tZLUZVaksyRjFaY3l3WXlmMm5oRV9mQksxNFdQcnpzelBjakdEMkQxT0c1dzZlbzNfckFzMF9jWDY5Zks5R0lSOVVvRTRCNWpJY1pRTE5fM1RZZ1JjY0VuLWN4bzB5SlNELW1WNURza3VHbDQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "oi_glass-2026-04-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass sees FY26 adjusted EPS $1.00-$1.50, consensus $1.66 - TipRanks",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBXOFA2Yk1Lbkt0eWQxdzRET1djQTExSGtONVFxcUhoV0ZCRVZmZVVNSk5kaW5xbWVSX2lBWlktb2UwcE1tOW1VWFBNMGZkWWlUdjlGQkItYm9sQ3VyMlZUb3dHZ2s4dWFnS2gxUXpqOFRwT0duYnA1VFdWMDVDb1VmZndJdHcxd0J4bk4zMVJMcXZRTUt6Y3Y3NC03RmlPWUZkNGRfdHBUaDQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-04-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar (FSLR) Q1 Earnings Report Preview: What To Look For - StockStory",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQazVkdDIxYWd2ek1DUXRncDFubDREdGhiZ0dTc19URVFLcC1GeDFaVW92OUJMNmY2SkF5dmtXbFNObFZiRU4zc0VpQ1FpUGU3QU14aGFpVkthdjVseng3VnVIaHpTaFBHM2ZzZGdVVnluWHlvRzB4d2VHc2NuQ1VnYmVuTEplbW9tVUcxX280WVZXM09hYjJxaG9RTDFIemU1b3R2cG51MWVudzVXVW9xQjRFdzBpbk5fTFIzc1R3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 215,
+    "too_old": 138,
+    "gate1_blocked": 28,
+    "gate2_blocked": 18,
+    "passed": 41,
+    "pass_rate": "18.2%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+      "Why Owens Corning (OC) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+      "$30K 'blessing': New roof gifted to Glenville Army veteran - The Daily Gazette",
+      "Skylands Capital LLC Grows Position in Owens Corning Inc $OC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為O-I Glass、Owens Corning、康寧相關動態：「Ashton Thomas Private Wealth LLC Sells 22,143 Shares of O...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Ashton Thomas Private Wealth LLC Sells 22,143 Shares of Owens Corning Inc $OC...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Longi Announces World Record Holding Solar Cell With Nearly 30% Efficiency - ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

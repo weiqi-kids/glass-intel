@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 28,
+  "gate2_fail": 18,
+  "passed": 41,
+  "gate2_samples": [
+    "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+    "Why Owens Corning (OC) Dipped More Than Broader Market Today - Yahoo Finance",
+    "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+    "$30K 'blessing': New roof gifted to Glenville Army veteran - The Daily Gazette",
+    "Skylands Capital LLC Grows Position in Owens Corning Inc $OC - MarketBeat"
+  ]
+}

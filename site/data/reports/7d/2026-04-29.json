@@ -1,0 +1,168 @@
+{
+  "date": "2026-04-29",
+  "date_range": {
+    "start": "2026-04-23",
+    "end": "2026-04-29"
+  },
+  "generated_at": "2026-04-29T10:11:54.775975Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-04-23-028",
+      "date": "2026-04-23",
+      "title": "Owens Corning (OC) down 12.1% since last earnings report: Can it rebound? - MSN",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 12,
+      "last_week": 30,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": -0.04
+    },
+    "earnings": {
+      "this_week": 25,
+      "last_week": 35,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": -0.02
+    },
+    "auto_glass_trends": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    },
+    "construction_activity": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.17
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "fuyao": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "first_solar": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "saint_gobain": {
+      "event_count": 5,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    },
+    "owens_corning": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "corning": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "flat_glass": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tata_chemicals": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 5
+    },
+    "longi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "oi_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 153,
+        "last": 174,
+        "change_pct": -12.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-23",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 51,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 5,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-23 ~ 2026-04-29）共 153 則事件，重點為「Owens Corning (OC) down 12.1% since last earnin...」。聖戈班表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "福耀玻璃",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
