@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T10:11:51.870762Z",
+  "updated_at": "2026-04-30T10:12:19.996779Z",
   "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
   "companies": [
     {
@@ -105,14 +105,14 @@
       "name": "隆基綠能",
       "ticker": "601012.SS",
       "currency": "CNY",
-      "ar": 11908490906,
-      "ar_prev": 10785010352,
-      "ar_qoq": "+10%",
-      "inventory": 14459934052,
-      "inv_prev": 13635073437,
-      "inv_qoq": "+6%",
-      "alert": false,
-      "quarter_date": "2025-06-30"
+      "ar": 10413835875,
+      "ar_prev": 11551104332,
+      "ar_qoq": "-10%",
+      "inventory": 18157647498,
+      "inv_prev": 14541724708,
+      "inv_qoq": "+25%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "nsg",

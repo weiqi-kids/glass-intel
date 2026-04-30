@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-30",
+  "total_events": 15,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "oi_glass": {
+      "count": 3,
+      "sentiment_avg": -0.67
+    },
+    "first_solar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "au_optronics": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": -0.15
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "glass_fiber_electronics": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

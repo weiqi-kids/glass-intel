@@ -1,0 +1,270 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:12:23.031232Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oi_glass-2026-04-30-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "O-I Glass (OI) Q1 Loss Deepens Skepticism Around Bullish Margin Recovery Narrative - simplywall.st",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0hFRjRxeXY5ZTlmOFRWejNmb3ZjUTk3eUM1U21ySWN2T0pkOERkbzB0RXJJX2Y0WFowelB1cXowNldteDRDRy1jRl95X3FYTk15ZmlJcWFGcTRLdnBjdmhsUVhVdHB1R2xYejNrTE4zLVJ4TGQ1WWFmNUo0TFEzYnJPV0lNTUFqd1hCRFNMcUVpU19Pd3Vid09JUDU2U05iMVRjM0NxazhHYWtaeEUzNnVweEZlOXdCNGw0UzRPNlBNQUXSAcgBQVVfeXFMTUF2U1RYWjR3dEVHSnl3bGpKWWZOR2Zzd2xVUXUzYWJ3STQ2N0N2a1VVa0VQN0ZjaGVuWXdjMms3Q3licTZOWWNVV3dQUzNKWnZxV3pWMnI4cVcyT21IOVZ3NFFPVk04T0VYMGw0dmpUSXlsY3lHSE1OQ2hFNUstdWthcmpKSWVQTWtfTkRoZFZ0b05DSlFoaG1YZm56UEZuemRMOHZHbGdVRDNzRUZCa3JXVVkwRzdYZ3dFaE00LXg2U2pwTlBhQ0I?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oi_glass-2026-04-30-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "O-I Glass Q1 2026 slides: Europe collapse drives 87% earnings plunge By Investing.com - Investing.com South Africa",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLW8wQktYN19uX2V5eVlwTGQxdE13YVVvN3BUem5ONnUwZjFuNHlLUE93YUVQTWxsbUk4aHBCX01oT0xENTJBay1PZGNaaW5reEk5S01UN1J5ZDF1V1dPSjZHVWFQLXhSRWdyM1huS1FuX1U4WVpwSkZ1ZnU2dlVQZnRodVBhbHZQX0JtSWw3SkVHa1d2cFlsRVN2UXRCTnBRY0RUMXJfZEZteHgwcE5MSVcwME9USXd1dUpSMUdR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "au_optronics-2026-04-30-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AU Optronics posts slight first-quarter loss and warns of softer consumer electronics orders - digitimes",
+      "companies": [
+        "au_optronics"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzZrRDF0NkswRzA5ZzJ4U0pfWDlDbTU3Tkt3QlJqNUtpRFJHWkNZT1Y1dlIxU0kybndTV2REdUNobGc4WG5JLXBsRzU4N0REcFhSOUVBNENHSWV4d18ta0M5OHJTWkNYSWFaSU13aHNvMzlEVllyQ203bjZ6eUtHbUxHbnJQQWNsX3RQdjhEa2dGZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chem, Crompton among 3 stocks with up to 22% upside potential: Analyst - Business Standard",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVYxOTd2bC1tUVNJSVhyNjRBNlB0cmgtNGQ4ZlNCb1ZiME4tNUhwaUFONVMzMnVZU0E1YkRNWUR1TnFDTHdRdV9qNjhLSDU5LW9ub29mN18zT1JMVDY2SGdZamtTUHdXYWlQUFEzeUV6UHJBZGRFOXRVOVlLSVFIUTFjcWNrT0hYWmRUWXRSLXdDQW9vQ1JMSXllNHR3YTY4b0RhRlBPYXhvUmxqX0lLOHBRQS1JVUhvN0tMNVFlV0d2OXhsYnlIZ0tLVVpzaUJxUkVPQkl5OUNmenVwYkFLeWFYX3gwc2tGZW9jUjMwSVhLaFNBZDRRUkdNUlVxc3VP0gGGAkFVX3lxTE52YlhOUmhmbFg0aG5kOGpYRXlfRGVGa3lIVjlYdlpMTWgwN1A0aGl6dWpvSlpvX2dUd3ZubUtvWEdvNENyLWtZTzZ0cXZwUVFXWFNxcUhxN1BCMlAtQ2pnZlV4eGQ1aV9SUVlMRTVQZC1tS3dDN3Z6VG5BeVVJVUk0cld1RER6T0pPOFkwNGpuWkc3LWVxTlBXRGNrTXRTVGhGLUZEYjNYMHZaZnJTdlgyS0lhLXJ3UGVZS2RIbVI5aVF5N0lqM2doVEJMLTgtZ29xSFBTTGF2T1JvWlQweXZ6Z3hreEQ5UjlYU2lUam42OXhETFV2d0VMMkd6ZE5SMzBpaXpJY2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "xinyi_solar-2026-04-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Solar Sets 2026 AGM to Approve Dividend, Director Slate and 10% Buyback Mandate - TipRanks",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVFZna1FrNFYzTS00aV9GOGRzT1BfeW00QTNrNU9HUjQyRFBXMS1raUVrUk1HcWEwdzNnWnFhUjR2TWxJdmh2Y2ZERjkyZ2k2NWJYN2djRi12cDBGYXZ5cmVfT2NkRFFtdHgwR3EtdzVjOEdVXzVHXzlqcWJVSUFJdnBXSWFqTUFJUzFtUHJWa21MLTgzU0lSNlVUdjBsaGhoX2o1YzF5WWlrWG84Q25URTdfRWhnTXhGTmxzTGFRMEUyVWIzOExQSUU4dUpOYXJC?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.15,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "fuyao",
+        "count": 3
+      },
+      {
+        "id": "oi_glass",
+        "count": 3
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "au_optronics",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 206,
+    "too_old": 122,
+    "gate1_blocked": 30,
+    "gate2_blocked": 25,
+    "passed": 56,
+    "pass_rate": "24.0%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo",
+      "RBI’s new NBFC rules a blow to Tata Sons’ plan to stay unlisted - The Times of India",
+      "Tata Chemicals Ltd. is Rated Sell - Markets Mojo",
+      "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+      "Why Owens Corning (OC) Dipped More Than Broader Market Today - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為福耀玻璃、O-I Glass、信義光能相關動態：「O-I Glass (OI) Q1 Loss Deepens Skepticism Around Bullish ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "O-I Glass (OI) Q1 Loss Deepens Skepticism Around Bullish Margin Recovery Narr...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "O-I Glass Q1 2026 slides: Europe collapse drives 87% earnings plunge By Inves...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

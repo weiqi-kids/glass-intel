@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 30,
+  "gate2_fail": 25,
+  "passed": 56,
+  "gate2_samples": [
+    "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo",
+    "RBI’s new NBFC rules a blow to Tata Sons’ plan to stay unlisted - The Times of India",
+    "Tata Chemicals Ltd. is Rated Sell - Markets Mojo",
+    "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+    "Why Owens Corning (OC) Dipped More Than Broader Market Today - Yahoo Finance UK"
+  ]
+}
