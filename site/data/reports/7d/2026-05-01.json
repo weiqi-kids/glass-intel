@@ -1,0 +1,183 @@
+{
+  "date": "2026-05-01",
+  "date_range": {
+    "start": "2026-04-25",
+    "end": "2026-05-01"
+  },
+  "generated_at": "2026-05-01T09:52:11.087796Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "corning-2026-04-26-001",
+      "date": "2026-04-26",
+      "title": "Owens Corning Inc $OC Shares Bought by Quent Capital LLC - MarketBeat",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 39,
+      "last_week": 35,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": -0.04
+    },
+    "inventory": {
+      "this_week": 12,
+      "last_week": 30,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": -0.04
+    },
+    "construction_activity": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.25
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -1.0
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "owens_corning": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "corning": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "fuyao": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "saint_gobain": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "flat_glass": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tata_chemicals": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 7
+    },
+    "longi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "oi_glass": {
+      "event_count": 6,
+      "sentiment_avg": -0.25,
+      "rank": 3
+    },
+    "first_solar": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 5
+    },
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "au_optronics": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 11
+    },
+    "xinyi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 193,
+        "last": 187,
+        "change_pct": 3.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-25",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 59,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 44,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 40,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 6,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-25 ~ 2026-05-01）共 193 則事件，重點為「Owens Corning Inc $OC Shares Bought by Quent Ca...」。O-I Glass、友達情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "O-I Glass",
+        "reason": "本週情緒偏負面（-0.2），共 6 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "友達",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Owens Corning",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

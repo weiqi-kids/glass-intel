@@ -1,0 +1,224 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:52:11.018813Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-05-01-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning to sell glass reinforcement business to Praana Group - cemnet.com",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUozZFI4bDM4TDA3RDFqU1hQN3E5RjcyRmc2QW50UWI2U3JjbG0zQkFjd0tKaWdjbWdDN2NaR3JETUlWRjhZeF9tYVpIMnNrcnpNQUlMclR1TWhDb05WQ2ozNXJ4V2RlVV8yelo0N1dkRngzREFtVHJ1ZkhEOUUweGV0Z0ZDM2YyQ09RWE9vRFVhVlJ2aEV3bV9pVW5acHFuTEZpLW5Ub2JIY3M1Rm5IT0V3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-05-01-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "First Solar (FSLR) Reports Record Q1 2026 Revenue and Strong Out - GuruFocus",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVR2LWQ1SHhRbVFYanBlNDdWNjdvbjdhYnhZcjR3eWVIcU1salpyejl3cXd4c2JqeFEza2VfUWpaVHg3VDBxdFdrRnBkcTRaQUxtcFM4UUViLWFuQ2dWb0xYQ1pydS1wMk4wZ0J4bmZPMHVTX3dKeGZDcjNiOEhLYk83S0FQbV82V0tBaERsd2NLSlFISjdDNXh0UTZIdUE4NnFTZ0F4REw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_glass-2026-05-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Glass Holdings Limited Annual Report 2025: Financial Performance, Business Outlook, Corporate Governance, and Connected Transactions - Minichart",
+      "companies": [
+        "xinyi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdHBPQ3VxS2ZyT1BmOHZvTUpHVk5OUVlmMFItWjRmN2hpSXVpcEQtQXJaSjR2OXJWRnlGTUM5TmtySHZzelJJd2JBcUNhUkdEZERyVUNXbXlsNEtIaHBFWjBMQUVsMTNfdnlHcXQzTlBPX1ViRThqczB5QlEzRDJxc280b0RxVlhJT1Z0QzkyMHdqZnRkR2JxQnJ6ZDdQaV85M3VULXhfaVEwWXZHTHpiMjk2ZlUtMUZwck5tSDF3OUJGaGw2aF9iWWR6QVVtLXhXTWhiZktManNISm83ejY5OE1hZWRoWl9GbkRTbjBua0lEWlN3Nkx1UDFPYVJ1SV9iTUgydEtn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Energy Holdings Limited Annual Report 2025: Financial Performance, Governance, and Strategic Developments - Minichart",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaldIRXQ1clVDZVA4VzJsS281QktaRDd2NzM4cy1rU01qTUNUWjZUZGE4VVh3NnFvM2g0Z0lBX29xRldOOW1SeU5qSjZRSHlJUDFWMG9MZW5jWFgzWGxnMXA3Y0hWOGVMc1RMc09YX2lMNHlFWktPWEtlTjEwbnR6a2hITEE0bkF6UDZlMHZCaGhZVHp4RGJHQjNXV1lUZFFXakNhNEYwSWNHcmxESVFkdDg3MjFBblhNUWdVNzJGTzQxYnpCRzNnWnJjR1pHdU5vMS1udUM1Y28xUzF3NUk2Mm5DSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "oi_glass-2026-05-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass Earnings Call Reveals Progress Amid Pressure - TipRanks",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXVfUTkyV21IbXpxc0pOUWptaDkzaEpqNlEwZzFJQUJ2aWs0ZDdjWDV6dG5rSi0wV3dFak0yV3B4T2QxNWxsWGlRZWRSaDBHa3Z0TmdOUmN3Z3F2UGZxVG1ITU5na085TjdZTDl3ODMtbmFHR2R0UEhPc2xydUNoNDd6djM4ZEdGQUZpanBJQ2cwb3FnUFAyTk9DU3hLMFB3UUJzUzZfamJCUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "xinyi_glass",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 223,
+    "too_old": 140,
+    "gate1_blocked": 23,
+    "gate2_blocked": 16,
+    "passed": 37,
+    "pass_rate": "17.1%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo",
+      "RBI’s new NBFC rules a blow to Tata Sons’ plan to stay unlisted - The Times of India",
+      "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+      "Owens Corning (OC) Valuation Check After Recent Pullback And Long Term Return Gap - simplywall.st",
+      "Saint-Gobain 1Q sales slip 2% - cemnet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為First Solar、Owens Corning、康寧相關動態：「Owens Corning to sell glass reinforcement business to Pra...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning to sell glass reinforcement business to Praana Group - cemnet.com（財報）",
+        "level": "red"
+      },
+      {
+        "text": "First Solar (FSLR) Reports Record Q1 2026 Revenue and Strong Out - GuruFocus（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

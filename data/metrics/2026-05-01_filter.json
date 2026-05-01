@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 23,
+  "gate2_fail": 16,
+  "passed": 37,
+  "gate2_samples": [
+    "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo",
+    "RBI’s new NBFC rules a blow to Tata Sons’ plan to stay unlisted - The Times of India",
+    "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+    "Owens Corning (OC) Valuation Check After Recent Pullback And Long Term Return Gap - simplywall.st",
+    "Saint-Gobain 1Q sales slip 2% - cemnet.com"
+  ]
+}

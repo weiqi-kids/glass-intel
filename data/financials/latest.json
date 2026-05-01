@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T10:12:19.996779Z",
+  "updated_at": "2026-05-01T09:52:07.799892Z",
   "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
   "companies": [
     {
@@ -133,14 +133,14 @@
       "name": "O-I Glass",
       "ticker": "OI",
       "currency": "USD",
-      "ar": 13000000,
-      "ar_prev": null,
+      "ar": null,
+      "ar_prev": 13000000,
       "ar_qoq": "N/A",
-      "inventory": 1002000000,
-      "inv_prev": 982000000,
-      "inv_qoq": "+2%",
+      "inventory": 1003000000,
+      "inv_prev": 1002000000,
+      "inv_qoq": "+0%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "owens_corning",
