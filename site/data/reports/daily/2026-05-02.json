@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:14:43.466496Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oi_glass-2026-05-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass Q1 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWs2aVB5QzBmNU1BYWJpZXlKckNKazd3MWMyMWVIUGVxWVNoUHlWOE50Tkw4XzRGaHoyT0Fvb3lSUVJhck5STW1fejZ0aFdUVFpDSEhGOE5vQVk3Zk1MbGhxZDBuX3BOX0ZmQ2FWSmJLaUthVm5tZUVBVlJYZmN5RDM1M1BrSzJXZVNHV0lNTktTa3k1aGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-05-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. $FSLR Position Reduced by Danske Bank A S - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWYtRkZGZXJxLVhUZmFVWV9ZUTVNTUtvVk9CckdSMnpJUkN5SUJyU1VKVEdENzRBZ0tPdlhuY1RESTQ4aVprMl83QXlZRmgwY0U0MVRkeG5hN0xpNjJEZTNvT0dzYXNEZWhsNjlmVkJfVWF3RWZqeTExTGRnNHZ6aGl1TDZGNExHcDI5WUpqT2VtTzc0Y093aGFoU2pOWWpSWERWcXdBTG9jS2dVMG53RjNnZmw3TW1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fuyao-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FUYAO GLASS INDUSTRY GROUP CO. LTD. UNSP ADR EACH REPR 0.25 ORD SHS To Go Ex-Dividend On May 15th, 2026 With 0.04371 USD Dividend Per Share - 富途牛牛",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVpaT1lSYjNLdURoZ0JSbmxwWkNkNWxTMjhfQVc4blBNQklJemtiUExzV3RiS091NHBlY29Vdi16ejdnOW5vTWExMDczelEwZDZjZVhJT3JpazlueTNvUGlCdzB5Sk1lNEZzZVJjT1BBcEdKWHNTNHFRbmg1U0VJc0g0WFBac2JfSUZBNUtnWU1KY2ktQUxnXw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Analysts Offer Insights on Technology Companies: First Solar (FSLR) and Monolithic Power (MPWR) - The Globe and Mail",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRW00ZC1DUThvUUczMkRhMUN4cU4ySmRoeUV0aFRnTFp4dXVuRGRFbEFJa2xHOUdnaTJMemgxYnFzamZfNFJTZklUZnNrQzVnd2ZpQUY0dkdGSnNaWkNkNjdZVHh6Q0RLcFJfVHBBTzYwbThVT0NMcGNVdkxvVkhFZlNMSng2XzhWeXBGSmpXR1dwS0pPUTVSeEtjRHVfcjJyRW04VUd2Y3lwVTMweGhiZlBacTRMWEsyejRGMFNUTHZWRzhXYllDZU5ycWxQSWlLSXNWV25YMnRpX3ZyTmpmNUhxYTM5V00wcHJQZlI0dUxZbExnZVI2TThOLVA5MXNy?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "fuyao",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 441,
+    "dup_title": 230,
+    "too_old": 138,
+    "gate1_blocked": 23,
+    "gate2_blocked": 14,
+    "passed": 36,
+    "pass_rate": "17.1%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo",
+      "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+      "Is Owens Corning (OC) Fairly Priced After Recent Share Price Rebound? - simplywall.st",
+      "Owens Corning Completes $645 Million Sale of Glass Reinforcements Business - citybiz",
+      "Owens Corning Elevates Todd Fister to Combined Finance-Operations Role - TipRanks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為First Solar、福耀玻璃、O-I Glass相關動態：「O-I Glass Q1 Earnings Call Highlights - MarketBeat」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "O-I Glass Q1 Earnings Call Highlights - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "First Solar, Inc. $FSLR Position Reduced by Danske Bank A S - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
