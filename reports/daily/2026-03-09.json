@@ -1,0 +1,163 @@
+{
+  "date": "2026-03-09",
+  "generated_at": "2026-05-03T02:39:01.750053Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-03-09-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Leader MaryBeth Tran Wins 2026 STEP Ahead Award - Roofing Contractor",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-09-028",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Solar Windows Market Analysis: Demand to Accelerate by 2035 Amid Net-Zero Construction Push - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-03-09-140",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass flags harsher-than-expected Q1 - Packaging Dive",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "flat_glass-2026-03-09-167",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flat Glass Group Relocates Hong Kong Principal Place of Business - TipRanks",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "oi_glass",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  }
+}

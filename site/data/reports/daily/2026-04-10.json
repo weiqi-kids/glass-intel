@@ -1,0 +1,238 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-05-03T02:39:08.060284Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-04-10-036",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Honors Top Roofing Contractors - Roofing Contractor",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-04-10-038",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning commits to stay in downtown Toledo with $250 million investment - WTOL",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "owens_corning-2026-04-10-044",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning stays in Toledo with $250 million investment - WTOL",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-04-10-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning commits to stay in downtown Toledo with $250 million investment - wtol.com",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-04-10-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tata Chemicals Ltd. Surges 8.76% to Day's High of Rs 691.3 — Outperforms Sector by 4.86 Percentage Points - Markets Mojo",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "solar_glass_demand": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 6
+      },
+      {
+        "id": "owens_corning",
+        "count": 5
+      },
+      {
+        "id": "agc",
+        "count": 3
+      },
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  }
+}

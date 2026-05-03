@@ -1,0 +1,29 @@
+{
+  "date": "2025-11-07",
+  "total_events": 3,
+  "by_company": {
+    "oi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    },
+    "owens_corning": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

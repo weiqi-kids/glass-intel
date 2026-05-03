@@ -1,0 +1,214 @@
+{
+  "date": "2026-04-11",
+  "generated_at": "2026-05-03T02:39:08.276014Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-04-11-041",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Valuation Check After Recent Share Price Rebound - simplywall.st",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-04-11-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Are Slowing Margins Quietly Rewriting Owens Corning’s (OC) Long-Term Profit Engine Story? - Yahoo Finance",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-04-11-149",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At O-I Glass (OI) Valuation As Fit To Win Turnaround Meets Revenue And Volatility Concerns - simplywall.st",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_glass-2026-04-11-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Glass Holdings (STU:XI9) Backlog Homes # - GuruFocus",
+      "companies": [
+        "xinyi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-11-148",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OI: Today's Analyst Rating Data & Price Target Update | OI Stock News - GuruFocus",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      },
+      {
+        "id": "innolux",
+        "count": 1
+      },
+      {
+        "id": "xinyi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  }
+}

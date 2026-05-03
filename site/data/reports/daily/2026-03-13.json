@@ -1,0 +1,195 @@
+{
+  "date": "2026-03-13",
+  "generated_at": "2026-05-03T02:39:02.393525Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-13-060",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Solar Glass Market Global Industry Size, Share & Forecast 2026-2032 | CAGR of 13.9% - openPR.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-03-13-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Weaker 2025 Earnings and Modest Dividend Will Impact Xinyi Solar Holdings (SEHK:968) Investors - simplywall.st",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "innolux-2026-03-13-035",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Innolux posts small 2025 profit during ongoing factory sale drama - digitimes",
+      "companies": [
+        "innolux"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-03-13-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CRH Announces Intention to Delist from the LSE and Cancel Preference Shares",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "innolux",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-05-03T02:39:06.547529Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-04-02-068",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Antibacterial Glass Market Is Going to Boom |• Corning Inc. • AGC Inc. - openPR.com",
+      "companies": [
+        "corning",
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-04-02-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-02-027",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Solar Photovoltaic Glass Market to Reach USD 72.4 Billion by 2032, Says Stratview Research - openPR.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "agc",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  }
+}

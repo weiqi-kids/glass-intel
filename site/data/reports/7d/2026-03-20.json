@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-20",
+  "date_range": {
+    "start": "2026-03-14",
+    "end": "2026-03-20"
+  },
+  "generated_at": "2026-05-03T02:39:03.767124Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "xinyi_glass-2026-03-14-095",
+      "date": "2026-03-14",
+      "title": "Xinyi Glass Holdings Ltd Stock Drops 5.1% Amid Broader Hong Kong Market Selloff - AD HOC NEWS",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 5,
+      "last_week": 12,
+      "week_over_week_change": "-58%",
+      "sentiment_this_week": 0.1
+    },
+    "inventory": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.33
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "xinyi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "flat_glass": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 1
+    },
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "owens_corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 8,
+        "last": 14,
+        "change_pct": -42.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-14",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

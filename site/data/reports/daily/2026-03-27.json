@@ -1,0 +1,132 @@
+{
+  "date": "2026-03-27",
+  "generated_at": "2026-05-03T02:39:05.256208Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-27-159",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BRIEF: Flat Glass profits, revenue slump on PV downturn - thebambooworks.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "flat_glass-2026-03-27-160",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flat Glass Group Proposes Final 2025 Dividend and Details Withholding Tax Terms - The Globe and Mail",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "flat_glass-2026-03-27-166",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flat Glass Group Publishes Audited 2025 Annual Results - The Globe and Mail",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-03-27-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "European and UK glass sectors unite to drive sustainability - Glass International",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "flat_glass",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  }
+}

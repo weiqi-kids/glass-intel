@@ -1,0 +1,107 @@
+{
+  "date": "2026-02-06",
+  "generated_at": "2026-05-03T02:38:56.789947Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "agc-2026-02-06-065",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings call transcript: AGC Inc Q4 2025 shows revenue beat, stock gains - Investing.com",
+      "companies": [
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "flat_glass-2026-02-06-169",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BlackRock's long position in H-shares of Flat Glass Group increases to 7.67% on Feb 2 from 6.42% - HKEX - marketscreener.com",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "agc",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  }
+}

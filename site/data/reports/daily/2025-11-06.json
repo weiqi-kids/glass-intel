@@ -1,0 +1,113 @@
+{
+  "date": "2025-11-06",
+  "generated_at": "2026-05-03T02:38:48.673900Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_solar-2025-11-06-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hong Kong Stock Market Midday Review | Major indices weakened amid volatility, with the Technology Index down 2%; photovoltaic stocks surged, Xinyi Solar and Flat Glass Group up over 6%; gold stocks rose, with Summit Gold climbing nearly 5%. - 富途牛牛",
+      "companies": [
+        "xinyi_solar",
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2025-11-06-117",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Ceramics and Eurodia Industrie Announce Strategic Partnership to Deliver Integrated Material and Process Solutions for Direct Lithium Extraction - Saint-Gobain",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  }
+}

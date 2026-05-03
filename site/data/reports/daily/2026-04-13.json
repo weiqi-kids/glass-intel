@@ -1,0 +1,288 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-05-03T02:39:08.708926Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-04-13-039",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Dividend equivalents add 351 units for Owens Corning (OC) director - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-04-13-042",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) director gains 124.959-share dividend-equivalent award - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "owens_corning-2026-04-13-045",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) director adds 84.53 shares via stock award - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "owens_corning-2026-04-13-046",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Dividend equivalents add 163 Owens Corning (NYSE: OC) shares - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "owens_corning-2026-04-13-047",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) director adds 367 dividend-equivalent share units in Form 4 - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "glass_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 7,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 7
+      },
+      {
+        "id": "corning",
+        "count": 7
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 5
+      },
+      {
+        "id": "oi_glass",
+        "count": 4
+      },
+      {
+        "id": "nsg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "inventory",
+        "count": 11
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "glass_price",
+        "count": 2
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  }
+}

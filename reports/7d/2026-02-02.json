@@ -1,0 +1,96 @@
+{
+  "date": "2026-02-02",
+  "date_range": {
+    "start": "2026-01-27",
+    "end": "2026-02-02"
+  },
+  "generated_at": "2026-05-03T02:38:56.026050Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tata_chemicals-2026-02-02-004",
+      "date": "2026-02-02",
+      "title": "Tata Chemicals Q3 loss widens to Rs 93 crore as margins shrink on rising costs - MSN",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 6,
+      "last_week": 1,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": -0.25
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "au_optronics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "tata_chemicals": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 2
+    },
+    "saint_gobain": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 7,
+        "last": 1,
+        "change_pct": 600.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-27",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-29",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-02",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

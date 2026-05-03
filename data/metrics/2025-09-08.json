@@ -1,0 +1,20 @@
+{
+  "date": "2025-09-08",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glass_fiber_electronics": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

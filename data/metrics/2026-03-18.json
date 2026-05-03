@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-18",
+  "total_events": 2,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

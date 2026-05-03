@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-26",
+  "date_range": {
+    "start": "2026-02-20",
+    "end": "2026-02-26"
+  },
+  "generated_at": "2026-05-03T02:38:59.663881Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-02-25-005",
+      "date": "2026-02-25",
+      "title": "Owens Corning Reports Fourth-Quarter and Full-Year 2025 Results - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "glass_fiber_electronics": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 4,
+      "last_week": 8,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tata_chemicals": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "owens_corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "saint_gobain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 13,
+        "change_pct": -53.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-25",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-26",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-05-03T02:39:05.903934Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nsg-2026-03-30-077",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Apollo Wagers $3.7 Billion on Nippon Sheet Glass Recovery—Is the Competitive Edge Strong Enough to Offset the Risk? - Bitget",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-03-30-108",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Solar Holdings Ltd Stock: Navigating Solar Sector Pressures Amid Global Energy Transition - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "flat_glass-2026-03-30-161",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BOCOM International Upgrades Flat Glass Group (06865.HK) to 'Buy', Lowers TP to HKD10.65 - AASTOCKS.com",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-03-30-052",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar - statistics & facts - Statista",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nsg",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  }
+}

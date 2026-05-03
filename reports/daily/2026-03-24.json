@@ -1,0 +1,186 @@
+{
+  "date": "2026-03-24",
+  "generated_at": "2026-05-03T02:39:04.607140Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nsg-2026-03-24-084",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Stock Faces Pressure as Apollo's $3.7 Billion Nippon Sheet Glass Deal Reshapes Global G - AD HOC NEWS",
+      "companies": [
+        "nsg",
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nsg-2026-03-24-079",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Industry Acquisition Set to Take NSG Private - USGlass Magazine",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nsg-2026-03-24-080",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Sheet Glass (5202 JP): The Cash-Out Offer Is a Bittersweet Bailout - Smartkarma",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "nsg-2026-03-24-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Sheet Glass to Eliminate Class A Shares in Major Equity Conversion - The Globe and Mail",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "nsg-2026-03-24-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Apollo Funds to Acquire Nippon Sheet Glass Company in $3.7 Billion Transaction | APO Stock News - Quiver Quantitative",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nsg",
+        "count": 7
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  }
+}

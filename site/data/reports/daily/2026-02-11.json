@@ -1,0 +1,89 @@
+{
+  "date": "2026-02-11",
+  "generated_at": "2026-05-03T02:38:57.226591Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oi_glass-2026-02-11-145",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "O-I Glass losses continue in 2025’s fourth quarter - Toledo Blade",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "oi_glass-2026-02-11-147",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass reorienting portfolio to boost non-alcoholic beverages - Packaging Dive",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "oi_glass",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  }
+}

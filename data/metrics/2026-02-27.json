@@ -1,0 +1,29 @@
+{
+  "date": "2026-02-27",
+  "total_events": 4,
+  "by_company": {
+    "xinyi_glass": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "xinyi_solar": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "capacity": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

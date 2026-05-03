@@ -1,0 +1,55 @@
+{
+  "date": "2024-05-05",
+  "generated_at": "2026-05-03T02:38:38.236254Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2024-05-05-023",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s Flat Glass to Invest USD290 Million to Build PV Glass Plant in Indonesia - Yicai Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  }
+}

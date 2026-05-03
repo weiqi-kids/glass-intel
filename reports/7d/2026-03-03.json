@@ -1,0 +1,141 @@
+{
+  "date": "2026-03-03",
+  "date_range": {
+    "start": "2026-02-25",
+    "end": "2026-03-03"
+  },
+  "generated_at": "2026-05-03T02:39:00.741419Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-02-25-005",
+      "date": "2026-02-25",
+      "title": "Owens Corning Reports Fourth-Quarter and Full-Year 2025 Results - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 11,
+      "last_week": 4,
+      "week_over_week_change": "+175%",
+      "sentiment_this_week": 0.09
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.5
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "auto_glass_trends": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "tata_chemicals": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "owens_corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "saint_gobain": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "xinyi_glass": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 1
+    },
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 14,
+        "last": 9,
+        "change_pct": 55.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-25",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-26",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-27",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-28",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-02",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-03",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

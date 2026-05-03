@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-22",
+  "total_events": 4,
+  "by_company": {
+    "sibelco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "flat_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

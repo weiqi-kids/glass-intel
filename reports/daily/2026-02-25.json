@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-25",
+  "generated_at": "2026-05-03T02:38:59.369759Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-02-25-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Reports Fourth-Quarter and Full-Year 2025 Results - Yahoo Finance",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-02-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals on Driving AI-Led Procurement Transformation and Global Operational Excellence - ChemAnalyst",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  }
+}

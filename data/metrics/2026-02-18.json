@@ -1,0 +1,24 @@
+{
+  "date": "2026-02-18",
+  "total_events": 4,
+  "by_company": {},
+  "by_topic": {
+    "construction_activity": {
+      "count": 2,
+      "sentiment_avg": 0.83
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-01",
+  "total_events": 8,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "oi_glass": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "innolux": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "owens_corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "inventory": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,148 @@
+{
+  "date": "2026-02-18",
+  "generated_at": "2026-05-03T02:38:58.297914Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-02-18-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CRH Reports Q4 and FY 2025 Results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-02-18-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CRH Continues Share Buyback Program",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-02-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CRH Declares Quarterly Dividend",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-02-18-210",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Photovoltaic Glass Market Growth Accelerates with 7.0% CAGR Supported by Increasing Utility-Scale Solar Projects - openPR.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.83,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "construction_activity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  }
+}

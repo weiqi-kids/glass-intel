@@ -1,0 +1,21 @@
+{
+  "date": "2025-08-22",
+  "total_events": 2,
+  "by_company": {
+    "longi": {
+      "count": 2,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

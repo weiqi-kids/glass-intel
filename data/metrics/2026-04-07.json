@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-07",
+  "total_events": 2,
+  "by_company": {
+    "sibelco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

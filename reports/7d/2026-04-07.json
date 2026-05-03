@@ -1,0 +1,149 @@
+{
+  "date": "2026-04-07",
+  "date_range": {
+    "start": "2026-04-01",
+    "end": "2026-04-07"
+  },
+  "generated_at": "2026-05-03T02:39:07.503126Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "corning-2026-04-01-008",
+      "date": "2026-04-01",
+      "title": "Owens Corning Inc (OC) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "solar_glass_demand": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.33
+    },
+    "earnings": {
+      "this_week": 16,
+      "last_week": 33,
+      "week_over_week_change": "-52%",
+      "sentiment_this_week": -0.0
+    },
+    "inventory": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.14
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 5
+    },
+    "oi_glass": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "innolux": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "corning": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "owens_corning": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "agc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "sibelco": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 3
+    },
+    "first_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nsg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "xinyi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 21,
+        "last": 35,
+        "change_pct": -40.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-01",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-06",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-07",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

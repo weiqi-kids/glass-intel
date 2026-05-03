@@ -1,0 +1,198 @@
+{
+  "date": "2026-03-31",
+  "generated_at": "2026-05-03T02:39:06.118043Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nsg-2026-03-31-076",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan Industrial Solutions Owns 9.07% Stake In Nippon Sheet Glass Co Ltd, Regulatory Filing Shows - TradingView — Track All Markets",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-31-083",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Owners of Pilkington Glass to be acquired by asset management firm, reports say - St Helens Star",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_glass-2026-03-31-089",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Glass dividend jumps 22pc - The Standard (HK)",
+      "companies": [
+        "xinyi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_glass-2026-03-31-090",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morning Market Movements | Xinyi Glass Falls Nearly 4%, Put-to-Call Ratio Hits Year-to-Date High - 富途牛牛",
+      "companies": [
+        "xinyi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "flat_glass-2026-03-31-158",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Consensus EPS Estimates For Flat Glass Group Co., Ltd. (HKG:6865) Just Fell Dramatically - simplywall.st",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "xinyi_glass",
+        "count": 2
+      },
+      {
+        "id": "nsg",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  }
+}

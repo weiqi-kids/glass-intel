@@ -1,0 +1,116 @@
+{
+  "date": "2026-01-05",
+  "generated_at": "2026-05-03T02:38:53.582378Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-01-05-173",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China’s Longi to Replace Silver in Solar Panels to Reduce Costs - Bloomberg.com",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "innolux-2026-01-05-200",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Innolux unveils next gen MicroLED and N3D display ecosystem - Vietnam Investment Review - VIR",
+      "companies": [
+        "innolux"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-01-05-029",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China’s Longi to Replace Silver in Solar Panels to Reduce Costs - Bloomberg",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "innolux",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  }
+}

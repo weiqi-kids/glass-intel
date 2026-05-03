@@ -1,0 +1,25 @@
+{
+  "date": "2025-08-11",
+  "total_events": 2,
+  "by_company": {
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

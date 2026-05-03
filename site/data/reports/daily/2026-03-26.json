@@ -1,0 +1,219 @@
+{
+  "date": "2026-03-26",
+  "generated_at": "2026-05-03T02:39:05.038978Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "flat_glass-2026-03-26-025",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Flat Glass Group: Revenue and profit fell on PV glass price declines, but gross margin and liquidity improved - TradingView",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glass_price",
+        "solar_glass_demand",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "flat_glass-2026-03-26-163",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flat Glass Group: Revenue and profit fell on PV glass price declines, but gross margin and liquidity improved - TradingView — Track All Markets",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glass_price",
+        "solar_glass_demand",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "flat_glass-2026-03-26-165",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flat Glass Group Co., Ltd. Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "fuyao-2026-03-26-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fire breaks out at Fuyao plant supplying major automakers - CBT News",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "nsg-2026-03-26-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Freshfields Advises Nippon Sheet Glass on Apollo-Led Privatisation and Restructuring - ETLegalWorld.com",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "flat_glass",
+        "count": 7
+      },
+      {
+        "id": "agc",
+        "count": 1
+      },
+      {
+        "id": "fuyao",
+        "count": 1
+      },
+      {
+        "id": "nsg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "glass_price",
+        "count": 2
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2025-11-09",
+  "generated_at": "2026-05-03T02:38:49.094110Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2025-11-09-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi to Attend COP30 in Brazil, Discussing Building a Resilient Zero-Carbon World - Longi",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  }
+}

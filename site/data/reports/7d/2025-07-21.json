@@ -1,0 +1,90 @@
+{
+  "date": "2025-07-21",
+  "date_range": {
+    "start": "2025-07-15",
+    "end": "2025-07-21"
+  },
+  "generated_at": "2026-05-03T02:38:41.949504Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tata_chemicals-2025-07-15-002",
+      "date": "2025-07-15",
+      "title": "Digitate and Tata Chemicals Collaborate on Spend Intelligence Solutions to Power Enterprise-Grade Procurement - Business Wire",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tata_chemicals": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "innolux": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 1,
+        "change_pct": 300.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-07-15",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

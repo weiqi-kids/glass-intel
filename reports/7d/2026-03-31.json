@@ -1,0 +1,150 @@
+{
+  "date": "2026-03-31",
+  "date_range": {
+    "start": "2026-03-25",
+    "end": "2026-03-31"
+  },
+  "generated_at": "2026-05-03T02:39:06.203630Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "flat_glass-2026-03-26-025",
+      "date": "2026-03-26",
+      "title": "Flat Glass Group: Revenue and profit fell on PV glass price declines, but gross margin and liquidity improved - TradingView",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 33,
+      "last_week": 25,
+      "week_over_week_change": "+32%",
+      "sentiment_this_week": -0.06
+    },
+    "inventory": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": -0.08
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "glass_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "solar_glass_demand": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nsg": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "xinyi_solar": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 3
+    },
+    "agc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "flat_glass": {
+      "event_count": 12,
+      "sentiment_avg": -0.08,
+      "rank": 1
+    },
+    "fuyao": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 5
+    },
+    "sibelco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "first_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "xinyi_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "saint_gobain": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 35,
+        "last": 28,
+        "change_pct": 25.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-25",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-26",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-27",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-28",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 10,
+      "sentiment_avg": 0
+    }
+  ]
+}

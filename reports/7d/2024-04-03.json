@@ -1,0 +1,80 @@
+{
+  "date": "2024-04-03",
+  "date_range": {
+    "start": "2024-03-28",
+    "end": "2024-04-03"
+  },
+  "generated_at": "2026-05-03T02:38:38.110560Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "solvay-2024-04-03-028",
+      "date": "2024-04-03",
+      "title": "David Einhorn Touts His Solvay Investment, Sends Stock up 18% - markets.businessinsider.com",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "solvay": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2024-03-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-03-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-03-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-03-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-04-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-04-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-04-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}
