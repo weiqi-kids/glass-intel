@@ -1,0 +1,16 @@
+{
+  "total_raw": 441,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 25,
+  "gate2_fail": 14,
+  "passed": 11,
+  "gate2_samples": [
+    "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo",
+    "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+    "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+    "Owens Corning Completes $645 Million Sale of Glass Reinforcements Business - citybiz",
+    "Is Owens Corning (OC) Fairly Priced After Recent Share Price Rebound? - simplywall.st"
+  ]
+}

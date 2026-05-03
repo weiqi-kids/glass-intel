@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:26:51.838596Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-05-03-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Is Owens Corning (OC) Fairly Priced After Recent Housing Cycle Sentiment Swings - Yahoo Finance",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ192emZ2TmdZWkpZSk9xbDU2Z0VyNWRia1JVZVl2Ukp2empQaU5PN1NmSkJLajM0b1ZiM3lpNHZ4aGRCVGcxeEFzZ296ZHR1TmVaUEdKRV84eFFfMlQ5bno4SURIdWo3U2dXd2F1aDZwXzUwcWdFQ3hNR05xZlZLOWpSVmhFNE5ocTdDdzJuVlp2VUN1bUFRUEZTZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-05-03-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Inc (NYSE:OC) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0JnRE80dU9fV1Eyalp4azMzVEd4VV9mTUNqTFNwakZyN0R6b0RIeXdIaDJjcHQ2T0VwY0J5SXNoTEdudUNYdkFFRlBZYjE5ZlFjalJ0cTFVcVJPQ3RJRHcyVVJzdHRHcWtyQ0E0UHotUzUtVkxoV2Nyei1FN3NFQ3JfSjJEWDNVZkEwN25RV0VPQm1yWmhyTWpOem1uR2NMbTVjS0QybGE3R0ZpUzlMdWJiSDVHVDZ5MWtlTVI1LV9jekU5TjJVWnhNLUlpTW0xZ3dF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-05-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "O-I Glass (OI) Is Down 11.3% After Cutting 2026 EPS Guidance on European Headwinds and Costs - simplywall.st",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRHpnM0dWWC1BdEVsa1FlZV95RlRsWTJzNGs0UkNPeERMMGVja3BlVjVyYTJVNDhYZHBlRVd1RW9LVGI4bU02SUl0MktudXJfOWkyZ3RNUFowUEVmU3dWZlZQZXc3WnBBV2xTajdPbDdhRmxTLTlZUVFlR0twN1g2b1REd0tTYlY5eHl1RmU0SzNFdEo5SUJpYmhWdnIxRnZsamZkNWNuLVhaWl8xVzRHdjFyVWhxaEt5N0NkRnJvS1laaERWSmRv0gHHAUFVX3lxTE9EemczR1ZYLUF0RWxrUWVlX3lGVGxZMnM0azRSQ094REwwZWNrcGVWNXJhMlU0OFhkcGVFV3VFb0tUYjhtTTZJSXQyS251cl85aTJndE1QWjBQRWZTd1ZmVlBldzdacEFXbFNqN09sN2FGbFMtOVlRUWVHS3A3WDZvVER3S1NiVjl4eXVGZTRLM0V0SjlJQmliaFZ2cjFGdmxqZmQ1Y24tWFpaXzFXNEd2MXJVaHFoS3k3Q2RGcm9LWVpoRFZKZG8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-05-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar, Inc. (NASDAQ:FSLR) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnNkV25sNWxtR3pOMTBiMTlmUWNyZEJPY0hhRVVndDk5b01sdVVGRTV2MGEzTlFrUkNwU0R6NjVLNUc3VVpRUDJVeHV4a3JzTGpuUmpqajM2QmtlUDlVenZ6bTZZS3g5cWFBQllFaDZ2RTdJZTNLZkNKVkFnbnJSc1I2ZDc4MXRFNmIwcFpta1RFemMzZ1hBOWhxSzhUUzNNN0hqUVF4QTBVeG9xSS1oMzlrNjV1TFpzRk1FaHJXdHYxZnpHUFJTS1hGTHFFdzJUMk5SdDU2amM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 441,
+    "dup_title": 246,
+    "too_old": 145,
+    "gate1_blocked": 25,
+    "gate2_blocked": 14,
+    "passed": 11,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo",
+      "Tata Chemicals Ltd. Surges 7.35% to Day's High of Rs 784 — Outperforms Sector by 6.13 Percentage Poi",
+      "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+      "Owens Corning Completes $645 Million Sale of Glass Reinforcements Business - citybiz",
+      "Is Owens Corning (OC) Fairly Priced After Recent Share Price Rebound? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Owens Corning、康寧、O-I Glass相關動態：「Is Owens Corning (OC) Fairly Priced After Recent Housing ...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Owens Corning (OC) Fairly Priced After Recent Housing Cycle Sentiment Swin...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Owens Corning Inc (NYSE:OC) Given Average Recommendation of \"Moderate Buy\" by...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
