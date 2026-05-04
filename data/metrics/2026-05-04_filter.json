@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 23,
+  "gate2_fail": 14,
+  "passed": 18,
+  "gate2_samples": [
+    "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo",
+    "How Investors Are Reacting To Owens Corning (OC) Glass Reinforcements Sale And CFO/COO Power Shift -",
+    "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+    "Owens Corning VentSure Inflow Eave Vent, 48x15x1in, 10 Pack - portalcantagalo.com.br",
+    "Owens Corning Completes $645 Million Sale of Glass Reinforcements Business - citybiz"
+  ]
+}
