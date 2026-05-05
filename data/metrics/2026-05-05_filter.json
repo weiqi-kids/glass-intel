@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 24,
+  "gate2_fail": 20,
+  "passed": 58,
+  "gate2_samples": [
+    "Tata Chemicals Consolidated March 2026 Net Sales at Rs 3,438.00 crore, down 2.02% Y-o-Y - Moneycontr",
+    "Tata Chemicals Faces Financial Strain Amid Heavy Losses and Market Challenges - Devdiscourse",
+    "Tata Chemicals Standalone March 2026 Net Sales at Rs 1,254.00 crore, up 2.87% Y-o-Y - Moneycontrol.c",
+    "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+    "How Investors Are Reacting To Owens Corning (OC) Glass Reinforcements Sale And CFO/COO Power Shift -"
+  ]
+}
