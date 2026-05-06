@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T10:08:25.424927Z",
+  "updated_at": "2026-05-06T06:01:43.509117Z",
   "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
   "companies": [
     {
@@ -217,14 +217,14 @@
       "name": "信義玻璃",
       "ticker": "0868.HK",
       "currency": "HKD",
-      "ar": 6843398000,
-      "ar_prev": 1881156000,
-      "ar_qoq": "+264%",
-      "inventory": 3860789000,
-      "inv_prev": 3492205000,
-      "inv_qoq": "+11%",
+      "ar": 1987552000,
+      "ar_prev": 6843398000,
+      "ar_qoq": "-71%",
+      "inventory": 3543410000,
+      "inv_prev": 3860789000,
+      "inv_qoq": "-8%",
       "alert": true,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "xinyi_solar",

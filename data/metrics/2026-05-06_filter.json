@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 23,
+  "gate2_fail": 17,
+  "passed": 42,
+  "gate2_samples": [
+    "Tata Chemicals Consolidated March 2026 Net Sales at Rs 3,438.00 crore, down 2.02% Y-o-Y - Moneycontr",
+    "Tonia Schoen Elevated to Vice President of Talent at Owens Corning - hrtoday.in",
+    "How Investors Are Reacting To Owens Corning (OC) Glass Reinforcements Sale And CFO/COO Power Shift -",
+    "Owens Corning Completes $645 Million Sale of Glass Reinforcements Business - citybiz",
+    "Is Owens Corning (OC) Fairly Priced After Recent Share Price Rebound? - simplywall.st"
+  ]
+}
