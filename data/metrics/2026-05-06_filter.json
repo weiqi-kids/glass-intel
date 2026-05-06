@@ -1,11 +1,11 @@
 {
-  "total_raw": 440,
-  "dup_title": 218,
+  "total_raw": 881,
+  "dup_title": 466,
   "no_date": 0,
-  "too_old": 140,
-  "gate1_fail": 23,
-  "gate2_fail": 17,
-  "passed": 42,
+  "too_old": 284,
+  "gate1_fail": 47,
+  "gate2_fail": 32,
+  "passed": 52,
   "gate2_samples": [
     "Tata Chemicals Consolidated March 2026 Net Sales at Rs 3,438.00 crore, down 2.02% Y-o-Y - Moneycontr",
     "Tonia Schoen Elevated to Vice President of Talent at Owens Corning - hrtoday.in",

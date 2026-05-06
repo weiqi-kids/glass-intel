@@ -1,15 +1,125 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:01:46.528661Z",
+  "generated_at": "2026-05-06T10:24:08.571594Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "tata_chemicals-2026-05-06-001",
-      "importance_score": 0.75,
+      "event_id": "owens_corning-2026-05-06-014",
+      "importance_score": 1.0,
       "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Owens Corning (NYSE: OC) posts Q1 2026 loss amid GR divestiture hit - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGUydjdIRklENHQySzl2M1FPN05CQWFpSjNyQU80MDZFTkdlWXBtNVg1alNJVEVlelFuMVN5REtHV29RcTYzYjNsbXV4YU1yYnFTcTRzV3V4Qldyc3JJOWh4Y3lFN0pyWGxOWC1wQVlJXzQ2RW01RURERWlvYTNiMkdOWTFDNkJIa09GS0U4Q0ZxTHBwTlNoTVlPLXhDY25XY0c2QUtTZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-05-06-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
         "涉及財報"
       ],
-      "title": "Tata Chemicals Ltd. Reports Sharp Deterioration in Quarterly Financial Performance - Markets Mojo",
+      "title": "Owens Corning Delivers Resilient First-Quarter Revenue and Margin Results from Continuing Operations While Completing Portfolio Shift to Branded Building Products Leader - Yahoo! Finance Canada",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVBJWEhJMjNLR0RuOFdmOVJvcUF0NnN5LXFwQ01ZSW45NnR2eFVwd2ZEYWdSaEJxV004Tl9DY1JjSmdhT3JhZnpiR0FibDJUZVRQWkhlT1ZXWjVYWWxsS0tHc1R1aXZaZ1ZnUm1oYmJiTDYxNGFWNHk1QW92WEVuTkp2cGF3OVpPRTlYU0pYWnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "owens_corning-2026-05-06-015",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning: Q1 Earnings Snapshot - marketscreener.com",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXV2NmU0VTNDeXkwMkgwcGJ1dDk3MzVNWldmQmJNOG1FQk1TREtDVXJNbERHdW9tc3BsZUROY29Cekl4SE1vMWNnemMyTEJLMGg2aGJmUUtuUFdNV1BEdGEyaW13a29hellEak8tdDJWc09mV1ZDRWhCUnVhTVZDSnRxbVpFdjd2UW9jRnRndkg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "owens_corning-2026-05-06-016",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (NYSE: OC) Q1 2026 profit drops but Q2 margin outlook improves - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanB3dnBTUlduUTEzRkF2bHdBSmFVeXJXSWIyblJ6V2Rrb2Q4UkZfXzZtcjZ6bGJmOFFRRnhtYzhMMzJCRnpYdWoxNktMWjJ5ZUQ5X1F0YkkzWkVSaDFBUmxTN3g3aEdnVnFfeVpER2tTUFVfZkNEV09rNVRZZ1NJckU1dll4N1hRR1NxbDdsdnNxdldKbm50dFJ1QlhDVUl1T3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-05-06-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tata Chemicals Q4FY26: Net Loss Widens to ₹2,132 Cr; Audited Results Published - scanx.trade",
       "companies": [
         "tata_chemicals"
       ],
@@ -21,128 +131,32 @@
         "earnings"
       ],
       "sentiment": {
-        "label": "neutral",
-        "score": 0.0
+        "label": "negative",
+        "score": -1.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORWgxS1RyZ1dnOE1mUEFCMlUyalNJMGZhVDkwLS1zRXJ1UHYyMHFSUGhIRlU5RkNVdXZuMWdDYldzYVBZemR0SGZINlYtNWJDSWRCYjhXbEg5Q2xxV0lCa3pIbVBNOUhrSlNyNFFLbVotN0gwb3MxbjZTNWVQYUtQdThra3Z6dk1FNW9PcUx1MTYtRDdTWU8zLV9XT0lJajJ3cFV4ZFZnQlRURk13NXNjaWlpcmlJcWxJaElpVERQem5JS1FRUzhGNC1IempyMlNkVVlGcDFn?oc=5"
-    },
-    {
-      "rank": 2,
-      "event_id": "saint_gobain-2026-05-06-003",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "Saint-Gobain Sekurit India Ltd Valuation Shifts Signal Elevated Price Risk - Markets Mojo",
-      "companies": [
-        "saint_gobain"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "earnings"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc1Bna3hqQWVFTkVSR1JhaDFmWXhNUFJQMDgwbHVweGtUbWpQMHluOU03SmFVLUpvN2tWMzRMdjVLOF9Udzh2aVNpdk5uV0lKOXZ1eGkteWZSZVdNdmhYdlVyU2F2VHlUNzJzY2FDRXFJcEFRTXE0R1B4dkVjQ1B2eTdGX1p2aU5wQnAxOEdzYjRNODJBdV9ybXBQZnZBNTF6c2p2UGdlcW41cUNITUkxS1dOektiM2JmTEE1aTEyenQ0endBaFFwOUp2dFI?oc=5"
-    },
-    {
-      "rank": 3,
-      "event_id": "first_solar-2026-05-06-007",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "First Solar (NASDAQ:FSLR) Insider Sells $103,286.77 in Stock - MarketBeat",
-      "companies": [
-        "first_solar"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "earnings",
-        "inventory"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2dndFFmRFJzdmVjWGlYcHBJR3AzZm9QRklidGY4M1FCU3gwMi1XYWlETTA2aHJBb2x6a3QyRXljUldSR0hkMzBqNTl2bGJzcGRxandtb0QtWVhTcjE5S28tM3Q2Q0RyWFhXcURGU0hPVVc0R1hhTzkyeHZxeHFCMmtrOFhBN0NnY2dhSXczUkRPYkV2WXM2TEJkd01ndGZvWEd6aDVVdUcyZHJX?oc=5"
-    },
-    {
-      "rank": 4,
-      "event_id": "first_solar-2026-05-06-010",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "First Solar (NASDAQ: FSLR) CCO reports RSU vesting and tax-related share sale - Stock Titan",
-      "companies": [
-        "first_solar"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "earnings",
-        "inventory"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUQ1cjIxOTFpVGtoZ1NVWmM2YWs0dFBoOThIRldPc2xaNXpJM1VVdUlGYWVicVZmUWtWYzBUMGs3RDFKd3N2OExYbDVEbWRiOXJMMzFhV0pPWW5xZU9PUGVwRWFtZTJQMkNIbS1xblN3OFBwSXVnMFo4TEhLSXhlSkZWT1QwZF93RVJpRmxFWmpTVDhGNG1YUG80Z1p0Y1BkNEt4SjZ3cldpQ2d3Q2c?oc=5"
-    },
-    {
-      "rank": 5,
-      "event_id": "unknown-2026-05-06-011",
-      "importance_score": 0.65,
-      "importance_reasons": [
-        "涉及產能"
-      ],
-      "title": "REALLY Quick Charge: Greenlane CEO talks expansion, deals, and more",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "capacity"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://electrek.co/2026/05/05/really-quick-charge-greenlane-ceo-talks-expansion-deals-and-more/"
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSEJ5Qm40TkdKWTlfVlZBTWxSek96RjlZU2dDMUlhbk9aTGdfN1BtNWZ2eVY4UTFZVkVvLUtWRXNoSElmX1dWX0NQaExNVVRkV3BQaUtiY2pLaEYwMEI1QkZpSTJSNlNqZnE4cDBlY1l3VFNVN1hWNFhLSFQ4ZUFDdmwyLWFpOWN1R194cko5b0J3UWhVWThVN0JIZzZZM3ROT2Zua0E3VmFlWDVaOG9Ibi0yTnVIRDZETnBYUHZaeHE1cktoQVdKekc3ZEltTXlMOHlrR1NOT1NJTWFxRkN3LXdTOXRVODNaeGJIa1JFTEJBZzJMQmZETGtaYTJkZ3c?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 4,
+      "today": 9,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": -0.17,
       "sentiment_7d_avg": null
     },
     "inventory": {
-      "today": 8,
+      "today": 11,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": -0.05,
       "sentiment_7d_avg": null
     },
     "capacity": {
@@ -154,15 +168,48 @@
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
     }
   },
-  "supply_chain_activity": [],
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "guidance",
+        "construction_activity",
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
   "stats": {
-    "total_events": 11,
+    "total_events": 17,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 11,
-      "negative": 0
+      "positive": 1,
+      "neutral": 14,
+      "negative": 2
     },
     "top_companies": [
       {
@@ -170,41 +217,53 @@
         "count": 7
       },
       {
+        "id": "owens_corning",
+        "count": 4
+      },
+      {
+        "id": "corning",
+        "count": 4
+      },
+      {
         "id": "tata_chemicals",
-        "count": 1
+        "count": 2
       },
       {
         "id": "xinyi_solar",
-        "count": 1
-      },
-      {
-        "id": "saint_gobain",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "inventory",
-        "count": 8
+        "count": 11
       },
       {
         "id": "earnings",
-        "count": 4
+        "count": 9
       },
       {
         "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "guidance",
         "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 440,
-    "dup_title": 218,
-    "too_old": 140,
-    "gate1_blocked": 23,
-    "gate2_blocked": 17,
-    "passed": 42,
-    "pass_rate": "18.9%",
+    "total_raw": 881,
+    "dup_title": 466,
+    "too_old": 284,
+    "gate1_blocked": 47,
+    "gate2_blocked": 32,
+    "passed": 52,
+    "pass_rate": "12.5%",
     "gate2_block_rate": "7.7%",
     "gate2_samples": [
       "Tata Chemicals Consolidated March 2026 Net Sales at Rs 3,438.00 crore, down 2.02% Y-o-Y - Moneycontr",
@@ -216,18 +275,18 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 11 則事件，焦點為First Solar、塔塔化工、信義光能相關動態：「Tata Chemicals Ltd. Reports Sharp Deterioration in Quarte...」。主要關注主題為庫存、財報、產能，市場情緒中性。",
+    "summary": "今日共 17 則事件，焦點為First Solar、Owens Corning、康寧相關動態：「Owens Corning (NYSE: OC) posts Q1 2026 loss amid GR dives...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
-        "text": "Tata Chemicals Ltd. Reports Sharp Deterioration in Quarterly Financial Perfor...（財報）",
-        "level": "yellow"
+        "text": "Owens Corning (NYSE: OC) posts Q1 2026 loss amid GR divestiture hit - Stock T...（財報、庫存）",
+        "level": "red"
       },
       {
-        "text": "Saint-Gobain Sekurit India Ltd Valuation Shifts Signal Elevated Price Risk - ...（財報）",
-        "level": "yellow"
+        "text": "Owens Corning Delivers Resilient First-Quarter Revenue and Margin Results fro...（建築活動、財報）",
+        "level": "red"
       },
       {
-        "text": "庫存話題出現 8 則，需持續關注供應鏈壓力。",
+        "text": "庫存話題出現 11 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]

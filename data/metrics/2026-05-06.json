@@ -1,10 +1,10 @@
 {
   "date": "2026-05-06",
-  "total_events": 11,
+  "total_events": 17,
   "by_company": {
     "tata_chemicals": {
-      "count": 1,
-      "sentiment_avg": 0.0
+      "count": 2,
+      "sentiment_avg": -0.5
     },
     "xinyi_solar": {
       "count": 1,
@@ -17,25 +17,58 @@
     "first_solar": {
       "count": 7,
       "sentiment_avg": 0.0
+    },
+    "owens_corning": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "corning": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "xinyi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
-      "count": 4,
-      "sentiment_avg": 0.0
+      "count": 9,
+      "sentiment_avg": -0.17
     },
     "inventory": {
-      "count": 8,
-      "sentiment_avg": 0.0
+      "count": 11,
+      "sentiment_avg": -0.05
     },
     "capacity": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
     }
   },
   "baselines_used": {
     "companies": {},
     "topics": {}
   },
-  "supply_chain_activity": []
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "guidance",
+        "construction_activity",
+        "inventory",
+        "earnings"
+      ]
+    }
+  ]
 }

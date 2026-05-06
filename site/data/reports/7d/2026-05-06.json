@@ -4,7 +4,7 @@
     "start": "2026-04-30",
     "end": "2026-05-06"
   },
-  "generated_at": "2026-05-06T06:01:46.596288Z",
+  "generated_at": "2026-05-06T10:24:08.645506Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,16 +18,16 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "earnings": {
-      "this_week": 45,
+      "this_week": 50,
       "last_week": 25,
-      "week_over_week_change": "+80%",
-      "sentiment_this_week": -0.1
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.12
     },
     "inventory": {
-      "this_week": 16,
+      "this_week": 19,
       "last_week": 12,
-      "week_over_week_change": "+33%",
-      "sentiment_this_week": 0.0
+      "week_over_week_change": "+58%",
+      "sentiment_this_week": -0.03
     },
     "glass_fiber_electronics": {
       "this_week": 1,
@@ -36,16 +36,16 @@
       "sentiment_this_week": 0.0
     },
     "guidance": {
-      "this_week": 5,
+      "this_week": 6,
       "last_week": 2,
-      "week_over_week_change": "+150%",
-      "sentiment_this_week": 0.0
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.08
     },
     "construction_activity": {
-      "this_week": 1,
+      "this_week": 2,
       "last_week": 3,
-      "week_over_week_change": "-67%",
-      "sentiment_this_week": 0.5
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
     },
     "capacity": {
       "this_week": 1,
@@ -63,12 +63,12 @@
     "fuyao": {
       "event_count": 4,
       "sentiment_avg": 0.0,
-      "rank": 4
+      "rank": 6
     },
     "oi_glass": {
       "event_count": 7,
       "sentiment_avg": -0.22,
-      "rank": 3
+      "rank": 5
     },
     "first_solar": {
       "event_count": 16,
@@ -78,52 +78,52 @@
     "au_optronics": {
       "event_count": 1,
       "sentiment_avg": -1.0,
-      "rank": 9
-    },
-    "owens_corning": {
-      "event_count": 4,
-      "sentiment_avg": 0.0,
-      "rank": 5
-    },
-    "corning": {
-      "event_count": 4,
-      "sentiment_avg": 0.0,
-      "rank": 6
-    },
-    "xinyi_glass": {
-      "event_count": 1,
-      "sentiment_avg": 0.0,
       "rank": 10
     },
+    "owens_corning": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 3
+    },
+    "corning": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 4
+    },
+    "xinyi_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
     "tata_chemicals": {
-      "event_count": 9,
-      "sentiment_avg": -0.44,
+      "event_count": 10,
+      "sentiment_avg": -0.5,
       "rank": 2
     },
     "saint_gobain": {
       "event_count": 2,
       "sentiment_avg": 0.25,
-      "rank": 8
+      "rank": 9
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 202,
+        "this": 212,
         "last": 209,
-        "change_pct": -3.3
+        "change_pct": 1.4
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-30",
-      "event_count": 48,
+      "event_count": 50,
       "sentiment_avg": 0
     },
     {
       "date": "2026-05-01",
-      "event_count": 32,
+      "event_count": 33,
       "sentiment_avg": 0
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "date": "2026-05-04",
-      "event_count": 56,
+      "event_count": 57,
       "sentiment_avg": 0
     },
     {
@@ -148,12 +148,12 @@
     },
     {
       "date": "2026-05-06",
-      "event_count": 11,
+      "event_count": 17,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-30 ~ 2026-05-06）共 202 則事件，重點為「First Solar reaffirms 2026 guidance as CuRe lau...」。塔塔化工、O-I Glass情緒偏負面，建議留意相關風險。",
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 212 則事件，重點為「First Solar reaffirms 2026 guidance as CuRe lau...」。塔塔化工、O-I Glass情緒偏負面，建議留意相關風險。",
     "watchlist": [
       {
         "company": "O-I Glass",
@@ -165,7 +165,7 @@
       },
       {
         "company": "塔塔化工",
-        "reason": "本週情緒偏負面（-0.4），共 9 則相關事件，需關注後續發展。"
+        "reason": "本週情緒偏負面（-0.5），共 10 則相關事件，需關注後續發展。"
       }
     ]
   },
