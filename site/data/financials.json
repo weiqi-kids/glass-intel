@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T10:24:05.392574Z",
-  "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
+  "updated_at": "2026-05-07T10:30:21.710071Z",
+  "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
       "id": "agc",
@@ -35,14 +35,14 @@
       "name": "康寧",
       "ticker": "GLW",
       "currency": "USD",
-      "ar": 330000000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
-      "inventory": 3077000000,
-      "inv_prev": 3104000000,
-      "inv_qoq": "-1%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 134000000,
+      "ar_prev": 330000000,
+      "ar_qoq": "-59%",
+      "inventory": 3279000000,
+      "inv_prev": 3077000000,
+      "inv_qoq": "+7%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "first_solar",
@@ -231,14 +231,14 @@
       "name": "信義光能",
       "ticker": "0968.HK",
       "currency": "HKD",
-      "ar": 10110382000,
-      "ar_prev": 8541364000,
-      "ar_qoq": "+18%",
-      "inventory": 1973654000,
-      "inv_prev": 2856039000,
-      "inv_qoq": "-31%",
+      "ar": 7836661000,
+      "ar_prev": 10110382000,
+      "ar_qoq": "-22%",
+      "inventory": 1735154000,
+      "inv_prev": 1973654000,
+      "inv_qoq": "-12%",
       "alert": true,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2025-12-31"
     }
   ]
 }

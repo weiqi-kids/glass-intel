@@ -1,0 +1,232 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:30:25.050021Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-05-07-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tata Chemicals Limited Just Missed Earnings With A Surprise Loss - Here Are Analysts Latest Forecasts - simplywall.st",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeTNxS1haVU9wREdSQUFIR1lzOFRlTk5pM2FEZ0FLWDkwSXVvdWd0VF9IMWV3VC10VUw5VGFwc1ZsSnhFaDFpYXdIazJXTkxQQnMwcV96ZDBtMUdqRmItNHBDOXBtTUhtcV94aDFfTlFSWS1Vb25Cd3pudUc2ajE1X3VDM0Y3eVV2MjBtVUlVLXU3azFZMlVUS21CY3JvY1k2U2ZsaVJ0clBRN3Btd2lCUFlfWWY1X1plbmRHZ0pVYjJ2cEZlTXFwT18zOFJ2MjJmTWVpc2ZzV1nSAd4BQVVfeXFMTS1iSENEZlNQY01EN2FfbVRBZ0kyeHJ6NWRKLTgxdHNzaU5hdGJTYU1yY1FSYW91a2hkeXdIWHZpZFp3QUo2elF0dmNFTEpMX1FHdjR4dkFzY3FSc0pObXY1OWxQSU1MVDVZQWNkMHpCNWhKSE50NGw3OTUzbHBrbGkyTDl2TTVrU1ZsMGlFNFZVbmluTWI4UDdCU3dZcU9KVGJJS2M3Z1Y5X0Z2ZmlMZ0NobC0yQlJFemlWTmxiTU04enphdkNnOVZFTXM2TWJNRXFCT1R5cDZXQTRVUDl3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-05-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals Ltd: Valuation Shift Signals Changing Price Attractiveness Amid Mixed Returns - Markets Mojo",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd1FCeFZnNlg0TS13Q3ctdVdTQno2UlV5c2FtLVI4U3JfNFI5WlpyekpiV0FwMjZLd3dGbVBDYlVNWmkydXVNNUJRVjlhQ0pXRXkzQjN6aGFTbWgweHpIZ2Z4RU5xMVd3VzZkLWRaY3JKRXZnRExyQXpVMFp2a2tBT05ybGN0RmI2ZFVVVExiWURvcS1INWRpaFA4ZURfS0pzZFJJNVZFMWhKNzNTN1NqNTFBcUpUYWp3ZzJwdDYzNjYxWjdCM1VENm1EMXBJMjhDZVhlVmZueUlUTWdja3dUSmNjUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Chintan Gosaliya appointed CEO (Designate) - Overseas Chemicals at Aditya Birla Chemicals Thailand - Indian Chemical News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdV9mQ0JadDFTTW5fVmU5Q2Zyd1BEQmFKZUZ5a19WU3ZaQVFYYkV3Rkp6cmdzSzlUakIyb0w2T29MUXhobWRFREJNZWFvUDhHZVVkVjA4TXNhM0FyZjFEVFBBMTFWaWlEaDlpYlRobk4wVWZ6YzdBeFFMc0JtV0hPUEJYUzYwb0FMbGhNY01OSy1wVjNzTzJxTTIwY29LWVVSeXJoLTlWWUZlcHE4bHhnVHFOWGV0OTJUZmZHZWlfakJ2YllHMHNER1ZEaTQ5dVR1MWpxeUpVbk1iZ9IB4AFBVV95cUxPV2FfaGwwMXhpbTBxUnR0RmcwUThrN3ZKT2RYZEdJNDRNLXRDMUNkQnBSTWRycnY0M0hfdnBDZF82bTlaVTN6YzZkOWJ3Wmd6X1VrSmRNeFZsalZlVzM1eVVZLVptOWRNWUd6aDMtaFpHYmxlS1FUbDM4Sk5KTUdwTDdMTWR6N3YyNkdlWURyeFFnbHo0OU5rdHk2SlM4cnlNLTl0R3plU1pCWXNjYnFQM0sySE5MX0pwMU9JZDhBclAwc2U2WHRFR293VGdPNjlNVC1fNWZza1dhMmhrTVNJWA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stock Market Update | Collective Rise in Photovoltaic Stocks; PV Profitability Expected to Sustain Recovery; Space-based Solar Power to Receive Intensive Catalysts - 富途牛牛",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGR3TXZzSm9LaWVTTUhrMVhuZVB5NHNIb3A0MGEwQWZCVHVvTko5TWhTSU1NNTcxYk8weWc5Wno5c3FiWE1GZmN0UXF0clVkR0ZHbnEyT2NUb0pjQU03Um1hc0V3empGakdtTnVfYUxYRmJ6dVkxeUVUSjQ1V3RWWEF1cGtIRmVQTE5oMUpFMTVNc0hfeE9OcVpTN1UzMERIS0dBYkhaY29VY1h3dWZvbEo5ZEtGUmM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-05-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Big Reasons to Love First Solar (FSLR) - StockStory",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaE5lZlNfS2xKc0dLc2NTVGxRSE8xYUpXQ2w1WEVRaXh5N2RzeDE2aTF4b2xuYXhLZUMxdFBEX0JmMDhCNjBJUW5DcEdwem9MVVZ6VWEwMWliWHJwMTFQNTVvMDBjeDkzeUNDZUxQaEhoWl9zOTFaSkFabjB4TElsLTY5SFo1MnRyampMWkJ1eWM1YjVLZ3VQRmwyNUxuZUt6Y2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 216,
+    "too_old": 142,
+    "gate1_blocked": 26,
+    "gate2_blocked": 15,
+    "passed": 41,
+    "pass_rate": "18.3%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Tata Chemicals Consolidated March 2026 Net Sales at Rs 3,438.00 crore, down 2.02% Y-o-Y - Moneycontr",
+      "Tata Chemicals Standalone March 2026 Net Sales at Rs 1,254.00 crore, up 2.87% Y-o-Y - Moneycontrol.c",
+      "Owens Corning (OC) Valuation Check After Recent Share Price Momentum Rebuild - Yahoo Finance Singapo",
+      "Owens Corning Inc $OC Shares Sold by New York State Teachers Retirement System - MarketBeat",
+      "Novelty Nobility Taps AGC Biologics to Further Develop Bispecific Drug Candidate - BioSpace"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為塔塔化工、First Solar、信義光能相關動態：「Tata Chemicals Limited Just Missed Earnings With A Surpri...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tata Chemicals Limited Just Missed Earnings With A Surprise Loss - Here Are A...（財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "Tata Chemicals Ltd: Valuation Shift Signals Changing Price Attractiveness Ami...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
