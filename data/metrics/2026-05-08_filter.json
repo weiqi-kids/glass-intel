@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 31,
+  "gate2_fail": 14,
+  "passed": 27,
+  "gate2_samples": [
+    "Tata Chemicals Consolidated March 2026 Net Sales at Rs 3,438.00 crore, down 2.02% Y-o-Y - Moneycontr",
+    "Tata Chemicals Standalone March 2026 Net Sales at Rs 1,254.00 crore, up 2.87% Y-o-Y - Moneycontrol.c",
+    "Owens Corning (OC) Valuation Check After Recent Share Price Momentum Rebuild - Yahoo Finance Singapo",
+    "Novelty Nobility Taps AGC Biologics to Further Develop Bispecific Drug Candidate - BioSpace",
+    "Saint-Gobain to invest $1 billion in India, bets on growth shift - The Economic Times"
+  ]
+}

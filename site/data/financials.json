@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T10:30:21.710071Z",
+  "updated_at": "2026-05-08T09:45:40.895485Z",
   "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -147,14 +147,14 @@
       "name": "Owens Corning",
       "ticker": "OC",
       "currency": "USD",
-      "ar": 937000000,
-      "ar_prev": 1440000000,
-      "ar_qoq": "-35%",
-      "inventory": 1472000000,
-      "inv_prev": 1423000000,
-      "inv_qoq": "+3%",
+      "ar": 1353000000,
+      "ar_prev": 937000000,
+      "ar_qoq": "+44%",
+      "inventory": 1492000000,
+      "inv_prev": 1472000000,
+      "inv_qoq": "+1%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "saint_gobain",
@@ -175,14 +175,14 @@
       "name": "Solvay",
       "ticker": "SOLB.BR",
       "currency": "EUR",
-      "ar": 622000000,
-      "ar_prev": 703000000,
-      "ar_qoq": "-12%",
-      "inventory": 587000000,
-      "inv_prev": 578000000,
-      "inv_qoq": "+2%",
+      "ar": 678000000,
+      "ar_prev": 622000000,
+      "ar_qoq": "+9%",
+      "inventory": 592000000,
+      "inv_prev": 587000000,
+      "inv_qoq": "+1%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "taiwan_glass",

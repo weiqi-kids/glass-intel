@@ -1,5 +1,83 @@
 [
   {
+    "id": "owens_corning-2026-05-08-001",
+    "date": "2026-05-08",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "glass_fiber_electronics",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Glass Reinforcements business is now operating as The Original Composites Co. - CompositesWorld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGZ0eURxU3QxWUoxNndRazY2S0UwLXoxUlF5d0dHaXBvUlA2LTVKQU9nRF9qb0llUFJsd2tGX0piemtteW16TmNPQ09TcGhldU91akV3ZjR3d1ROSy1JQ3hrVVVjd1BBWl9WNkxtOU",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGZ0eURxU3QxWUoxNndRazY2S0UwLXoxUlF5d0dHaXBvUlA2LTVKQU9nRF9qb0llUFJsd2tGX0piemtteW16TmNPQ09TcGhldU91akV3ZjR3d1ROSy1JQ3hrVVVjd1BBWl9WNkxtOUNWWVdjVHY2NjZkNzJpS0RZbU5Nd3IyckhmV2hqQUxQREY3WXlPaEtXeWJ2ZWhTRy0zVmczRHlWTTBQZHZuNzl3eXFKQ1p1THdxcEZseFpod3RHdlhDd2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-002",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Solar Announces 1Q 2026 Financial Results - Ink World magazine -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUNzT2J3RmR5Nnh1LUtCOXVsZF9mNEs1cVVuMk9ENllMbW5tWjVoZ1hZeDYwanl2dUpMY2ZDaWp5QWpuYVlHSnpWXzVJUWVTSzJaVHF3NS1qLVktR1lPcnZkTDVQZG14QXpwRFJSbG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUNzT2J3RmR5Nnh1LUtCOXVsZF9mNEs1cVVuMk9ENllMbW5tWjVoZ1hZeDYwanl2dUpMY2ZDaWp5QWpuYVlHSnpWXzVJUWVTSzJaVHF3NS1qLVktR1lPcnZkTDVQZG14QXpwRFJSbGdFbGZIZWhyVmIxbWIxM1o5Z2VLbDZRTDlNaW5tSlNtU3NNMkxLbUcyWUNhNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-003",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar’s Q1 Revenue Rises 24% YoY on Technology Edge, U.S. Manufacturing - Mercomindia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGE4bkI4QktLdTRIa1BaTWZIT0o1Z2ZaMGlQSkdNQ1NJQ0p2VkpNaUNEQWJHY2E3Y3NDQlo5TlVXZGx1ZXB0d2ZveDEwaVhfM0RFWVZ5ZzVzUlE4WWNvcHRwMVpkR2lPT2dlUk9BYn",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGE4bkI4QktLdTRIa1BaTWZIT0o1Z2ZaMGlQSkdNQ1NJQ0p2VkpNaUNEQWJHY2E3Y3NDQlo5TlVXZGx1ZXB0d2ZveDEwaVhfM0RFWVZ5ZzVzUlE4WWNvcHRwMVpkR2lPT2dlUk9BYnlFQWdrdGtmV2NYdEZ2RGxZMF9yRUVVTDlxQnN3V2FVdnl6NThzUC1wbHg0Y0lNbEg0MTFj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-004",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AUO tops US$3 billion in circular economy value - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVd5S1VjZTFZU2UtZG43N0p4N0k4UXhXb24yMF9IWllfOWdVaFJ5SEpoa0pJTk5rTWo2elNqV3ctRmJ3YzVUS3A2dzYtUkU0N1dsQXhhOEUwQUpEYjVWYWFmeUFHTks3Vkdsa3dQX1",
+    "sources": [
+      {
+        "name": "au_optronics",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVd5S1VjZTFZU2UtZG43N0p4N0k4UXhXb24yMF9IWllfOWdVaFJ5SEpoa0pJTk5rTWo2elNqV3ctRmJ3YzVUS3A2dzYtUkU0N1dsQXhhOEUwQUpEYjVWYWFmeUFHTks3Vkdsa3dQX1h0dlJmVW5vbUw1TFUxd2lJeTNLQnVpWnpUYmJrQ3d4anZrc2tUUjBFd2Jn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-05-07-001",
     "date": "2026-05-07",
     "companies": [
@@ -152,6 +230,247 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWUJMZ210ODQyS1VwQ0hwajBpV2xISXUzYTVqV0cwclBqNTNaenN0eXJuNHhpSnNKWjYzZEdacFJnXzRQa3FpWERGLUhYdjEzeGV0X3dZazhlZmZjOTBnV040RndPWG8tREk1TkQ3QzMyUjNMUk9wOWRvT3RNUUhGcHhnc3RvbEFrVVNHNmEwYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solvay-2026-05-07-009",
+    "date": "2026-05-07",
+    "companies": [
+      "solvay"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Belgium's Solvay warns of Middle East impact, shares hit 6-week low - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkFEXzNsQ0RnQ0FGcThrRllEb2ZCVTU1UUNsRXVGZjQxN2dIelJXR3dhYm9wZ2dpaXJiekQ5NGRCREYtbGZhVVAwcGhMUy1BR29CeTBQd1ZRWldaS0JncGRXdlRjQ1FUb1lkaWZYSm",
+    "sources": [
+      {
+        "name": "solvay",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkFEXzNsQ0RnQ0FGcThrRllEb2ZCVTU1UUNsRXVGZjQxN2dIelJXR3dhYm9wZ2dpaXJiekQ5NGRCREYtbGZhVVAwcGhMUy1BR29CeTBQd1ZRWldaS0JncGRXdlRjQ1FUb1lkaWZYSmRIMzVlZmtNS0R2UTNhcVllSll2aURxS1pQZm5laFlhZGlJdklHOEs1QkVHWmp5c25ZVU9xOHM3dXRkZTFTWXo2VEJ2SmtqNEVlQkRYaXFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-07-010",
+    "date": "2026-05-07",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Q1 2026 Financial Results: Revenue, EBITDA, and Key Highlights - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNakpLOGdYZ0FMYUJ0Vlg3VkNuN0ltdlFha21XcW1VOXF6RGx1ajRtS1FKdmszSC1SSFlVclJQWWRnWU1zNDdUa3J1d001RlZlVnRQR3JvZTlyTG43ZUpGMWY1T3JfaDB1dFN0S3VNb0",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakpLOGdYZ0FMYUJ0Vlg3VkNuN0ltdlFha21XcW1VOXF6RGx1ajRtS1FKdmszSC1SSFlVclJQWWRnWU1zNDdUa3J1d001RlZlVnRQR3JvZTlyTG43ZUpGMWY1T3JfaDB1dFN0S3VNb0xLcXVVOHBCQXZibFFSZV8yc1pKN19OdFNDZ1NCMmhyMS03UjNONTgySjJHMVVxUk5Qa2hLRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-07-011",
+    "date": "2026-05-07",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning assists veteran’s widow through new roof project - Northeast Mississippi Daily Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcDlURzUxa0xVZ016eTZURkRyZTV1Rm81ZDZxTlFXMjlPRHdkRlYzdVduVlc1alJVbHF1UVNHT0ZWSWhhTjF3MGwzX0tUNGhER0FpQzhDUGVkUzdVNmFfZ0g3WVdLV1ZPRWxiYW1kQy",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcDlURzUxa0xVZ016eTZURkRyZTV1Rm81ZDZxTlFXMjlPRHdkRlYzdVduVlc1alJVbHF1UVNHT0ZWSWhhTjF3MGwzX0tUNGhER0FpQzhDUGVkUzdVNmFfZ0g3WVdLV1ZPRWxiYW1kQy1uYndtNFJMSWdycUczZlA2VWpUY21HQWo5NUJ0SHhlQ1kxM09udmJ6ajhvLTh2N2daLTNSeDZvNDZGWHJiRXZ0UmlUUnRCdVJlajBpVzFjek5KQ2RsUHNCSDQ3R2ZnYklqdmY0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-07-012",
+    "date": "2026-05-07",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (NYSE:OC) reports bullish Q1 CY2026, stock soars - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHhmbndWQVJScEpCSkREb01mdkg1MmNfSm5ycWV3VFVVR2JjTEx1b3BiZHJ3VlREaFFnZWdXN1o1a1VEM0RjU05GUUdGWlc1bjRxRGNWQk81T3RLcnJsRzF2RWNuRjJlLU1nbzB6Zn",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHhmbndWQVJScEpCSkREb01mdkg1MmNfSm5ycWV3VFVVR2JjTEx1b3BiZHJ3VlREaFFnZWdXN1o1a1VEM0RjU05GUUdGWlc1bjRxRGNWQk81T3RLcnJsRzF2RWNuRjJlLU1nbzB6ZnFjYXh1ZGtqV1AwZHdSaFQwS2tXeHEyR3ZjVkN0TzBkZU04RDNzY2k1OFNzd1dmZlBRX3BuVUVOanRvNmlFM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-07-013",
+    "date": "2026-05-07",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (NYSE:OC) Price Target Raised to $148.00 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUtWR0ZkMDdJOFJqYlVWVTNRSVhuT2ZiYmlmOWVwVGRtLVdGQ2poX25ydHM3QWNETlAxUks0NzNNOHZjN0d4S1JLVnU2bU96QVV6bmt4RGxIaVIwNGwwMGlGQ3dPUmRPckdQWGpLZ3",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUtWR0ZkMDdJOFJqYlVWVTNRSVhuT2ZiYmlmOWVwVGRtLVdGQ2poX25ydHM3QWNETlAxUks0NzNNOHZjN0d4S1JLVnU2bU96QVV6bmt4RGxIaVIwNGwwMGlGQ3dPUmRPckdQWGpLZ3BhR3BNaHNSQjEzYnhXUzU4WTJDd1pzUzMzQlNaa0ZGczFHNXRrZGpnVnU4YWpGMmtXU3BUVHhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-07-014",
+    "date": "2026-05-07",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Owens Corning (OC) Q1 Profit Contrasts With Trailing Loss And Tests Bullish Turnaround Narrative - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmZTQVlqQzFRUi1JYlI0eEtneFhQeVAyblhLYmY2STRGY3g3cUpUeC1rRkpKaTFZNW9NNFNxZWR1b2ZNMkVYdWxBc1dOWDJvaHg1T0k1X2tqLVQxSjFhZXBCNzVFUVp5MFNfeXNNS3",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmZTQVlqQzFRUi1JYlI0eEtneFhQeVAyblhLYmY2STRGY3g3cUpUeC1rRkpKaTFZNW9NNFNxZWR1b2ZNMkVYdWxBc1dOWDJvaHg1T0k1X2tqLVQxSjFhZXBCNzVFUVp5MFNfeXNNS3A0aWx1ZlZmalhkRk1pZW9YQ1UycWVRUjNuVHA5dDBPcjdCcFBhcURFOVc5WEZQWUp1b1lDVTVsTFNuM2tKd0VwcnY1ZktEQnBUbXdaSkI1RFlzMnk0VVRzdjRaWk11SXdCbkHSAdIBQVVfeXFMTUpmU0FZakMxUVItSWJSNHhLZ3hYUHlQMm5YS2JmNkk0RmN4N3FKVHgta0ZKSmkxWTVvTTRTcWVkdW9mTTJFWHVsQXNXTlgyb2h4NU9JNV9rai1UMUoxYWVwQjc1RVFaeTBTX3lzTUtwNGlsdWZWZmpYZEZNaWVvWENVMnFlUVIzblRwOXQwT3I3QnBQYXFERTlXOVhGUFlKdW9ZQ1U1bExTbjNrSndFcHJ2NWZLREJwVG13WkpCNURZczJ5NFVUc3Y0WlpNdUl3Qm5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-07-015",
+    "date": "2026-05-07",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Owens Corning (NYSE:OC) Price Target Raised to $150.00 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSHdZbXhTSUxzb19fZVhuNUVXMEpQN0tkeWhEQktZclpaZWZxeFluNUlSbVBmcWZkNElXQmlNVmFYeTc5TDlIUjRLU3NkWWtFQkhEbG5adWM2WFdmZjVvT0pUUjR0OGJ4NDBQZFNKOH",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSHdZbXhTSUxzb19fZVhuNUVXMEpQN0tkeWhEQktZclpaZWZxeFluNUlSbVBmcWZkNElXQmlNVmFYeTc5TDlIUjRLU3NkWWtFQkhEbG5adWM2WFdmZjVvT0pUUjR0OGJ4NDBQZFNKOHJLVGdlcDFleldzaWloUW5JVl9YNkJadVRxaEh3UGkzM0loQTFJc1hsTmxWU285OEhrY0lVLVp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-05-07-016",
+    "date": "2026-05-07",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings' (HKG:968) Conservative Accounting Might Explain Soft Earnings - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjR4dzVqTHI4ejkyY2QzaV9FUkFvYVdldlJSRGI5ZlJYbjVUR1Vkc3JXUlZNeW5QTEdrZHVHd1daVkF1NFhZTFpZSmFBOS1uMW9lekFudnBrUUVvQlZZWlF5dmMwc0FzbzR4QlM4Vl",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjR4dzVqTHI4ejkyY2QzaV9FUkFvYVdldlJSRGI5ZlJYbjVUR1Vkc3JXUlZNeW5QTEdrZHVHd1daVkF1NFhZTFpZSmFBOS1uMW9lekFudnBrUUVvQlZZWlF5dmMwc0FzbzR4QlM4VlhOMFF2eWUwUl9MQXBDRnV4RmpXQlRlUkxlNUw5MXJWeG5LQ1ptcjV3cTFRanNVMmczWFFvXzRUSVNfT0V4NS1WQ1ktdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-07-017",
+    "date": "2026-05-07",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nvidia Quietly Prepaid Billions To Expand Corning’s US Factories - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlJ0Sm1Fb1lORFJjQVJaczh4T21zVkpGYmZVdk9UcG1NbEZiQkN6bWMxcnplcGFFVG1EOFBjR0FTS011cVFYY1p1azlIVnZ1NnhqV3kwemc0NDBCRkhoY0pNNWltTHlPQldPQ3VJTn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlJ0Sm1Fb1lORFJjQVJaczh4T21zVkpGYmZVdk9UcG1NbEZiQkN6bWMxcnplcGFFVG1EOFBjR0FTS011cVFYY1p1azlIVnZ1NnhqV3kwemc0NDBCRkhoY0pNNWltTHlPQldPQ3VJTnRnV2lWckJhcGlNcm1TZDBOdlNyd19UUkxUamZZMkQtNDZtNUpWMWNZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-018",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solar Stocks To Watch Today - May 7th - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUWFieHctaE13SUtnUGprRjJRVFBKTGNoYXNvLXctejRValdLcGQ4Y01kSEFpSzYwQTBySll0Vm1wUFJXYWlzbkM4eDVMOXhoT0pNTHRlTEZlR3BQdXZSVHUtTVhzOE1WeFpYbERZeH",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUWFieHctaE13SUtnUGprRjJRVFBKTGNoYXNvLXctejRValdLcGQ4Y01kSEFpSzYwQTBySll0Vm1wUFJXYWlzbkM4eDVMOXhoT0pNTHRlTEZlR3BQdXZSVHUtTVhzOE1WeFpYbERZeHhXUEVSM0Y2bGpzTkU3Tm5JRlAyLVJBV3NGalRaZklZcEJjT3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-019",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "The Chip Craze Is Turning a Glass Company and a Toilet Maker Into AI Stocks - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXBBUVpjcGM1WW00dmVNU3Q0eTdSR1dSU2o0T0EtS0NOUXFwZkxQdGlZVFBrcTR5VHQ2MHNDQWJGd0xzZlZNc0tNY0pSNnJwV1ZTWXhTbmdES3lyS1JHS3lxNVFwSEV5U2xBMDVTVD",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXBBUVpjcGM1WW00dmVNU3Q0eTdSR1dSU2o0T0EtS0NOUXFwZkxQdGlZVFBrcTR5VHQ2MHNDQWJGd0xzZlZNc0tNY0pSNnJwV1ZTWXhTbmdES3lyS1JHS3lxNVFwSEV5U2xBMDVTVDhnSVhyVjl2akFzbENFUy1IWl82dm1mYlByNElIQ2hQZWxzTDI2NVlDUV94b0hTd2htRHVOUUhEZksyNU9SVVpvRVBJd2xTQVBpQjRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-020",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glaston closes deal for three Jumbo Series tempering lines - Glass International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTd2MDF0eWltZ3hxTTF2YnNSZDNhSlAxeTBKSS1DS3dNRVJvcEIyYkdsakNDdVZva2ViTEwzc2hlTm9EUEVIczItdnVMS1QwaVpPS2xSc2JRLS0xbFg4QzhlS2FnMFBqaThxY3loV2",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTd2MDF0eWltZ3hxTTF2YnNSZDNhSlAxeTBKSS1DS3dNRVJvcEIyYkdsakNDdVZva2ViTEwzc2hlTm9EUEVIczItdnVMS1QwaVpPS2xSc2JRLS0xbFg4QzhlS2FnMFBqaThxY3loV24xQ3ZVLUlJek4yeWJHaXM4bWdJVDYxcjNFNjRxZzdtSWUyX1BqalhIeVBQOC1TTWha?oc=5",
         "type": "rss"
       }
     ]
@@ -1039,6 +1358,151 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/minnesota-millions-back-wages-construction-firms/819420/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-06-045",
+    "date": "2026-05-06",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Q1 Roofing Sales Fall 14% - Roofing Contractor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUZITjAxMFVmREMxRDgwWFlta25vb0kyVnMzTS1GQXlVci1CRHFwZVB6VkxCa281NTdIMzU5aTkzRnVGTTdsTlQ3a0Z4OHNweV9laG5OdzZqNDBOb3A5cFVpYi0tTHZ4Wnd6VHJmUm",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUZITjAxMFVmREMxRDgwWFlta25vb0kyVnMzTS1GQXlVci1CRHFwZVB6VkxCa281NTdIMzU5aTkzRnVGTTdsTlQ3a0Z4OHNweV9laG5OdzZqNDBOb3A5cFVpYi0tTHZ4Wnd6VHJmUmp4dVNnZTVTRG85Xzc5YXRPamhvbnRPeWxiT2x3V2JwWVlkdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-06-046",
+    "date": "2026-05-06",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning: Q1 Earnings Snapshot - KTVB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVdfRDVfTG9oYm1fbjVGOUlvdlk5NkF1WmNUODJfUG96QnZyU0NUM0FiaWlaajY2MFNwM0tQV05QT3I0RUpvZUg3WFNHdU05YzBwWHN6SjV1THp0SU1tOENJVWg2cHFSemhTOUt4WG",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVdfRDVfTG9oYm1fbjVGOUlvdlk5NkF1WmNUODJfUG96QnZyU0NUM0FiaWlaajY2MFNwM0tQV05QT3I0RUpvZUg3WFNHdU05YzBwWHN6SjV1THp0SU1tOENJVWg2cHFSemhTOUt4WGduQ3pPejlUTjhoZXFleVpXMkNJT29HX1ZyUUZneWtOSlFqWWpRNy0tcDhrbjRrZ3NSNmhKOHhjUkRCR2ZBMzVSQjJRS0VxRnBBYmY3RExHMWgyTlhmUGdvcVVWWGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-06-047",
+    "date": "2026-05-06",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (OC) tops Q1 earnings and revenue estimates - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNbFlmTDB3SGpGcFRVMUo3TkxSelJ3RVZqOS1mM3ZNR0pqaXpybzJnNDNZeV9yby10R2FqNW01ck9lNndwTDBsa2EzZm9weWpQMFJyaVdMczJyTlpycklpc1VMWHk2N2tXbV92UnhKLX",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbFlmTDB3SGpGcFRVMUo3TkxSelJ3RVZqOS1mM3ZNR0pqaXpybzJnNDNZeV9yby10R2FqNW01ck9lNndwTDBsa2EzZm9weWpQMFJyaVdMczJyTlpycklpc1VMWHk2N2tXbV92UnhKLXNtZlA4dEpPcmVzd3ZPWFFCVkIzVjJHS00tbVZZb0EtQ18zdUc4MU9LNi1ZWWxiWTBjdXZ6QWVhMFFxS1J2Z0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-05-06-048",
+    "date": "2026-05-06",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (NYSE:OC) Reports Bullish Q1 CY2026, Stock Soars - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3M4QUowajNTZUQtRjlXNThjUnNvbnJlZXc3cGxGd0JiYmVBcXlIZTZTRW9wU0Y5RURiY2FFUUl5Y0dIZ25rVUttOHhSeTh1S2hGbm9iQW84QjRhUGVBUWZjbHE3dFpCR0YzLUlyUT",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3M4QUowajNTZUQtRjlXNThjUnNvbnJlZXc3cGxGd0JiYmVBcXlIZTZTRW9wU0Y5RURiY2FFUUl5Y0dIZ25rVUttOHhSeTh1S2hGbm9iQW84QjRhUGVBUWZjbHE3dFpCR0YzLUlyUTdmZDFHYmpUUnpJaEJuc21JRnRPd1JxWV9ab0J5RDJaWnBMNFFMWVF5elVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-05-06-049",
+    "date": "2026-05-06",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AGC Chemicals introduces new FFKM grades for semiconductors - Rubber News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0l3WmptQUQ1LTVoYkFlNXJuQlVnUVQ2MTNtejJfU0NYRThzM3JMTnBqUXc1YlV3elJrVlVILURBc0RTV0REU2w1anI4UjRrUHpZczluYUpaUko1UUN4Tk8yOS0wNnUwVnhsZHNhM2",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0l3WmptQUQ1LTVoYkFlNXJuQlVnUVQ2MTNtejJfU0NYRThzM3JMTnBqUXc1YlV3elJrVlVILURBc0RTV0REU2w1anI4UjRrUHpZczluYUpaUko1UUN4Tk8yOS0wNnUwVnhsZHNhM21NS2M3SXFHeWowelNQMks0eTRrT0RpcEpLTFFxY1NYd2FHUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-05-06-050",
+    "date": "2026-05-06",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LONGi Awarded Q2 2026 BloombergNEF Tier 1 List - Longi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZZzVndVkwM3FvNUw4OUtrZEpwY0NXVTlaVWlqSzFBYW5zc2xTTkF0azZUMHZfTHNNN2tDQmFFOXJiZENITDE5ZzlzZ2RkSEdMZFNQMXloaDNTUEY1Wk0xUTk3UElyN2VhMXNSeWNoOG",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZZzVndVkwM3FvNUw4OUtrZEpwY0NXVTlaVWlqSzFBYW5zc2xTTkF0azZUMHZfTHNNN2tDQmFFOXJiZENITDE5ZzlzZ2RkSEdMZFNQMXloaDNTUEY1Wk0xUTk3UElyN2VhMXNSeWNoOGhyS0VL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-06-051",
+    "date": "2026-05-06",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDJQc25TbUZNY2JMUmg4MjRheTV4TVQ3bWJtMkcyblFDMVdwWEE3M3FtOVVyT0xaV2cwSzFXQmk0U0l6MHp6UFMwYi1sYzdheTVadlhMMUJzVGtMeXhQa0Y5Y2dVem1EUTYzaVp0eG",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDJQc25TbUZNY2JMUmg4MjRheTV4TVQ3bWJtMkcyblFDMVdwWEE3M3FtOVVyT0xaV2cwSzFXQmk0U0l6MHp6UFMwYi1sYzdheTVadlhMMUJzVGtMeXhQa0Y5Y2dVem1EUTYzaVp0eGpoWTJSNkhFekdkb2Z5ZDNocENuMjFSWTcw0gGOAUFVX3lxTFBHZW01bV8tRUNsVEFWVno1WklTNmRVZTFueGxiM241MWRVTFFsN0JFS0Jxb3VxLTRMQkk5RWVxYXd1U2xTS1JTQy03T1c2b1VIUm9icllPWEhXVDk5SlBkZk1DWk95aF9nVG92SGVtODBrQm1SMDdHTlJxZWtWaXplU3JZdU1raldIZmpBVEE?oc=5",
         "type": "rss"
       }
     ]
@@ -3006,6 +3470,82 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWERPa1UzVlNsa2VvSlVvOGh5ZElkcGNRMkJrNmZKd1o5SFZlMEE1cU5YNy02ZFBGeHhqOThUTWEtWEJpMUhOSGFIRnRpOGFsQ1VMTHpQSFVyOU5vLXJ3TjVXcVhSY1dvSk5UU2JGNkF5UWVPZVRPaE1DS0l5TEVzc2s4a1h5QVhVTm5LRUR0R2RtU0lNb0tXb0dR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-05-04-059",
+    "date": "2026-05-04",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Tata Chemicals Q4 Loss Widens To Rs 2,132 Cr; EBITDA Down 16% - BW Businessworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGlQM3k3V05TaUNwYi1DbWFRMEdIOHBCY2x5VXh5YlMxYkEyMmFfUVBuYmYzbW91S0dLSmM4UmNYVllodUhwOVAtZ1lfTC1DNkphQ05JX2NMYzZHbjdTQkVFeVlsZG9uVmNOOGljdn",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGlQM3k3V05TaUNwYi1DbWFRMEdIOHBCY2x5VXh5YlMxYkEyMmFfUVBuYmYzbW91S0dLSmM4UmNYVllodUhwOVAtZ1lfTC1DNkphQ05JX2NMYzZHbjdTQkVFeVlsZG9uVmNOOGljdnlfSDZlVmNNZWI4UnZ2UTlwZUR6cW9GeTM1QXFhdW9qdUJlMUY2YVgwRHJBemZiZmplQjFzZm5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-05-04-060",
+    "date": "2026-05-04",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tata Chemicals Posts ₹3,438 Cr Q4 Revenue, Recommends ₹11 Dividend Amid Global Soda Ash Headwinds - Indianweb2.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmtNYm56bk9VMGpGQXBzTmhpd2puY1hPWVlVN2ZSdm9SVG9PZ0hSeWNTY2dvQlBtMU9JdXdPeUVPOGN4ZVBPQ1poaDQzb0QxT3E3NVVZc3RxNVZhNkZIZ0ZhSGlXRzdzTUs3MTQ3Ql",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmtNYm56bk9VMGpGQXBzTmhpd2puY1hPWVlVN2ZSdm9SVG9PZ0hSeWNTY2dvQlBtMU9JdXdPeUVPOGN4ZVBPQ1poaDQzb0QxT3E3NVVZc3RxNVZhNkZIZ0ZhSGlXRzdzTUs3MTQ3QlI2T0ZZOHFjeHc2c1N4OHpScVhUbThHZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-05-04-061",
+    "date": "2026-05-04",
+    "companies": [
+      "longi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LONGi Repeats EcoVadis Gold Medal 2026 - Longi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5MZFhySnphMVF1ZlJzeVdLSzdrci11X1lpS1cteUJLUHk0MU9hNUg5ODJDLXZjVjNlNVFOY0FlVTVDUXczZDZTdlRQRGVhMDNXdXVORUxFRzI3TmprR1VoalR4czhpSkJrYmIwMEhwVj",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MZFhySnphMVF1ZlJzeVdLSzdrci11X1lpS1cteUJLUHk0MU9hNUg5ODJDLXZjVjNlNVFOY0FlVTVDUXczZDZTdlRQRGVhMDNXdXVORUxFRzI3TmprR1VoalR4czhpSkJrYmIwMEhwVjI4RVE4azFJeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-062",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "‘City of Glass’ Is Under Threat From Iran War - nytimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE55bERZLVU2ZjV1RzlJOTB2QzBSMy1LWWY5czFjS0pMd01Td1hmVlB1WFdRSV94c2RKd0xZQWRNa29IYXo5Q1I0RWFLMml6MTk2Q2ZPQ0k1N3JrYzd4bVJfREpYcEtLakhUR0xOTlFCaj",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55bERZLVU2ZjV1RzlJOTB2QzBSMy1LWWY5czFjS0pMd01Td1hmVlB1WFdRSV94c2RKd0xZQWRNa29IYXo5Q1I0RWFLMml6MTk2Q2ZPQ0k1N3JrYzd4bVJfREpYcEtLakhUR0xOTlFCajZxTkV1djZkUzlB?oc=5",
         "type": "rss"
       }
     ]
