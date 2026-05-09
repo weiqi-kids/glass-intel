@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 31,
+  "gate2_fail": 16,
+  "passed": 37,
+  "gate2_samples": [
+    "Tata Chemicals Consolidated March 2026 Net Sales at Rs 3,438.00 crore, down 2.02% Y-o-Y - Moneycontr",
+    "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+    "Novelty Nobility Taps AGC Biologics to Further Develop Bispecific Drug Candidate - BioSpace",
+    "USW Seeks TRO On Retiree Healthcare Shift By Saint-Gobain - Law360",
+    "Saint-Gobain to invest $1 billion in India, bets on growth shift - The Economic Times"
+  ]
+}

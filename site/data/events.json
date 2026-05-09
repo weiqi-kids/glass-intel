@@ -1,5 +1,87 @@
 [
   {
+    "id": "corning-2026-05-09-001",
+    "date": "2026-05-09",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Inc $OC Shares Sold by Danske Bank A S - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWFlWlhxSDQzdGZIRVdxQTVvN0Nsc2dkdHgzVVQ2MUFxb0VuM0E4aW9ZTUQ5bURPN2dwbzJBamRQVXlfemxjMVNRV2pqVC1jUVZxa0laSHRqTGRnRHhhMmNoOWZFTXA0c1pNd3E0ME",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWFlWlhxSDQzdGZIRVdxQTVvN0Nsc2dkdHgzVVQ2MUFxb0VuM0E4aW9ZTUQ5bURPN2dwbzJBamRQVXlfemxjMVNRV2pqVC1jUVZxa0laSHRqTGRnRHhhMmNoOWZFTXA0c1pNd3E0MEpEbElRSjBaZVFpY2o0ZW5KYTRuVmRvVVkzV2lGcjJfdG9JRmdCVG1zZDhxV2Q4d3hjZGZjaVZLeGo1NEZyRTdTMFF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-09-002",
+    "date": "2026-05-09",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Costello Asset Management INC Sells 12,865 Shares of Owens Corning Inc $OC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPVm9CUDNhSWEzTEFUcVllcmRYZVpOT2lrQjVKVmFKdk05TEluNGhyR2NKeXhtdzNsYW1tZGpiUlg5SnhwYmhsTWhSam9leVRSSzUxVjRXMExXSlNjODJLbFpHbE4xNjRxQ25rbXVZR1",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVm9CUDNhSWEzTEFUcVllcmRYZVpOT2lrQjVKVmFKdk05TEluNGhyR2NKeXhtdzNsYW1tZGpiUlg5SnhwYmhsTWhSam9leVRSSzUxVjRXMExXSlNjODJLbFpHbE4xNjRxQ25rbXVZR1ctT0JCY1FpcWVqX000UWtCWkFsSkcxMUZuZnpHTFRTdnFIbV9GclM5ZmNHTFQ2NGVFUlZYVVNTenA4R2tyMFdIZDFaamVVUXJmYzJ5T3NqdmVJaUpURzBJa2dBSFI0UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-05-09-003",
+    "date": "2026-05-09",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Longi's first energy storage project in Finland goes operational - China Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB0RTk0dUkybnN3RnM4eG1EWVNYR0tPem9ldEhQMm5PUGVwdi12THRwcGQyR2hPdDU0djZ5QWkxYmRhVk9NcXZPNmVFa2xZRW16MTQwMWp0bzg2UU1YY2NFQ1BNRkxKNTdGbE9VODczcH",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0RTk0dUkybnN3RnM4eG1EWVNYR0tPem9ldEhQMm5PUGVwdi12THRwcGQyR2hPdDU0djZ5QWkxYmRhVk9NcXZPNmVFa2xZRW16MTQwMWp0bzg2UU1YY2NFQ1BNRkxKNTdGbE9VODczcHU1Y2N3S21lVGtsMzhuUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-05-09-004",
+    "date": "2026-05-09",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "LONGi Green Energy stock (CNE100001FR6): Solar giant faces headwinds amid global oversupply - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1lcGpwYmF5Skt5Z3ZmeGhpMWl4YVFBZllHQTFmdng0ZnRjQXRXYnp4R25KQWtUNks4T1JkdUN5WkZYd05wNWxVLWJHTzIwY3U5Q0RVRkxRczM0ZWVuRkJsSndCSXMyS21rcGV5YU",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1lcGpwYmF5Skt5Z3ZmeGhpMWl4YVFBZllHQTFmdng0ZnRjQXRXYnp4R25KQWtUNks4T1JkdUN5WkZYd05wNWxVLWJHTzIwY3U5Q0RVRkxRczM0ZWVuRkJsSndCSXMyS21rcGV5YUJMWFA4R3FNTzJzNEpPTThhVU9Ia2ctWWNoVHhKX0ROd1NBWHo2eEkxWWp4RUdMUHlEckxsYTFFN1ZjdFdHbGRLMjI2ZHprVTkwZ3RxVkcxMldzOGZDX2lzRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "owens_corning-2026-05-08-001",
     "date": "2026-05-08",
     "companies": [
@@ -73,6 +155,605 @@
       {
         "name": "au_optronics",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVd5S1VjZTFZU2UtZG43N0p4N0k4UXhXb24yMF9IWllfOWdVaFJ5SEpoa0pJTk5rTWo2elNqV3ctRmJ3YzVUS3A2dzYtUkU0N1dsQXhhOEUwQUpEYjVWYWFmeUFHTks3Vkdsa3dQX1h0dlJmVW5vbUw1TFUxd2lJeTNLQnVpWnpUYmJrQ3d4anZrc2tUUjBFd2Jn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-05-08-005",
+    "date": "2026-05-08",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Kaynes Technology, Tata Chemicals shares: Trading strategy, outlook | Daily calls on BTTV - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZk1SeEVXREpsU3Q1UWxCcXY1bXdYSjA1TE1hWHFBRVFudUh1ZkNDNk5xRGxOa3kzWS14T05tanVJM1FtVm5veHFEV19UT3BIeTUyM1IyLVZGSFBtMWlUY25iZkRKSnpIZlVoVW1YMG",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZk1SeEVXREpsU3Q1UWxCcXY1bXdYSjA1TE1hWHFBRVFudUh1ZkNDNk5xRGxOa3kzWS14T05tanVJM1FtVm5veHFEV19UT3BIeTUyM1IyLVZGSFBtMWlUY25iZkRKSnpIZlVoVW1YMGJOSjVmY2UwVFJ1TVA2Y3IzRzJRVkpPWWdfY3JmdmFleEdSRVRZZjc5aGhaM1dNQTdyN3RtUHVmdThlQi1VRzFpbng0LW1pRVZ4bWZxc3I3ZWpfS3ZSN2ljZDRfeGVubW56dzVhVkUyV0ttQjMyelptLU9yZ09BdWYwSFQ2bjdnWnVzbGRiQjFaMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-006",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Tata Group stock announces dividend despite Rs 2,132 cr Q4 net loss - check amount - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPN2VldU01UnZ4Y2x4bnRmS0Q4SF9QYjVqeThLajg0UkNQbE1OemNhNlF0OWZTSmZ2MEVwNjRFWFA2M0xYYnMzLVZXX2dELWNBVVc3SFRJbURVUnFUcGo0dWNSaDBlRjcyc05OUWZmMj",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPN2VldU01UnZ4Y2x4bnRmS0Q4SF9QYjVqeThLajg0UkNQbE1OemNhNlF0OWZTSmZ2MEVwNjRFWFA2M0xYYnMzLVZXX2dELWNBVVc3SFRJbURVUnFUcGo0dWNSaDBlRjcyc05OUWZmMjRfWEpfYV9ENjVNSElPa1NuRHBkUXRBamRnTkt2VkNSclp3WTRGSVZyNUp5VlhNNFlmYXNvcGxJczNZOGF3bW9od2VtYUFjdUMxNWdSUmswZGxoNEpMT1pRSDVwRGo3bDVLcjV3TUFfbklucUpPMFJ4V21hUmpPa0F2WlRPNUstWlNsLUFTaE1XTU41dl9fa1lQN2FBTmdhTF9IRzFGNjBYMHVFZHBhT2Flc0lDWGpuT1g4a1Q0RW1jNUdCZ0JEWUVhNlNjYjBCQnMzdEw3SUxodmxvcUtBdW5oeHJMRWktSmlsLVlvVXhoeU1CSTg5d0VGU2pnallraw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solvay-2026-05-08-007",
+    "date": "2026-05-08",
+    "companies": [
+      "solvay"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solvay S.A. stock (BE0003470755): Q1 earnings in line with forecasts, Saudi peroxide halt weighs on - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckpUMnJ4aTdmYWZReEJ2c1J4WXJuMU56YnhVM3k4OGZ3RU4yWWdXUEdJZzRWbkZaeVZwLWIwakNSd0p4OEZSTld2RkNqU1V2MDA5QXc2YWYzTElUN2VGY0V3enJKdmtRblE5MG05dl",
+    "sources": [
+      {
+        "name": "solvay",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckpUMnJ4aTdmYWZReEJ2c1J4WXJuMU56YnhVM3k4OGZ3RU4yWWdXUEdJZzRWbkZaeVZwLWIwakNSd0p4OEZSTld2RkNqU1V2MDA5QXc2YWYzTElUN2VGY0V3enJKdmtRblE5MG05dldJZUZRX2lEbDc0djBaSEViUUc3Mko0bnRZWkMxdU5WRldtbFZCZF90QTFXNEpJT1NHYkxYU004ZlBZZ09vekdUU1JsQ0pncnlQSkJfVFhic1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-08-008",
+    "date": "2026-05-08",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "glass_fiber_electronics",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Owens Corning Strengthens Position As NYSE Composite Trends Improve - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1MycXkwckE3cU96RWJSeF93dXdpRHdiUmF3TEVTaWJMdlB6dHJaMkFxWlZvdUVPeW9DWDNoaTF4WEhWVFpKdHJlcWtKWjZKZXVUQ29Tcy1MLU8tUUpQQ3l0U3pkZV9YVlpya3RRWk",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1MycXkwckE3cU96RWJSeF93dXdpRHdiUmF3TEVTaWJMdlB6dHJaMkFxWlZvdUVPeW9DWDNoaTF4WEhWVFpKdHJlcWtKWjZKZXVUQ29Tcy1MLU8tUUpQQ3l0U3pkZV9YVlpya3RRWkxIOG5BLVhzdS1CdWtvRFNzWXhzY0Z3Q0ZpenZLM0h5aE5XS2tfMm9BMy1YNDRfdmhieDdpVDdVTnJtdVY3OEY1NnBPNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-08-009",
+    "date": "2026-05-08",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (OC) Valuation Check After Earnings Beat And Upbeat Guidance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1duTjdiWGYwQm5HUFhlcDJNdzdWY3Z1dWo0dVFJX1h6aTY0czhvMVhNM1AxSmJkSF82YzVvYWF0eGdIdmN1cFNrdlF4a1RCcFI3WF91a3YzVzItc2tmQlRTMURkaDlWcjNlcFNaUn",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1duTjdiWGYwQm5HUFhlcDJNdzdWY3Z1dWo0dVFJX1h6aTY0czhvMVhNM1AxSmJkSF82YzVvYWF0eGdIdmN1cFNrdlF4a1RCcFI3WF91a3YzVzItc2tmQlRTMURkaDlWcjNlcFNaUnF5UFVsbFlBX2pQZDlsRUlvTE5zcXpJUEIxcHRvU1dOWWdrY01fOXp4NTJMNnlpUUMtYUNWa3dmMmZfM3dvdVl6S1F1NFFTbmN4RmpnQWtYWVBrRlZsX2lWRTlGUzNjZ9IB0wFBVV95cUxQZzY4cHBnbXdMQnpMdnJ6a1VCRzZDNnJGbTZpTjlMNVF6LXdFUThqY1BNNTVWNmJHMTFCNWZNcEpuVVRIX2xxOE4wd0ZvaExsZWZ4bklIazh3cXZVRWpIQ0U0dkJDM1RmdEtBbXhzeG1SMmxhaHNESlFINVhzYnVYU0tZX0t2Vml2UXF1em1ibUJkM3NxR0Nfa1JHYWljZUthZTMyaDl5SU5xcHRWZ2duVGZaN29YbE5USVMyTUxjcUxIR2lMeHFNVzJhTTV2VkJGUW5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-08-010",
+    "date": "2026-05-08",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning price target raised to $121 from $115 at JPMorgan - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHQtQmQxUmFIZjhoQ2dNVzNLSERUTTdGQUdVUW5YVHM5UUJ6YjJQUm9BTE02dVZBT0czdUtxRDZyTnVkSzJJWm1kZTBoaWVUejVxQjBPZTlqbkxQaUpnTW9DVTZ5WWlmYldOaHNDNz",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHQtQmQxUmFIZjhoQ2dNVzNLSERUTTdGQUdVUW5YVHM5UUJ6YjJQUm9BTE02dVZBT0czdUtxRDZyTnVkSzJJWm1kZTBoaWVUejVxQjBPZTlqbkxQaUpnTW9DVTZ5WWlmYldOaHNDNzdTWmo1YzhmWmNMbjFJMGR3bXVveFpxUXpvRV9QS1NybGIyUTQtc3Y4NTlnNEg5SGUzNWVDM29XcGRzdkFIbkNEaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-08-011",
+    "date": "2026-05-08",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Owens Corning (NYSE:OC) Price Target Raised to $121.00 at JPMorgan Chase & Co. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFVDeHRqSzlXQnlZVFJRTXJMcU9zcnZ0R1psQkpUU3JuNkpHcFVlTUFoaDhwZnZ6WXpJeWZiUGtDV1lhZDY4ZlhNUGlGVXU5akFBR3NYNEJfYWd4MFN4Zm5JVm1jM09SSzh4eFJnal",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFVDeHRqSzlXQnlZVFJRTXJMcU9zcnZ0R1psQkpUU3JuNkpHcFVlTUFoaDhwZnZ6WXpJeWZiUGtDV1lhZDY4ZlhNUGlGVXU5akFBR3NYNEJfYWd4MFN4Zm5JVm1jM09SSzh4eFJnalVrdDZvZGVPSHp6MWNjXzBfNjJIVnRBWjJHWXRLZy1lYmtVdlh6dEVDUDRkMXQzMkZjMUlZWWU2NFBEWHYzOTA4U0FWb3dnS0swalBXeHQwMmhMZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-08-012",
+    "date": "2026-05-08",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Swedbank AB Sells 15,823 Shares of Owens Corning Inc $OC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBBbW0xa1ViUFFOLWJ0ei04RWtoVzhXbmo4a1JRTHpqamlBb0s1U2lKdGN1bzVmYlNLOGJSVGRUT2JQMDA3ODhqN2loeXdYOVI4cXIya1ZIN3A1X1JzdHRaMnh1dFBMSHRGcFliMW",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBBbW0xa1ViUFFOLWJ0ei04RWtoVzhXbmo4a1JRTHpqamlBb0s1U2lKdGN1bzVmYlNLOGJSVGRUT2JQMDA3ODhqN2loeXdYOVI4cXIya1ZIN3A1X1JzdHRaMnh1dFBMSHRGcFliMW1XYWExYXVhcXdVRlFZbi1BaHEwMHJhSDNTdDlSTUpFbzdEdUVVMERfd0hwOU05Z1AxY19UcGN6QmFzUGZ4TXl3c1FWVXdiUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_glass-2026-05-08-013",
+    "date": "2026-05-08",
+    "companies": [
+      "xinyi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Bearish block trade of XINYI GLASS(00868) 529K shares at $10.47, $5.539M turnover - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMlE0cXhNMjJ1Vks0RXQ0aDNUbW0xSkVMbno0eVBab2U1VGY1dTh0ZXN6UzI4akM1cjRkcWRzNVVBc2haSHBvX3B3Q2swMlQxUGhIamFJSWVJenNTVkVKV2NadERNbjVhQjFkLVRocG",
+    "sources": [
+      {
+        "name": "xinyi_glass",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMlE0cXhNMjJ1Vks0RXQ0aDNUbW0xSkVMbno0eVBab2U1VGY1dTh0ZXN6UzI4akM1cjRkcWRzNVVBc2haSHBvX3B3Q2swMlQxUGhIamFJSWVJenNTVkVKV2NadERNbjVhQjFkLVRocGVkVjlRU21hS0x2VGZqRXczY3czd2N6UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-05-08-014",
+    "date": "2026-05-08",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Bearish block trade of XINYI SOLAR(00968) 3.4M shares at $3.13, $10.642M turnover - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOS3puUXBqQVp1UFlEeThkaHRUU1hkQkc3YTVGcnJHc2ZPQm1nN3JENmJrekZ0RVppQVZtYWV5WERYRUNTdDlEaUREWnRsRlhfWlJUOHFKeWZFVU1vd1NqMUpVYzRSTlNNVlFVdXZqYm",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS3puUXBqQVp1UFlEeThkaHRUU1hkQkc3YTVGcnJHc2ZPQm1nN3JENmJrekZ0RVppQVZtYWV5WERYRUNTdDlEaUREWnRsRlhfWlJUOHFKeWZFVU1vd1NqMUpVYzRSTlNNVlFVdXZqYmVfeDJRZUFxc25adkZBWFBQMG9COEVGZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-05-08-015",
+    "date": "2026-05-08",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain Stock (FR0000125007): $1 Billion India Investment Plan Announced by CEO Bazin - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkkzbnlJNGlMOG5nSXRmLW1NYzcwaE9tRFVJam5rYzNTYUViNEhvRUQ5TkM1T1VfZm5YRTRiREJfZV9wU2gwNWgwSXcyR1F0YkRRQ2tnNlUwVWo5QkpRS19PVE1kUVFTOW1ZY1Q0Y2",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkkzbnlJNGlMOG5nSXRmLW1NYzcwaE9tRFVJam5rYzNTYUViNEhvRUQ5TkM1T1VfZm5YRTRiREJfZV9wU2gwNWgwSXcyR1F0YkRRQ2tnNlUwVWo5QkpRS19PVE1kUVFTOW1ZY1Q0Y2NmVm1XeGlnd2dSM2VEWGhHaU1fWGpWZzR5eW9GaWttdU11SDdycVI4YnRmcFNpQ0VJZ2N6V1Bmdk9uZHJsVE83YWVteWQxS1lIenBoVlRDbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-05-08-016",
+    "date": "2026-05-08",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Compagnie de Saint-Gobain S.A. stock (FR0000121501): Analysts see upside after recent dip - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOMjNzaHoyMTVheFotNU45a2hxb1VHMTVLajhFQ0IwXzMzTTNUWHhEV3lFN3pKV2VtSXNsZWNpMXNVc203RkFXaWhnYW5BVUtTR2pQTEpFTDZHQ0dUcUNTM1pZQ251MUdRZElncGZMc2",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMjNzaHoyMTVheFotNU45a2hxb1VHMTVLajhFQ0IwXzMzTTNUWHhEV3lFN3pKV2VtSXNsZWNpMXNVc203RkFXaWhnYW5BVUtTR2pQTEpFTDZHQ0dUcUNTM1pZQ251MUdRZElncGZMc2NIOU1HMkxmOG5kaUNEdXZCYXhUTzhsY1E1VDViTVlnZEJENndHTlgxaE5tcGV3b3RVbWV3SWZGcFR4VHB3MExvY2IybVlmcmh1NVYyOHpwMFg0UnZfVHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-05-08-017",
+    "date": "2026-05-08",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Assessing O-I Glass (OI) Valuation After Weaker First Quarter Earnings Results - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXMteUdrOWhfVUV6VG4zUDRQbkpVUWRVMURkQ1hEdFJsbWxKWlczVlg0T3dYYzFMc3pUOWpJQlF3YU9YS1h0Q05zOW1IRHltT3dONS1DZkZQNV9xSlhNS1pWWFhYOC1GNFZrbkNNam",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXMteUdrOWhfVUV6VG4zUDRQbkpVUWRVMURkQ1hEdFJsbWxKWlczVlg0T3dYYzFMc3pUOWpJQlF3YU9YS1h0Q05zOW1IRHltT3dONS1DZkZQNV9xSlhNS1pWWFhYOC1GNFZrbkNNamdnR0ExTjhncFpyVEIxVzFoLXZhSjhrbk5QNU5iQUR3Skt0V0RpeGNwOF9SRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-018",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (NASDAQ: FSLR) counsel sells 228 shares under 10b5-1 plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEVfc1Z2U3NfanY2THRBR3NpZ0lPaHpPMFU0b2l3WHNMNmk1RnNtdzdKTjQ2Qnkyck83ZE9TeEI5cmJFYlVpOFFZc1MwUHBiMF9id05TQ2h5QmtlX1pUYldoOHRBbm1vNVBUbFZieW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEVfc1Z2U3NfanY2THRBR3NpZ0lPaHpPMFU0b2l3WHNMNmk1RnNtdzdKTjQ2Qnkyck83ZE9TeEI5cmJFYlVpOFFZc1MwUHBiMF9id05TQ2h5QmtlX1pUYldoOHRBbm1vNVBUbFZieWFUTFI1U3BXVDQ0MzA3UGZzX3FLaDE2dUpNMTdpTzFURkV3R2JrVDJhd1dydU9jeEJzd1NEdURwOGhWVUlDUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-019",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Insider Sell: Kuntal Verma Sells Shares of First Solar Inc (FSLR) - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2FKZmdFQTZTbExnVjh0cFRMQklua0YwYjVXbFo3RnFjMVZpc1VNOGlEb0w0MUNoY01EYTRmNHFseHBDNlh6dWttbWctRnlJM192dVlsanY5bjUzTHVGNXN2SE5ZUFhsSHlnS05HOU",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2FKZmdFQTZTbExnVjh0cFRMQklua0YwYjVXbFo3RnFjMVZpc1VNOGlEb0w0MUNoY01EYTRmNHFseHBDNlh6dWttbWctRnlJM192dVlsanY5bjUzTHVGNXN2SE5ZUFhsSHlnS05HOUNRWlVzS2pJZ0luTUpLZFVBb1VDSm05Q1BpMUxXY3p1aklHR3B6MF9UT2t4Q0RyQlNxVTY0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-020",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Swedbank AB Has $44.37 Million Position in First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPd3B6ekdITjdzX3Vvd2RkZWlBeWpkaUUxTXhpc2lPcjRzUFI5bUluTzd0TXVJcVZ3ajJLTWc3TFg1N0VDdGd3c1ZYMmlXOUR0NjFiWE12OFdSUDdqSWxNT0NxYUtjYUdqY0NwYW9CWG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd3B6ekdITjdzX3Vvd2RkZWlBeWpkaUUxTXhpc2lPcjRzUFI5bUluTzd0TXVJcVZ3ajJLTWc3TFg1N0VDdGd3c1ZYMmlXOUR0NjFiWE12OFdSUDdqSWxNT0NxYUtjYUdqY0NwYW9CWG1NaTFVc2dyWkw2WlF5OE5HZUNZQ1lvQmxLV2gyOWRZT0xDbGsxemNXUGlVXzBmNERyWWg0S281QUQ1VXJZY29Cd1NsOXJhWW92eUdkNDI2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-021",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar general counsel Dymbort sells $49,740 in stock - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlROVmtTcmtua2dCZmx0VWNkeWdBNXBtVXJ3WjRCX1BVVHV1akxkUEV2dHVPbXVYVEVVbmJ1c2tpTEExS3ZtVXg2dThwUUdwSlN5VURRVFB5ZjFpOWJ1eGpKUEpjc0ExQURVeE45SW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlROVmtTcmtua2dCZmx0VWNkeWdBNXBtVXJ3WjRCX1BVVHV1akxkUEV2dHVPbXVYVEVVbmJ1c2tpTEExS3ZtVXg2dThwUUdwSlN5VURRVFB5ZjFpOWJ1eGpKUEpjc0ExQURVeE45SWltRnVHQndVbkJwcEZ4cHNremR5cTVOMzF4QVo0NkVoQTNyM0xTQk9QZVhRd0Z6MFNEUW9ZQkROejRRZTF0ejlFWGVFUllaYm9KZ25rWnl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-022",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is It Too Late To Consider First Solar (FSLR) After Its Strong Multi Year Run - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWxnTnJnV29veVhMWGxsOHlIVGYyM0hpeWVIR29RaV9KbjBUQzljd2pnalI1dDNoUURKZVVFcHBPcG5KM0xSN24tUzE5Wjh4Y2RqNkU4TW8zWVQ3b3FsWkdFQl9DaVhDaGFhU25aNF",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWxnTnJnV29veVhMWGxsOHlIVGYyM0hpeWVIR29RaV9KbjBUQzljd2pnalI1dDNoUURKZVVFcHBPcG5KM0xSN24tUzE5Wjh4Y2RqNkU4TW8zWVQ3b3FsWkdFQl9DaVhDaGFhU25aNF8tWTF0eWdveFQzNnRHS2VJamNzdWVqU21HeVpMbFZLdF9EUk9oOVY0cHUtMXMzb0NXN21MWlNFV3VlY092bkdab0xxS3ZKdEdxZUJJRFpkeDBsYy1ueU1udnd2R0REdWRrU3fSAdcBQVVfeXFMT3JjUnVDQnpxak5EbmVMNDh5ZXRfYWRYVE1jTWItdXFXV0hzOTVsXzBRa3M3WWdhRFBCUDAxVG1FRHFZOTB4TXJqZHpsOUdlaHJZUnJHR2VIUGNwQWdkMUJBMHZxSUt6OG1SSUdnV0FtVGNZTGZjeXZxV0JCRXFvaTNoU0pHX1lDWmpiaHEwc0thSzh5NmdLOWFXejVHVHlBX3BDM3RzSlZiOEpRMy04Ml9wanYwd2FDTHgtSHVvenRoRy0yUjRuTEMzUlhVRkY3eUhteXNhTHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-023",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zelestra opens first solar plant in Italy, launches academy - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQclRDT00zaW82cHExZlZFOXRQVHJtZGR0RXdkclZuUmU5M3F4UHlsOXF1RHhkaWRTRE1qMlhhbWlQcDFzanEwRlMwRThzd2tfYXpmWlRjZkZlb2ZBSGdmNkU3LVQ4N0lndUtiM19FZW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQclRDT00zaW82cHExZlZFOXRQVHJtZGR0RXdkclZuUmU5M3F4UHlsOXF1RHhkaWRTRE1qMlhhbWlQcDFzanEwRlMwRThzd2tfYXpmWlRjZkZlb2ZBSGdmNkU3LVQ4N0lndUtiM19FZWoxRTNSS3h2ZVVqTTNER3dUNkRsbi1jRWQyLUtzWjZPS0FReHVVVS1XVEVLWFpqdXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-024",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Coral Energía celebrates a new milestone: it will complete its first solar phase in Santa Fe with 20 MW - Energía Estratégica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1F3QUY3cm1MTUM2REhNaHJJYU5EUGhLa01HWVB3UXFlM09SU1ZBNklWSTBaUTR3V3ZCQWplR0wxM0FTUFN2eHZ5SjY3azFtWlJrdlp5d1dfQWFfRXQ0MlppNUFrTERXT3lJVnJZRk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1F3QUY3cm1MTUM2REhNaHJJYU5EUGhLa01HWVB3UXFlM09SU1ZBNklWSTBaUTR3V3ZCQWplR0wxM0FTUFN2eHZ5SjY3azFtWlJrdlp5d1dfQWFfRXQ0MlppNUFrTERXT3lJVnJZRkZLM1dMUDJrSDVmQ1BJX1NCVkg4SFR1bkFadkZlYzRYa1hOcnc2aTNPV0FGdUdjZlZ2SDhXTGY0ckZlc0xDc3VnYy10TzNaQlJ2dk9VRndJXzh4SWs0RFNLTlZWWkNZSjRT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-025",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zelestra officially opens its first solar plant in Italy and launches the Zelestra Energy Academy - renewableenergymagazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2ZDMlpzemVwZEdsZ2FCUzZodWFhTGNGM1lJOWQ2czNFUThWa1pEWURkUXV2NnN5aWpaRTRJMFlZZzJEQXF1MzZwY3BweFAtNU5tTDk0MzdmLV8taDZNT1BzY1pzX3RKSmlSZVN6Nj",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2ZDMlpzemVwZEdsZ2FCUzZodWFhTGNGM1lJOWQ2czNFUThWa1pEWURkUXV2NnN5aWpaRTRJMFlZZzJEQXF1MzZwY3BweFAtNU5tTDk0MzdmLV8taDZNT1BzY1pzX3RKSmlSZVN6NjJWc0xublVtdGQyNWF3MXA1N1BpYk4tWEhyLThfeVd6X0lMd2Y0d2M0WFRtNUNpcVpvSVg0c3Nvbms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-026",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) manufacturing chief sells shares under 10b5-1 plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSno1TlF3WVlubXV0LU11OTJiNk1pWkZtR09PYkpBR3Bid3BHM0luU3lJaXM2VjZJN2QzbFhrNW56bkJoYW5GbnI0TVl4aFgwMTFHbGhyRENGc0NMYkVWY3owZmRaaHB6RS0zdVNSS3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSno1TlF3WVlubXV0LU11OTJiNk1pWkZtR09PYkpBR3Bid3BHM0luU3lJaXM2VjZJN2QzbFhrNW56bkJoYW5GbnI0TVl4aFgwMTFHbGhyRENGc0NMYkVWY3owZmRaaHB6RS0zdVNSS3U5NkNqREs1cUZiOXdLWXFjZU9jRDBSeUt6b3kwbUh6c0RkT1ItLUxsTTQxOVFWMW9jTFByMzY4WWRZQmRiZUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-08-027",
+    "date": "2026-05-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar chief manufacturing officer disposes of $58,903 in stock. - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOWmxzYnd0N215Z25PaWM1ZThralR2SS0wTUhFcXhidlhTckZKRnRrMG00WGRCUzl2TEJpYmliU3o5UEZaa19vNi05OGJaODk4ZGwyRkNuMk5CSmpKb3Z6Q1QtSXhIZU1TcXhSQ0V6RF",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWmxzYnd0N215Z25PaWM1ZThralR2SS0wTUhFcXhidlhTckZKRnRrMG00WGRCUzl2TEJpYmliU3o5UEZaa19vNi05OGJaODk4ZGwyRkNuMk5CSmpKb3Z6Q1QtSXhIZU1TcXhSQ0V6RFRNYTUzMndZcVFkR09aYVEzblN0MVVZMEVucEpITkxLTEgxME1tRWZNcjVZblRIbXdYUTJ1R3BKYUx3OUUxQ2hGR0VJRjRMU3BDT3pMWDJTUllVdGNPSnBFSjBqNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-028",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Promising Solar Stocks To Consider - May 8th - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1BrdHVZaHZVNlg3cWlWRVVWOUk5MFBxbWxEX056SGVla1JPV1FPaGtfdWlKWE5FaE83N3NGLTNUeTcxMmZhQ3pPNU0zd1V4ZklLYTIyWjRlUTZXNG5Lc3Q5bnIxVEJQSEJ0dWJ6cU",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1BrdHVZaHZVNlg3cWlWRVVWOUk5MFBxbWxEX056SGVla1JPV1FPaGtfdWlKWE5FaE83N3NGLTNUeTcxMmZhQ3pPNU0zd1V4ZklLYTIyWjRlUTZXNG5Lc3Q5bnIxVEJQSEJ0dWJ6cU01M3hoLXV0U2ZObzN6TTVmNzZZd1hGdnFDT3ZaTmtsSU13eGVUUVd6TUxSd0s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-029",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "auto_glass_trends"
+    ],
+    "impact": "neutral",
+    "title": "NeuroHUD puts Tesla navigation and alerts where drivers can see them",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/Windshield-Projection.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla owners have been debating the",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/08/neurohud-tesla-navigation-alerts-where-drivers-can-see-them/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-030",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "positive",
+    "title": "REALLY Quick Charge: The Mobility House, V2G, and building up the grid",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/carlsbad_res_2x1copy.png?w=1600\" /></div><p>On this really quick episode of <em><a href=\"https://youtu.be/sYBoX",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/08/really-quick-charge-the-mobility-house-v2g-and-building-up-the-grid/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-031",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "glass_fiber_electronics",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Borosilicate Glass - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdHdXa2d4NVRRLU1BTlRteEpDSHZUQmFIX25Od0s1RFRCaWEyQmdlb1pUanRFYmxfWWxTd3FndUVhSFl1T29OdHRPd0FzQ3lkWW5KQk1vNWIxRGE5U3dnRzkwUnpySm9rUFU3djI4SU",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdHdXa2d4NVRRLU1BTlRteEpDSHZUQmFIX25Od0s1RFRCaWEyQmdlb1pUanRFYmxfWWxTd3FndUVhSFl1T29OdHRPd0FzQ3lkWW5KQk1vNWIxRGE5U3dnRzkwUnpySm9rUFU3djI4SUh0Z3NnWF9nSDBfNzd6b1JvT1Atc1d3ZF9QRjlXMFVnaDZBZ3pCbVBldi1HbzREcURIUER2ZTdybndxSlllVTlOZkdDdEYxMFhKNjJkVFNRX1hNYV9oWjIyeE0zX19HQjZXS2Qw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-032",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fluor posts drop in Q1 awards, revenue",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/a5UyyfiMN_Z6Wjy1GmMXApkgmD28bJAftJyp9cb7MHQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTI1NzkzMjQyLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/fluor-posts-drop-q1-awards-revenue/819751/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-033",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "WSP’s growth fueled by power generation, AI in Q1",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DPPYk0HAT8FggdmW8B5xVCo7JSPAPTG56TrpVoQbYX4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY3OTg4MjY3LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/wsp-earnings-q1-power-ai-data-center/819671/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-034",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "AI, new partnerships and safety tips: Takeaways from Construction Safety Week 2026",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/o2D9SDrVD7CotuXijeEDbpu9eHLm2me6S5zCZLx4qY8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NzczMDI5MzAuanBn.web",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-safety-week-2026-ai-jobsite-hazards/819561/",
         "type": "rss"
       }
     ]
@@ -471,6 +1152,26 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTd2MDF0eWltZ3hxTTF2YnNSZDNhSlAxeTBKSS1DS3dNRVJvcEIyYkdsakNDdVZva2ViTEwzc2hlTm9EUEVIczItdnVMS1QwaVpPS2xSc2JRLS0xbFg4QzhlS2FnMFBqaThxY3loV24xQ3ZVLUlJek4yeWJHaXM4bWdJVDYxcjNFNjRxZzdtSWUyX1BqalhIeVBQOC1TTWha?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-05-07-021",
+    "date": "2026-05-07",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings' (HKG:968) Conservative Accounting Might Explain Soft Earnings - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjhISXRwMHNlUE5oLVd3TUJtY1BKNU1fTHB3M1J2d1laVXRzbHpsMWpocl9sYmJVYkRvTXlheVQyMlVJU2NjcG1xUjloeEpQWlpwMTg0Z0RyQzN2eWlXazAzbUJvWDBYeF96YTdrMn",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjhISXRwMHNlUE5oLVd3TUJtY1BKNU1fTHB3M1J2d1laVXRzbHpsMWpocl9sYmJVYkRvTXlheVQyMlVJU2NjcG1xUjloeEpQWlpwMTg0Z0RyQzN2eWlXazAzbUJvWDBYeF96YTdrMnk3R0FVaG9CNl9TUFZKSkdFdkdCX1pwbHd2dGFEbDQ5V19XRnRiYVpTdkJvckxRLUV3RDBsdVR2OXhqYzhwSkJCcnVVQVZ0SmRKWm1kYmlzaVM2SnEwckN1OFhReERIOFJTbVFKZmtTQTAtS0FmQWN6SUtn0gHnAUFVX3lxTE5Yd2hIRnJ6VlFzMjRkcmg5MHZWSzNKV25LaTJCckpyRHpWVG9GQmlqMzQ3bjFxdUpHUGtjT2l4b1JjQlB1MF9UTWpZdmpBcGNYZndMX0hHOVhDdjJ3Tl9KZGNpVHNIVDlQRmNJdTZEWVA1bmhGVWdWYUJodFdVeHo1TFNObFJpMlhRNGxTS2FSZHF2OTc2WHJkaWFLMUpHTzAwMVFxblhSV09Hc1ZFazN0bE51ZjVvTG15dEg0SzRvZmhKN2dOLUo3UnFiYkNYVGpXbU1ZRzlJNGlGUE9TSUE1V3g1RGp4TQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1503,6 +2204,47 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDJQc25TbUZNY2JMUmg4MjRheTV4TVQ3bWJtMkcyblFDMVdwWEE3M3FtOVVyT0xaV2cwSzFXQmk0U0l6MHp6UFMwYi1sYzdheTVadlhMMUJzVGtMeXhQa0Y5Y2dVem1EUTYzaVp0eGpoWTJSNkhFekdkb2Z5ZDNocENuMjFSWTcw0gGOAUFVX3lxTFBHZW01bV8tRUNsVEFWVno1WklTNmRVZTFueGxiM241MWRVTFFsN0JFS0Jxb3VxLTRMQkk5RWVxYXd1U2xTS1JTQy03T1c2b1VIUm9icllPWEhXVDk5SlBkZk1DWk95aF9nVG92SGVtODBrQm1SMDdHTlJxZWtWaXplU3JZdU1raldIZmpBVEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-06-052",
+    "date": "2026-05-06",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (OC) Tops Q1 Earnings and Revenue Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOM05qRDlWUmhVc0owV0c1Y0NEWjBBMmVvaTRaa3kxUFFhRWNPM3h5T1g5TGF5SjdHZmt1MGFUX3JuRUZBeV9BVlBFUUQ5SWV3SGQ4T21Eb1dGS3pXa0RwSi1pZWpPZVUxa19GblVVQk",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM05qRDlWUmhVc0owV0c1Y0NEWjBBMmVvaTRaa3kxUFFhRWNPM3h5T1g5TGF5SjdHZmt1MGFUX3JuRUZBeV9BVlBFUUQ5SWV3SGQ4T21Eb1dGS3pXa0RwSi1pZWpPZVUxa19GblVVQkZjUGZFUzFDeW9NbjVVa0I4RnZSTlZTWEFnQmVmUmQ0R09MRzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-06-053",
+    "date": "2026-05-06",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar chief supply chain officer sells $46,360 of company stock - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVVUa1E4eGk1Z2RaRU5sZ24xTGNITlBjSTEwVzNWekxrVzJFYWhiRV96VzlGb196OUFDNURjck51VjVqaWJQRXVna1ZkNVRLQkw0UjNuT3ZMdzRhaFFZRG5mSGNobGpEcjFHSEJRdk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVVUa1E4eGk1Z2RaRU5sZ24xTGNITlBjSTEwVzNWekxrVzJFYWhiRV96VzlGb196OUFDNURjck51VjVqaWJQRXVna1ZkNVRLQkw0UjNuT3ZMdzRhaFFZRG5mSGNobGpEcjFHSEJRdk95aG4wY3ZIc0dia3NvT0NlMDcwUXlqMnhrSEU2UlFDaTQxYzdHcEItSTBfUG80ek02b1Y3V3luZElwY3FBbm8zdVozWE12RDVHQXUyNG5zVGxENTdiX0lCeGI1cC0?oc=5",
         "type": "rss"
       }
     ]

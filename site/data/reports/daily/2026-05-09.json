@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:25:39.685834Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-05-09-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Inc $OC Shares Sold by Danske Bank A S - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWFlWlhxSDQzdGZIRVdxQTVvN0Nsc2dkdHgzVVQ2MUFxb0VuM0E4aW9ZTUQ5bURPN2dwbzJBamRQVXlfemxjMVNRV2pqVC1jUVZxa0laSHRqTGRnRHhhMmNoOWZFTXA0c1pNd3E0MEpEbElRSjBaZVFpY2o0ZW5KYTRuVmRvVVkzV2lGcjJfdG9JRmdCVG1zZDhxV2Q4d3hjZGZjaVZLeGo1NEZyRTdTMFF3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-05-09-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Costello Asset Management INC Sells 12,865 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVm9CUDNhSWEzTEFUcVllcmRYZVpOT2lrQjVKVmFKdk05TEluNGhyR2NKeXhtdzNsYW1tZGpiUlg5SnhwYmhsTWhSam9leVRSSzUxVjRXMExXSlNjODJLbFpHbE4xNjRxQ25rbXVZR1ctT0JCY1FpcWVqX000UWtCWkFsSkcxMUZuZnpHTFRTdnFIbV9GclM5ZmNHTFQ2NGVFUlZYVVNTenA4R2tyMFdIZDFaamVVUXJmYzJ5T3NqdmVJaUpURzBJa2dBSFI0UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-05-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Longi's first energy storage project in Finland goes operational - China Daily",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0RTk0dUkybnN3RnM4eG1EWVNYR0tPem9ldEhQMm5PUGVwdi12THRwcGQyR2hPdDU0djZ5QWkxYmRhVk9NcXZPNmVFa2xZRW16MTQwMWp0bzg2UU1YY2NFQ1BNRkxKNTdGbE9VODczcHU1Y2N3S21lVGtsMzhuUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "longi-2026-05-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Green Energy stock (CNE100001FR6): Solar giant faces headwinds amid global oversupply - AD HOC NEWS",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1lcGpwYmF5Skt5Z3ZmeGhpMWl4YVFBZllHQTFmdng0ZnRjQXRXYnp4R25KQWtUNks4T1JkdUN5WkZYd05wNWxVLWJHTzIwY3U5Q0RVRkxRczM0ZWVuRkJsSndCSXMyS21rcGV5YUJMWFA4R3FNTzJzNEpPTThhVU9Ia2ctWWNoVHhKX0ROd1NBWHo2eEkxWWp4RUdMUHlEckxsYTFFN1ZjdFdHbGRLMjI2ZHprVTkwZ3RxVkcxMldzOGZDX2lzRA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 214,
+    "too_old": 141,
+    "gate1_blocked": 31,
+    "gate2_blocked": 16,
+    "passed": 37,
+    "pass_rate": "16.4%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Tata Chemicals Consolidated March 2026 Net Sales at Rs 3,438.00 crore, down 2.02% Y-o-Y - Moneycontr",
+      "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+      "Novelty Nobility Taps AGC Biologics to Further Develop Bispecific Drug Candidate - BioSpace",
+      "USW Seeks TRO On Retiree Healthcare Shift By Saint-Gobain - Law360",
+      "Saint-Gobain to invest $1 billion in India, bets on growth shift - The Economic Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為康寧、Owens Corning、隆基綠能相關動態：「Owens Corning Inc $OC Shares Sold by Danske Bank A S - Ma...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Owens Corning Inc $OC Shares Sold by Danske Bank A S - MarketBeat（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Costello Asset Management INC Sells 12,865 Shares of Owens Corning Inc $OC - ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
