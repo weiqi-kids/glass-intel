@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 28,
+  "gate2_fail": 13,
+  "passed": 18,
+  "gate2_samples": [
+    "Your Roof, Reimagined — With Owens Corning and Erin and Ben Napier - The Grand Junction Daily Sentin",
+    "Novelty Nobility Taps AGC Biologics to Further Develop Bispecific Drug Candidate - BioSpace",
+    "Saint-Gobain to invest $1 billion in India, bets on growth shift - The Economic Times",
+    "Nvidia just bought $500 million of Corning rights and the AI hardware story is going deeper into gla",
+    "O-I Glass unit prices $500M senior notes to refinance 2027 debt - MSN"
+  ]
+}
