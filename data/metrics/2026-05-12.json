@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-12",
+  "total_events": 17,
+  "by_company": {
+    "tata_chemicals": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "taiwan_glass": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "agc": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "xinyi_glass": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "innolux": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "inventory": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "glass_fiber_electronics": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
