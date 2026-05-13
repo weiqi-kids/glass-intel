@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-13",
+  "date_range": {
+    "start": "2026-05-07",
+    "end": "2026-05-13"
+  },
+  "generated_at": "2026-05-13T10:35:57.205955Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-05-07-014",
+      "date": "2026-05-07",
+      "title": "Owens Corning (OC) Q1 Profit Contrasts With Trailing Loss And Tests Bullish Turnaround Narrative - simplywall.st",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 48,
+      "last_week": 50,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": -0.01
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.06
+    },
+    "inventory": {
+      "this_week": 16,
+      "last_week": 19,
+      "week_over_week_change": "-16%",
+      "sentiment_this_week": -0.03
+    },
+    "glass_fiber_electronics": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.12
+    },
+    "auto_glass_trends": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "construction_activity": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "tata_chemicals": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 6
+    },
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "first_solar": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "owens_corning": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "corning": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "oi_glass": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "flat_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "sibelco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "nsg": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 4
+    },
+    "taiwan_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 14
+    },
+    "agc": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 5
+    },
+    "xinyi_glass": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 11
+    },
+    "innolux": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 181,
+        "last": 262,
+        "change_pct": -30.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-07",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 39,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 13,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 35,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 47,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 8,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-07 ~ 2026-05-13）共 181 則事件，重點為「Owens Corning (OC) Q1 Profit Contrasts With Tra...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "塔塔化工",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "信義玻璃",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

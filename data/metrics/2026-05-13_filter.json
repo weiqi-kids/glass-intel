@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 37,
+  "gate2_fail": 11,
+  "passed": 46,
+  "gate2_samples": [
+    "Tata Chemicals Share Tata Chemicals Share Price,tatachem Share Price (hbADPDaIQN) - Fathom Journal",
+    "Number of shareholders of Tata Chemicals Limited – NSE:TATACHEM - TradingView",
+    "Tata Chemicals Ltd. is Rated Sell by MarketsMOJO - Markets Mojo",
+    "Nippon Sheet Glass : FY2026/3 Full-Year Results Key Points [ - marketscreener.com",
+    "Nvidia just bought $500 million of Corning rights and the AI hardware story is going deeper into gla"
+  ]
+}
