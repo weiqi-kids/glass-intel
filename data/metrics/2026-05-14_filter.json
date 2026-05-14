@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 27,
+  "gate2_fail": 10,
+  "passed": 39,
+  "gate2_samples": [
+    "Number of shareholders of Tata Chemicals Limited – NSE:TATACHEM - TradingView",
+    "Tata Chemicals Ltd. is Rated Sell by MarketsMOJO - Markets Mojo",
+    "Nippon Sheet Glass : FY2026/3 Full-Year Results Key Points [ - marketscreener.com",
+    "O-I Glass Shareholders Back Board, Pay and Auditor - TipRanks",
+    "O-i Glass, Inc Annual Shareholders Meeting Transcript - GuruFocus"
+  ]
+}

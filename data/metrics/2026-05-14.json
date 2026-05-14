@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-14",
+  "total_events": 7,
+  "by_company": {
+    "xinyi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "flat_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "first_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "inventory": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
