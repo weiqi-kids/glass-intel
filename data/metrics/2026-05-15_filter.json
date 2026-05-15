@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 23,
+  "gate2_fail": 10,
+  "passed": 44,
+  "gate2_samples": [
+    "Number of shareholders of Tata Chemicals Limited – NSE:TATACHEM - TradingView",
+    "Owens Corning: Trough Conditions For A Patient Investor's Setup (NYSE:OC) - Seeking Alpha",
+    "Nippon Sheet Glass : FY2026/3 Full-Year Results Key Points [ - marketscreener.com",
+    "I-Team: Chinese companies with Miami Valley ties facing federal scrutiny - WHIO TV",
+    "O-I Glass Shareholders Back Board, Pay and Auditor - TipRanks"
+  ]
+}
