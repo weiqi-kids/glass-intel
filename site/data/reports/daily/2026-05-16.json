@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:46:43.382145Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-05-16-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Valuation Check After Q1 Results Guidance And Buyback Update - simplywall.st",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZnVCVDA3cFRuYzVybDJWUXBZWnBkWGtuajdJbzRoNW9paHFjOHNWVmJadU5Tb1pZUHhNTVlOV1daR2NNSFMzS2s3SWZhckpodjBBbGJiTDRZVXJKZlNaLVV0U0NXT0hwYlczS0l0SmtXR3hMQnJBOUxWajhXN3lpV1J4MzRnQkcycmtIM0l6blotODFBSGNEVTVFWHpVM1E1emRkenZKblF3NjRYY3NSRW9xQVNfcmxWWWM2Y2I0X29hNzJoWG9IS1ZFWmxGQdIB0wFBVV95cUxOTHFIUzBCOUJ5RlNydG9nek5GUHVKd01XYjFHQ2podjVmcDBWdXFKTGlVVnh0clNZdDlUOXJjSFZ3bjladlNiM0xGWi0xUWQ4dTFaX2FqbGhuMW5CNTlvdHBNOVhnMDRLN2k3V3lwaTVTSHlRN042bURSVFd6SVQ2alNZMExoWGZkQ1JNaWs3RmRWQ3VoVklSNjRtcmhwblRqMWo4clJjYmdsVmpqOS1TQTc3d2dlcDA1SjhfVmV1Y2hvZW94Q1ExLWJVeFp1ZkRORXdZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "agc-2026-05-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AGC Inc stock (JP3112000009): glass and materials group in focus after latest earnings - AD HOC NEWS",
+      "companies": [
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa04telZnbl9ab0VWa2xXbHYybmNadmxqc04zVXJKUVZmNnVRNFphaUg2bnd1NlpROFlpZXF6ZkowQWhFTnpucHZiY2xlcGlfODV1MHZCVWJKUFdVRjNYbkZ1bGc4T2JsbW5xWlRYbTlFdFE5RkJoQ3p4SnVaTlZyMkhHNm5iQmh2TUhicS1CWVZnTnhYR3ZCajl4a3o1N0ItTEhuSG8wV3dtZjRScmMzdlVfWGhmWVFHOU5CQ0xwZlVBd0ZF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nsg-2026-05-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Sheet Glass Co Ltd stock (JP3700000004): Earnings update and outlook for global glass demand - AD HOC NEWS",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGRZaGhqN21WRjk1VjVMWUFxdWlqNnkzekkzdjdqSkFydEJ3d0NVZG16ckR2OGotMnc4dFBQSk1pQzdrR3AtVk53WEkyQ0FCZnUyMTZoT3d1SjdqdVVuMXpNTVctb21lbVBrdzJ5cFZULXpUSi1ORERma0lVQXRsUVplTElLTGNmcHBLek5KV3B6MmFLQzVMT1I0Mng5S01yYkphTW9ydTNFWHRzWjVydlVSUlVqRkhoc2xnV0lXRGE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_solar-2026-05-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Solar Holdings Ltd stock (KYG9829N1025): earnings and policy backdrop in focus - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTdSUTdFazlNZXgzeGxLS2UtZ0thdDdxYURUcXVwV2ZJQ01YN1hSY3hTdG1YV2dONUdveHhuMTJSdzNOMkdOakpwMFlOZGNKSmE2Slc1eFFTNDV5bm9iTmZUWTdrOGVYc2JjZzBGUnQ0UUctUVpiTTBwMkhQMUxkLURvdnpjZVVSajd3WUVfYUlKY3hQaW01eGhhVzhucHQ5VnB5M1pyY2tXejY3ckhYTG9BUXRUS01CY2VsbTdtWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-05-16-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Sekurit India Q4 FY26: Robust Quarter Masks Valuation Concerns - Markets Mojo",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWxsVGhnbkZyLVVPaEZrS1lpRWVsMENXNjFMb1ZCYjhUVmE5UU81ZzYxTnRPWURlRGZVUnJXRnBtWmxWZVhlYm1XUE1uUHliREs1QjJXRUNBaXIwSXFfTVd0N1F1RmVJNXRZQmZJLUR3eld0QzgxWENUbXRNN053UldSYS1FQjBNSE1FLUE3Y1B0VmNjM1FYWmJCUGV6SVhLYWMwMlBpNTEyODRqQ0tzeGszX0hReFF3cXhIcG8yMjVWdTdzc1BHc051SQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "agc",
+        "count": 1
+      },
+      {
+        "id": "nsg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "inventory",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 238,
+    "too_old": 109,
+    "gate1_blocked": 28,
+    "gate2_blocked": 10,
+    "passed": 48,
+    "pass_rate": "24.6%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Number of shareholders of Tata Chemicals Limited – NSE:TATACHEM - TradingView",
+      "Gujarat village resident on hunger strike says decade-long pollution complaints against Tata Chemica",
+      "Owens Corning: Trough Conditions For A Patient Investor's Setup (NYSE:OC) - Seeking Alpha",
+      "Nippon Sheet Glass : FY2026/3 Full-Year Results Key Points [ - marketscreener.com",
+      "Saint-Gobain Sekurit India Ltd is Rated Sell - Markets Mojo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為隆基綠能、Owens Corning、康寧相關動態：「Owens Corning (OC) Valuation Check After Q1 Results Guida...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Owens Corning (OC) Valuation Check After Q1 Results Guidance And Buyback Upda...（財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "AGC Inc stock (JP3112000009): glass and materials group in focus after latest...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
