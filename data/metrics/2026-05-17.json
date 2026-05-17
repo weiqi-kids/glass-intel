@@ -1,0 +1,40 @@
+{
+  "date": "2026-05-17",
+  "total_events": 3,
+  "by_company": {
+    "corning": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "owens_corning": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "guidance",
+        "earnings"
+      ]
+    }
+  ]
+}
