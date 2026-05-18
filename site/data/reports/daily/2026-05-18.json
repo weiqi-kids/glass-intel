@@ -1,0 +1,289 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:49:44.173184Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-05-18-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Does Owens Corning’s Confident Q2 Revenue Outlook Reshape the Efficiency-Focused Bull Case for OC? - simplywall.st",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVm9udVRtUGhCX2hMU0l5X1dYUFg3VDgybGJRa1doUjMtY3Z0MHJ0SERBbEZFTGU5clNjelFqWUZreHBlTEZOTUgzSkE0eS0ydERrWVpfc2tTcjRlYXkzMVFjVFZkQlpYZ3VYZ0VHN0U1Yll4U3pudzZTVFYwZjAyRnB4OG5TenlTSWluMV90VEVGVUYzNlhUX2kxWmxEZGVWYkEwM2RKOVJLS0ZMRVB4T3BvNWpxeTVzcERMakpvcXBxejU3Q295SGI2UG9hZ9IB0wFBVV95cUxQSGxCamY5cGZMc2laUTR4Q3VvNGdKUVZXYy1ON1NoTlJLM0lRM1ZVNmp3SjhpRF94dFNwcl9xQy1jNVQyTlBadlF0a2IwYTlyRmdTd0QzWnFHdmtmd3FCazNqajljU1JSZDNrcndPUVJsV0hqZ0hzQ2x2OExXRFpkSkg1WDNnQ2w2YktGMEY1b1NJd0daRjhMN3FNZ28xMnZ6WjUzVlJDdXVqLU1pblVkOGFIWFhKaWZJQk5CQTZ4MXFVUHVPa1VHWWJKYmx0eXFXY1Jr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-05-18-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "First Solar stock (US3364331070): earnings jump and massive US factory expansion draw investor focus - AD HOC NEWS",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNld3QVFSQ0ZRZzVZVFJWblVFUmlRVUpyWFNXUHItR2lySHN6dEFTTUNDUWJGMERMV1F2X0s1bjlKQWd4bUtMQnVvNUUwMmdTLXEtQmxQZFhTTGZTdE00Rm0zNFpOU2MxOTNVc0VIbm5EbG9FVTZyM0RKbGREbjNUX3c4UlBOVlpLYWxicTZObEdDZGZIRWJfRHk3ZUxqZ3l5dlM5RFlZdmxPdHBoN3cyZml5Ulo1VEZma3dJLThJS2Y1Ui1S?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "solvay-2026-05-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Solvay S.A. stock (BE0003470755): spin-off progress and portfolio shift draw investor focus - AD HOC NEWS",
+      "companies": [
+        "solvay"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWhxc2lvQTdrNURBRC1qTHAzVVI2V1NQdXJiOWc4MEVHME1jTDdmLW11dEM2aVhNcF9YTFFCMzY3R1ZGTzFmWU5Wbk15Z0VEWDMxeER5UC1lQXpkMFB2Q2t4TWw2bk16LUNKWFRUNDc2c2JWM2NjYXlUalpNSzY2X3RaeXF5b082cjFZSDEyWGE3VFV1NG84V2ZRS2JnRUNCYlNlRlhBRWhhc3l2NEFITUhrZWdkRlRMdUFKWlVlRE4zZW1B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-05-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock (FR0000125007): solid Q1 sales, guidance confirmed despite construction headwinds - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWtiRWRULWtMa3pMUWpCU2NpM3VpckFCZXVvQkgxT3ZzSHBFUWN4bzVQcjZaa1psWjJRazlQUklIX3puMXRzZkZCZUdWazdmcnpWNEtSeUE3bVpBaFZLMHd3RzlpYWlqZ0VXaEF3ZmFVd0ZJU1RSVnVHb1FFRTZjU3JMc2lKcl82Y2JndkpkZ29nYm5uYjhOZzRYQ0RTRFl5MVNOV09JUmM2RE9qa1lRTzBRVEtucDdvZF9hOWRXUFlCQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corning-2026-05-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning Inc. stock (US2193501051): Q1 sales rise 18% on optical strength - AD HOC NEWS",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWIzb1k1MDVkNjFEZUZJcUpzbGJzYkNuRUREXzNUQTFwb096VS1BRVdPWFIzRTVIRU1GamdVdmxvaTQ5Ym43ZnpsWlBTMV9aZDE3c0RfdDBVVURiLVVqcV82LThkd1lnOUNlQVB4Z09oNFR2aXlHM3Y5SV9fRl9ONjRkdjBDZDZMME42cVJ5aFdrZFZFemFXUElHQS1uN2E4cmE5cFlxZnB0dVVaRUQ4c2J5WHR3MUQ0UEtfT0JYa2wzcGs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "solvay",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "fuyao",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      },
+      {
+        "id": "construction_activity",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 258,
+    "too_old": 115,
+    "gate1_blocked": 29,
+    "gate2_blocked": 11,
+    "passed": 22,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Gujarat village resident on hunger strike says decade-long pollution complaints against Tata Chemica",
+      "Tata Chemicals Share Tata Chemicals Share Price,tatachem Share Price (hbADPDaIQN) - fathomjournal.or",
+      "Owens Corning: Trough Conditions For A Patient Investor's Setup (NYSE:OC) - Seeking Alpha",
+      "Nippon Sheet Glass : FY2026/3 Full-Year Results Key Points [ - marketscreener.com",
+      "Flat Glass Group (06865): The 'Fulai Convertible Bond' will pay interest on May 20. - 富途牛牛"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Solvay、康寧、First Solar相關動態：「Does Owens Corning’s Confident Q2 Revenue Outlook Reshape...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Does Owens Corning’s Confident Q2 Revenue Outlook Reshape the Efficiency-Focu...（財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "First Solar stock (US3364331070): earnings jump and massive US factory expans...（產能、財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

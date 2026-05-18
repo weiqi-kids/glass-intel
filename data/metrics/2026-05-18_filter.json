@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 29,
+  "gate2_fail": 11,
+  "passed": 22,
+  "gate2_samples": [
+    "Gujarat village resident on hunger strike says decade-long pollution complaints against Tata Chemica",
+    "Tata Chemicals Share Tata Chemicals Share Price,tatachem Share Price (hbADPDaIQN) - fathomjournal.or",
+    "Owens Corning: Trough Conditions For A Patient Investor's Setup (NYSE:OC) - Seeking Alpha",
+    "Nippon Sheet Glass : FY2026/3 Full-Year Results Key Points [ - marketscreener.com",
+    "Flat Glass Group (06865): The 'Fulai Convertible Bond' will pay interest on May 20. - 富途牛牛"
+  ]
+}

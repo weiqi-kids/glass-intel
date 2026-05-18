@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-18",
+  "total_events": 13,
+  "by_company": {
+    "solvay": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "owens_corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "construction_activity": {
+      "count": 3,
+      "sentiment_avg": 0.06
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glass_fiber_electronics": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
