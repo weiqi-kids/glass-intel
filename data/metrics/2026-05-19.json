@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-19",
+  "total_events": 13,
+  "by_company": {
+    "agc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    },
+    "inventory": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

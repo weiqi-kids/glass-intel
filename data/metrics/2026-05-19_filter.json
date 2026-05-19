@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 253,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 23,
+  "gate2_fail": 15,
+  "passed": 29,
+  "gate2_samples": [
+    "Gujarat village resident on hunger strike says decade-long pollution complaints against Tata Chemica",
+    "Smart Money Is Buying Owens Corning (OC) - The Acquirer's Multiple",
+    "Owens Corning: Trough Conditions For A Patient Investor's Setup (NYSE:OC) - Seeking Alpha",
+    "O-I Glass (OI) price target decreased by 20.27% to 13.37 - MSN",
+    "Flat Glass Group (06865): The 'Fulai Convertible Bond' will pay interest on May 20. - 富途牛牛"
+  ]
+}

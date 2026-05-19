@@ -1,5 +1,272 @@
 [
   {
+    "id": "agc-2026-05-19-001",
+    "date": "2026-05-19",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "AGC Inc stock (JP3112000009): focus on glass and chemicals after latest earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPal9qTGh1RFhYUzVKVFNGVFdQYzM4bk9MR01lZTR2dFQwTFBJN2NDZnZlQUJERmJCQXBNS0JDbkJ6enJfTGpvWVBUVXR5aFUzYnVoYnpWSS1FY0EyZ1V4ajc5cUJkY29uTzNXMURORC",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPal9qTGh1RFhYUzVKVFNGVFdQYzM4bk9MR01lZTR2dFQwTFBJN2NDZnZlQUJERmJCQXBNS0JDbkJ6enJfTGpvWVBUVXR5aFUzYnVoYnpWSS1FY0EyZ1V4ajc5cUJkY29uTzNXMURORC1WdEFzMVBKVnNIYmkyX09RZE5RdlBodmhvZ283UmtnTkRxcFFJdWQtYnVUSFc5Q0w1VDZQTzJJVFlGSUFwNnBRNXFJOWpzN2NvTW0zMHFLc0VrYUp4a3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-002",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Paper Industries stock (JP3700000004): restructuring plans and sector headwinds in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2Q4aDNpV3lkZnh4amduZ2doN21qT19tRUFGSy1nQUJ5WkFHYXVDa0hfcjZEZklCZDI3VXJ0MmdEUGdCTWJwMG5pcGZ6clVPeDNReTkxUzN4Y2tValZNekRMMlowSTlsWTM0QXJmS0",
+    "sources": [
+      {
+        "name": "nsg",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2Q4aDNpV3lkZnh4amduZ2doN21qT19tRUFGSy1nQUJ5WkFHYXVDa0hfcjZEZklCZDI3VXJ0MmdEUGdCTWJwMG5pcGZ6clVPeDNReTkxUzN4Y2tValZNekRMMlowSTlsWTM0QXJmS0VpLVVlLUQycXQyNndzQXRNUjlfeDF5T1FZYnY4OGJEdTgxMFdZLW1OalF3eHlvYjd5eUxfSkxWR0FENHFuR3poWXFrV0k1YmNyTkxkNEJPQTZXT2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-05-19-003",
+    "date": "2026-05-19",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "solar_glass_demand",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings Ltd stock (HK0968003713): share slide in Hong Kong puts focus on solar glass de - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORXVpSTdaZ1RqR1JtdnJLWTRDM1Mya29Gc2pkZy1Vc3I4ZEFGSnAzSV9lOGF6dkduc054Z1R4V1FMTjU2dlF4Zm8wT0pJYzJHT0czNFRfaG1OSFN3YTBybFlQdzc2c3FDOE9FQlZBUT",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXVpSTdaZ1RqR1JtdnJLWTRDM1Mya29Gc2pkZy1Vc3I4ZEFGSnAzSV9lOGF6dkduc054Z1R4V1FMTjU2dlF4Zm8wT0pJYzJHT0czNFRfaG1OSFN3YTBybFlQdzc2c3FDOE9FQlZBUTlIeWZfWlduVlgtQ1NOSGI1QUJnUGtGTEdneUkyTE5WX3NHUV8wTEM5SEFOMUhtRk16OXpyci15Q2F6bjBHR2FwMVp3N3JWRHpkWVlmV3gxb3dVX215OGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-004",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Energy Holdings Ltd stock (HK3868018318): earnings, dividend profile and business model explai - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajM1Vmh4SVI3REdTeF9hUnNTeFlQN1pfckFtZC14LWpBTFZIMVMyQVZzMkRRZngtemlmdFQzR2xkbDVrb25lS3BmRHZPWkRxc20xdlZsYTlhZ2U4YU94SktTUU1FdW1zRFJTTXlTZW",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajM1Vmh4SVI3REdTeF9hUnNTeFlQN1pfckFtZC14LWpBTFZIMVMyQVZzMkRRZngtemlmdFQzR2xkbDVrb25lS3BmRHZPWkRxc20xdlZsYTlhZ2U4YU94SktTUU1FdW1zRFJTTXlTZWQ0YmhVNDZaTk9WSjQ1QlJXNFY2ZXlTNnBJeVRsUlB6RFF1RUtqVEdkclp1T0V6bXFZc0s3c1JoUUQtTXBmdnRpVWtXU1RyUXZKTmtNZXNQdEV4OG1wLTZMVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-05-19-005",
+    "date": "2026-05-19",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fuyao, Chinese companies under scrutiny: 9 key takeaways from our investigation - Dayton Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY0JFSVlNbDRNcEUwUEhmWjRvR0dHaTVEaV9QTzJDYkhIQ2ItSFlpMDBGWDlpSnEwUG5WUGt3aHhXYld4c1J1SThzOENrWDRuZG0wYzJYTUc2ZG01NDBDOGE5YnRIbDU5dTRITVk2bU",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY0JFSVlNbDRNcEUwUEhmWjRvR0dHaTVEaV9QTzJDYkhIQ2ItSFlpMDBGWDlpSnEwUG5WUGt3aHhXYld4c1J1SThzOENrWDRuZG0wYzJYTUc2ZG01NDBDOGE5YnRIbDU5dTRITVk2bUNaS3kyT21LdW5oM05xOGVhNnNadW1GTmZGcFh1Rm1Ed3ZTenBpYnJ3b3hLdV9SQm1rRzdJdl9MZko5SmNUMXh1RUVEUDU5RHZjeEhub25SUkgyRGsyTlNjMjBGeWI3MC1EeUdpYmtyaDRaY1A0MDFjWWg4d1pzSnFpQTlrekxKaEplVXgwU0U1Rg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-05-19-006",
+    "date": "2026-05-19",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Bearish block trade of FUYAO GLASS(03606) 169.2K shares at $57.45, $9.721M turnover - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNblRpUVBDejNxZ3BpOXVUQkc1QWNVbFk0Z0RGUjItWWtoZFdVM1pKcE9nVF80ZmI3YXFRQVdaTWtsLUNSZnoyN1NpdGlkcGRyTlBIcEc5NXpER2IxZU9WVjR4Vm1CRm1VWVVXOGRTMV",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblRpUVBDejNxZ3BpOXVUQkc1QWNVbFk0Z0RGUjItWWtoZFdVM1pKcE9nVF80ZmI3YXFRQVdaTWtsLUNSZnoyN1NpdGlkcGRyTlBIcEc5NXpER2IxZU9WVjR4Vm1CRm1VWVVXOGRTMVpFWUtiME1iQnZ5UGdZbDhRck00bVY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-05-19-007",
+    "date": "2026-05-19",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Global Coated Fabrics Market Outlook 2026-2036: Transportation and Protective Clothing Fuel Growth for Continental AG and Saint-Gobain Performance Fabrics - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXBKOHEyWnhJSEp1T1RTUzRubFl1TjAxN25JQjJ4N0NvVUk3ZHFVUVJOSmdnZGNZTzhLendiMmhiVVYwTHpWU2t6X2x3R3ZhdWVuUHpmeThBSU9jUzltYzVDa24xLWpSR2swVXNsdn",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXBKOHEyWnhJSEp1T1RTUzRubFl1TjAxN25JQjJ4N0NvVUk3ZHFVUVJOSmdnZGNZTzhLendiMmhiVVYwTHpWU2t6X2x3R3ZhdWVuUHpmeThBSU9jUzltYzVDa24xLWpSR2swVXNsdnE3NlNKcDZsWnQtUWIybldEb3ZGcFBlSy0zU25yVW1sOU9pOHhwdGY4cW9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-05-19-008",
+    "date": "2026-05-19",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "construction_activity",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock (FR0000125007): solid Q1 2025 sales and US construction exposure in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2gySkF6RkNwcHdOVE1pVmdfSVV4clJoOUlFX2w2RjRhU3ZnbF9kU3N4NnBVVzdDWktmbmR0N19vOGNjQm9IWDFYY1djOHZBY2tBM3ZDc3phNkhYdlI2bjV1ZXVQbDFxMzE2THBPdj",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2gySkF6RkNwcHdOVE1pVmdfSVV4clJoOUlFX2w2RjRhU3ZnbF9kU3N4NnBVVzdDWktmbmR0N19vOGNjQm9IWDFYY1djOHZBY2tBM3ZDc3phNkhYdlI2bjV1ZXVQbDFxMzE2THBPdjg0alF2OVFJMFV3SXBIOUhVM191b0FlR1F0SUpRc0c3YzNGMHg0MlRZZ3JLb1FMbFk0RjdOVFdOdDhyMkFXQnktYjBkOFhUbThzNk5BaXdKNlNYVUxLVTMwTjBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-19-009",
+    "date": "2026-05-19",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Corning Inc. stock (US2193501051): shares slide after cautious guidance and insider sale - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmVDVkNMaEdVX1p2cW51aVIyZGt1OXBnYVd2c0dJSUlZZU51QzRJMkxaRlRVSk5VbWJxUUQyY0QxZ21Ubk9QR0tLbFRrR3h4RzlRdF80bU9HNFZKRGpkWGJvRjREXzFTWlhWYzRsTU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmVDVkNMaEdVX1p2cW51aVIyZGt1OXBnYVd2c0dJSUlZZU51QzRJMkxaRlRVSk5VbWJxUUQyY0QxZ21Ubk9QR0tLbFRrR3h4RzlRdF80bU9HNFZKRGpkWGJvRjREXzFTWlhWYzRsTUpUUUMxTS15V3E1VlhURlJQZG1yUVljS0pFclNnRUozZzR2d2VFU2NqcG5sUVc2WVBHOHBnVGlCV2pMTDhfQ2dheTF4Q1QwOVo5QWJVMWtNWFhINkRV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-19-010",
+    "date": "2026-05-19",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "GameChange Solar Announces Partnership with First Solar to Support Next Phase of Utility-Scale Solar Growth in India - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ3h6NWpMZWtwVDcyS2dmQVdkRGpDVmtPRDFUQU5FTGlFbDBoSW1DalA4YnQ1SkhvSUktUk4wZnZhVDY2MUVUM1QyRUxmWV9jcEFnZGRBeFhVM0dqbWV2Q1hnMmZPWkhvLTl2QklrUV",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ3h6NWpMZWtwVDcyS2dmQVdkRGpDVmtPRDFUQU5FTGlFbDBoSW1DalA4YnQ1SkhvSUktUk4wZnZhVDY2MUVUM1QyRUxmWV9jcEFnZGRBeFhVM0dqbWV2Q1hnMmZPWkhvLTl2QklrUVZZSUhTMl9uejBMREo5aU84aVpLSkY2Y243WUpzeF90Q3BaZkdIRTdVOGU5Sm9aMVJtWjQ4LXEzSmFtaGhVeXVjWUdPTWFDX1c2ejhlZFR6UWJoWDNsQ0kzajcwZ2VNU0RLd2s0ZGp2ZVVfWEg2c2loOGFrREhKbnI2dmhnSkFibTZMSXdjczZObmVmTUVEbko3X3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-19-011",
+    "date": "2026-05-19",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Handelsbanken Fonder AB Reduces Stock Position in First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPY1VGQUZNM0JkRVFtLTV4TnQtZWxzdjBpeVRVRktfVVFUVU1COGtYbXZFUWNiUnVhTEJodG1lczRDZlJzcDB3TVBjTExXcHBRR2E5cVh0c25VOGlsY2xvM1I4b2dUdnJZZ3ZJZXliN0",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY1VGQUZNM0JkRVFtLTV4TnQtZWxzdjBpeVRVRktfVVFUVU1COGtYbXZFUWNiUnVhTEJodG1lczRDZlJzcDB3TVBjTExXcHBRR2E5cVh0c25VOGlsY2xvM1I4b2dUdnJZZ3ZJZXliN0NwdnBZUGNiTWpubzFQNHpOamlGOTJaNUZ6eV8wX1d4NDlJUFk0UlFiWG50cHZ5eENyNGJ5V1gxQkJMTHFEOV9jRGYxc09KTERjNkJNbXRIOEN1WFo4ZUdlQVF0MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-19-012",
+    "date": "2026-05-19",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Tredje AP fonden Has $68.62 Million Stock Position in First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPSGphUTE3ODhKdTdwbGZWbGFYaWNsQ2ZWdU42b19aSmdwNFNGQ0g3dnNLbHByUTBhNkZtTGhzSC00NjMxWElBZFZtR25NWkVlTTJlREFTZkEwSTNpMmw4ZG1hNkJvU2hfSUppM3ZGZl",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSGphUTE3ODhKdTdwbGZWbGFYaWNsQ2ZWdU42b19aSmdwNFNGQ0g3dnNLbHByUTBhNkZtTGhzSC00NjMxWElBZFZtR25NWkVlTTJlREFTZkEwSTNpMmw4ZG1hNkJvU2hfSUppM3ZGZl9tcmtIb1dDeHZsdThnaVcyZ2k1UENkbE1tU3UxQWpSNjk2Yi1wREhzV3Fpei10aDN4Uzl4ckdUR2hYLXh3OXZIN2s3LVZBNGdqS3J5WDVPTGpWUnhZY2dFckFpNUlvZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-19-013",
+    "date": "2026-05-19",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "AMF Tjanstepension AB Trims Stock Position in First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPc1BEVjhkREFxQUY1Tm0yeFBybXMwUTBYSG42aW1NMjBrZEtlSWI2TDBkV1RSbzBpa29zV2JJVWsyc3A2anpMdklQZEtjRVo3Q25ybVVhUTZDQnZSRVNHQk44R3EydEtvTzI4ck43Nk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc1BEVjhkREFxQUY1Tm0yeFBybXMwUTBYSG42aW1NMjBrZEtlSWI2TDBkV1RSbzBpa29zV2JJVWsyc3A2anpMdklQZEtjRVo3Q25ybVVhUTZDQnZSRVNHQk44R3EydEtvTzI4ck43NkpHWEJnc0s4R3RUTU4zMzJfVE1mU1V4QTdTUktKbkpJZ01EdDJvWVpKWm00Ykd3NWc4eGJlZzM1OVFtcE1LOTI4N1hNMHhDQjQzSjNMZk1fdnZQZmMyOFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "solvay-2026-05-18-001",
     "date": "2026-05-18",
     "companies": [
@@ -252,6 +519,278 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/spons/how-data-integration-drives-construction-business-growth/820070/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solvay-2026-05-18-014",
+    "date": "2026-05-18",
+    "companies": [
+      "solvay"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solvay S.A. stock (BE0003470755): post-spin transformation, Q1 2026 update and buyback keep investor - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZEpNblhFUGhNZktieGhqZHhNM3FSdllwZ1RfRmJjQ3FJMEN1RHRhT0FXNnVsOFBOTHlLVmZjSmRUb2tOTkhVVmVCRV9fbkhjekF1QkJqLUxNS0R1OGVPeVlia1FqUDlpYkY0NC1Ja3",
+    "sources": [
+      {
+        "name": "solvay",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZEpNblhFUGhNZktieGhqZHhNM3FSdllwZ1RfRmJjQ3FJMEN1RHRhT0FXNnVsOFBOTHlLVmZjSmRUb2tOTkhVVmVCRV9fbkhjekF1QkJqLUxNS0R1OGVPeVlia1FqUDlpYkY0NC1Ja3BBR3d5NWg3RzlJUjItNk9IVUd2S2lzSnBDMjdUVFhjMHNyTGFhWE1IbUgtRHpzeUNSZ1RySFBCbHVNMEVpMUMwNG5Kb3lnU2J0S2lOaDRsMTN5WUlPWTBr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-05-18-015",
+    "date": "2026-05-18",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Bullish block trade of XINYI SOLAR(00968) 854K shares at $2.83, $2.417M turnover - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGNsUDZzSWZzYWhqYVlXdzB3RkZibWI3QVNiWFJpeWVmOEtWNk8xZTBxNXBDREozNXg2OWpzdDVvUnhyaWljeHhQZTA2c0FQMnVvWjE0aHdVTGdaSk1fbXRNTjZQNXBKbjdTbm9BUX",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGNsUDZzSWZzYWhqYVlXdzB3RkZibWI3QVNiWFJpeWVmOEtWNk8xZTBxNXBDREozNXg2OWpzdDVvUnhyaWljeHhQZTA2c0FQMnVvWjE0aHdVTGdaSk1fbXRNTjZQNXBKbjdTbm9BUXNnTWVaTnhDUmFsUTlDV0ptenNSYWpLZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-016",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint Gobain : Reporting on share buyback transactions carried out between May 13 and May 15, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVHVlZ2FNTEctZnQ0QzZ1Y2lGY3RJUlZDc01zZS1oSXJBQ1pfS05jY1Bua1lfT1ZXWWNyNmF5TFhQYTJpWEVqLW9KNVlwbDJMYUVWNThYdWpHX3p0azYyNjFRVEQwYTVHXzd5R0RLaH",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVHVlZ2FNTEctZnQ0QzZ1Y2lGY3RJUlZDc01zZS1oSXJBQ1pfS05jY1Bua1lfT1ZXWWNyNmF5TFhQYTJpWEVqLW9KNVlwbDJMYUVWNThYdWpHX3p0azYyNjFRVEQwYTVHXzd5R0RLaHZJeU56X2lEbzFYMjZ5cGRicURqb0xCSTVWSmEzLW03YlhJNFIwS2hlUFNlQ1IwTk1HSFZHdWlJcERyTEVta1NzUlZIS2ZVbzNVUlNWc0JkWF9ROTljT0ZiT0hRTzZmMXE3V3VVcW1yRXZYTGZOMERObXdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-05-18-017",
+    "date": "2026-05-18",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass (NYSE: OI) subsidiary sells $500M 9.500% senior notes due 2033 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEhHT0pIUm5Wd0JDNXZNY05FMmZRMHJOanF6cGNiYmwyVmJQNzc3M0Q2RWl3cW9BYjlVV1JNYWZkb3hxNmoyRGQ5Q09LbjREQ0J6YmRabWsydzF5VFFoVHpYOFpRa09FM1JSSnA4aV",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEhHT0pIUm5Wd0JDNXZNY05FMmZRMHJOanF6cGNiYmwyVmJQNzc3M0Q2RWl3cW9BYjlVV1JNYWZkb3hxNmoyRGQ5Q09LbjREQ0J6YmRabWsydzF5VFFoVHpYOFpRa09FM1JSSnA4aVBrcWl4RkJ1cEt3T2tDNTFBX1hKMnFlU1ctcXB0OTBaXzREZlBRRThBLV9UNDgxTjdoOVVST2ln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-05-18-018",
+    "date": "2026-05-18",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "O-I Glass subsidiary completes $500 million private notes offering - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcG1MaW5SNjc1WERlY1RuM1dVZVpBbGZMVW1fOGFOODY1b1ZLQW5fWjNrMzZQZ2pFd2JEaGFnaG8ySVRBclBFaDdfVy1UaEYyYmg2X2diMzJyM1k0LXdQN1luN2lXZllQRjVGelJuel",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcG1MaW5SNjc1WERlY1RuM1dVZVpBbGZMVW1fOGFOODY1b1ZLQW5fWjNrMzZQZ2pFd2JEaGFnaG8ySVRBclBFaDdfVy1UaEYyYmg2X2diMzJyM1k0LXdQN1luN2lXZllQRjVGelJuel82RE0yTlR2Wk9qcmI0UXRkSExEdkRlR21oeVhIVjNLc1ZSeWVMSzBZOHVFWXk2eGdnR2IwOVZISWJBSUVNWjdrWjRCSFZIRVV0QmdtSnN4dzNXRTJnRF9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-05-18-019",
+    "date": "2026-05-18",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass Subsidiary Completes $500 Million Senior Notes Offering - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzdiRTFOSmplMjlPcmVENkZGdVBOcFU3aVBXTk9XZGQ2VGNkZVJUT2dRbkhPU05HdlBSdXE3ckdWejE2TDFmb01XV2dqakdoTjRsOGJOS1FLOGtaZnhldzBrUjZ5dzUzNnNIVmF2bF",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzdiRTFOSmplMjlPcmVENkZGdVBOcFU3aVBXTk9XZGQ2VGNkZVJUT2dRbkhPU05HdlBSdXE3ckdWejE2TDFmb01XV2dqakdoTjRsOGJOS1FLOGtaZnhldzBrUjZ5dzUzNnNIVmF2bFVyY3I2YlNvQlN1N3B2aXpYa0hNQWlMaWZMd3JoQmFkeUN4Mm93UWFLOWRLMFNJazBrTmpWNnBsUjJoN1BTekRGVXplWGJ4NzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-05-18-020",
+    "date": "2026-05-18",
+    "companies": [
+      "longi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LONGi Green Energy Technology wishes Tongwei Co., Ltd. great success in selling its new 520 modules. Behind the 'fried egg' experiment on the modules lies the question: is it science or marketing? - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2dtR3h6aVloN0VPZ2VrRko4eXFUV0hNQTlJbTVaUUR5T3BXdE5lek1uN1JqaWpRVjFHTHAyWkhzeXprdUNqVmRDcGMxRHJKUTVuLWlycEFHNkdtMjRtcnl2WGVwQl92dnk1QkVZTj",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2dtR3h6aVloN0VPZ2VrRko4eXFUV0hNQTlJbTVaUUR5T3BXdE5lek1uN1JqaWpRVjFHTHAyWkhzeXprdUNqVmRDcGMxRHJKUTVuLWlycEFHNkdtMjRtcnl2WGVwQl92dnk1QkVZTjZDNU5HSkl5cFZfNmdFX3htMEQ5R05uNE5BNldZUEE0LWFpUDhtWHA0STF6UmxEVWhfcWl3TEF5NExYdlRGTFFSYXE4ckF2aTc0aWRySkh6dUNGVWV1amdtMGJLeDlTN0R5eUZPTU9JR1c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-18-021",
+    "date": "2026-05-18",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jersey's first solar farm crushes expectations with 30% energy surge - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZF83al9XQUJSSV9ObVNRQTFJOE1tRGhjZS0tcFFUR2VXdGdpUGplRnE0RG5MTGtqVlk4dEdWcndJalgwenhIQ3RvVXFrZW9PZU14S2RkU0F6Q0ZUMmU2U05RV2Z4WWNnajFmZ0Q5ZU",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZF83al9XQUJSSV9ObVNRQTFJOE1tRGhjZS0tcFFUR2VXdGdpUGplRnE0RG5MTGtqVlk4dEdWcndJalgwenhIQ3RvVXFrZW9PZU14S2RkU0F6Q0ZUMmU2U05RV2Z4WWNnajFmZ0Q5ZURseTZiMmpIVjJBajRveUItTjVEbTU0OXpXSWo0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-18-022",
+    "date": "2026-05-18",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Assessing First Solar (FSLR) Valuation After A Year Of Mixed Returns And Recent Volatility - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRkJtVWp2THl5dVpwcmhYQ0JtNHBxXzlRZml0eG1xcTZudjF4b1ZsdHFzQWF6MEFOQklJcWpWZlZHR1lmVURsaFFRSDR6OFc2V3Q4aUdOQ3haREkxcFFQemxOcFg1UGdocWhsdDJkRk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRkJtVWp2THl5dVpwcmhYQ0JtNHBxXzlRZml0eG1xcTZudjF4b1ZsdHFzQWF6MEFOQklJcWpWZlZHR1lmVURsaFFRSDR6OFc2V3Q4aUdOQ3haREkxcFFQemxOcFg1UGdocWhsdDJkRkltbWw1SktWc3RIR3NxMnhlQ3FZTkVYczlQNHRQYWdqak0wRlBlZXFDNnBla2EwYzlmdWdHSjFrWXFtOE5RNlB1ZF9XUlhmVUJyeUdfbjc0dXhfczVueWZ6ajhVWDM0Z0ZteVHSAdcBQVVfeXFMUFFpcWd0ZFFnUE9xRS1nZHRwNUNjcmRLSjRUa0pnSkpHX0dXTG9tX3pESXB6aVJ5YjY0OFA2YWQ1cnR5Mktnd0ZhXzI0QnNlMUlMdWdNdkNRNjNObmY1cXk2a01GeUhFZ3gzaHBadXl3d0otT0hZaTg0aE93d0lJV2hHRGM0M29PLV81WVhDU2pjT0YzeEU2N1FkeTlxWEo1TENoVVFSckFLc214cEJqY0lZaURmVDM5cENlMGI5NDB3dndZYVA0eTlnRkR1UXEtLXEwbTRiSmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-18-023",
+    "date": "2026-05-18",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar stock (US3364331070): earnings jump and outlook keep solar investors watching - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWRHN3lMeDdhTmdkOVUxRGhOMVVVcTE3V1M2V0d1UHJmakJaQlN6WTVaeDZHREp0OWhIQjllWEYzZ3BucEdtYVdWdGZZd1YyM1VldWJnTWd1eVltaldQcjRGdkJTNzFrMDVRRnJ4SE",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWRHN3lMeDdhTmdkOVUxRGhOMVVVcTE3V1M2V0d1UHJmakJaQlN6WTVaeDZHREp0OWhIQjllWEYzZ3BucEdtYVdWdGZZd1YyM1VldWJnTWd1eVltaldQcjRGdkJTNzFrMDVRRnJ4SERpdUpaVGh1aWQ5Y0ZMVzMyRld0MmNBOFdLN3lNalZQWHd6OENueHdPUHA1MGFOVThVSVNzSHFZUG0yNmY2S2dVWnBPSHAzNzN5eFF3ZmxfWElOMHpH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-18-024",
+    "date": "2026-05-18",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Target of Unusually Large Options Trading (NASDAQ:FSLR) - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTNYTzR3M1FxempxYlc5STNRVy15Njhtcnp5Vkdmb0ZOTmRSa0JZNXp3NWVDMUFQVXZaN2VWWldDUFVPdlNkZ09rTW9Ob1VHZ0JnYlZLVW9SVWtjQUhSZmZ3Q3cwQjkydUJPWmJOV0",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTNYTzR3M1FxempxYlc5STNRVy15Njhtcnp5Vkdmb0ZOTmRSa0JZNXp3NWVDMUFQVXZaN2VWWldDUFVPdlNkZ09rTW9Ob1VHZ0JnYlZLVW9SVWtjQUhSZmZ3Q3cwQjkydUJPWmJOV0dYeVdIbjRUVFE5TzQwcHd1MUQ2VHUtOHRsYTlfZVVRdjFDR0tSSkJSR09vdV90bjE5VFQ3MkgzWkgxR3RwdHVQa2szTU9HY1pXX1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-025",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "US bill proposes new national EV tax, while some push to slash gas tax to zero",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/04/Capitol_Building_Full_View-public-domain-e1713472940371.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>L",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/18/us-bill-would-overcharge-evs-to-pay-for-road-damage-they-arent-doing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-026",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "XPeng (XPEV) rolls first mass-produced robotaxi off the line, a China first",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/Xpeng-GX-Robotaxi.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>XPeng (NYSE: XPEV) announced today tha",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/18/xpeng-robotaxi-mass-production-china-first/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-027",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Major general contractors bullish on data center, AI boom",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4YZtmHl0D-v__q0yPngut0cPpdxeZ98UxM8TNw0Sdk4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MjU0MjU3LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-earnings-report-data-centers-ai/820224/",
         "type": "rss"
       }
     ]
@@ -2418,6 +2957,26 @@
     ]
   },
   {
+    "id": "fuyao-2026-05-14-040",
+    "date": "2026-05-14",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "WATCH: Incentives fueled Fuyao. Now a federal probe raises questions - Springfield News-Sun",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWXVNNmdzQ2tWLVQ5VWxRNElpb1ZoU3lRVU1CVktWNEs4NHMyVTkzZzA1ak5zMUQ2U1AtVTZKY3poa2tTQlQ5NFI2dHJFTWFzQTFWTXowOWl6bDhnTVN0NzFjaElVSVRlRWJXWm1IRD",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWXVNNmdzQ2tWLVQ5VWxRNElpb1ZoU3lRVU1CVktWNEs4NHMyVTkzZzA1ak5zMUQ2U1AtVTZKY3poa2tTQlQ5NFI2dHJFTWFzQTFWTXowOWl6bDhnTVN0NzFjaElVSVRlRWJXWm1IRDhXbzhvLVJ2aGRJRXBrbVdxTnptNEctRDNIbXZzRUJ0elJLdVBlY1cwNjNueHJ3bm1iVFlVR3BieEtDZ3A5WFY4ck1oMjJ0NEVhcDREWHhSRXhIdkRwdlo2Q0kwaExadHIzY05UeGxUSVBwYkRvVmlHcmpjMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-13-001",
     "date": "2026-05-13",
     "companies": [],
@@ -3195,6 +3754,26 @@
       {
         "name": "longi",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcnBXelpFOXBXSGRZZkxqVHB2MEpYSXd1a2RSOTg0X3ZIQzVrUWs3dV80NWZ5STNEZHZMWjM2UlVmcEs2eUpNNUE1Y21HQ2MzdDFkcFZBMy1yc0lCZHV3bG8xc1NrYmRmR2k2Q0k0ZWR5TVgwbm1HVmVLbWlOMEg2c2tYVVR3UUIzSnBVSWJ0WFAzcTF4SERlbTJyVkZtWGhMdXhYVEF1SWZkMGJrcElrNDNJZHlhSTVhdW0zSXhIWDd3aHF3WUVfQjdnR3pMd2lVVnRZdnZJWHFNVFVtTjZ0UFR4VTRqcXpjamIw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_glass-2026-05-13-041",
+    "date": "2026-05-13",
+    "companies": [
+      "xinyi_glass"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Glass Holdings Stock Slips 3.2% in Hong Kong - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjhMaVV2WjFLS2ctdC1NNzhLRWJTN0RZYW9vRW5nV1k3a2c4Vks3NnV5VEROS2RfMWY1ekFRbDVGY2RVRGE3YWc1cDhXNWI1RkdRSWotZDVxYUhTX2k5M1U4YkpOQzhHSzUtSlFFMD",
+    "sources": [
+      {
+        "name": "xinyi_glass",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjhMaVV2WjFLS2ctdC1NNzhLRWJTN0RZYW9vRW5nV1k3a2c4Vks3NnV5VEROS2RfMWY1ekFRbDVGY2RVRGE3YWc1cDhXNWI1RkdRSWotZDVxYUhTX2k5M1U4YkpOQzhHSzUtSlFFMDhTM2VJUnpjUEROdXZacXlpMk11cnZhX0cxVEFvN0RFbjBDS2VsbXc?oc=5",
         "type": "rss"
       }
     ]
