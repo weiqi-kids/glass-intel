@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 26,
+  "gate2_fail": 14,
+  "passed": 35,
+  "gate2_samples": [
+    "Gujarat village resident on hunger strike says decade-long pollution complaints against Tata Chemica",
+    "Smart Money Is Buying Owens Corning (OC) - The Acquirer's Multiple",
+    "Is Owens-Corning Inc (OC) a Bargain After 3.8% Drop? GF Value Sa - GuruFocus",
+    "Drivers, start your engines! The Toledo Speedway hosts the Owens Corning 200 - wtol.com",
+    "Owens Corning: Trough Conditions For A Patient Investor's Setup (NYSE:OC) - Seeking Alpha"
+  ]
+}

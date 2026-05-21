@@ -1,0 +1,205 @@
+{
+  "date": "2026-05-21",
+  "date_range": {
+    "start": "2026-05-15",
+    "end": "2026-05-21"
+  },
+  "generated_at": "2026-05-21T11:32:02.291400Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "corning-2026-05-17-002",
+      "date": "2026-05-17",
+      "title": "Owens Corning (OC) Is Down 6.2% After Q1 Loss And Upbeat Q2 Revenue Outlook - What's Changed - Yahoo Finance",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capacity": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 55,
+      "last_week": 46,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": -0.04
+    },
+    "inventory": {
+      "this_week": 39,
+      "last_week": 17,
+      "week_over_week_change": "+129%",
+      "sentiment_this_week": -0.04
+    },
+    "guidance": {
+      "this_week": 11,
+      "last_week": 7,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": 0.0
+    },
+    "solar_glass_demand": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "construction_activity": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.04
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "auto_glass_trends": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "fuyao": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "saint_gobain": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "corning": {
+      "event_count": 10,
+      "sentiment_avg": -0.1,
+      "rank": 3
+    },
+    "first_solar": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "owens_corning": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 5
+    },
+    "agc": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 7
+    },
+    "nsg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "xinyi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "xinyi_solar": {
+      "event_count": 7,
+      "sentiment_avg": -0.29,
+      "rank": 4
+    },
+    "flat_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 8
+    },
+    "solvay": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "tata_chemicals": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "oi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 188,
+        "last": 242,
+        "change_pct": -22.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-15",
+      "event_count": 46,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 15,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 9,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 32,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 40,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 37,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 9,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-15 ~ 2026-05-21）共 188 則事件，重點為「Owens Corning (OC) Is Down 6.2% After Q1 Loss A...」。信義光能情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "信義光能",
+        "reason": "本週情緒偏負面（-0.3），共 7 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "福耀玻璃",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

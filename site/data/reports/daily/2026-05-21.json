@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:32:02.151988Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-05-21-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "FinancialContent - Russell Quality Roofing Honors Lewiston Navy Veteran with Free Roof Installation Through Owens Corning Roof Deployment Project - FinancialContent",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNb1h2TmFPLWVneDJsbDVHbGpCTlpzYXZPYkY4aF9KZ2NSUzh4RW9uejRjXzNPeFJZQ0UwRkY4U2JnU0ZmTVZkSTlTTk0tRHhrOTQ3djBQYllUR0RveE5SSGpRMUU0Yl93Ri1MdTZNSWhyZEJWSXN2SUF5c09HNklYOHFvZ2dvQWkxbDAwbGh5Wk1uZ19WWjZkS2JHaUVoX01YQmplbWZlODZWN1VNZHBzYzk5c0dFcE5RSzg1dFFQSFJfZDBhUGpDUmxma0xaZUhwcUtVdE9XbHFSbUx3Q0hWRjJIZzU4cGFheWJUMFM5WDdDU3d3TFFFSG4zVVhtRk9aTFppR2E1TWdiR0p5ZlNHbWpBQ0FOSnpNbExtMHVQVm9CZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "agc-2026-05-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AGC Inc stock (JP3112000009): latest earnings highlight glass and chemicals growth - AD HOC NEWS",
+      "companies": [
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQVgwVGNqazl4NFlydWpTR3hCUmlHczFfVWlBYTI3clh0aXRNNEVqMXg1VE5RdnNBV3p5OWh1X2RfVjd4LWJ6MVl5RlFQckstb0hteFRKYjVHZzZPYUlCbzFLZndXNGNndkFTRUhIYWtFTkNDa0J5NEc3T0hSc2wwVk5ab3VlbENHTWdBU196cFBvYXlKVkRNWDNSUFlfVWlqLS1pOWtoc3J2OTd1Rzk2QnNNUVNLa2lUNDRlVW93?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-05-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock (FR0000125007): solid Q1 2026 start and focus on profitable growth - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkNWalNlM2szTkxxUHlMeTBHWF92TFpNWGdnelh0cFZXeTg4UzZwandCUnNPWjJleGVVdDlOLWNNQk44MndMLWI0V2lhcGJyRGlyLS1RTjdId0tlVVQtV2k5aXIzaFNuRTRXdGp3TDZIYjFsTmM3VkRCa3B2ZEZZTWVhb2RoX09QTENOdlFIb0RQNWd4TFp4YlctVXhqeWMxd1dOSmFMTDVWVDFNQWI3TmpneUtZTERTZVB2eHY2U2w?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-05-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning stock (US2193501051): focus on optical and specialty materials after latest quarterly update - AD HOC NEWS",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONWxUQ0xMUUt6SDJpWE5QVmFSME1NUEY0djZ6b3Rub1c3dVlUM0o0MlpERDB2THBYTV9wY3I1SVRwdTlqdlpiWGxmdEw0Rl9zTGhMNU9NcDNUc0tndVY1a3VHX3FOYjNBalc4VjRaNnBYS3MzdFp0djh5VW4zVUVCVkFrb01wWUhTNTFadnBjQl9VbzFPcFRXNE9pYkpQX2paMVpOZ0J0M1JZbXF5Z0R1ZjhnVmh3Qlg4Q1htQVVacHdBaDVt?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ocean Sun inks MoU to deploy utility-scale floating solar across Asia - PV Tech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemlKQ2dPaE85cWpUZENpNzB5bTRXX0FacGpaanEtOGZxeHhmNURyTDFWbzlWUGdXTTJCaVg4ZHN1Y0wzNVozRVc3YWFVUHhvUkl1dWlyeFljSGc4a0luaXdsM3NWcHV1RUZ6dHRCdkdWU2FyTkRWMFpscnpDZGRONl9hSWRjTjhCRFl6b0NBNlBNM2wxWk1KTElR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "agc",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 242,
+    "too_old": 119,
+    "gate1_blocked": 26,
+    "gate2_blocked": 14,
+    "passed": 35,
+    "pass_rate": "18.0%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Gujarat village resident on hunger strike says decade-long pollution complaints against Tata Chemica",
+      "Smart Money Is Buying Owens Corning (OC) - The Acquirer's Multiple",
+      "Is Owens-Corning Inc (OC) a Bargain After 3.8% Drop? GF Value Sa - GuruFocus",
+      "Drivers, start your engines! The Toledo Speedway hosts the Owens Corning 200 - wtol.com",
+      "Owens Corning: Trough Conditions For A Patient Investor's Setup (NYSE:OC) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為康寧、Owens Corning、旭硝子相關動態：「FinancialContent - Russell Quality Roofing Honors Lewisto...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "FinancialContent - Russell Quality Roofing Honors Lewiston Navy Veteran with ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "AGC Inc stock (JP3112000009): latest earnings highlight glass and chemicals g...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
