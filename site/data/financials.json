@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T10:57:42.241757Z",
+  "updated_at": "2026-05-21T00:44:50.039917Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -35,13 +35,13 @@
       "name": "康寧",
       "ticker": "GLW",
       "currency": "USD",
-      "ar": 134000000,
-      "ar_prev": 330000000,
-      "ar_qoq": "-59%",
+      "ar": 2676000000,
+      "ar_prev": 2779000000,
+      "ar_qoq": "-4%",
       "inventory": 3279000000,
       "inv_prev": 3077000000,
       "inv_qoq": "+7%",
-      "alert": true,
+      "alert": false,
       "quarter_date": "2026-03-31"
     },
     {
@@ -49,13 +49,13 @@
       "name": "First Solar",
       "ticker": "FSLR",
       "currency": "USD",
-      "ar": 658158000,
-      "ar_prev": 251674000,
-      "ar_qoq": "+162%",
+      "ar": 1373954000,
+      "ar_prev": 1294040000,
+      "ar_qoq": "+6%",
       "inventory": 1228542000,
       "inv_prev": 1072928000,
       "inv_qoq": "+15%",
-      "alert": true,
+      "alert": false,
       "quarter_date": "2026-03-31"
     },
     {
@@ -133,13 +133,13 @@
       "name": "O-I Glass",
       "ticker": "OI",
       "currency": "USD",
-      "ar": null,
-      "ar_prev": 13000000,
-      "ar_qoq": "N/A",
+      "ar": 805000000,
+      "ar_prev": 601000000,
+      "ar_qoq": "+34%",
       "inventory": 1003000000,
       "inv_prev": 1002000000,
       "inv_qoq": "+0%",
-      "alert": false,
+      "alert": true,
       "quarter_date": "2026-03-31"
     },
     {
