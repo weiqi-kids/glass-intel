@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 262,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 24,
+  "gate2_fail": 9,
+  "passed": 23,
+  "gate2_samples": [
+    "Gujarat village resident on hunger strike says decade-long pollution complaints against Tata Chemica",
+    "Smart Money Is Buying Owens Corning (OC) - The Acquirer's Multiple",
+    "First Solar Inc (FSLR) Shares Surge 4.6% -- What GF Score of 89 Tells Investors - GuruFocus",
+    "GameChange Solar, First Solar partner on India-made thin-film module deployment - PV Tech",
+    "GameChange Solar partners with First Solar on India-made offering - Renewables Now"
+  ]
+}

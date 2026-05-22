@@ -1,5 +1,178 @@
 [
   {
+    "id": "unknown-2026-05-22-001",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Meet the Chinese auto-glass maker whose head sat beside Elon Musk - South China Morning Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcmZKb0pWMXZXejgwX0cxcEFwZHNKZkxXZDJSSXAzUU1JdkJJY0liLU5mMkhBd2ljcThvNy1UdUdyN3VnWHNaaFNxSzBRUGZ0b2F4M0FhQ3ZnVjV6T2pyNmRkeUFTaUxOU2JvS0ptM3",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcmZKb0pWMXZXejgwX0cxcEFwZHNKZkxXZDJSSXAzUU1JdkJJY0liLU5mMkhBd2ljcThvNy1UdUdyN3VnWHNaaFNxSzBRUGZ0b2F4M0FhQ3ZnVjV6T2pyNmRkeUFTaUxOU2JvS0ptM3NpMjZub2ZuQVhaMkZzYkdHWXZsbFZ4dzFFeFVfT2xxaG5OSWRtb1VFREtRa3I2Q1JvUzh4bTJDTko0MHp5UjNUajZERjluSTVZdHg0OXF4WVJhNlc0MDJXcEVhMDRZSW9JY2lib25wQTBzeDBRd1BvQXFiZkg4RTlYbERKUzBxX3hmLTN0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-002",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Greening construction material market: the time is now - Vietnam Investment Review - VIR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWoxQ012TlRzMUR5Mkdfc1BLR1ZFN2l5YUNSNmR3QUNuYjg2am5HUHk5bjJZT3ROdWxvbVFaZy1OX0h1ajZNelVHemcxejItTTJwN3o2dC03ZGNuMmpOUzRXNzZHLTdLYmdUMEFsYW",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWoxQ012TlRzMUR5Mkdfc1BLR1ZFN2l5YUNSNmR3QUNuYjg2am5HUHk5bjJZT3ROdWxvbVFaZy1OX0h1ajZNelVHemcxejItTTJwN3o2dC03ZGNuMmpOUzRXNzZHLTdLYmdUMEFsYWc1ZkFRdEUwRFhIcWs1Y2dXa3RhSEZZNDk2MXlVdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-05-22-003",
+    "date": "2026-05-22",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock (FR0000125007): Q1 sales slip but pricing power and US exposure in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzlRaFFwYU91V0FGX3VtNUhjc1ZrdDNIeUJTQjI2cGRVN2dpSmlZVl9kVExEa2JLdXp6anNGeEZBZUdDSlBYeXJrZW9UVWNmTGxKeHRHWk0zWGZnX1ZCQ3E3Ul8tVC11N1JKd3E5bl",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzlRaFFwYU91V0FGX3VtNUhjc1ZrdDNIeUJTQjI2cGRVN2dpSmlZVl9kVExEa2JLdXp6anNGeEZBZUdDSlBYeXJrZW9UVWNmTGxKeHRHWk0zWGZnX1ZCQ3E3Ul8tVC11N1JKd3E5blBzUjh5WmtwRlRYV1Rpa3h6bElDWXRLVlc1cWppTWJEZnBsZm45M0s1NXl0cDZXSXB1YlFaaDJNOTZkLTFFTnNjZ0ExSUFqYTZ1ZUhybkdxZlhLUnNsMk5vRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-22-004",
+    "date": "2026-05-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Corning stock (US2193501051): shares jump after strong Q1 2026 earnings and outlook update - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGxlSEduLWhwcFpHMnNPdGRMTXEzNDVVT3I1OFJIVXJxWVE0a19OaHV1azFfZzFSUmF4TTdGdFpPVUNFY1prek5rRDlKVmdIRlpER3JoTG4ydmIxUTR1YlpHVFJQSnNRUGZmbFBOaz",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGxlSEduLWhwcFpHMnNPdGRMTXEzNDVVT3I1OFJIVXJxWVE0a19OaHV1azFfZzFSUmF4TTdGdFpPVUNFY1prek5rRDlKVmdIRlpER3JoTG4ydmIxUTR1YlpHVFJQSnNRUGZmbFBOazVPNi1iVlp1QlZqZjhqRXRQZTJfSjUyZS13QkVCVERLWmZlSnNXRW1IQkdJYkhlcUItRV9vNUpvQUNNejVLTzBlSzdnelpnS1doLWl1U2FNRnVSWUZTX1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-22-005",
+    "date": "2026-05-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Why First Solar (FSLR) Stock Is Trading Up Today - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZU1IdEdZVm4wY1RPcUh1V1NPelMwYlJZeEJqZDB0VVZwdGJLdmI4WmdfZVNGLUw0aTUyUGRGOFY5YmNwUHA3cGNRV3I4aENsU0dHQy0tMFEta19SNDd1d1pzbmxmbmUtQmtuZ3c0YW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZU1IdEdZVm4wY1RPcUh1V1NPelMwYlJZeEJqZDB0VVZwdGJLdmI4WmdfZVNGLUw0aTUyUGRGOFY5YmNwUHA3cGNRV3I4aENsU0dHQy0tMFEta19SNDd1d1pzbmxmbmUtQmtuZ3c0YWVuaEZsLW16TS04Q085YWNPdzVMWUxwTkdMbUl5NTM0Uks4ZzVQbXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-22-006",
+    "date": "2026-05-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ProShare Advisors LLC Sells 19,963 Shares of First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdW5ER2lJVl9uYlc0aEowdjZudzR3Y1BfQWpHbERlNnhnTnA0MGpJSTNxMUJZNnZfbFk3QkhzUmYtcWxwclpJS0dyX0pIRHNnWjFjV3JCazJad2pGVW1UdUNvaVN4ZS1MVnpSeHI4ZU",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdW5ER2lJVl9uYlc0aEowdjZudzR3Y1BfQWpHbERlNnhnTnA0MGpJSTNxMUJZNnZfbFk3QkhzUmYtcWxwclpJS0dyX0pIRHNnWjFjV3JCazJad2pGVW1UdUNvaVN4ZS1MVnpSeHI4ZUpMZzBwT1gwQTBWTlhEUlVCSERiZjBFWHhmeVlRMkR1X05GYTBidVpNQy0xalBwb1VrZXNvN1N3N3I3RVA3dmx6Q0FqQTI3WmoyYUVsTXpKRWpJVEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-22-007",
+    "date": "2026-05-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tehran Energy Exchange prepares to list first solar power plant project fund - IntelliNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHV0SUZnTGs4bjVLZHRpLVlzTlhHQm9KbEh3cjFWd3dDWGZaTjJnQVJSdmR0OUtSTHpTTEwtV2tBSmRPUWEyVUdYcG16X19yaUwzaDZGRXoxdFRyNWZPeE1XaGhzdUJLMkhXbzlMd2",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHV0SUZnTGs4bjVLZHRpLVlzTlhHQm9KbEh3cjFWd3dDWGZaTjJnQVJSdmR0OUtSTHpTTEwtV2tBSmRPUWEyVUdYcG16X19yaUwzaDZGRXoxdFRyNWZPeE1XaGhzdUJLMkhXbzlMd2xWRUpHMEVwWkEwU2xCYmpVbklVZW1pUnhMVkg3SmhKSUF2SHRvRUVHSzV1UzE5R0lKdkRyS2FXN19wbmJ3VjVFT1hB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-22-008",
+    "date": "2026-05-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Leonteq Securities AG Purchases Shares of 5,808 First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjdKei11eW9UOGRGYVRNNno5U0FVbVJ0Z09MTG00Z1hreDRNQWZfaXJTQXlxMEJvMDEtS3pDWUM5dnQ4Q0xXLWRvaWxteDdLYzlEUGxuQWM0dzM2QzdQX1g2V1FVZGctal9VRlh6YT",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjdKei11eW9UOGRGYVRNNno5U0FVbVJ0Z09MTG00Z1hreDRNQWZfaXJTQXlxMEJvMDEtS3pDWUM5dnQ4Q0xXLWRvaWxteDdLYzlEUGxuQWM0dzM2QzdQX1g2V1FVZGctal9VRlh6YTVnbXhaQ3lZa0gzQUl6TEpEUlFYZEdrZlNiQTRRVHlwM2dJREJXUDFaVGhNY3daYm56N3ZwYUtYZ2lXcFZ3VDh5Yng2VXgzV2IxOGFoaFYteVpjRVdqUzFJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-22-009",
+    "date": "2026-05-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why First Solar (FSLR) Is Up 7.5% After New India Tracker Partnership With GameChange - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPekpLUzlYU1M4TDcteXZaZ0hVdTU0a0NsU0hteWlQaTY5VVZmakw2bm8wSzN4X3JvUzIxWVlVV0lJc2MtVTkyd3J5T0VmbU9EOFZabmZ6WllpUnNsNnp2NEFtbmk3Qy15dUpIbEVMVV",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekpLUzlYU1M4TDcteXZaZ0hVdTU0a0NsU0hteWlQaTY5VVZmakw2bm8wSzN4X3JvUzIxWVlVV0lJc2MtVTkyd3J5T0VmbU9EOFZabmZ6WllpUnNsNnp2NEFtbmk3Qy15dUpIbEVMVVd0QTdmeWxqYjNETzY1RzhVYjhFMEFDdVBnY2dCR01FYUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-21-001",
     "date": "2026-05-21",
     "companies": [
@@ -171,6 +344,260 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQME5xVDVoSXRFcS01WEw2VHRaMlp4QkxlZ2tVcnh0QzRRT2gtZlR2YTF0WmhBWG1jVmZhNHVEUkpWMmhJaWtLS2hkNEpFWVhMYnI2Z01QM2pYZm9XZjhYOXhndnpyOUZYdzhSUHNCSENjZ3ZOT1FFMlJ2UTFILXVNOVM4SzZyQ2h6UjRTV0c4UGNrdmZVdDBoeA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-21-010",
+    "date": "2026-05-21",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Russell Quality Roofing Honors Lewiston Navy Veteran with Free Roof Installation Through Owens Corning Roof Deployment Project - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUFZ4X2lfalF6OTdQM25mbzJ5NDNnTFZDM3dLQnJLWDJ5VGY4a1dfS3l6OWRoNWRFWjVSYnhyUkFHcFN3WktxVDY5a3pWZWNZRlZEY3lMdDhhVFZEZ2lxNVM4ZVE4U1pOQXVVQlQ5bj",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUFZ4X2lfalF6OTdQM25mbzJ5NDNnTFZDM3dLQnJLWDJ5VGY4a1dfS3l6OWRoNWRFWjVSYnhyUkFHcFN3WktxVDY5a3pWZWNZRlZEY3lMdDhhVFZEZ2lxNVM4ZVE4U1pOQXVVQlQ5bjVjUWc3STdJaTNBSnZycmRvZ0p6Qklsakk3QkZIYXBsd3lTQm9WZ0VkTjJacFBnQl84QjRmZWIxeTFiTWR1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-21-011",
+    "date": "2026-05-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Corning stock (US2193501051): steady demand signals after latest quarterly update - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3RqZlk0MUhOQmRUcTZtMWpUeXloWW5STV9mTzYtSGM5U0FsdG9wZHhiSnZJOHFmNVljbjJNMEZDWnBqMkJ2NC05MFR1ajBNWERJa25rRmpHM01YaVBGYkNDYVNMTnFnT1g3VUE0LV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3RqZlk0MUhOQmRUcTZtMWpUeXloWW5STV9mTzYtSGM5U0FsdG9wZHhiSnZJOHFmNVljbjJNMEZDWnBqMkJ2NC05MFR1ajBNWERJa25rRmpHM01YaVBGYkNDYVNMTnFnT1g3VUE0LVVEalZ6SlpReGlQWVVxdjl0bWRlVFM4eWZYUVBwTkQzQm5fQlNYcUtHaFhqYnREbHFyNnhUbTI5UnhMaDBzbndaNnhWdnRpMWc1NjlSTUV3VnJDVjRfdE9fS19B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-05-21-012",
+    "date": "2026-05-21",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "LONGi Green Energy Technology stock (CNE100001FR6): solar giant navigates weak pricing and global tr - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTd0b0l1RVZVMUVxQ1FqdmcxTGtORHQ5TjdsalVQNWdfX3l5UjRsV2xMZ1dyaFBUVm9HQURTNHg4RWwyQXNwbU8zdlZib1dORldvbmVRZHFVTXo1S3k2eERRZ1l2TS15WmFockMzRW",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTd0b0l1RVZVMUVxQ1FqdmcxTGtORHQ5TjdsalVQNWdfX3l5UjRsV2xMZ1dyaFBUVm9HQURTNHg4RWwyQXNwbU8zdlZib1dORldvbmVRZHFVTXo1S3k2eERRZ1l2TS15WmFockMzRW1BaENGRkNxeGpISnBMUTc1Y1g1cjQydndRZW9PTjRVblQxNFNJd25YNi10YVFURFVCdWstR2IzOWNLUlJIaklpSzM1LUxXVFNxWWxidUxIR1NONG1Wd3ZvMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-21-013",
+    "date": "2026-05-21",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX0h3M0NWY1RnX01lN1VVNTEzR243bUlWOVg2eWozVHVldjdvdVNoeWtzYVlQYWZiOXdjWmt5d2JiVVFxUHVkcHFKVHZjd19tcDN1VHBfVzlDU0lMTEV4LWpwVzZueTJrWmJhejVFRW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX0h3M0NWY1RnX01lN1VVNTEzR243bUlWOVg2eWozVHVldjdvdVNoeWtzYVlQYWZiOXdjWmt5d2JiVVFxUHVkcHFKVHZjd19tcDN1VHBfVzlDU0lMTEV4LWpwVzZueTJrWmJhejVFRW1lVHJ5MW1XQW9YeHhqbUxPT1VKVFRmSVM2ZVlqUXVGOXFXUGU5VzVPdGNFeG9ZUnljNkZpWm9OdTB4akQxT2VzTnNMNFlQTGhwaml4TmZUYm1fM1hDMVZFZm96NmpFWjUyZnUyZTRGQllHd01VVTZqajlINXlWRnN6?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-21-014",
+    "date": "2026-05-21",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) affiliate files Form 144 reporting multiple stock sales - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2tJNzZicUpoZnI5VFk0UjdSTVNDRl80RFhPTTJnNWFTWk16OFh3LWZzT1NxWWxiOHhmOXY4ajBLbmdYclQ0SHdmSThDTnU4MTB3YkpMcUZ4TGIwNWRJZkh1NHc0bHAzVkppTExvR2",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2tJNzZicUpoZnI5VFk0UjdSTVNDRl80RFhPTTJnNWFTWk16OFh3LWZzT1NxWWxiOHhmOXY4ajBLbmdYclQ0SHdmSThDTnU4MTB3YkpMcUZ4TGIwNWRJZkh1NHc0bHAzVkppTExvR2lxV3d2ZmhGN1VGa01zb3JFSnpGc0dlMlRmNWl3ck92VXBoRFRoNWVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-21-015",
+    "date": "2026-05-21",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "How First Solar Inc. (FSLR) Affects Rotational Strategy Timing - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzQ5WHRIb2haV1plUnRJQjRKcDQ4bldkRWw2YUdRODZyUFpDN0xpUkg3MjVOUWNyOTFzblcxYUpYTmhJdU9JMkFFWmo3VTFhcE9QRWpZM0Q2UTFodjY4ak1Od3VVTlhRREJtdG1lQn",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzQ5WHRIb2haV1plUnRJQjRKcDQ4bldkRWw2YUdRODZyUFpDN0xpUkg3MjVOUWNyOTFzblcxYUpYTmhJdU9JMkFFWmo3VTFhcE9QRWpZM0Q2UTFodjY4ak1Od3VVTlhRREJtdG1lQnd1LV9qaEhIaGN4YmN3QnAzbEV1WG9ocDVMTUR2ZUNQek5TbUFzbnBFX1YtTzVqazJKdUIyakI1aFEtV244SDdjcWJadFpjdlVTUVZiZnJjX0VrUzhaOVE0TG45SFdCWHAxLVg1MEQ2SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-016",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Affiliate reports multiple common-stock sales — FSLR (NASDAQ: FSLR) - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzZVWTM4V1FDMmFEa0R6UGNyOUR4VFdoTDRUdGJLRVpDaUtSbjYxcDRDRlhfY3ZmUHFmdXVKOUs4SFk3RktkYzVIOWJ5NmJkWGV1bUVNbmdPY0FfazZzZHBUWHpjZEtwT3BJUjRZUT",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzZVWTM4V1FDMmFEa0R6UGNyOUR4VFdoTDRUdGJLRVpDaUtSbjYxcDRDRlhfY3ZmUHFmdXVKOUs4SFk3RktkYzVIOWJ5NmJkWGV1bUVNbmdPY0FfazZzZHBUWHpjZEtwT3BJUjRZUTg2SWpxMnlBMFdWaGNyVFlPQlBPb1ZFUnJrVV9TTVY5UFhleGlNeW5N?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-21-017",
+    "date": "2026-05-21",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Guggenheim Issues Positive Forecast for First Solar (NASDAQ:FSLR) Stock Price - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVcta0J2dExZQldIM0hKd3M0SzZJMkVmRGh0blRFYlpoaHV3d1Rxd3FBSXpXUlpPMjJvT19HQkYtZFlyMW8wd2R5WEJWVTAtRGhSVkF4cGJoX1djMHZjQS0ySTkzMVU1TzdxSWZpUm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVcta0J2dExZQldIM0hKd3M0SzZJMkVmRGh0blRFYlpoaHV3d1Rxd3FBSXpXUlpPMjJvT19HQkYtZFlyMW8wd2R5WEJWVTAtRGhSVkF4cGJoX1djMHZjQS0ySTkzMVU1TzdxSWZpUmpKTTVPMWhXQXk5X2VxRlBZNXZZblRvRFBueGJ1TGg0SXlvdjZsSzU1eUtkV0YtWGdUeTNZWE1rMkZUb3ZkNmtOcmhnMlc4VzNCTnRZOXU0bHQwb2ZVOFo4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-05-21-018",
+    "date": "2026-05-21",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "UBS (AMUB) sells autocallable notes linked to First Solar with high contingent coupon - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkI0S1lQQlNJSVR4d05ONmItRVlLdkcwTDBmRElRMV93c3VfZEw0MTg4bXdXdkRuM3Qxcko0OEVVUkRBV3djNTVIbXNrN1pIVEhwSUxtOV9pTjJhWTczV2dtZXdYY0VMMk9QTFYzdz",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkI0S1lQQlNJSVR4d05ONmItRVlLdkcwTDBmRElRMV93c3VfZEw0MTg4bXdXdkRuM3Qxcko0OEVVUkRBV3djNTVIbXNrN1pIVEhwSUxtOV9pTjJhWTczV2dtZXdYY0VMMk9QTFYzdzc0bG5zYlJOb1BuSDhpU2RaaWFlaUZnN1h3X3NZM3U1VVhfODdIN2RQaUR1RTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-019",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "solar_glass_demand",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Stewart Glass Doubles Solar Glass Capacity in Ohio with New Line 2 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHV3NEpOeHZDMFlkTUcxWkZxN0h6MWg1NEVBT2cyMXh3V215QzN5Mk9rT2NMUXYxcnZyZG1naGt4THBnSmlJN0VURDFod01NVXJiVjVJaFJHTk5OZngyUUxNYkdxWEt0cEc3T0hVbH",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHV3NEpOeHZDMFlkTUcxWkZxN0h6MWg1NEVBT2cyMXh3V215QzN5Mk9rT2NMUXYxcnZyZG1naGt4THBnSmlJN0VURDFod01NVXJiVjVJaFJHTk5OZngyUUxNYkdxWEt0cEc3T0hVbHBrM3ZLeElGVDJDM0VST3lCenlJaFdBNjh5aEJNUDBRNWhVVElkcjV4cERRU3B5ckZLeGhCcEE4UlI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-020",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Solar industry cost-cutting sparks record wave of spontaneous glass breakage - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeElIV0hobVRNZ0VCS3JXQ21Gb01RM043dmRzaTF6dHRNdWgtNXV4eUg0Z19fWXgxb29RY1ptSTV1UnBNcG5VRXBsa3VQRGNBNkdCNUdjdmpLSVlmS0VPUDg3SEdDaXQ4blBWY19lUk",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeElIV0hobVRNZ0VCS3JXQ21Gb01RM043dmRzaTF6dHRNdWgtNXV4eUg0Z19fWXgxb29RY1ptSTV1UnBNcG5VRXBsa3VQRGNBNkdCNUdjdmpLSVlmS0VPUDg3SEdDaXQ4blBWY19lUkdhOU9ka3BIQk5abkhfc0VnSjBycWRJQ1hBOTlBTmlMMXUwNTdpS0ZFYk10cHNDWlUtdXlzRHJDS2piTUk4LVlGaHBGZnRXeDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-021",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "solar_glass_demand",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Stewart Glass to expand Ohio solar glass facility - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA4dFhoOE4xQ3lwcTg5LVpYRzhxMF9lZFRaUFhiZFB4bjBTazItTElUcHl4b2FrMVhtaFl6SW44eUlsRVZzeldfU3dtSG5wSWo2VTdlM3JHbXpDRHFhNVdqbFpwSjh0YXdERjh0RW1weG",
+    "sources": [
+      {
+        "name": "google_solar_glass",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4dFhoOE4xQ3lwcTg5LVpYRzhxMF9lZFRaUFhiZFB4bjBTazItTElUcHl4b2FrMVhtaFl6SW44eUlsRVZzeldfU3dtSG5wSWo2VTdlM3JHbXpDRHFhNVdqbFpwSjh0YXdERjh0RW1weGp6Q1JyRm1NdHRtYlNHbzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-022",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Bechtel, HITT among largest family-owned businesses in US: Forbes",
+    "summary": "<p>Construction, cement and material supply firms landed on the inaugural list from Forbes.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/bechtel-hitt-family-owned-large-construction-firms/820693/",
         "type": "rss"
       }
     ]
@@ -2832,6 +3259,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUnhjM2pTQUdWaVZWYmNkLWF0R0Z1Z1d1ZUk5Sm83SHh4bkdXQ2d3OGw1enVwMVNFcDMycjlOdHViR2VxR2NyNTY0REF1dmpHQWFYSDNDbDBFZGFzazdOTFdYWXhONEd1NW5OSTF2aHdhYTQyUFhDVlF3V29UOVFxYU56YlVrRlBZMDJvN0pwd3BibTZqZG5zWk9oY01IQUlWY3hkZ2M4OGkzdzBjWV9zYWVfRDdpMm4yWXE2M3FvNHpmdFJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-16-016",
+    "date": "2026-05-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Timeline: Chinese companies with Dayton ties raided by feds - Dayton Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUk5RODhFUlRYbkEzb2pkLUJDWUJkM0psQkdMWjlIRjBfa2dndFkxbFpPaE42QkJrc2x1VF8zT2FiSjctbldndTlHNFR0azQ4Q0NlQXdGeGZtZ0o0NDQyek84cDZuTVNMNDI4YnFPaH",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUk5RODhFUlRYbkEzb2pkLUJDWUJkM0psQkdMWjlIRjBfa2dndFkxbFpPaE42QkJrc2x1VF8zT2FiSjctbldndTlHNFR0azQ4Q0NlQXdGeGZtZ0o0NDQyek84cDZuTVNMNDI4YnFPaHhHWTVWTndja21wUHZ5R2trTlRmVzRqSkV3bXFidUQxMk1obC01cUp4MllYenNYX2t0OEtSQ3FMX3cxeXEzYzRpZFY4WVJKNDJLRW1LWHB1aVNZLUx4MzBkWVkxV1NRM1p5VFhNZXhreGZrd210NjRR?oc=5",
         "type": "rss"
       }
     ]
