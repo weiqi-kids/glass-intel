@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 25,
+  "gate2_fail": 10,
+  "passed": 26,
+  "gate2_samples": [
+    "Smart Money Is Buying Owens Corning (OC) - The Acquirer's Multiple",
+    "Inside the Chinese auto-glass maker whose chairman sat beside Elon Musk - South China Morning Post",
+    "A Quiet Trim From LEVIN — O-I Glass Faces Bigger Questions - The Motley Fool",
+    "A Quiet Trim From LEVIN — O-I Glass Faces Bigger Questions - AOL.com",
+    "Flat Glass Group (06865) repurchased 3.75 million shares on May 21 at a cost of HK$29.9317 million. "
+  ]
+}

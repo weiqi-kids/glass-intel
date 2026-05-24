@@ -1,0 +1,187 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T10:01:29.009769Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-05-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock (FR0000125007): focus on Q1 sales trends and construction cycle - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTB0a3NCQUxhMHJSdnhfZTV5Zll4X1U0Y3p2RTVhVHBDNWlIRmpTemgybDlvSmdBUjBtUjRPZHAzc2hQMWQ1dmg3V29SeHFGelVXNUEzRWtoUmJ2VUFIa0hfWWprQ3hzMnZGaDZfekFaaGRmdEYwRWFrSU5PYk5RSTcyQnFXTEtwY2RfLXp0a1BmU1NfZDZBaXVqSkc3SjQxZ2RuY3lsT3hGWldRczZhVWYwdGZoNWVEc2hn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-05-24-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Catalyst Funds Management Pty Ltd Takes Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSU0xSEV6c05jb08tNjNqWUh5TWVlN0o2VERPVFZXMlg0RWlKVm5QSW9fRG9PVjVUNDNVYUhZYUllMnRGZGJjTTU5MUd6X2FxeVNxbFp5Uk15bEJBNVh0Qm5nbVc1ajJTeWJJRWh3bWpQcXFTTnBRR09jZExfVUREQzYtNUwxanVMQ0ozZ1FKOS1ZT3lSTXkydVZGZHoxbW5qeWhjbjFkTlNtREtaenJTakNpR0RjRFdWcnpPaHczR3Fhanp4cGdCb2hMYWF6UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-05-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is O-I Glass Stock a Buy After a Company Director Purchased 12,000 Shares? - AOL.com",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tNUE5Rm8xSXhvZ2pLLXkybTB5dElnSmgzdHZUUXV6QVVTMUswLTdtOEpSNFhuenN5VzFjUTNDazltNE5YNXlnazBsQU1uYUhGM3lBdG1QOUJtTDFkTWp3TjRSR3I5clZ1c3JBVmtxcEk0LW5nUzhn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 246,
+    "too_old": 130,
+    "gate1_blocked": 25,
+    "gate2_blocked": 10,
+    "passed": 26,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Smart Money Is Buying Owens Corning (OC) - The Acquirer's Multiple",
+      "Inside the Chinese auto-glass maker whose chairman sat beside Elon Musk - South China Morning Post",
+      "A Quiet Trim From LEVIN — O-I Glass Faces Bigger Questions - The Motley Fool",
+      "A Quiet Trim From LEVIN — O-I Glass Faces Bigger Questions - AOL.com",
+      "Flat Glass Group (06865) repurchased 3.75 million shares on May 21 at a cost of HK$29.9317 million. "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為康寧、Owens Corning、聖戈班相關動態：「Saint-Gobain stock (FR0000125007): focus on Q1 sales tren...」。主要關注主題為庫存、建築活動、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Saint-Gobain stock (FR0000125007): focus on Q1 sales trends and construction ...（建築活動、財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Catalyst Funds Management Pty Ltd Takes Position in Owens Corning Inc $OC - M...",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
