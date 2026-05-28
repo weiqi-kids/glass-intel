@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 27,
+  "gate2_fail": 15,
+  "passed": 41,
+  "gate2_samples": [
+    "Tata Chemicals Says High Court Of Gujarat Rejects Tata Chemicals' Claim Over Legacy Wastewater Chann",
+    "Inside the Chinese auto-glass maker whose chairman sat beside Elon Musk - South China Morning Post",
+    "VML India and Saint-Gobain India turn cricket nostalgia into a glass strength statement - MediaNews4",
+    "A Quiet Trim From LEVIN — O-I Glass Faces Bigger Questions - The Motley Fool",
+    "A Quiet Trim From LEVIN — O-I Glass Faces Bigger Questions - AOL.com"
+  ]
+}
