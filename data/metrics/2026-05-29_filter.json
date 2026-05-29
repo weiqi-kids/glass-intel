@@ -1,0 +1,16 @@
+{
+  "total_raw": 441,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 27,
+  "gate2_fail": 9,
+  "passed": 30,
+  "gate2_samples": [
+    "Tata Chemicals Says High Court Of Gujarat Rejects Tata Chemicals' Claim Over Legacy Wastewater Chann",
+    "Inside the Chinese auto-glass maker whose chairman sat beside Elon Musk - South China Morning Post",
+    "Saint-Gobain to shut alumina-zirconia-silica line in Falconer, 79 jobs affected - alcircle",
+    "Saint-Gobain India’s new campaign challenges common misconception about glass - IMPACT Magazine",
+    "A Quiet Trim From LEVIN — O-I Glass Faces Bigger Questions - The Motley Fool"
+  ]
+}
