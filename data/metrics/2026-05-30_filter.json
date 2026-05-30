@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 25,
+  "gate2_fail": 11,
+  "passed": 24,
+  "gate2_samples": [
+    "Tata Chemicals Says High Court Of Gujarat Rejects Tata Chemicals' Claim Over Legacy Wastewater Chann",
+    "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 592.75 as Sell-Off Deepens - Markets Mojo",
+    "Saint-Gobain to invest US$850 million in Nuevo Leon - MEXICONOW",
+    "Saint-Gobain to shut alumina-zirconia-silica line in Falconer, 79 jobs affected - alcircle",
+    "A Quiet Trim From LEVIN — O-I Glass Faces Bigger Questions - The Motley Fool"
+  ]
+}
