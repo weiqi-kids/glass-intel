@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 251,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 23,
+  "gate2_fail": 9,
+  "passed": 13,
+  "gate2_samples": [
+    "Tata Chemicals Says High Court Of Gujarat Rejects Tata Chemicals' Claim Over Legacy Wastewater Chann",
+    "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 592.75 as Sell-Off Deepens - Markets Mojo",
+    "AGC Completes Third-Party Verification Under UL 2809 for Fluorine Raw Materials Used in AFLAS™ FFKM ",
+    "VML India and Saint-Gobain India Challenge a Generation-Old Belief in Latest Brand Film - Roastbrief",
+    "First Solar (FSLR) Shares Skyrocket, What You Need To Know - Yahoo Finance"
+  ]
+}

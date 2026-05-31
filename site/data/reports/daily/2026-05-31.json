@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:20:53.934091Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oi_glass-2026-05-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass (OI) up 6.5% since last earnings report: Can it continue? - MSN",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDE2N2w1dXZsYnhLRkFQNUcycURJOENkaHoyY3dSaHA5azVQRXMwQ094aHBrZUVfVVQ1R3dyU3VBYXN4R1dYMTJVcnoxaGk3VS0waWFpZDRab3A0UVR3VzJQcWl4aFNfMzV5Wkdpc1JRVVJmODhjXzlnTVdQZUFnRHhtckM1RW9HWkZ6QS1VVlkzQktHUDZjVWs1UGVuSl96TE9NcVRqRFk2S25BVTFGRnJ1WFU2UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-05-31-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Editorial: First Solar soars - Toledo Blade",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcjd0NjduekVVSkRXMGNHeERjanNNaEIwNzdJd05ZSWxQTnlWS1BIajJNTVl1ekcwUkxNc3dxWDJkMTFYanJTR2JkS2c1ZlY3WFgtTkR2Q0F0Q2JfZHZ5aWtTOTBvR0RacnNGWVpzQUdYRHdXRmJvVDNkOG43VTdOUmR3OWR6WnJWdDJTWGdWZnktTFp5eFYweEFfY0QwUTZPVHp1NWRKVm4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-05-31-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. $FSLR Holdings Boosted by National Pension Service - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVThNbk1VV1c3bnNaSmdndWRjb3l6OVN3MU1PUFFWRWd5LWl0UmdxWW9RU2tseVAtVks0eWlBQ1o3MkFleFptOTFUN012N0FKTFEwdXEzVzVwN09qNVRxd1Z4cldVLTU0QzN6OEhLcmdZbHVabWliUFdNWWJlbzlGT0dYdTBwRUJYSjZFMUlKSlVBX3dHUVdWRlRDOWlFTHBOTGdTbU1tZ1pTdHhSRnhmNFhheVdrc2VKUFRuVHU0WF9lcWtx?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-05-31-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eurizon Capital SGR S.p.A. Makes New $24.15 Million Investment in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSEFBMzlIUGp6UjlJME9hck0xLTVvejBQMEhOR0JMeDVWUjVCQi1EcUJYUEhQM3o5NGY1eVN4NnhfNlRYTlp6bHlLVUpvN0UtXzU4bHN6VjZSVUxkRDlXdmdSbmF2X2xleWNUaTc5eWJOV2stLTd3RXNsN0NDWHVEWkliWmlWc1U5d3NwRzI4OVY5NWdoZzVZYkJxTzFtY28zcW1RSl9rMUxiTEF1ZkE4czBQTW0tTUd4OGE2QXVldkRRX09CM0xnRlRNVUZpZEt3NnBRTXhTaHRuZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-05-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GLJ Research Upgrades First Solar (FSLR) to Buy - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclFUbXhJRF9BWVJsT3dadVRMLTNmNjhWcjJzdWpLMEVtZkQ5RVEteHFBN2tHc0RZTC0zS2J2XzBmd2RlTFl5RWU5UEJNb2kzSWh6YURtRnQ5RjdRX3VBc0U5S0JsUWtkaG9jVGNHRmFLdWVEV2YtOVV4MUZtSVBmZGR2VHhzanRZS2NUSDl2eG9iWmFJTE03NkRxMzRlVFk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 4
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 251,
+    "too_old": 144,
+    "gate1_blocked": 23,
+    "gate2_blocked": 9,
+    "passed": 13,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Tata Chemicals Says High Court Of Gujarat Rejects Tata Chemicals' Claim Over Legacy Wastewater Chann",
+      "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 592.75 as Sell-Off Deepens - Markets Mojo",
+      "AGC Completes Third-Party Verification Under UL 2809 for Fluorine Raw Materials Used in AFLAS™ FFKM ",
+      "VML India and Saint-Gobain India Challenge a Generation-Old Belief in Latest Brand Film - Roastbrief",
+      "First Solar (FSLR) Shares Skyrocket, What You Need To Know - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為First Solar、康寧、Owens Corning相關動態：「O-I Glass (OI) up 6.5% since last earnings report: Can it...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "O-I Glass (OI) up 6.5% since last earnings report: Can it continue? - MSN（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Editorial: First Solar soars - Toledo Blade（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
