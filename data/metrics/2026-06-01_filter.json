@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 26,
+  "gate2_fail": 11,
+  "passed": 18,
+  "gate2_samples": [
+    "Tata Chemicals shares fall 3% after Noel Tata writes to RBI opposing Tata Sons listing - Moneycontro",
+    "Tata Chemicals Says High Court Of Gujarat Rejects Tata Chemicals' Claim Over Legacy Wastewater Chann",
+    "Tangible book value per share of Fuyao Glass Industry Group Co., Ltd. Class H – SWB:4FG - TradingVie",
+    "Saint-Gobain divests technical textiles business - marketscreener.com",
+    "First Solar, Inc. $FSLR Position Boosted by Forsta AP Fonden - MarketBeat"
+  ]
+}
