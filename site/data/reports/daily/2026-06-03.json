@@ -1,0 +1,247 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:47:16.931641Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-06-03-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Legal & General Group Plc Trims Stake in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ0ZfX2JoeV9KWWctRmlnb05yTWNWVkZLQm1ZTXFQSTFZLVlVcUtlRWJyQUo5aC1RLTZHcGYwdzk2dmRQbmFEX05iVEpCTTZiQUdDdDhXSWpTdTZCLUpueXlJOHVIaGtXTXFTTTBGb251LUtBYzlOcGp4T1pWTmVrQ3hBSUg2aGl5N3MzQVllRDAzVHdWQWhCR0FCeXJCdmlTeklDa3pyUDdnbEpKWW9YXzU5TFNNSHF2ZGpPRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What To Expect From Quanex’s (NX) Q1 Earnings - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHFLQzEwZ0pGSEY0aVZsYW1zSGJHUnBKQkdtLTlkMjE1a21xTktBU2NjN2NnMWxhbUZZMkUxdlR3NUY0NkRKbjNCemlRUVB3c1FVbXQ0YTEwUU5yd0hsNGFNcXMxd244TGI0MGNVcmdmUVVUVHZ2eW5wZGVhU0toM0FKcUhIbDNaU2pqb1c1T1pCdXUzSnFWSkxTYUlPQnBOdWRhNjBVQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-06-03-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hong Kong Stock Market Movement | Profit Margins in the Photovoltaic Glass Sector Under Severe Pressure; Flat Glass (06865) Drops Over 5%, Xinyi Solar (00968) Falls Over 4% - 富途牛牛",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0dTbmZfOHdodlpVc1BBSU02UjZhVDB6V3kxWDdfTTFJbVJvVjkzX0lPYmg2Y0laWTNFQmwtamRQWE0zNlIwUjNza3B4U2l5RnRGRjJOS2tQUGJhMV9NNGhHZ081MkthZFRoNmVPLWJqOXJ5VXNPa040Z2dwTkFYMnZOdk5lVGtVcThaTC1TSFVZVE1VdEdFVEczTzJRQnJRWUlaTmlTSHQtY2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-06-03-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Selling US$8.5m Of First Solar Stock Rewarded Insiders - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWEZnUG5OcFI2Ull3THc1dGNnZS05RTZoOG84a0QxVUlXSk1yQmpwNFEzR3lfTlBuUjJ0ZzB5QnBVYUZCd0VzWlZ3Rl81clN3RXMzSS1aTGtieElhMHVheG15c3h0SVlFX1RrQ3MzQzdlQnlna1ctS0RCM0k0bXEyUlJKdTNOM3RZanZNVUlDVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-03-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Solar's Most Hated Year Became Its Best Five Months. The Setup That Explains the 120% Gain. - 24/7 Wall St.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3JfdThrU3Q2V2h0dDJ6ZHJlczB5RlNfaDVYQkh4cFZJbW9nSU92dkJVOVdQczVmWGduOVM3aXYwRVhlbzN4aHZlOTJjUTVGR0pYNHdkQXJId0xzQ1ctUzNmUldCdXowSGV4NFBFRWliU0xOYlVzNDlCX3Vxb2VZS3hSejV4UzNLRmdiQXRYZXEtbVUwZjY5bEZ6NS1mRWNHVm52VmhVVzNwMWMtRTNrUXhnczJ3VUN2d0NjcmhINkdOWmd1YkpGUTNDYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 6
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 231,
+    "too_old": 141,
+    "gate1_blocked": 30,
+    "gate2_blocked": 14,
+    "passed": 24,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Tata Chemicals Appoints Sriniwas CR As Chief Human Resources Officer - BW People",
+      "Tata Chemicals gets Sriniwas CR as new CHRO - HR Katha",
+      "With 30+ years of experience, Sriniwas CR joins Tata Chemicals as CHRO - People Matters Media",
+      "Tata Chemicals shares fall 3% after Noel Tata writes to RBI opposing Tata Sons listing - Moneycontro",
+      "Tata Chemicals falls 3% as Noel Tata opposes Tata Sons listing - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Owens Corning、康寧、信義光能相關動態：「Legal & General Group Plc Trims Stake in Owens Corning In...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Legal & General Group Plc Trims Stake in Owens Corning Inc $OC - MarketBeat（財報）",
+        "level": "red"
+      },
+      {
+        "text": "What To Expect From Quanex’s (NX) Q1 Earnings - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "光伏玻璃需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
