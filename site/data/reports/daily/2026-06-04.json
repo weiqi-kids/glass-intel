@@ -1,0 +1,241 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:20:04.130861Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-06-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain turns gully cricket into glass test - Campaign India",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVpjcDQ4U3VvQ3FWZ2FBQ3hpNVFaMm8tQ2ZkWS1HQy1HbUVqZnZiTWVxdG93MzJidXBYZjhUSS15VnptNUtIZzFBeXRBSk5RdmxmQUtoRjJXRWJXMVcwajM4RUl5bm5vS1ZDRVNQeFBKUFc1VFN0VXlCTE5mNW9KQXRNVUpCWGpSQVQtQmFQWlZrOUprTEx2Y2xWWVptUFZGaDJTXzg5WGhlQm5YeFFUa29B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-04-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Timeline for mass production of glass substrates clarified; Taiwan Semiconductor: No shortcuts in technology, CoPoS still needs 2–3 years - Moomoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmlGQ1BVSV9yY0xMb0R6TWxPMTk4ajJqT0QtcW5mZ05ZTWs2SGk1WXZQdGt6R0FpNE9uUERacUpWTDZlMWZmUnhMTkdBQ1puXzNsWmtRWTJzcXZSYnhmYWF6VlVTU3JpclN2QmlkcHZUOGl1S2xrWHE5Z01IbjRob0xOLVM4cHJtYXZYcDdBNE9BaGNNbVppeXAydFBzamg3TmpOLUJ4N2ZoVzFnN3cyY3lLQ1hyM25GMEFfODdB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India extends countervailing duty on Malaysian solar glass imports for five years - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU5zT0pRam40Q1JwbjJCaVFQTFluczZMOFZtQnM5REpjYWZVMGl0WXJ5SDNaTWhpUk9STFE0WjRhdUwxTE8wbWRQOFlydjUyVHVmQVFnMmswWGRpWVdtMmlVS0Y4OVIzZVZrbHp3eDI2ZWNnVWg2UnpCSDd6Wktjb0J2bW1oaW9SaWlmT1VyMXdFcjN4aVdvZGd2bGZuWmJ4YVZBVXBsc0ZMdHFrYjdIbkp5VTY1UDUzQ1QwQmJB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "oi_glass-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "O-I Glass, Inc. (NYSE:OI) Receives Average Recommendation of \"Hold\" from Brokerages - MarketBeat",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbURNR25aZWMtaXYtQlhnNnpUZUo3TjZiTGU2d0VSNkh6eG5WOU85SE9mY0VQMHdMOURDSEI5V1FYaWI0ZGN6cUd3Z2xVRWlYU1Jha2NYWld6VFFUZE1pTkNuVTRJUkJ6RTVfTldjcjF5dUF2cjg5bkZTM2ZZM0I5M3pwRjBDOUpoQTdCWUVUaGtTSDR6NDlZTTNSV08xamRCWDVFWlJGR0RyaFZ6UDZSUzd0azR1Tl9uM05PcDdDMjBTdEZsTldTZFRR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "longi-2026-06-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi tops Wood Mackenzie Global Solar PV Manufacturer Ranking - Green Building Africa",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXZJVll0czZoN0pGX2VKZUdKa2dVX0MxckJGZ25qVHVuOWJCZmV6bV8zeHhzTm02d3Njd29zRnFrd1BsMW1CbXhiNEpZeWlUa2owXzhRNmYyWFRMMndscXNLUFpaVHZZX1U3UVY5eV91WnlRdzBXcTJENUpKUWlSejhFdmZCc1RtVUhFUXh3MDhWQlp2VXBNM3VsSlBHZUVNcXlR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 235,
+    "too_old": 139,
+    "gate1_blocked": 25,
+    "gate2_blocked": 21,
+    "passed": 20,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Tata Chemicals Appoints Sriniwas CR As Chief Human Resources Officer - BW People",
+      "Tata Chemicals gets Sriniwas CR as new CHRO - HR Katha",
+      "With 30+ years of experience, Sriniwas CR joins Tata Chemicals as CHRO - People Matters Media",
+      "Tata Chemicals shares fall 3% after Noel Tata writes to RBI opposing Tata Sons listing - Moneycontro",
+      "Tata Chemicals Ltd. Falls to 52-Week Low of Rs 631.45 as Sell-Off Deepens - Markets Mojo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為聖戈班、O-I Glass、隆基綠能相關動態：「Saint-Gobain turns gully cricket into glass test - Campai...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Saint-Gobain turns gully cricket into glass test - Campaign India（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Timeline for mass production of glass substrates clarified; Taiwan Semiconduc...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
