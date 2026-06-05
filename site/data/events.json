@@ -1,5 +1,102 @@
 [
   {
+    "id": "unknown-2026-06-05-001",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Dividend stocks: Adani Enterprises, Infosys, 37 others go ex-date next week - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWFjU0xpUDZOX3N5Nm9lV1lkXzF6OE1XUTNTM3lvcnZ1c3R4N1lRMFRTRTZFODhhSVFoVXdSU1ZDYjB1NW9pekUwVTVVVGNnVVRDb19RLXFKNjlhUE5yOWNLdE9xc2JCQ2s1d2Z2X3",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWFjU0xpUDZOX3N5Nm9lV1lkXzF6OE1XUTNTM3lvcnZ1c3R4N1lRMFRTRTZFODhhSVFoVXdSU1ZDYjB1NW9pekUwVTVVVGNnVVRDb19RLXFKNjlhUE5yOWNLdE9xc2JCQ2s1d2Z2X3IxT2JHN0tBa3RaTDNJSmxraVdCcENhSXBFMDRGV3JQTldlamdWUDRYemZmQmFnMHlqZUVtR0FKbTkxNk9JcExnajkwa1NqUWN4N2FvWXBldXh5NWtIZFBZYWxmMGtaUzB0ZVFwN25sUFBlWjJ5UkhDbV9VSjVmOFRR0gHoAUFVX3lxTFAtYWNTTGlQNk5fc3k2b2VXWWRfMXo4TVdRM1MzeW9ydnVzdHg3WVEwVFNFNkU4OGFJUWhVd1JTVkNiMHU1b2l6RTBVNVVUY2dVVENvX1EtcUo2OWFQTnI5Y0t0T3FzYkJDazV3ZnZfcjFPYkc3S0FrdFpMM0lKbGtpV0JwQ2FJcEUwNEZXclBOV2VqZ1ZQNFh6ZmZCYWcweWplRW1HQUptOTE2T0lwTGdqOTBrU2pRY3g3YW9ZcGV1eHk1a0hkUFlhbGYwa1pTMHRlUXA3bmxQUGVaMnlSSENtX1VKNWY4VFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-06-05-002",
+    "date": "2026-06-05",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Norges Bank Invests $119.75 Million in Owens Corning Inc $OC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbW9RVFAzNDQ4QXkxRk9fNFFua3hPQURRUWU5OG9qX0hYenl2S2FZbEFic2VjTnVJWnpRM1hHZFo1TXJJSGNPSWR6dXN5aVVNYnJyd2g0bURvSGtubG9JTEp4cHBpRThteklRVFRVOU",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbW9RVFAzNDQ4QXkxRk9fNFFua3hPQURRUWU5OG9qX0hYenl2S2FZbEFic2VjTnVJWnpRM1hHZFo1TXJJSGNPSWR6dXN5aVVNYnJyd2g0bURvSGtubG9JTEp4cHBpRThteklRVFRVOU1FcmNEZDh4Ym4yZUJoMDFweU1kQldDTXJPLUkyaFI1akx6VHdBbVI5T21VRnRjYWp6VkJlV2RWZmlSMnlpVUtDanlFZGxBZE0tREE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-06-05-003",
+    "date": "2026-06-05",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Owens Corning (OC) Valuation Check After Mixed 3 Month And 1 Year Shareholder Returns - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb3N4YVRNYUkwSy1abUxEM0hJVmgxQm1YVjNyRzdkd0RTWEdPWE13LVFKNWpsWkVSdGRrcnI3WnMtVEFsekRZOE5HcW8tU0VOcS1CVG1RcXFVSWRsODZhV1RfR28xWnJpVXhxRVgweU",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb3N4YVRNYUkwSy1abUxEM0hJVmgxQm1YVjNyRzdkd0RTWEdPWE13LVFKNWpsWkVSdGRrcnI3WnMtVEFsekRZOE5HcW8tU0VOcS1CVG1RcXFVSWRsODZhV1RfR28xWnJpVXhxRVgweUpJSC13ZW5uaEV4WDhucEkySVZUdkdpZjlwYXFWRUNCVm1EeEo3aDJsVHByZ2RVaVRiWW9OUThicksxcmo4TGR4MXNrZ1NxNXYtNWNjWldZMDE0RmFwekFvaVhqMmN2V01VRlhF0gHTAUFVX3lxTFBvc3hhVE1hSTBLLVptTEQzSElWaDFCbVhWM3JHN2R3RFNYR09YTXctUUo1amxaRVJ0ZGtycjdacy1UQWx6RFk4Tkdxby1TRU5xLUJUbVFxcVVJZGw4NmFXVF9HbzFacmlVeHFFWDB5SklILXdlbm5oRXhYOG5wSTJJVlR2R2lmOXBhcVZFQ0JWbUR4SjdoMmxUcHJnZFVpVGJZb05ROGJySzFyajhMZHgxc2tnU3E1di01Y2NaV1kwMTRGYXB6QW9pWGoyY3ZXTVVGWEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-05-004",
+    "date": "2026-06-05",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain to End Alumina-Zirconia-Silica Production at New York Facility - megaproject.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVc2SkFxcFNIUXpYWlFrU0w1MnpUbHZhS19NYV8tcTRFdmlEWS1oNDJ0Q0JjZ3N6QjZyZVZYWnduRzdRTzg3N2hsbnFGNW1vZkZrN1BYX1NJdGJmOGUybjVBTlBmTTJueVp1aDBWQ2",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVc2SkFxcFNIUXpYWlFrU0w1MnpUbHZhS19NYV8tcTRFdmlEWS1oNDJ0Q0JjZ3N6QjZyZVZYWnduRzdRTzg3N2hsbnFGNW1vZkZrN1BYX1NJdGJmOGUybjVBTlBmTTJueVp1aDBWQ2ZlejVzY2dwbXhMamJXMmZfeUdrWTlURDFpY2p3MmhRNFJlaEdaUmNkSUw0a01QNF94TXBfQzBrbTlWTGI3QU1oVlVzRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-05-005",
+    "date": "2026-06-05",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intech Investment Management LLC Has $1.90 Million Position in First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT1BwZnhCak1SdXRTZnpjMkFhTUI2UG8xUUlBcEV5M01PQ01TZm1tdkFLRENaRUdwakxweUNvVWp2blBmMllfWVdoUHFYaEtqWTdObkZPb1F2bFlaaE0zLVVzcEFvekNHNDlacUxRbD",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT1BwZnhCak1SdXRTZnpjMkFhTUI2UG8xUUlBcEV5M01PQ01TZm1tdkFLRENaRUdwakxweUNvVWp2blBmMllfWVdoUHFYaEtqWTdObkZPb1F2bFlaaE0zLVVzcEFvekNHNDlacUxRbDI4UngxMXd6NWpYU2twenc0ZUtJZlR1OUk4Vzk0ZERWelZxY0w4WEloLWtIN1Ata1VyTWt1MU0wb2lFOU9fVzRhQXhiQmZPNXF3VFNWZ0lncVFhZHlIY3hsd1RFc1p1dkxWbFVOakFIajFFQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-06-04-001",
     "date": "2026-06-04",
     "companies": [
@@ -110,6 +207,220 @@
       {
         "name": "google_solar_glass",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU5zT0pRam40Q1JwbjJCaVFQTFluczZMOFZtQnM5REpjYWZVMGl0WXJ5SDNaTWhpUk9STFE0WjRhdUwxTE8wbWRQOFlydjUyVHVmQVFnMmswWGRpWVdtMmlVS0Y4OVIzZVZrbHp3eDI2ZWNnVWg2UnpCSDd6Wktjb0J2bW1oaW9SaWlmT1VyMXdFcjN4aVdvZGd2bGZuWmJ4YVZBVXBsc0ZMdHFrYjdIbkp5VTY1UDUzQ1QwQmJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-06-04-007",
+    "date": "2026-06-04",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tata Chemicals files Integrated Annual Report FY26 ahead of 87th AGM on June 26 - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEJFVF85QzBGS3ZFNUFXUjY4WFA3RlBVSXRybV9zcWJWRmZNcGVqYW9FaE5NSVVRN0F0YzBla3gwNE40eWJsaERfd0x5MEQ4bk93cjVvcGJUbU8tZmNIb3FfeU1sUEdNR1QwelB0VH",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEJFVF85QzBGS3ZFNUFXUjY4WFA3RlBVSXRybV9zcWJWRmZNcGVqYW9FaE5NSVVRN0F0YzBla3gwNE40eWJsaERfd0x5MEQ4bk93cjVvcGJUbU8tZmNIb3FfeU1sUEdNR1QwelB0VHViNkg2RWU0UkpNeVpGWi1aYk9vZEFFaXQxTlpPendkQVlqWDZSSWEydFVLWmRLZ0JUNllGV29iLWxEenExdkJaLWxZUXp6UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-06-04-008",
+    "date": "2026-06-04",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tata Chemicals files BRSR for FY26 with Scope 1 emissions at 48.5 lakh tonnes - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTDdkSlljMlBIaTRkbHJDcDViUkotNkZETTBtUGY3elBob3FXWjNyWWxmTFhDYzlOSkQycWtCNXo1ZTNxV2huX3pycEMyd0ctZHFIVzhDYWR6VndRemhFQXZMMjVZdmdVUEY5T0dsdn",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTDdkSlljMlBIaTRkbHJDcDViUkotNkZETTBtUGY3elBob3FXWjNyWWxmTFhDYzlOSkQycWtCNXo1ZTNxV2huX3pycEMyd0ctZHFIVzhDYWR6VndRemhFQXZMMjVZdmdVUEY5T0dsdnhuOV9RSFBJS0hnY3VmUXF2cG5vNVRRaHJOMVFESllTb3VtY3pkM1paSlFnOEhKT05qUkc3dnBOTEo0aHN2RFVSZXgyWVJYc3BZTWhmN3RrTFByVHIwSlprc05wbjloRUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-06-04-009",
+    "date": "2026-06-04",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock (OC) holds 8,069,391 shares — 10.0% stake in Owens Corning - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUk5LMnM3SnBVNnNzU1hSaFJhcUk3RFB6OHZWcGlOTW8yQmVhNzRIUk0xaHViU3BQcGFUeU5fd1Jha1ZoRXJ4S1RXRXpzQWJKSGFsM1ZIUG1vbVhtOW9Henh6b0llQVQ3Xzg2VHZTTW",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUk5LMnM3SnBVNnNzU1hSaFJhcUk3RFB6OHZWcGlOTW8yQmVhNzRIUk0xaHViU3BQcGFUeU5fd1Jha1ZoRXJ4S1RXRXpzQWJKSGFsM1ZIUG1vbVhtOW9Henh6b0llQVQ3Xzg2VHZTTWNYZzRTM3FXckxmeHlYWWNCWUo1YTBhY21LTnNabTR0V2VUWmhrRzBzNHphU3NmNlFlNHJiVzdheUl3SEhUSWdBdUlZaXlzMWJTMjJOVHp3THFvc3Zt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-06-04-010",
+    "date": "2026-06-04",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Congressman: Fuyao is ‘violating American law,’ should be sold to U.S. company - Springfield News-Sun",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNQ0hlNzVCQ2tkZzBTWWc0dGZQaUJvTlZHT2lMUTB0LUUzQnRyRzd4bVZKQXlJb2NMY01zQnZwZV96U3dTbW9UUXRBVWxOUWVWYzBjV0RkZ3REZFViY21oQTdlc09NVW9nZkR4UW9lek",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQ0hlNzVCQ2tkZzBTWWc0dGZQaUJvTlZHT2lMUTB0LUUzQnRyRzd4bVZKQXlJb2NMY01zQnZwZV96U3dTbW9UUXRBVWxOUWVWYzBjV0RkZ3REZFViY21oQTdlc09NVW9nZkR4UW9lekJrVkMtUnBfYzBOTUhfQUx3SkZpbkZiUHpaVE9NWnZQNjVPMDJoZzJEekVQNldHQjhmcnd3VFFsZE11aU1hd0JXZXRTUGtFeDRRV1lReGZ3QXo4OV9VY1d5SE5NLUtVaUZwSEE0ZlhvRWxXWExNZGNCUTFDVmQ2WXVGUGwyZFRrNno0Y2QwQW93cEJtUjhuWDFHdjBv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-06-04-011",
+    "date": "2026-06-04",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bipartisan lawmakers demand action from DOJ on investigations into Fuyao, other area companies - 95.3 and 101.1 FM The Eagle",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk9iejBwb2Ruc3ZpaWpCZUwtc2g5ZVY5b3dNUTJMWTJ5alFseHd6LTBoMkVDN0ZjRGNYd3lLVFEzelVCRk0yM0Myc0hGMXp0Q09aNmlydy1FUmx5YktqUFM5a1laek9mREp1Q2MxUH",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk9iejBwb2Ruc3ZpaWpCZUwtc2g5ZVY5b3dNUTJMWTJ5alFseHd6LTBoMkVDN0ZjRGNYd3lLVFEzelVCRk0yM0Myc0hGMXp0Q09aNmlydy1FUmx5YktqUFM5a1laek9mREp1Q2MxUHF5eEZFNG9VT1doRlpMNHdQNElGNmhGdWo1QWluRGg1cHliNFI2bmloNGJCSE9ZOF9IZUpLWUcxdGdoNGpHUDhCbDRhOFdFdTdZYnFwT0ltSDZZb0w4bl95NF8tQVlSMVF1OGhJX3g0OFh4REk3dHFSSWhUWnJ4bzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-04-012",
+    "date": "2026-06-04",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain 2025 highlights - Saint-Gobain",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE43MVhOM1dmX1d4MjFzQk9nT1JFeW8zSGNpQlNCY2haMXZSRWxweEZ2Y3NVcGVRQ0lWOThUM0lncWNzcHoyNGZZWmtYbzNnRjJVU1lPN2dtcEhQQ2FpWGdjZUlkNzdYR0FkZkVyeXItem",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43MVhOM1dmX1d4MjFzQk9nT1JFeW8zSGNpQlNCY2haMXZSRWxweEZ2Y3NVcGVRQ0lWOThUM0lncWNzcHoyNGZZWmtYbzNnRjJVU1lPN2dtcEhQQ2FpWGdjZUlkNzdYR0FkZkVyeXItemg1bkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-04-013",
+    "date": "2026-06-04",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "USW Drops Saint-Gobain Retiree Healthcare Change Suit - Law360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHh6LVpIRktGVjN3ZlhyQU5iZDI5UG9vOWlmZXRYczRtWTFpVXVwMTd3NlFHQ1NxUzZKU004a0d0eTZ6cmhHRnZHOGNxV1hJQllIVGxyYWQ0MDlza0xfT1M2TmM1eDRlSTQtV2VjT0",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHh6LVpIRktGVjN3ZlhyQU5iZDI5UG9vOWlmZXRYczRtWTFpVXVwMTd3NlFHQ1NxUzZKU004a0d0eTZ6cmhHRnZHOGNxV1hJQllIVGxyYWQ0MDlza0xfT1M2TmM1eDRlSTQtV2VjT0VDVnUyR0VtVmpTbVJPckVUZEc3Y2xxaTR6cWUwTXZNZkNfU0h6SGk3UtIBVkFVX3lxTE9NdmdQcV9JSHJ4QUlUVXFiTW5JYk5Jd0syQ0pHRUNHMHZUY2dqdDY4TXAyeTFOeHlXQUlNTXdNcU5CWVY1bmJpX05CdlFLdEVRS1dKcHp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-06-04-014",
+    "date": "2026-06-04",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass to Present at Wells Fargo 16th Annual Industrials and Materials Conference - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzJrVE9mN2pWdEtnbWF6VmxJNURsRUtHUThRbkF1dldrSmJPTFp4U0VkbHo5YWx3Z3FvVEtXVGlGbG9JZl9xY2tZTFloclZGUFBSZjFNSUJQM1F6Q1BSSl9ObmhzMEhsYXBGSHBnU0",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzJrVE9mN2pWdEtnbWF6VmxJNURsRUtHUThRbkF1dldrSmJPTFp4U0VkbHo5YWx3Z3FvVEtXVGlGbG9JZl9xY2tZTFloclZGUFBSZjFNSUJQM1F6Q1BSSl9ObmhzMEhsYXBGSHBnU0FvV1l6M055WmRXMUlOMFd5d3Vlb0xmTUlTemdtc0NRREtOd0dSV2VWWHh1cV9tZUpDeG1fS0gyNVFsQmRzRWFib0xGNUVXaTVpN1FTMG05Rmg5SnRNc2F5djkwaFZtSnBHbzh3MEJacXdMNThRZ3dZQ0xRNlJFSkJIbzdBSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-015",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ohio glass manufacturer part of DOJ probe into Chinese communist ties - NewsNation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE83QzlfS2VXaUR5WFY5RVBKUG5UUm1PZGh1RUhaVDliWUt1Y1k1Mnh1WHJlOG9hb0Q4YWFXb3ZTb19NZTBLUjZ5UTlTVXVUb3Y4enVwRmJKU1gwVEpLbV9qd1pkM1hSTlhRZDQ40gFwQV",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83QzlfS2VXaUR5WFY5RVBKUG5UUm1PZGh1RUhaVDliWUt1Y1k1Mnh1WHJlOG9hb0Q4YWFXb3ZTb19NZTBLUjZ5UTlTVXVUb3Y4enVwRmJKU1gwVEpLbV9qd1pkM1hSTlhRZDQ40gFwQVVfeXFMTVpOT3FMZ3QwQjhDZlpaS2RoWDJpUDhJc2YyVWpQS3ByX2liZHd6cDR2VVB3NFgwdVczWWJIYkQzV25rOXZQelRNYzNjSkNwdXZFS2RjRjZLVy1pYnNucGVkZVpvTkF0dUdKa2c3VGlNVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-016",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Bechtel picked for $4.69B Sabine Pass LNG expansion in Louisiana",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/j_sBVS8c9GEz_NrD8Hs-mPS8q8rE3CU2UmpLur7-w0g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYWJpbmUtUGFzcy1MaXF1ZWZhY3Rpb24tMjAy",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/bechtel-sabine-pass-lng-expansion-louisiana/822049/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-017",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Davie Defense breaks ground on $1B shipbuilding site upgrades in Texas",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/chTRz9mULSVt0G36MFg_CspH4IY7xoFK1l3PR9vzFb0/g:nowe:0:85/c:2300:1299/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EYXZpZV9EZWZlbnNlX",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/davie-defense-arctic-icebreaker-shipyard-coast-guard-galveston-port-arthur-texas/821989/",
         "type": "rss"
       }
     ]
@@ -614,6 +925,85 @@
     ]
   },
   {
+    "id": "owens_corning-2026-06-03-027",
+    "date": "2026-06-03",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning OC Q4 2025 Earnings Transcript - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1KV3lhUml2eFg2cFJCcmlZVndwdFpsdzdIalJYMzBJS0tKZ2FIaUI3ZWI4c1lEaHA2dldkdU1INm5LU09GdnhIT19jV2NqeVpRSVo3NXpHWExNd1dDd0lvaG90T2tXbWpGQzFOc250N1",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KV3lhUml2eFg2cFJCcmlZVndwdFpsdzdIalJYMzBJS0tKZ2FIaUI3ZWI4c1lEaHA2dldkdU1INm5LU09GdnhIT19jV2NqeVpRSVo3NXpHWExNd1dDd0lvaG90T2tXbWpGQzFOc250N1dKM05nTmN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-06-03-028",
+    "date": "2026-06-03",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "U.S. House members call out Fuyao, other area companies in letter demanding action from DOJ - Journal-News.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa29ONG9nUkVPSmx1QUNoRGxkb2V1dmpxdkdWYmxKSGZFVGRLVVo1c2FLaW0wOHRvbEtYZUNTbzRCYWhiZzB5azNzcGpmRVFTNm9rTkRGOVJCYU82U0twR3lSVlRjRFh4MXc4VWpHS0",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa29ONG9nUkVPSmx1QUNoRGxkb2V1dmpxdkdWYmxKSGZFVGRLVVo1c2FLaW0wOHRvbEtYZUNTbzRCYWhiZzB5azNzcGpmRVFTNm9rTkRGOVJCYU82U0twR3lSVlRjRFh4MXc4VWpHS0hxeFNoVnc2Q01yUVlBTHdKSWJwbDh5WEJORmFuX3pkdGtRTGRSUFl1WDB1c0VQRV9XTVVoUWRseWlMdjllNy1vQ3FORVpaSVNmMS05SlkzRTJVZkJiUlAyM2szQ0p3elFUVnEzZWdRc2gzTWZ4eWhjNzBmN1JKZUpmMHc3MVZZLV9iVk9HOGR2el9VakxubzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-06-03-029",
+    "date": "2026-06-03",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass stock hits 52-week low at 7.93 USD By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUXV1bGpYamJjeVlGdTlRa3c2Z1ZwRmpURFpaX2NsTUNKLTVuZTM2WGlFaERyMDkydU16dUpiY1lwX3ZFenUzdl9rc1lPNWdKOFFfTGVJdkVvSHlZcU5KR1ZBbUdtejBfV0gwRGljNT",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXV1bGpYamJjeVlGdTlRa3c2Z1ZwRmpURFpaX2NsTUNKLTVuZTM2WGlFaERyMDkydU16dUpiY1lwX3ZFenUzdl9rc1lPNWdKOFFfTGVJdkVvSHlZcU5KR1ZBbUdtejBfV0gwRGljNTlvelplZkg3Y19TUHFGVzBDNkUyOGI4WXJwYjE3MzMwM0dHbnVLWUd4SVhYb2Y4UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-06-03-030",
+    "date": "2026-06-03",
+    "companies": [
+      "longi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LONGi's Hi-MO 9 Ice Shield Targets Hail-Prone Utility-Scale Solar Projects - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmdTRzVZeDFaR2cxMVk1VlV0VFEyN2JWY3JlTG9VcEJ0VE50TFE1UnUyb2wyWnZqVDVFWWM4WUxwSGlmQ0JjRUR4TFdsUnhQWjVpR05aLWRSUmhhcUgtLVh2U190dTk4NU9rRldQRk",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmdTRzVZeDFaR2cxMVk1VlV0VFEyN2JWY3JlTG9VcEJ0VE50TFE1UnUyb2wyWnZqVDVFWWM4WUxwSGlmQ0JjRUR4TFdsUnhQWjVpR05aLWRSUmhhcUgtLVh2U190dTk4NU9rRldQRkhmYkFFbW54bHYzYXA5T2hUOFR2blRKSFZndWN1WU9EdEVnVngxOGF5X05pYzIwNFpFbjFlNi1uazFjRlBFNXfSAbsBQVVfeXFMTlhRNjd5SWN3TlBiaE00b2dqb1VYWDVneXhiLWU4YTVDWFdWZTVRUDY4TEp1QjhzZ1FndlFyTU1QM1Fja1k5TTBMcUMzUUZ2eFo0YmwxQkZ2TEluQUcxU3M3MGVHTEpKcWhzXzZmTFJyNE0xdEhZbHI0ZTBUWVVuNEJsS19PV3NjSVV2d2xzdDFucGZ0by1fTkNMRGkxcjEtWXZZREkweGQ1TTIzTm9qVmc5TExjYTV4MjB2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-06-02-001",
     "date": "2026-06-02",
     "companies": [
@@ -975,6 +1365,46 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/ai-integration-jobsite-work-data-center-construction/821369/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-06-02-020",
+    "date": "2026-06-02",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LONGi Green Energy tops Wood Mackenzie’s global solar PV module manufacturer ranking 2026 - Wood Mackenzie",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQakk0cHA4cEJCVjN3Y3Y2Z1NqN2ZubldhR2J3SHRMdnFjLWRlVWp6UTl6Qld0NmRMYUNFaUY3SHRNRVNtcXFnLVFsQTQ5djVCc3l2SXljWlRBUERQQ1Zja09fMURJdWUxZlF1VEhNQW",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakk0cHA4cEJCVjN3Y3Y2Z1NqN2ZubldhR2J3SHRMdnFjLWRlVWp6UTl6Qld0NmRMYUNFaUY3SHRNRVNtcXFnLVFsQTQ5djVCc3l2SXljWlRBUERQQ1Zja09fMURJdWUxZlF1VEhNQW5iT3RXQjI4bUM4N0Fjc1U2dGlka3pZS3dQSXREVzZrYWFvQkNQQzFsZ0Y3Y1FzaktwNUZ0eXRmaWhOZHRFTG9xclh6QXhjSGdmTmdETDNjcnU1LVdrd20w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-02-021",
+    "date": "2026-06-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWnVLRWhzMlFkcUVFanpZWWhMc0FvRnhBTF9uU2k4WjRNdkI3NVJ4WVlJcDFDTDZrRlkwOVFkUnljcEpFZDRkNzZOTHBRRXozZ19acGNPWHFPZUNpYUJyVjBxdjktcHJLcWxGQUJjZ1",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWnVLRWhzMlFkcUVFanpZWWhMc0FvRnhBTF9uU2k4WjRNdkI3NVJ4WVlJcDFDTDZrRlkwOVFkUnljcEpFZDRkNzZOTHBRRXozZ19acGNPWHFPZUNpYUJyVjBxdjktcHJLcWxGQUJjZ1dsSnFRUFozRWR4VmJWeFIwTFV1TWlDSFB3NGxIS1dhX1JmU1Zia2NSZl91R3Fid0lMNDYtV19SSlp1ZXNoaDYwdVQyX1Z1YmtNUGp3UDd1bUV3UXp3ekdkZzFzeDQzLUFzY3B2bzhNYUFyY0x1ckJkRE9mN3EtYnFFNmx2X1ZObVl4bG84WllVVm54V0hfUFk?oc=5",
         "type": "rss"
       }
     ]
@@ -1406,6 +1836,24 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1h1MkRzNUdsOE9BN0p2Q1N0Uk9FMHkyZ3UzTDU2dW12aXpjR21OMWNaY3lkdHBMd2FVLWZGYzFoRmRKY2oxc21hODhkOVFSVmYzNE5FSGFaS2N5eldjcTZUZXV2ZVcxWG1tSjFKZVExdHhraFNWMVVJVkhXbV9maGpfbm5hb05tOE1vZWxiZHAzVEo3akVEYlpkRXFybFFNUV9Ua1R0UmxGV3F6OFBtVUFYMWRUalFNU3hIcUN1WGgxX0ZvSVVPZHdYMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-023",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Noel Tata steps up fight against Tata Sons listing in letter to RBI - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNjNLRlN5LVQ3eGdqMWoyOXZIc2dVRDZRUzBfR05RLVRncDc2aVRZRThtMVdydmVGT1RwTTZBNHlKdlA2NUJ2eFFiUXZNNTRrcXVNaklheXlCejNoOTNiNjZaRnk0NFNsMi01SDZXUk",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNjNLRlN5LVQ3eGdqMWoyOXZIc2dVRDZRUzBfR05RLVRncDc2aVRZRThtMVdydmVGT1RwTTZBNHlKdlA2NUJ2eFFiUXZNNTRrcXVNaklheXlCejNoOTNiNjZaRnk0NFNsMi01SDZXUkNXdDdjakFPVnBYOGlob0FZNS1hWFVvTUppbnR1R3QwS1JtX01MXzZVLUgyOW5kMmNVc3FNNDlGMHVVNF92MWtWam9OSHpxWk1vbG92SUlzTDJxRF9ySHloM3dKLVJJYkVuU0FYLU9lQnZPS3h5aXBzTDdpSlZGSmU4Ymh5UW02TGxmb3BSazAxemh4Ympldw?oc=5",
         "type": "rss"
       }
     ]

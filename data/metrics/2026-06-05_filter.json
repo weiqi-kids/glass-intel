@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 27,
+  "gate2_fail": 18,
+  "passed": 23,
+  "gate2_samples": [
+    "Tata Chemicals gets Sriniwas CR as new CHRO - HR Katha",
+    "With 30+ years of experience, Sriniwas CR joins Tata Chemicals as CHRO - People Matters Media",
+    "Tata Chemicals Appoints Sriniwas CR As Chief Human Resources Officer - BW People",
+    "Tata Chemicals shares fall 3% after Noel Tata writes to RBI opposing Tata Sons listing - Moneycontro",
+    "Tata Chemicals falls 3% as Noel Tata opposes Tata Sons listing - MSN"
+  ]
+}
