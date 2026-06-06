@@ -1,0 +1,199 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T10:10:45.854357Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-06-06-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Nomura Asset Management Co. Ltd. Cuts Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUWxsUzVicmlkR2VaZFBsVXBwMUpZcEszc19uWDRCdmxBYWtOQ09LSGh1Q3JGQ2tGSmRIZnZLVjJPY2dlaHdjZVVYUUtZbGhqcU5QYVo2WEt6enhUd0dQaVhlODgtcFY4cGlfU1cyeTUzQnJXYkI0REl4WVo1VFV3NVhHMG1kZ2ZTZGtjbXBEOVB6R2E1QkwwSk9OWEt3Z0tBZDdibGFURGZSam14OF9VTHNqWXFIWW1MelZHVWpEWDhnSWJ1bk9tXw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-06-06-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tata Chemicals fixes June 10 record date for ₹11 dividend - scanx.trade",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEJFVF85QzBGS3ZFNUFXUjY4WFA3RlBVSXRybV9zcWJWRmZNcGVqYW9FaE5NSVVRN0F0YzBla3gwNE40eWJsaERfd0x5MEQ4bk93cjVvcGJUbU8tZmNIb3FfeU1sUEdNR1QwelB0VHViNkg2RWU0UkpNeVpGWi1aYk9vZEFFaXQxTlpPendkQVlqWDZSSWEydFVLWmRLZ0JUNllGV29iLWxEenExdkJaLWxZUXp6UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-06-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank of New York Mellon Corp Purchases 48,362 Shares of First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLVVTS1NwRlZwUVlpMDVGOE9xTjlVb2RiRTVMNlhncFZuT1FkbG1pWmdQMUxQLUs4aGU0ZFFQZjZEQTdEcDV3NTRHUkVRaWdFVlBCVS1wa2YyM21qOFRBQ1B0VVI4SWI0a3AwQjV1RnZBak9naFVYcDBtbmVBSzJubDhaNnRydW5WS09td01GdlpOd3dNUDlFUy1XdHV2alk2dXBLcUl0NThnRzZVdzlRdHdyMFJPUFJUMzMyel9yQ0IxSmtRQzR5MW83SC1DOXM5ekE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-06-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BlackRock, Inc. Reduces Stake in Owens-Corning Inc - GuruFocus",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmtVd21MQ0tFelo0RVJQRDUxMkRGaG1sTWVRQUMzMFhaTHQtV0dUS0o3YXhIRE4xREpiaXZETDF1SWtWTUVjU014bWJqbGRhVFRRbXlFSUs1NjZWRDdoRTRqNGdyWjJIZk5jZTVMOEJLMzJYVm5sSk5BOEJsMlNmd2hGWERfOFUzMnJOWW93WQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-06-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CIBC Asset Management Inc Acquires 10,370 Shares of First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOG5SWGpxZ2tERnhjV3JHUGVOVTNqN2IwSldhRU5jUVdLaEJ1Y2VrQWRHOWwzMkYtQUtCLW1ETks1Vjh6WHFGa1RKVlNRNlhWRmNVX1ZSX3pic1o1ZDBYam55bG56UlpHbHpLSGRwbE1aV0FvV1gyX3d1b1kweHVEWXVPRGdCcWt4ZWF1ZTZ6MThOLTBrS01DQlJFNkx4VEsteGhxcjhuUGN4RDlKeDRNRWppa29ocUN4b3F5SEhWcVU3TENtMW1KQnVuU2w?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 238,
+    "too_old": 139,
+    "gate1_blocked": 28,
+    "gate2_blocked": 20,
+    "passed": 15,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Tata Chemicals gets Sriniwas CR as new CHRO - HR Katha",
+      "With 30+ years of experience, Sriniwas CR joins Tata Chemicals as CHRO - People Matters Media",
+      "Tata Chemicals Appoints Sriniwas CR As Chief Human Resources Officer - BW People",
+      "Tata Chemicals shares fall 3% after Noel Tata writes to RBI opposing Tata Sons listing - Moneycontro",
+      "Tata Chemicals falls 3% as Noel Tata opposes Tata Sons listing - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為康寧、First Solar、塔塔化工相關動態：「Nomura Asset Management Co. Ltd. Cuts Position in Owens C...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nomura Asset Management Co. Ltd. Cuts Position in Owens Corning Inc $OC - Mar...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Tata Chemicals fixes June 10 record date for ₹11 dividend - scanx.trade（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
