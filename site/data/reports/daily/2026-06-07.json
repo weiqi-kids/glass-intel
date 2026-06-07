@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:33:33.359912Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-06-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BI Asset Management Fondsmaeglerselskab A S Boosts Stock Holdings in First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVHh5bmpKbUw1R29mSDE2SmFTUnhQVjYwTXRwNkxnMXI3Wmpfa0JBQTdIWEpZMHNzSXpSaGU2cHBycXpQdWp5Tzh6V3BHNlNFWm85UnZhVFdIeTRuLWl0Y1BaMVZvMXBxd0M4VDQ2d3NSbWdJWHhOUVQ4SUxPcHVfM205TlhnbnlZUk5iSENfSUUyTkM4SDBaU2NxNGFEU2YxN1NvTUxnNDNsZ1BIR1dJLXdqeHp3ZUhWd2tka1p6VGxiajFEN3huNGUyZ1NYV2Y1eXI3eU5KcGp4ZXhHb21PV0llLWE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 234,
+    "too_old": 139,
+    "gate1_blocked": 32,
+    "gate2_blocked": 22,
+    "passed": 13,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Tata Chemicals gets Sriniwas CR as new CHRO - HR Katha",
+      "With 30+ years of experience, Sriniwas CR joins Tata Chemicals as CHRO - People Matters Media",
+      "Tata Chemicals Appoints Sriniwas CR As Chief Human Resources Officer - BW People",
+      "Tata Chemicals falls 3% as Noel Tata opposes Tata Sons listing - MSN",
+      "Owens Corning hosts 2026 Women's Leadership Summit themed \"Clarity + Courage = Growth\" - wtol.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為First Solar相關動態：「BI Asset Management Fondsmaeglerselskab A S Boosts Stock ...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BI Asset Management Fondsmaeglerselskab A S Boosts Stock Holdings in First So...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

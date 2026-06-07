@@ -1,5 +1,26 @@
 [
   {
+    "id": "first_solar-2026-06-07-001",
+    "date": "2026-06-07",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "BI Asset Management Fondsmaeglerselskab A S Boosts Stock Holdings in First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVHh5bmpKbUw1R29mSDE2SmFTUnhQVjYwTXRwNkxnMXI3Wmpfa0JBQTdIWEpZMHNzSXpSaGU2cHBycXpQdWp5Tzh6V3BHNlNFWm85UnZhVFdIeTRuLWl0Y1BaMVZvMXBxd0M4VDQ2d3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVHh5bmpKbUw1R29mSDE2SmFTUnhQVjYwTXRwNkxnMXI3Wmpfa0JBQTdIWEpZMHNzSXpSaGU2cHBycXpQdWp5Tzh6V3BHNlNFWm85UnZhVFdIeTRuLWl0Y1BaMVZvMXBxd0M4VDQ2d3NSbWdJWHhOUVQ4SUxPcHVfM205TlhnbnlZUk5iSENfSUUyTkM4SDBaU2NxNGFEU2YxN1NvTUxnNDNsZ1BIR1dJLXdqeHp3ZUhWd2tka1p6VGxiajFEN3huNGUyZ1NYV2Y1eXI3eU5KcGp4ZXhHb21PV0llLWE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-06-06-001",
     "date": "2026-06-06",
     "companies": [
@@ -92,6 +113,66 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLVVTS1NwRlZwUVlpMDVGOE9xTjlVb2RiRTVMNlhncFZuT1FkbG1pWmdQMUxQLUs4aGU0ZFFQZjZEQTdEcDV3NTRHUkVRaWdFVlBCVS1wa2YyM21qOFRBQ1B0VVI4SWI0a3AwQjV1RnZBak9naFVYcDBtbmVBSzJubDhaNnRydW5WS09td01GdlpOd3dNUDlFUy1XdHV2alk2dXBLcUl0NThnRzZVdzlRdHdyMFJPUFJUMzMyel9yQ0IxSmtRQzR5MW83SC1DOXM5ekE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-06-06-006",
+    "date": "2026-06-06",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tata Chemicals Limited Share Price I Tata Chemicals Limited ISIN Code INE092A01019 (5yacJNvjWz) - Fathom Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1ROUs3eGxBNmxvQTROOVBJa0ZFX09nTVBUREx0Q0xYTlAwS1V1Q3NYcmZvMUxNRjQ3YTZVMHZDUlBXdTU2bGpFT1lzMnFqaHo2RnliUTQwb25uM2Y3YmFRWjZSNUdFWm9hQnVBS0dINT",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ROUs3eGxBNmxvQTROOVBJa0ZFX09nTVBUREx0Q0xYTlAwS1V1Q3NYcmZvMUxNRjQ3YTZVMHZDUlBXdTU2bGpFT1lzMnFqaHo2RnliUTQwb25uM2Y3YmFRWjZSNUdFWm9hQnVBS0dINTd2LWMyUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-06-007",
+    "date": "2026-06-06",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Owens Corning beats Q1 2026 EPS expectations, stock surges - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGxrM1dpMlRNdWlQb3k2dzU4dmtiMjEtcUY2UUF6Z0xGNWJuV2VNclFXOU5tUjhnRE5CbjdoVHNoNW4yM0VLZ1k4MGl4WmhHTWw3Y0JKaTZuZDZLUHpSQlBjVXJCTmE4RHdjMk5rLV",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGxrM1dpMlRNdWlQb3k2dzU4dmtiMjEtcUY2UUF6Z0xGNWJuV2VNclFXOU5tUjhnRE5CbjdoVHNoNW4yM0VLZ1k4MGl4WmhHTWw3Y0JKaTZuZDZLUHpSQlBjVXJCTmE4RHdjMk5rLVhWQVM0dkdFVlYzU21oZmoyYmJGdmhjLU1iS1hLMFphRjZ2QlR5dGlNbUtiSFhDbFdZeDI5eHJEZlR0ZFlXa21jclp5aXFCN2xsWndNdnc1MFY2WmpDeGwwR1hvZjdSNENYX0dWcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-008",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Viola Solar project unveiled, already powering the Hertel area - burnettcountysentinel.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNek01V2NLaldrRzdMUzNfQnZ5TGtPcTBnZDFUYUhjWjV4T3VRRkstT3hkRHFEcmhRM2RYcHpUeXVsanRDUmdacUNrYmNRN3M1SmtxNDlWT040c21OVWU3dW1RMncxOWp0LUhZUkN6ak",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNek01V2NLaldrRzdMUzNfQnZ5TGtPcTBnZDFUYUhjWjV4T3VRRkstT3hkRHFEcmhRM2RYcHpUeXVsanRDUmdacUNrYmNRN3M1SmtxNDlWT040c21OVWU3dW1RMncxOWp0LUhZUkN6ak1OaVNkaWhPVnlLUC1BMUQ3ZHhJbWdieF85RDVuQWlKaGZFNU9mN2lOOWh2VG9Xenk1UlVENHdEU3NEMWNpdW1vV2JLM3I3SW83c0U2QTczT0YzRUVEeHJnNUZpTEVLdzZQVnFHZ2dSMkhUdEN2TXctNUQ5RWdzTnRHUVE?oc=5",
         "type": "rss"
       }
     ]
@@ -311,6 +392,65 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjRNblhHb1VEUGtqWlFJVXVoYVF6Wm82NTBGUjdha1dWQ2xnOTVOZ1Y4blUwSHZrbV9TNFVhMWZJQzlNaFJJSDJqNF9JN2JYTHpnRmtzbm4tV1g1dlA3UF9ib2Y4MHBxYUhyWFZUN2FFaDZBWFNGRnNOVWtjVXRMZlpiSzRvYi1fZl9hVjFMUzV3ZUhM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_glass-2026-06-05-012",
+    "date": "2026-06-05",
+    "companies": [
+      "xinyi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Bearish block trade of XINYI GLASS(00868) 10.5M shares at $9.58, $100.59M turnover - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFBDUDVrY0tqYUZzcG5SdzUyRzBsRG5rSHN6NnpkSDY5NEpiWUtrYmdzazFsN2pLcE9wWXpRaUg3Q2ZJaHpidG1GSEI4cjBLenp0ZG5Rd0YwdE5CcXJZbkZBRnF6X0VIYzZwdThBU1",
+    "sources": [
+      {
+        "name": "xinyi_glass",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFBDUDVrY0tqYUZzcG5SdzUyRzBsRG5rSHN6NnpkSDY5NEpiWUtrYmdzazFsN2pLcE9wWXpRaUg3Q2ZJaHpidG1GSEI4cjBLenp0ZG5Rd0YwdE5CcXJZbkZBRnF6X0VIYzZwdThBU1pWTW5NcEZEZFViZ1R1Q1ViX2tyUFJCQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-05-013",
+    "date": "2026-06-05",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain completes sale of technical textile business - Specialty Fabrics Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBhdHAxazZ1d1p2ZmFPNWgyUnBVWlNmYmd3MUtlV1JqQnljd0FKcHlSVlUwaThNRWViWTRldE9uWHljQ1laaU4tNmhvdUJBMW5DSG5CSEQ5V3VCMWtwejFCa3VNcG1oTHFaTUxR?oc=5\"",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhdHAxazZ1d1p2ZmFPNWgyUnBVWlNmYmd3MUtlV1JqQnljd0FKcHlSVlUwaThNRWViWTRldE9uWHljQ1laaU4tNmhvdUJBMW5DSG5CSEQ5V3VCMWtwejFCa3VNcG1oTHFaTUxR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-014",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Central Asia Prefilled Glass Syringes Borosilicate - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEV1Mjd4a0lnLTJOMGxsZnpVTkwyeUZEbm91Wjd6VVBxWkk3NjZoNTlvcEdKbHhEVnQ5dTZUSmJrOVNfT3JtbmU5QjVINFNmLWdmNTR1X1E2UDR4NmhTd2VYb3hZWndxZkZoa040WH",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEV1Mjd4a0lnLTJOMGxsZnpVTkwyeUZEbm91Wjd6VVBxWkk3NjZoNTlvcEdKbHhEVnQ5dTZUSmJrOVNfT3JtbmU5QjVINFNmLWdmNTR1X1E2UDR4NmhTd2VYb3hZWndxZkZoa040WHFuWS1KT2l2YnhLUlRnNE5uR0VpZHRSYWdKekY5NExCT0FqeVlqaWZXR3paU2Y5OEdIMWFOWDdpNlJwTl8xdzhVdDRUZFcxSUhLSFJhOU5UY0ZyTFFhaW8tOHprdw?oc=5",
         "type": "rss"
       }
     ]
@@ -681,6 +821,65 @@
       {
         "name": "fuyao",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1BUdjlOWVdoSVRsZnVhVW8wNC0wR1UwSk1MbmFheTJfbUhhem9DVW9kUTlFa1NNdWdFMmRrR3dZTjFudG4wc2htRDlFQk51ckNZNzBLMWFFMXVrNlRtY2s0RWtSZzBEa000TWQ2R3lRMmJKVndrUmhOSmc2UTlfQVVmNDV4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-04-020",
+    "date": "2026-06-04",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Saint-Gobain to End Alumina-Zirconia-Silica Production at New York Facility - USGlass Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGd6OVBwR3FCNHNsLUZyYndPWVdGWjBCWjA5ajhPOVNsVUlkcWpKd0ZMRnpfVDRIU0JPaFVyQzBycjllR3N2LTZBVmYxUUdXSm1NYXZIaDRPQ09YTmJ4Wlhpd3IyblpZOWxLckQ0Yz",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGd6OVBwR3FCNHNsLUZyYndPWVdGWjBCWjA5ajhPOVNsVUlkcWpKd0ZMRnpfVDRIU0JPaFVyQzBycjllR3N2LTZBVmYxUUdXSm1NYXZIaDRPQ09YTmJ4Wlhpd3IyblpZOWxLckQ0YzNaMWNYQXRyU1d6S3V3a01rYkxNbUgtQlhCT1FuU0NfWjB0ak4tcngwSktHQ0Q5Y3hOU0hLdGNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-04-021",
+    "date": "2026-06-04",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Compagnie de Saint-Gobain S.A. Seeks Acquisitions - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXk1RE9KdWpkOE5RdWF1cGtfRnFUNUFURUxEOFlhbEZOX3c1MWlZdGtoaWxSbTU3UmZBUnUzcTdBYmZEQUo5VmpmMzJ1Mk1FcjI4UFpzQ3lKLW0tbVFqMHdJOGJtOEltQnh1VUNKQ0",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXk1RE9KdWpkOE5RdWF1cGtfRnFUNUFURUxEOFlhbEZOX3c1MWlZdGtoaWxSbTU3UmZBUnUzcTdBYmZEQUo5VmpmMzJ1Mk1FcjI4UFpzQ3lKLW0tbVFqMHdJOGJtOEltQnh1VUNKQ0xvRmxhenhBb1pzZlpmU0Z4eVp1RlZiZnBHT2FCSmhsN1BSNEMwcVVOY0o1RzJNSkVwc1gw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-06-04-022",
+    "date": "2026-06-04",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Watch O-I Glass CEO and CFO live from Wells Fargo conference June 10 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHhkdllkRENoMUVrMEpOSnVuV2VTeXhrVmJmN3pmSkpBeXZZVE9NSktFS3JheGExNUx5cV9nQkJnMEtGTEZ3LXNFN290bmoybDN4YUZwTkxiNzluWm5sdjVCNURLR3JLaXNpVkVPeX",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHhkdllkRENoMUVrMEpOSnVuV2VTeXhrVmJmN3pmSkpBeXZZVE9NSktFS3JheGExNUx5cV9nQkJnMEtGTEZ3LXNFN290bmoybDN4YUZwTkxiNzluWm5sdjVCNURLR3JLaXNpVkVPeXd3dEhjSW42U0xOSmloaHBPRFVJTEVlOHd4ak9jYzlTcHJ3MU9WdUJEQ3pZWFdhOG5LY2xVUDNGaFlObDZXWmE1WElnNEZMcTg?oc=5",
         "type": "rss"
       }
     ]
@@ -1264,6 +1463,26 @@
     ]
   },
   {
+    "id": "oi_glass-2026-06-03-031",
+    "date": "2026-06-03",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass (OI): Company Profile, Stock Price, News, Rankings - Fortune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wWXJvZ01HMkpNM25wbE53el9kNXQ0NDhyaEljQkw5elRzMXRreTVUTW1hTUZ4RXEtM0d5cXhkaUQwRzhMYVBWREVtSVhxYi1kdndNZkt3?oc=5\" target=\"_blank\">O-I Glass (",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wWXJvZ01HMkpNM25wbE53el9kNXQ0NDhyaEljQkw5elRzMXRreTVUTW1hTUZ4RXEtM0d5cXhkaUQwRzhMYVBWREVtSVhxYi1kdndNZkt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-06-02-001",
     "date": "2026-06-02",
     "companies": [
@@ -1686,6 +1905,24 @@
       {
         "name": "xinyi_solar",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGNNUjA4UGhfODhPdV81ZTNsRXcxUWFYM1hsZ2RhZHhjZVRrNFhUXzF0Q1A2SGhPbmxhUmdkcmZOY0s2dEttM3FibjdKTlhiX3VmX1hqXzFqQkp5eW5aQlgtUVNrV2ZXZC10UmlZZmN3b0l2ODNKSFJhRXhESFN1NGZNRUFJb2dUazlydm5JejRBVjB3ZDY2UVFqV0VLQjZjLXBRbHFEc2xtb3llZTF3WEpIcXFZVGt6X3hoVEFqV2FBeFZU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-023",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Moreno illogically helped Trump sucker punch this Ohio city. | Opinion - The Columbus Dispatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlFCQTEyS3NYS0tOVGRFdy1SS21RMzN0N0pNbU05b3RjRVViQlUyRUNMdGhnOU5hMTYtM2otRmlrUGx6R2JmM1FNQ2xSdFNycjdVTkthS09VZU4yakpiQk9DbHhOX3ZVc1UzNHFZM1",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlFCQTEyS3NYS0tOVGRFdy1SS21RMzN0N0pNbU05b3RjRVViQlUyRUNMdGhnOU5hMTYtM2otRmlrUGx6R2JmM1FNQ2xSdFNycjdVTkthS09VZU4yakpiQk9DbHhOX3ZVc1UzNHFZM1BfOERSZzZSYU5Cbjl6NDktQnFJXzBhVUVQUWRXVy1zU3gtbGU1NVRQQS1SWGg5ZUIyY093NXRjWGNoWTU1OTEzSXNSQnhHRkJLZnNiRTg1YWc?oc=5",
         "type": "rss"
       }
     ]
@@ -2153,6 +2390,29 @@
       {
         "name": "tata_chemicals",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQkR5VElPTF9STHpubmFjUlhqM1BjREt3Rm9GY2hiQ2oyYmFoaHFrUC1TR3RFZmRBQmNQeF9HWXNmeHVtaEtYNUNMZmxXVWtSRW9RZTljY29KMlRXLVdXM05Zb3YxZktDNVktSHVZYzZ5VmVDYXpJbThkQUUyZjA3UWdtaTBEakRLSTZFMHpkS0p2YnlPMF9ZckhYRUFVYW9HeXFvOTJuUVNqelNWSzV6VTd0elNzS0xhOXlNRHdHUnJxWnpBQUJyNUF0MHlRVHJibTZWYVZOc3ZrNWpfMDh4RkpMaVRKNXBUNVdFcEY5WFA1VHRZZFlMMDMzbjJpRDEz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-01-025",
+    "date": "2026-06-01",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "construction_activity",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Q1 Earnings Highs And Lows: Owens Corning (NYSE:OC) Vs The Rest Of The Home Construction Materials Stocks - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObmdab3RKNFQwa3lPc2JpU2pmbEs5VFV2NHNWSjRLR1MzWWxsM1ktRFNjbzlYakoyUE5vUURaOTA0T0ZTd2RRb0o0VVVDNENzbC1RUnJvblMyWVNJRlBrWlp0NThDbDhNZ2hkdGhRZG",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmdab3RKNFQwa3lPc2JpU2pmbEs5VFV2NHNWSjRLR1MzWWxsM1ktRFNjbzlYakoyUE5vUURaOTA0T0ZTd2RRb0o0VVVDNENzbC1RUnJvblMyWVNJRlBrWlp0NThDbDhNZ2hkdGhRZGFSdmZIR2VTZ1FJbHVjWC15SnRDQk50R1FCeVN6eWlFSEpKbTY5RXJlVg?oc=5",
         "type": "rss"
       }
     ]
