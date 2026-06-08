@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 30,
+  "gate2_fail": 21,
+  "passed": 20,
+  "gate2_samples": [
+    "Tata Chemicals gets Sriniwas CR as new CHRO - HR Katha",
+    "With 30+ years of experience, Sriniwas CR joins Tata Chemicals as CHRO - People Matters Media",
+    "Tata Chemicals Appoints Sriniwas CR As Chief Human Resources Officer - BW People",
+    "Tata Chemicals falls 3% as Noel Tata opposes Tata Sons listing - MSN",
+    "Havemeyer Place LP Takes Position in Owens Corning Inc $OC - MarketBeat"
+  ]
+}

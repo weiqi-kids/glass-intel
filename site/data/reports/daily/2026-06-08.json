@@ -1,0 +1,259 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:39:06.800061Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-06-08-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning stock (US6778621044): roofing specialist after latest earnings and guidance update in - AD HOC NEWS",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONFk0Q3U4X21HWjh4QkphamdhNy1zcFRYa1FnMno4TnV6M2hZTE9lMWx3dFJJWTJzYUJ0Z3Rkb1gwa0ZBVzFVS056X3p4ZkIweVYzR2h5M0FUaFBEazJETG85bDBCUjVveFdfQktKRU1XUU5MMkZLTjNEaF9rNGlsa0RiSDFTeHBTTTdjZDRxWXZ1NjYzc1lMMl9vMl9zV0Z2a0FJX2F2ZDBWRVVhRUdGZE9RY3phd0FCVHZPQjBhd3A?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-06-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Upcoming Dividend Stocks Next week: Infosys, Tata Chemicals, Adani Enterprises & 37 More in Focus - Groww",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xT1h1NVdRWU81RVMxVWVST1Y2cTNsOUp2a2V0MWpsVTVXY3NVMTYwQ1p3QVNRSFdyTVF0c1dhekFrdWlUMkxtZ0llNjhoMk1YQ29Td1U2TFhGdWxkbGdsUmtwMnFUYV85UGR1NTFfMjI5bU9XQS15bg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-06-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Neutral Tata Chemicals Ltd for the Target Rs.700 by Motilal Oswal Financial Services Ltd - Investment Guru India",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkZpQ19rYjJFS0J5a3ZaaV9TTUplQUtYd3RidnQzOGczZkZUSjl3aVMxcXlpQUJVZUd5emNObU9IRWNvSTRXLW9nY29zLXJGLWp4VEZNNmRlNEtLbHVaeW9YQTFGTS1vNkZNXy1TWnhkLVphQVotNlJpWXlGV0NkZm5FYXl3VklDNFc3MnNNQlZuX3dMdEt6bW10MngtYXdKbDlpZEYzaE4zYlFVaElSMlduOWV4WV91aDRPOG1JOUozQ2ZFTzVzWVQ4R0hkcDRkX0k0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-06-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RWC Asset Management LLP Sells 23,991 Shares of First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOHhYVTROb2R1RDh3Y3Q1MTVuU2J4X01tOWlLMVBseHBUTTk1NGlvUUQ2UTZyY1NsLTFjU3ZJdlZzY0dZQ09BcGN2ZHJmWHRISlprbW14bUtza2stb0VILVRYZEtTTDBPWnBHQlVnaDdRcEZsZl8yVjZRcVhRT0FmQUJzTDJ3Tl9hdDBfMjV5dlAxQUE3NWRtRUdIOU9TSnRZbUZhMVA3RkFDd1ZfaFlERG5LclpveWhjSFZKekhYT1BndW5KOE9R?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-06-08-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TD Asset Management Inc Sells 5,615 Shares of First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGpFU2JOQUxOQWRIOVV5RmtvSXdVQTdwV2FtM3p1RzJXTmgwcDVHS3ExNlg0dEI3UjVRdlZsV21VdkM5MEowdkstZzZWblJjVElPNmJlaTJBNG9WSy1uYkVxR29KU1lZbERaem5CbEFVa3ZpYUpIVlFzRjZBZjctNlY3azNacWV2SWx5cnJicVlnNVRZa0VQOG5uTmFsbDVYTjE5R3hLQWJBSE54YlE2WVB1b2E0QXc5QnQ2U2txeGtEaTNS?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 4
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "construction_activity",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 228,
+    "too_old": 140,
+    "gate1_blocked": 30,
+    "gate2_blocked": 21,
+    "passed": 20,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "Tata Chemicals gets Sriniwas CR as new CHRO - HR Katha",
+      "With 30+ years of experience, Sriniwas CR joins Tata Chemicals as CHRO - People Matters Media",
+      "Tata Chemicals Appoints Sriniwas CR As Chief Human Resources Officer - BW People",
+      "Tata Chemicals falls 3% as Noel Tata opposes Tata Sons listing - MSN",
+      "Havemeyer Place LP Takes Position in Owens Corning Inc $OC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為First Solar、塔塔化工、康寧相關動態：「Owens Corning stock (US6778621044): roofing specialist af...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Owens Corning stock (US6778621044): roofing specialist after latest earnings ...（財報、展望、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Upcoming Dividend Stocks Next week: Infosys, Tata Chemicals, Adani Enterprise...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
