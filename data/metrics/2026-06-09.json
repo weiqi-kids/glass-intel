@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-09",
+  "total_events": 6,
+  "by_company": {
+    "tata_chemicals": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "owens_corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

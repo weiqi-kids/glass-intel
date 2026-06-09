@@ -1,0 +1,162 @@
+{
+  "date": "2026-06-09",
+  "date_range": {
+    "start": "2026-06-03",
+    "end": "2026-06-09"
+  },
+  "generated_at": "2026-06-09T11:22:42.676933Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-06-03-001",
+      "date": "2026-06-03",
+      "title": "Legal & General Group Plc Trims Stake in Owens Corning Inc $OC - MarketBeat",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 30,
+      "last_week": 31,
+      "week_over_week_change": "-3%",
+      "sentiment_this_week": 0.07
+    },
+    "solar_glass_demand": {
+      "this_week": 7,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.07
+    },
+    "inventory": {
+      "this_week": 13,
+      "last_week": 11,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": -0.04
+    },
+    "construction_activity": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": -0.1
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "owens_corning": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "corning": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "xinyi_solar": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 5
+    },
+    "first_solar": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "saint_gobain": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "oi_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tata_chemicals": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 111,
+        "last": 145,
+        "change_pct": -23.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-03",
+      "event_count": 32,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 25,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 8,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 18,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 6,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-03 ~ 2026-06-09）共 111 則事件，重點為「Legal & General Group Plc Trims Stake in Owens ...」。塔塔化工表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Owens Corning",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "康寧",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "信義光能",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

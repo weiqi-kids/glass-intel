@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:22:42.542766Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-06-09-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning roof project gives U.S. Army vet a fresh roof - WZTV",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdFdveDdrVEdraFJIbEhTemtHZkVPbzRqRTE2cm54ODQ2dDRXeHhhNlY0YnpuSzVHSVRFaGRSN2w2Y2lUQWd2eUpqbkFfZHFqejIzcDJZTlpWeExNOGRqLTNkcTBybVM5ZlNoTkc0cHlYRVRpQmlYdWFCekU1dlpINm5OSjFCVU1ybjJwS0RSNnM2TWsweFhxYWNiMFVtVmZIS0otRW1wWU93ZTJ4NWZSSk43VFp1c0NkTU5rRTRqVDFBZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-06-09-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Infosys, Tata Elxsi, Indian Bank, Tata Chemicals Dividend Record Date: Last Day To Buy Shares To Qualify - NDTV Profit",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOM05sUVNMVDJwNWhiR0hGNnkzbmU1cGZEZ0EtZk5XdnpzeUMtUldxY2J6Y2VZQ0xMT0kxb0FsVmdPcjRxeE1wYWk4WFU2MWRKQ0Z6SU9Ya0lSV2J5UnlRMDlMT1hxcnFIWmdBU05mOXBrc3N4VUFDUGNmMGItNWE3dU5RZ0FYeVNPOXJQTTBjZDU5WHpxbzZXTE5TUEVqVFVIa2Vfa0l4SnQ4dHIxUWN4WXRubXNHTVFBa0hXcDY1UHVxWGRZWWJWQ3VCS181Z2FuUnd2bTBZSzgzMEwxTmJnaVhsaVR1WVJ6ODRpcE1TMFIxYlRvYWZBQ0hPTEVyMkM2ZWRiWGhOdlBqWWpMOXprNzNmSm1yQ2Y3ZXZkNlItTdIBpwJBVV95cUxPdU9rMUduY3ozOGYzbW1ONl9nRldNc0RmbkpPb1UwZm5mLUNGbG00U3RHTF9wSWVsN0ZIRWlxOG1DWnlqbDl6cV9lWHltTlRmTjM2YVpGVTJyQzJid0RYNm51bllLY3ZHLVZWWTRoQ0lvQmF3MzdiUFVxWmhoWElWZm0xNDhGOGQxVUR2cUVILUJxbWhfTGlXWEdSOHJUQnpxaTdyNmV0S1hsQ2pZV2JVTGpqWUxDUGxSYmdxTTIwbW9iZS1fangtSkEtbjBEcHI2Mm1KQkVHOXZVd1VBblNIWFNoWWtSVU1hX1pTa3M4dXVhLUNiRjlaTDBha0J1V181clNSbC1XZnZDamUxWWk5bUd1RFIxNTBJTWp6ZjRqZ05nLXpTdDhR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Last date to buy these 3 Tata Group stocks for dividends worth Rs 89. Do you own any? - The Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMEJFcVFSaVJ0YzdYUS1PZlRvdEtlYkxYc2Rsa2d6djN4UWd1cklXbzY1cmZ1NWpKNFNFVjlfcXNZZjhwRktkS0lITDRiNFo2dm42MjNZdjc2bzh1djRVOGdNQ0JJb2VTUzJJQ1hrWkRMbk5RTHBPMl8yMEZKNFo5dzB2SVpwWjhKaklhMGlOVVJFQ3RYX1pVTGhpS2x6enc1TnBtNGRfWlphbzFrQ3NzZ0Z2S05PM3Vpb1pQNVVFZmtXWnpHWjVGQjRveldYczdpbEhaVGwxMWNnbHlSdEM4MUxzY3JYWjNRQUNnWUl30gHzAUFVX3lxTFBmZHB1eDdmNEdLd0l3VVBLaU42cGp4MWlyRFpLejY5R19qUjlpRkYwQW1oX2tMOUNRMXh1WGROSXV0OVMzZDI2TmpJYkJWMmV3SUhYbjFsNmZjOGhXaDVLdTlnc3hvSGRUcUxLN0RxcVYwcy1MZ01uVkJhWEh4Rl9OSjZjSDNTRGZXbzE3OE9EOFNkaXJfemgyalVQV2oyajN0MnZLcTZOdmE4NXVLMDVmV3kyYlphZFBuVzhBSFJUU2xJVERCc203SmdTSUhIN2FlV0VkLWdFeVhJZXVnZlVFeGNRYjJabF9OYTV1MVpFR2FYTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glassman Latin America Day 2 presentations now available - Glass International",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjB6QmRCV3RabFQ3c3ZSVzgweGJvQjRnTXZZMWtsWms3TGowNzBfbE1WOUVhNVNrNmNGeHZPOVIzV0NEbXk0WEN2X3lvUFRLUWRRMEdhS1loaDZobExrQjNlN25fRVFLRlEweGtpejVienROVkhDZUdTZWl4RnpMUW9sbVZGNmpYckJqZDAzbkQ4ZFZWYlUxU0JYZkg1UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fuyao-2026-06-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FUYAO GLASS (03606.HK) Completes Issuance of RMB500M Medium-Term Notes - AASTOCKS.com",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EUklyLUJ4anhkU3c5aEpvSXNhbThLZFZ4amZNc3RETW1pOHVNY241OENyVm93X0pnMDZ3akJSOS1LN1g1Z2w2eDg4SEs2c1ZVMzJkaHloaFdpWFJNRTR1Zjk3WjZydGZ1Z2tEeUpQRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "fuyao",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 228,
+    "too_old": 146,
+    "gate1_blocked": 28,
+    "gate2_blocked": 22,
+    "passed": 15,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Tata Chemicals gets Sriniwas CR as new CHRO - HR Katha",
+      "With 30+ years of experience, Sriniwas CR joins Tata Chemicals as CHRO - People Matters Media",
+      "Owens Corning roof project gives U.S. Army vet a fresh roof - WZTV",
+      "Clarksville veteran receives new roof as part of national project - Clarksville Now",
+      "Owens Corning hosts 2026 Women's Leadership Summit themed \"Clarity + Courage = Growth\" - WTOL"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為塔塔化工、Owens Corning、康寧相關動態：「Owens Corning roof project gives U.S. Army vet a fresh ro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning roof project gives U.S. Army vet a fresh roof - WZTV（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Infosys, Tata Elxsi, Indian Bank, Tata Chemicals Dividend Record Date: Last D...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
