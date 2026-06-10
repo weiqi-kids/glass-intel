@@ -1,0 +1,238 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:43:16.600350Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-06-10-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Bank of New York Mellon Corp Decreases Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLTVHZ0xTcWlwLUtQRVc2dU10S2d5UFAtdXc2VGF3Z3NXMThldDBhb1Z5R01VQ1FsaHdaYmhRZEVONU1yZWF2c3VxS0FoelZ4a1p6RUJCTzB4MmlDZE52UW9RQi1qY2FmMHhwSWhQRjZ2Q2lyaUlwRndXRUpXS0JENEpKUHBIRnZ0YU4xNFVQeEMyVFZ0SUJJTDJoMkRpalRNSGs4ZzZod192Q2xsVFhXa0gtS3RTeGpDZi1LNnpEZEVfSU80LXRMaWhySDk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Tata Group stocks turn ex-dividend today – do you own any? - MSN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWtraU9wN2dmdmpUbWxfZE9jSkNsaGc0MVdvLTlLUS1IZFExblhPTVlXcjJqWnBNRFVlQ3Q4MXFlTUlVaG1YWUxRc1BhTzdPTDE1OVhLRldjT0lpNE5pSzZQVlY2cEVpMnN4YXdfWTYwUFc3a3U5T2Y5Q1FSNVViMGlEaDZuSGt3cFQ5MXBQeWFXVmVZWGJYWFJac0NJbk0zdGtnN2NrQVRWYm5McTRweC16U0FDb2ZTTVctNmpaUEdxYzR5eWZyNlJ3M082MWllZkFqOQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-06-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Reaffirmed 2026 Guidance And Fit To Win Savings At O-I Glass (OI) Have Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMU5oRGtNaURqbWNrbFd2dUFBVG13WVZfQmdaM0FYSk4wRXJ4dmtmSFUzZFJlWUkyZUtUWGREaEJyc2VyUnJIVGo2VG5yamIzS1BQVDdOTmRuMDQwX2FVNTl5WGYwbXhGaGNUTXlIWXJHQ0xKUThZZVlLUXN2dUpHVFRKSnVIS0xlM3pfcWJqck45U0pCZEdtLUotNUlMall6UEQwMU1RaFU5eWNwUWNqc0xjNmV0M0N0UDNfdldqaFNBVXfSAcgBQVVfeXFMTU9TWHJXNWhyNmRTOTZzUnFobGo0MlN3UEVvdGM4a2N1OGNuRlJKMVVfdkZyVjdGdzFtSV9adks2RlF2bERzQ1RpOUdteDVPT0xZR1d0VHhhSGp4REkxeXV0dzk5MkZOcmRyLVI0dEh6Wkk4bmNXdEgtQnpVNmtLX0M1WU9TSDBRUFlPVEVWTXU2Rm9WMnc2dzdyLXlCYzFxeFFRN2VXZkZiTEFWS0FYRG91UnpxanZwNVk4dUQwY3YwaDB1ZktTZjg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-06-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Array, Nextpower, and First Solar Shares Are Falling, What You Need To Know - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWNLYlR4X2VsbnduN1Q3OXEzZWd4M3k0SXJOdVNVcExWd0FFaG1WT3ctQmJPUkgxRV9rN3AxVzY2a2RoSmhuN1pUYmJIZGF4ODEtRDl2ZG9VUmxyM3VqOUZzSDFENTBEY1VhWHQzRDlCRUROQmpVR0VVWWtLMk5WMmFkZWJlWlJaSHg2cE5HZHBXc3p1RTJHNFk3aXF1azhP?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-06-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing First Solar (FSLR) Valuation After Recent Pullback And Policy‑Driven Momentum - simplywall.st",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnlkb3BPSFNDaGJoci1yUE5CYU40dGxScDBtbllGU0JXa2dlV0FGb0h4a3pxLVV5X20yY2prd1pDNFhBcUxiWTdRUnlkSnFMck5SUDFTODVzdFFlWVRBUE5zQTY3STFGSnJpc2Q4Y0pTQ0VnSDJjQzFrQ2J5SWdxeTBLWDQxRjVXam9BOUhuZ0lhVnlhRTRpbVljUE9pN0hjUFVWaWZucWpKTEZOdHc2eF93eEZCM2FJbWQyRXpua0djSEFLTmFLY0FoOE1vaUxBalHSAdcBQVVfeXFMTXNZMnRHc3hCamtjYVBuMDUwYk1LZE5xS2E4YmV4VFlCc2VmZkpTUGs3ejY2bzliV25aNlFQb200Q0hzczZMbzJZVXBiWmdha19ranZQQ1lxN1cxYzV4enNNNm82ZG1mV3lsM2NTbElPZFYwdjdsd1FsalkzUjNhb18yX3dXZzhpa21hUFBIdlZrVlhUREV6VGxFbkFTcXUzdUdROHByOW9PWDNFY3BDMU42NE9CZE5uWV9jNElWZWtIRFdtMlRfMmJLYkRMWHpYZGJYQTVrZEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 220,
+    "too_old": 151,
+    "gate1_blocked": 28,
+    "gate2_blocked": 14,
+    "passed": 25,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Clarksville veteran receives new roof as part of national project - Clarksville Now",
+      "Owens Corning hosts 2026 Women's Leadership Summit themed \"Clarity + Courage = Growth\" - wtol.com",
+      "Havemeyer Place LP Takes Position in Owens Corning Inc $OC - MarketBeat",
+      "BNP Paribas Financial Markets Buys 119,566 Shares of Owens Corning Inc $OC - MarketBeat",
+      "Video Replay - Shareholders' General Meeting of June 4, 2026 - Saint-Gobain"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為First Solar、Owens Corning、康寧相關動態：「Bank of New York Mellon Corp Decreases Position in Owens ...」。主要關注主題為財報、庫存、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bank of New York Mellon Corp Decreases Position in Owens Corning Inc $OC - Ma...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "3 Tata Group stocks turn ex-dividend today – do you own any? - MSN（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 28,
+  "gate2_fail": 14,
+  "passed": 25,
+  "gate2_samples": [
+    "Clarksville veteran receives new roof as part of national project - Clarksville Now",
+    "Owens Corning hosts 2026 Women's Leadership Summit themed \"Clarity + Courage = Growth\" - wtol.com",
+    "Havemeyer Place LP Takes Position in Owens Corning Inc $OC - MarketBeat",
+    "BNP Paribas Financial Markets Buys 119,566 Shares of Owens Corning Inc $OC - MarketBeat",
+    "Video Replay - Shareholders' General Meeting of June 4, 2026 - Saint-Gobain"
+  ]
+}
