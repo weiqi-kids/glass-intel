@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 24,
+  "gate2_fail": 18,
+  "passed": 14,
+  "gate2_samples": [
+    "Fluence Energy and Owens Corning Shares Plummet, What You Need To Know - Yahoo Finance",
+    "Owens Corning Inc $OC Shares Sold by BI Asset Management Fondsmaeglerselskab A S - MarketBeat",
+    "Clarksville veteran receives new roof as part of national project - Clarksville Now",
+    "Havemeyer Place LP Takes Position in Owens Corning Inc $OC - MarketBeat",
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ"
+  ]
+}
