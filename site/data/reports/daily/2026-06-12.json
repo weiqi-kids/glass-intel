@@ -1,0 +1,271 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:48:48.654842Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-06-12-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "AEDC says new owner of Owens Corning division weighs $11.6M expansion - AOL.com",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WTVY3d25FblhDT3ZnLTBlMC16ZkJJbzJWejJOMkNyT0w1U3AyMGtKUmlTaHBiU01BbG5iX2hDNkxGT3hCMk5OaHdOWmZ5RERRZGFRSXcyUjQ3QTJKUlo3Zm1tbFNZS1ZUYzA4cGtGSlNoUjNFODVHMzdtZE1sZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-06-12-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Stock Draws Interest As Undervaluation Claims Meet Steady Earnings Outlook - simplywall.st",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFlGajNwZ2huU24zOWpVcG45QkgxVm95NklKQkhBa2hNZlZ1UFNYbFc3Y2RnYzh2YTJYZ1VsTUJkeFdqYWNXTUU1ODRRQzV5UVltZzB2MmdUM3pTNkRXZ1htTW4xcHdGc1UtRzJpZFBsWlRwU1M5VUZRa1VoMUg5ZkZxSHZxcmt5dXBZaGVISUg4QWhqNUNfY1Vlc04wbzJyZFo1TzBXMk80aFBXd2ZORlh5bnFMbmdGSDFnU2RYVVN5NmxpS1FzenNTei1rQdIB0wFBVV95cUxNempCYnA3NFEzZl9Ja1Zid0xSblBFNEctRW9hTEl4dUZnQVZwRzlNa2c4WVBDcXYwS1lvOXd5SUdkaFl5Tk5kbGd5bV8xR3B3eUd6a0dZY082UzZzZElmcW1wcWQyeFZrYXBZcGc3aFo5R0gzRFBkSXpXOEpVVFR1Qkt2ekZvWllhb1NLbG5UblNYTkJMNEJjYmp1dElleExsbUNVRmpwMmE0QmxWUkF6RW9KcEtrS0hGel94YVVxUnRJNVh4TV9SbS1hR0FUM08tRHNV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "owens_corning-2026-06-12-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Raiffeisen Bank International AG Purchases 38,885 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbVA3Mm5mWk1YdEN3RDdCVW5uSHprZTl6aGk1U1ZVSldmRTFqejJoYlVESTQzRFpXQml1a3FhcGQ5YVlyc0Y0cjdFeW1NNDRZQ1hlOFFSbVBJOEFSNURuR2hBRFFBOGxJN1poSk9GUnk1SndTdjV4RWtQVEZvWEhkNkp4RzI3UzRZcFZ2bURrWmxMN0d5YzVtWmFUWmRSeUJjTW94dDBDVm5TX0NoejhUaFZPOEs2VEU0clFBOHByVGFneXdaZUdCNEpsa19mQWJ5SnVCSldqNA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "owens_corning-2026-06-12-002",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "AEDC says new owner of Owens Corning division weighs $11.6M expansion - Amarillo Globe-News",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUDhacm9zeGpVaGNjYzY0aTlBLXU4RVVrVVdJWWdPVUw0LXBacnEyVldHWFZtUDZhMUVCVng2UGRsa2JhS1pTOWZTa0RORXJadW90OVpQc1YzdnpIVm5xUjBXWG5hTjBYeFNBZ1JZZTRHb183X0hSNzFWV1V3S0JnMHk3ZTVhWWFJYkdWQmg4WFpmZG5zbjBjWGtsUThqWEV5dzRFT09qVE5ySnlHNEQwNTg3SUYtQjEwSUZpSUg1RWRta2JOVVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-06-12-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "High Energy Prices: How Samsung SDI, dynaCERT, and First Solar Stand to Benefit! - news.financial",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTi1ub1RMdXFEMFZVZi1KdlJZLVJjdy1VaWJ5dXRSeTAwdEFXcFVrX3E1TjBSUzNBVF9UVDhnT3ZlY0JSZUd4Mm9IQ1hKOXVucTVxOVdHS3I0cDRVdkZNbllCMkhWRjRpbnVxcm9tUy02cHNkT2ZVZXJweHRweU44UTM0TGF6azh1LV9MSGhOTUZKbnFtNC1JdVZWbVF4NEVIVWQ4RmhJNEtZZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "capacity",
+        "guidance",
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 5
+      },
+      {
+        "id": "corning",
+        "count": 5
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 222,
+    "too_old": 147,
+    "gate1_blocked": 31,
+    "gate2_blocked": 15,
+    "passed": 22,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Clarksville veteran receives new roof as part of national project - Clarksville Now",
+      "Owens Corning Inc $OC Shares Sold by BI Asset Management Fondsmaeglerselskab A S - MarketBeat",
+      "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+      "Intraday Movement | Fuyao Glass Plunges Nearly 5%, With Short Interest up 169% From the Previous Tra",
+      "Price Targets: Revisions for EssilorLuxottica, Saint-Gobain, Danone... - Idéal Investisseur"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Owens Corning、康寧、First Solar相關動態：「AEDC says new owner of Owens Corning division weighs $11....」。主要關注主題為財報、產能、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AEDC says new owner of Owens Corning division weighs $11.6M expansion - AOL.com（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Owens Corning (OC) Stock Draws Interest As Undervaluation Claims Meet Steady ...（財報、展望、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 31,
+  "gate2_fail": 15,
+  "passed": 22,
+  "gate2_samples": [
+    "Clarksville veteran receives new roof as part of national project - Clarksville Now",
+    "Owens Corning Inc $OC Shares Sold by BI Asset Management Fondsmaeglerselskab A S - MarketBeat",
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Intraday Movement | Fuyao Glass Plunges Nearly 5%, With Short Interest up 169% From the Previous Tra",
+    "Price Targets: Revisions for EssilorLuxottica, Saint-Gobain, Danone... - Idéal Investisseur"
+  ]
+}
