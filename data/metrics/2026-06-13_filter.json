@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 31,
+  "gate2_fail": 15,
+  "passed": 8,
+  "gate2_samples": [
+    "Tata Chemicals Ltd. Downgraded to Strong Sell Amid Weak Financials and Valuation Concerns - MarketsM",
+    "Fluence Energy and Owens Corning Shares Plummet, What You Need To Know - Yahoo Finance",
+    "Clarksville veteran receives new roof as part of national project - Clarksville Now",
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Intraday Movement | Fuyao Glass Plunges Nearly 5%, With Short Interest up 169% From the Previous Tra"
+  ]
+}

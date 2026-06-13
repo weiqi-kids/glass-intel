@@ -1,0 +1,117 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:34:29.316424Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-06-13-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "HITE Hedge Asset Management LLC Has $7.59 Million Stock Holdings in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZWVuS0h4ZWt3c0hpenRKdm94RVJEZHlxN1ZiT0h2RHR3cF82Tnp5blhfZzZYUGJ6bkgzYzFKUXFfTndweTFoMDliZ0hLVkRkSGo5cnNPSXdDYTdPZ0c3ZWtoUExVblFWeFpTald5ME1xVl84cmRLVnNvWm95UV9lRV9kVU9BTlFuZkZ4ZXpEay1VTkdrSDZhbW5wTGh5ZE00QWJINXRMTld6RXB3VnkydV96TlFsZG9iX3MwSEhTd0NlalgySkRDMlA0Q284dDNWX0ZBTmFXdk5TQzVFQU1ISw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 229,
+    "too_old": 155,
+    "gate1_blocked": 31,
+    "gate2_blocked": 15,
+    "passed": 8,
+    "pass_rate": "3.8%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Tata Chemicals Ltd. Downgraded to Strong Sell Amid Weak Financials and Valuation Concerns - MarketsM",
+      "Fluence Energy and Owens Corning Shares Plummet, What You Need To Know - Yahoo Finance",
+      "Clarksville veteran receives new roof as part of national project - Clarksville Now",
+      "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+      "Intraday Movement | Fuyao Glass Plunges Nearly 5%, With Short Interest up 169% From the Previous Tra"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Owens Corning、康寧相關動態：「HITE Hedge Asset Management LLC Has $7.59 Million Stock H...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "HITE Hedge Asset Management LLC Has $7.59 Million Stock Holdings in Owens Cor...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
