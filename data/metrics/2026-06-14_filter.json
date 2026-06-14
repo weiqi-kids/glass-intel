@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 30,
+  "gate2_fail": 15,
+  "passed": 9,
+  "gate2_samples": [
+    "Fluence Energy and Owens Corning Shares Plummet, What You Need To Know - Yahoo Finance",
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Owens Corning Inc $OC Shares Sold by BI Asset Management Fondsmaeglerselskab A S - MarketBeat",
+    "How Saint-Gobain’s €9 Billion Chemicals Push and Portfolio Shake-Up Will Impact Compagnie de Saint-G",
+    "Assessing O-I Glass (OI) Valuation After A Sharp Share Price Decline - simplywall.st"
+  ]
+}
