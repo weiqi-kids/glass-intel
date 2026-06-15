@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T10:52:18.545983+00:00",
+  "updated_at": "2026-06-15T14:29:05.343066+00:00",
   "companies": {
     "solvay": {
       "name": "Solvay",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 156672,
           "pct_held": 0.15,
-          "value": 4198809
+          "value": 4270878
         }
       ]
     },
@@ -23,61 +23,61 @@
           "holder": "Blackrock Inc.",
           "shares": 9210864,
           "pct_held": 11.44,
-          "value": 1118567346
+          "value": 1153476529
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 5508121,
           "pct_held": 6.84,
-          "value": 668906227
+          "value": 689782011
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 3618028,
           "pct_held": 4.49,
-          "value": 439373329
+          "value": 453085658
         },
         {
           "holder": "State Street Corporation",
           "shares": 3064304,
           "pct_held": 3.81,
-          "value": 372129085
+          "value": 383742800
         },
         {
           "holder": "Dimensional Fund Advisors LP",
           "shares": 2764616,
           "pct_held": 3.43,
-          "value": 335734973
+          "value": 346212870
         },
         {
           "holder": "AQR Capital Management, LLC",
           "shares": 2540023,
           "pct_held": 3.15,
-          "value": 308460399
+          "value": 318087088
         },
         {
           "holder": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
           "shares": 2219335,
           "pct_held": 2.76,
-          "value": 269516047
+          "value": 277927329
         },
         {
           "holder": "First Trust Advisors LP",
           "shares": 2179214,
           "pct_held": 2.71,
-          "value": 264643753
+          "value": 272902976
         },
         {
           "holder": "Davis Selected Advisers",
           "shares": 2100935,
           "pct_held": 2.61,
-          "value": 255137551
+          "value": 263100097
         },
         {
           "holder": "American Century Companies Inc",
           "shares": 2042502,
           "pct_held": 2.54,
-          "value": 248041447
+          "value": 255782532
         }
       ]
     },
@@ -90,61 +90,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 1320302,
           "pct_held": 0.93,
-          "value": 621862242
+          "value": 624502846
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Small Cap Value ETF",
           "shares": 1105100,
           "pct_held": 0.78,
-          "value": 520502100
+          "value": 522712300
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 946543,
           "pct_held": 0.66,
-          "value": 445821753
+          "value": 447714839
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-DFA Intl Small Cap Value PORT.",
           "shares": 739307,
           "pct_held": 0.52,
-          "value": 348213597
+          "value": 349692211
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Small Cap ETF",
           "shares": 501800,
           "pct_held": 0.35,
-          "value": 236347800
+          "value": 237351400
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 365300,
           "pct_held": 0.26,
-          "value": 172056300
+          "value": 172786900
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Japanese Small Company Series",
           "shares": 279200,
           "pct_held": 0.2,
-          "value": 131503200
+          "value": 132061600
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 272360,
           "pct_held": 0.19,
-          "value": 128281560
+          "value": 128826280
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Core Equity 2 ETF",
           "shares": 211401,
           "pct_held": 0.15,
-          "value": 99569871
+          "value": 99992673
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
           "shares": 205544,
           "pct_held": 0.14,
-          "value": 96811224
+          "value": 97222312
         }
       ]
     },
@@ -157,7 +157,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1567805,
           "pct_held": 0.04,
-          "value": 14580586
+          "value": 14894147
         }
       ]
     },
@@ -170,7 +170,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 4141443,
           "pct_held": 0.05,
-          "value": 9980877
+          "value": 10229364
         }
       ]
     },
@@ -183,61 +183,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 8820847,
           "pct_held": 1.45,
-          "value": 473679490
+          "value": 483382408
         },
         {
           "holder": "VANGUARD HORIZON FUNDS-Vanguard International Core Stock Fund",
           "shares": 8415600,
           "pct_held": 1.39,
-          "value": 451917726
+          "value": 461174873
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Emerging Markets Stock Index Fd",
           "shares": 8271200,
           "pct_held": 1.36,
-          "value": 444163446
+          "value": 453261753
         },
         {
           "holder": "iShares, Inc.-iShares Core MSCI Emerging Markets ETF",
           "shares": 6945600,
           "pct_held": 1.14,
-          "value": 372978725
+          "value": 380618874
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Core Eqy. 2 PORT.",
           "shares": 2911600,
           "pct_held": 0.48,
-          "value": 156352922
+          "value": 159555677
         },
         {
           "holder": "Fidelity Investment Trust-Fidelity China Region Fund",
           "shares": 1858000,
           "pct_held": 0.31,
-          "value": 99774601
+          "value": 101818398
         },
         {
           "holder": "iShares Trust-iShares MSCI China ETF",
           "shares": 1515200,
           "pct_held": 0.25,
-          "value": 81366241
+          "value": 83032958
         },
         {
           "holder": "American Century ETF Trust-Avantis Emerging Markets Equity ETF",
           "shares": 1452000,
           "pct_held": 0.24,
-          "value": 77972401
+          "value": 79569598
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Emerging Markets ETF",
           "shares": 1428400,
           "pct_held": 0.24,
-          "value": 76705081
+          "value": 78276318
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Index Fd.",
           "shares": 1359565,
           "pct_held": 0.22,
-          "value": 73008641
+          "value": 74504160
         }
       ]
     },
@@ -250,13 +250,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 9648,
           "pct_held": 0.0,
-          "value": 730932
+          "value": 763349
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 22900,
           "pct_held": 0.0,
-          "value": 1734904
+          "value": 1811848
         }
       ]
     },
@@ -269,61 +269,61 @@
           "holder": "Blackrock Inc.",
           "shares": 66710492,
           "pct_held": 7.75,
-          "value": 11954519962
+          "value": 12494541476
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 50456014,
           "pct_held": 5.86,
-          "value": 9041717554
+          "value": 9450159049
         },
         {
           "holder": "State Street Corporation",
           "shares": 36263357,
           "pct_held": 4.21,
-          "value": 6498393463
+          "value": 6791945382
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 28271740,
           "pct_held": 3.28,
-          "value": 5066295721
+          "value": 5295155491
         },
         {
           "holder": "FMR, LLC",
           "shares": 24909423,
           "pct_held": 2.89,
-          "value": 4463768525
+          "value": 4665410335
         },
         {
           "holder": "Capital Research Global Investors",
           "shares": 21847495,
           "pct_held": 2.54,
-          "value": 3915071037
+          "value": 4091926536
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 20964679,
           "pct_held": 2.44,
-          "value": 3756870412
+          "value": 3926579514
         },
         {
           "holder": "Morgan Stanley",
           "shares": 15666934,
           "pct_held": 1.82,
-          "value": 2807514524
+          "value": 2934338374
         },
         {
           "holder": "Bank of America Corporation",
           "shares": 14499109,
           "pct_held": 1.68,
-          "value": 2598240288
+          "value": 2715610593
         },
         {
           "holder": "State Farm Mutual Automobile Insurance Co",
           "shares": 13423216,
           "pct_held": 1.56,
-          "value": 2405440266
+          "value": 2514101216
         }
       ]
     },
@@ -336,61 +336,61 @@
           "holder": "Blackrock Inc.",
           "shares": 22364095,
           "pct_held": 14.59,
-          "value": 205078752
+          "value": 208545181
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 10677339,
           "pct_held": 6.97,
-          "value": 97911199
+          "value": 99566184
         },
         {
           "holder": "Dimensional Fund Advisors LP",
           "shares": 9238635,
           "pct_held": 6.03,
-          "value": 84718283
+          "value": 86150269
         },
         {
           "holder": "Alliancebernstein L.P.",
           "shares": 8921465,
           "pct_held": 5.82,
-          "value": 81809834
+          "value": 83192659
         },
         {
           "holder": "Cooper Creek Partners Management LLC",
           "shares": 7006293,
           "pct_held": 4.57,
-          "value": 64247707
+          "value": 65333680
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 6930117,
           "pct_held": 4.52,
-          "value": 63549173
+          "value": 64623339
         },
         {
           "holder": "State Street Corporation",
           "shares": 5985512,
           "pct_held": 3.9,
-          "value": 54887145
+          "value": 55814898
         },
         {
           "holder": "Goldman Sachs Group Inc",
           "shares": 5688629,
           "pct_held": 3.71,
-          "value": 52164728
+          "value": 53046464
         },
         {
           "holder": "Arrowstreet Capital, Limited Partnership",
           "shares": 4246337,
           "pct_held": 2.77,
-          "value": 38938910
+          "value": 39597091
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 3854486,
           "pct_held": 2.51,
-          "value": 35345636
+          "value": 35943081
         }
       ]
     },
@@ -403,61 +403,61 @@
           "holder": "Invesco Exchange-Traded Fund Trust II-Invesco Solar ETF",
           "shares": 18397338,
           "pct_held": 4.25,
-          "value": 135772356
+          "value": 137060164
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 6023777,
           "pct_held": 1.39,
-          "value": 44455474
+          "value": 44877137
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Emerging Markets Stock Index Fd",
           "shares": 5642000,
           "pct_held": 1.3,
-          "value": 41637960
+          "value": 42032898
         },
         {
           "holder": "Matthews Intl Fd.s-MATTHEWS EMERGING MARKETS SMALL COMPANIES Fd.",
           "shares": 2879000,
           "pct_held": 0.67,
-          "value": 21247020
+          "value": 21448549
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Core Eqy. 2 PORT.",
           "shares": 2305000,
           "pct_held": 0.53,
-          "value": 17010900
+          "value": 17172249
         },
         {
           "holder": "Matthews Intl Fd.s-MATTHEWS EMERGING MARKETS Sustbl FUTURE Fd.",
           "shares": 1495000,
           "pct_held": 0.35,
-          "value": 11033100
+          "value": 11137749
         },
         {
           "holder": "Fidelity Covington Trust-Fidelity Clean Energy ETF",
           "shares": 1343000,
           "pct_held": 0.31,
-          "value": 9911340
+          "value": 10005349
         },
         {
           "holder": "Invesco Exchange-Traded Fund Trust II-Invesco Global Clean Energy ETF",
           "shares": 1117083,
           "pct_held": 0.26,
-          "value": 8244072
+          "value": 8322268
         },
         {
           "holder": "FINANCIAL INVESTORS TRUST-ALPS/CoreCommodity Natural Resources ETF",
           "shares": 891198,
           "pct_held": 0.21,
-          "value": 6577041
+          "value": 6639424
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Index Fd.",
           "shares": 928649,
           "pct_held": 0.21,
-          "value": 6853429
+          "value": 6918434
         }
       ]
     },
@@ -470,61 +470,61 @@
           "holder": "Blackrock Inc.",
           "shares": 13821076,
           "pct_held": 12.86,
-          "value": 3694511791
+          "value": 3664091758
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 6788934,
           "pct_held": 6.32,
-          "value": 1814749930
+          "value": 1799807563
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 5696888,
           "pct_held": 5.3,
-          "value": 1522835117
+          "value": 1510296330
         },
         {
           "holder": "State Street Corporation",
           "shares": 5284617,
           "pct_held": 4.92,
-          "value": 1412630957
+          "value": 1400999574
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 3106826,
           "pct_held": 2.89,
-          "value": 830485650
+          "value": 823647561
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 2656785,
           "pct_held": 2.47,
-          "value": 710185191
+          "value": 704337637
         },
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 2304039,
           "pct_held": 2.14,
-          "value": 615892659
+          "value": 610821495
         },
         {
           "holder": "Hill City Capital, Lp",
           "shares": 2177540,
           "pct_held": 2.03,
-          "value": 582078212
+          "value": 577285470
         },
         {
           "holder": "Amundi",
           "shares": 2049465,
           "pct_held": 1.91,
-          "value": 547842484
+          "value": 543331634
         },
         {
           "holder": "FMR, LLC",
           "shares": 1808433,
           "pct_held": 1.68,
-          "value": 483412220
+          "value": 479431880
         }
       ]
     }

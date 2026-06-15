@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 28,
+  "gate2_fail": 17,
+  "passed": 19,
+  "gate2_samples": [
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Owens Corning Inc $OC Shares Sold by BI Asset Management Fondsmaeglerselskab A S - MarketBeat",
+    "Saint-Gobain sells Dahl business to Kesko for $1.7 billion - Reuters",
+    "White & Case-Led Retailer To Buy Saint-Gobain Unit for €1.5B - Law360",
+    "Correction to Saint-Gobain Article - marketscreener.com"
+  ]
+}
