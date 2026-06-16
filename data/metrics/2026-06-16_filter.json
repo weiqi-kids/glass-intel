@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 28,
+  "gate2_fail": 17,
+  "passed": 22,
+  "gate2_samples": [
+    "Owens Corning (OC) Rises Yet Lags Behind Market: Some Facts Worth Knowing - Yahoo Finance Singapore",
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Saint-Gobain sells Dahl business to Kesko for $1.7 billion - Reuters",
+    "White & Case-Led Retailer To Buy Saint-Gobain Unit for €1.5B - Law360",
+    "How Saint-Gobain’s €9 Billion Chemicals Push and Portfolio Shake-Up Will Impact Compagnie de Saint-G"
+  ]
+}
