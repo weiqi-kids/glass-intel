@@ -1,0 +1,180 @@
+{
+  "date": "2026-06-17",
+  "date_range": {
+    "start": "2026-06-11",
+    "end": "2026-06-17"
+  },
+  "generated_at": "2026-06-17T12:21:42.089825Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-06-12-005",
+      "date": "2026-06-12",
+      "title": "AEDC says new owner of Owens Corning division weighs $11.6M expansion - AOL.com",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 42,
+      "last_week": 29,
+      "week_over_week_change": "+45%",
+      "sentiment_this_week": 0.01
+    },
+    "inventory": {
+      "this_week": 12,
+      "last_week": 11,
+      "week_over_week_change": "+9%",
+      "sentiment_this_week": 0.08
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "construction_activity": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.25
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nsg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "xinyi_solar": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "first_solar": {
+      "event_count": 16,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "au_optronics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "owens_corning": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "corning": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "saint_gobain": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tata_chemicals": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "xinyi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 102,
+        "last": 116,
+        "change_pct": -12.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-11",
+      "event_count": 19,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-11 ~ 2026-06-17）共 102 則事件，重點為「AEDC says new owner of Owens Corning division w...」。財報、庫存、建築活動為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "信義光能",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Owens Corning",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
