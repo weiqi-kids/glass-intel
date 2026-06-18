@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 26,
+  "gate2_fail": 20,
+  "passed": 39,
+  "gate2_samples": [
+    "Allied Roofing Solutions Earns 2026 Owens Corning Platinum Excellence Award - PR.com",
+    "Owens Corning Rolls Out New Duct Liner - ACHR News",
+    "Is Owens-Corning Inc (OC) a Bargain After 3.6% Drop? GF Value Says Undervalued - GuruFocus",
+    "Ben's Perspective | Erin & Ben Napier X Owens Corning® Roofing Ionq (crtjfRkE3m) - Fathom Journal",
+    "Owens Corning (OC) Rises Yet Lags Behind Market: Some Facts Worth Knowing - Yahoo Finance Singapore"
+  ]
+}

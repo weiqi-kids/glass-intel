@@ -1,0 +1,271 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:54:32.850636Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-06-18-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Stock And The U.S. Industrial Renaissance Setup - simplywall.st",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGxoYWdqMWp6d0pQN2xvSUtmM2hSeXlWaXNkNjdIOG5idElGMXhzVjVBNnJiZ2hyckxaQ1BKeWdyaFZnVWM0bzh3ZDM5UC1XMlpsR3pnZ3dKcXpQelNtRld5aGFvSFdvMS1HZE5EcGpXZXo5ZkNDMGszWGRvRE5Ra2VEczJMV3V1Z3lKX2hmUTR0R2V2dkE1YkRFc1JoV1N3bldlTjlKWTNPNVJzZ1N6anhMXzBMTEJVekowR3FISWJEVkdUWjdYRnRHRVBWVi1CbWfSAdIBQVVfeXFMTVBsaGFnajFqendKUDdsb0lLZjNoUnl5VmlzZDY3SDhuYnRJRjF4c1Y1QTZyYmdocnJMWkNQSnlncmhWZ1VjNG84d2QzOVAtVzJabEd6Z2d3SnF6UHpTbUZXeWhhb0hXbzEtR2RORHBqV2V6OWZDQzBrM1hkb0ROUWtlRHMyTFd1dWd5Sl9oZlE0dEdldnZBNWJERXNSaFdTd25XZU45SlkzTzVSc2dTemp4TF8wTExCVXpKMEdxSEliRFZHVFo3WEZ0R0VQVlYtQm1n?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-06-18-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Gotham Asset Management LLC Acquires 63,918 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVkdFUUJ0Y0YtU3hjU016bDdhYnZBUC16cHJxdmI2b2pnbnVkTmxjeDR2LXA5OC1GQXQ2TWJCNlh6UW02cnUwSnhEby1pN1dpSk1HMnZNU0RDdXVKVzhvYkdsSDBYZXcxUXp5NzNpam55dkEwZnVDLXQtS1ZfbDdCdGJPdGUyTEJlMTB0QXZoZG95NmY1MGJBWENMakhuVE1ubWtXOExhWGx5ZEJsX2FRbGZXN0VycjlPRVlReDZGWEo1RzVsc2ViUy1GSHFZNGs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "agc-2026-06-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why AGC’s WINLET Plus glass unlocks new façade designs - AD HOC NEWS",
+      "companies": [
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaklTb1ZEb0dpamo3ZUQ5cFJFdjdJQUw3cXZnTDVFTzMtUzNZT0oxbFZheU1XQ213QU41UEZvX3pwcHZ4WFVtX05qd1J3TFZ3M2FwbTNzd0ZBTWZJMGxRTHFUd1FxQ1ZRUXJqZURRTXl0SUNuTktVbGp1OUR0NE12WV9mRVp3YkZnTi1ZWlJ6bTlHQmg4c1p6UDIzbmNpeHVoVFZrQzdaVDA0dGptUE5nUmwxaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fuyao-2026-06-18-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Fuyao Glass’s heads-up display windshield is quietly reshaping car cabins - AD HOC NEWS",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_glass_trends",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZTV2bUpzNk5CUGNuUnppVnZrdTltYjF5eVB2akN1c0l6b2xaT3FjSHZLOHpscWlrczktLXpDeVpOU3dqbjBrVWVNZUpTcnd2MkZwUUo3VXI2OE9FUmpBUHFBaW1KR3RfUWwxYUkwdzBWem95Wlc0TllIU0l1LXNXNkZBOGRwOXNwcXE5emRjM3BtUmkwV2dEOHlOcjFlNmxIek1EOEtpUUl3TVI1MlZXenQ1OWZpVHI3M1NiNC02eEdLLWlUNHkzLQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-06-18-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PM Modi meets Saint-Gobain CEO Benoit Bazin in Paris - BusinessLine",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnlpbmpHSWtlYWJmazE1RmJodGI4bEFRQWNmQ3l0UzFVZnc5ZllaVkdCOURqMFlTQjMwdHNjNHdlSGZyMmdheW5pdVJlb0RDeGFVeWFsRWNuOGlQd2NJaW94Qk4wYmstNzZYYlNRaGFxRThNS3RBWGNfQ1ZlZERadHFuMEVsZUROTUUtY2taN3NLX0pOSUZuN1pVczhBNjJWaDdnZVZFVlBBMjFfXzJ5UkZGV1nSAbsBQVVfeXFMUEl5NkZGMGhfOEh0NXduZHVHdG1QWHAtbzZyNDFTZlp1czVfWXBJcndvXzRFTjlRUExxMDFxa1BEWkdrdDc1aXAzZ185eEVEMmN6NnQwX3M5QS1CTldWcXdULVRSOVdtUHF4dnI2ZVZtMGhSdXNzUm40dWgteHZZMWpOeDdsbGYxb1dxVEJLakJVenM3QUpsLWk1WEY0aUtBRDY0WGVTOUlySHpLNkgxNXNIa0JoX0lNbXZhYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_glass_trends": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 6
+      },
+      {
+        "id": "corning",
+        "count": 4
+      },
+      {
+        "id": "owens_corning",
+        "count": 4
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "agc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      },
+      {
+        "id": "auto_glass_trends",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 196,
+    "too_old": 153,
+    "gate1_blocked": 26,
+    "gate2_blocked": 20,
+    "passed": 39,
+    "pass_rate": "16.4%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Allied Roofing Solutions Earns 2026 Owens Corning Platinum Excellence Award - PR.com",
+      "Owens Corning Rolls Out New Duct Liner - ACHR News",
+      "Is Owens-Corning Inc (OC) a Bargain After 3.6% Drop? GF Value Says Undervalued - GuruFocus",
+      "Ben's Perspective | Erin & Ben Napier X Owens Corning® Roofing Ionq (crtjfRkE3m) - Fathom Journal",
+      "Owens Corning (OC) Rises Yet Lags Behind Market: Some Facts Worth Knowing - Yahoo Finance Singapore"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為First Solar、康寧、Owens Corning相關動態：「Owens Corning Stock And The U.S. Industrial Renaissance S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning Stock And The U.S. Industrial Renaissance Setup - simplywall.st（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Gotham Asset Management LLC Acquires 63,918 Shares of Owens Corning Inc $OC -...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

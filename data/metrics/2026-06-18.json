@@ -1,0 +1,68 @@
+{
+  "date": "2026-06-18",
+  "total_events": 16,
+  "by_company": {
+    "corning": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "owens_corning": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "agc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "oi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    }
+  },
+  "by_topic": {
+    "glass_fiber_electronics": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    },
+    "inventory": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "auto_glass_trends": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ]
+}
