@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:36:47.469558Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-06-20-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Stock Could Be 11.5% Undervalued After Earnings Beat And 2026 Outlook - simplywall.st",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXJRaUkxMVF1V2U4dHFHcUxtUnZweFlHclNETHlfM0tDdHl0VjEzdTJEdlR3UjVMYi1ISWxSRUx1U3NUTUZUaWR0WlktS1BOZEFCUmZCZVV3aTRncmt3YjlLRlYyUlREaWx2bFpzbjNUVVhWaE4wdERBeUxhT0ZsdDhXSXlWNDUyM19pWE5WaXVPeUJyaWNRWXJBbzRQX0hUbHJaaTh5dy1Zd21QZHQzSEN3cHE2dTJFMjM0YThOT3pxQzk0eFVuZGl4SUpPZ9IB0wFBVV95cUxNck10N2R4ejB6X2JDVm95VGtncTVkQ1lITG1janpITHFZal9PdGVmbkxIS3c1OEpyZjVxS3dFQU10OWZZZ2xpd2lwTS1NUVVyN19qQTN1LS14Tm1NYmNQYzhEX1BtUW5KdFVmUTUyOHVZUEZwNlAxTWtXd1NXNzctb1IwLWdxSDU2STJFd0d4STVFcHk1S3dmYktEaGstZmpCU2x1ekF5dzBkcjFZc0NCTmYtamROLXdELVlJT1RDWlZEREVuclREY2FiZnBIUXRqdTFr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-06-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OCONNOR A Distinct Business Unit of UBS ASSET MANAGEMENT AMERICAS LLC Buys Shares of 11,300 First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbFVoVkszX1kwZF85Sno3R2hNRXFWZ3gzSHJ0b2ViYTcxTENOQ3h3LU5Tb3ZFb0g4N1JFU0lEbzVBb3FiUHN4MGdTS2dCS3R3amREUlJpbmxqSlc2Ty1Xem9FeF9JalRjLTNOR2pDVU9fZUtYODBCZVcwN1Vuc3FkY3FsWmhzVS00a2ZVMDZGN3EyR2JLNWtvTGpzeXpoTlF4MVRFOXF2Q3NmejRaeVNEaFZQYmJsbE02ZFVtbVRfUWd6OTJLczYtRlhYSFhxT1p2VUlPTUdXT2czQkVJQl82Sm9XdzVNQ3o1OHloS2JILXprRlVXNFBUVlpCZEFkRmhLdFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 228,
+    "too_old": 147,
+    "gate1_blocked": 33,
+    "gate2_blocked": 14,
+    "passed": 16,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Owens Corning Rolls Out New Duct Liner - ACHR News",
+      "Ben's Perspective | Erin & Ben Napier X Owens Corning® Roofing Ionq (crtjfRkE3m) - Fathom Journal",
+      "Owens Corning (OC) Rises Yet Lags Behind Market: Some Facts Worth Knowing - Yahoo Finance Singapore",
+      "Special Report on Equity Holdings: Nippon Sheet Glass (5.72% → 4.34%), Nomura Securities, etc. - Moo",
+      "Nippon Sheet Glass presents enhanced architectural glazing accessory for precise commercial retrofit"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Owens Corning、康寧、First Solar相關動態：「Owens Corning (OC) Stock Could Be 11.5% Undervalued After...」。主要關注主題為財報、展望、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Owens Corning (OC) Stock Could Be 11.5% Undervalued After Earnings Beat And 2...（財報、展望、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "OCONNOR A Distinct Business Unit of UBS ASSET MANAGEMENT AMERICAS LLC Buys Sh...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
