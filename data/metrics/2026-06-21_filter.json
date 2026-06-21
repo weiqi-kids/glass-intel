@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 29,
+  "gate2_fail": 16,
+  "passed": 7,
+  "gate2_samples": [
+    "CLEANER CHEMICALS - PressReader",
+    "Owens Corning Rolls Out New Duct Liner - ACHR News",
+    "Erin Goes Roof Gawking™ | Owens Corning® Roofing X Erin Napier Dove Vedere Al Nassr Al Hilal (jp1hhF",
+    "Ben's Perspective | Erin & Ben Napier X Owens Corning® Roofing Ionq (crtjfRkE3m) - Fathom Journal",
+    "Owens Corning Inc $OC Shares Purchased by Pacer Advisors Inc. - MarketBeat"
+  ]
+}
