@@ -1,0 +1,275 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:40:06.088424Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-06-22-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Vaughan Nelson Investment Management L.P. Acquires New Shares in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeDJGak5yRW9iM3FEUi1ickFQbTZvT0Q3Z3RicloxcE5sTUpuZHFFMGRrSngycmVHekJtTUc4RmtFX1QwUEJXeG9zWGxCSkZ2b1UwOXpWeFFTTzFQdDNFamxoRnJKUlRJVkdUWEw0T19lYWpvQUpjeHFfUEQ4WWNIYnpuNGJ5VElxYmZaek1jYjlGekJXZWlNd3hSVkt4LUdCSFZOXy1FNW9Ka0FkRDhEZmo5NjVXMWxtc0cyUkJ5M2Q5Rzk3c2VNQWRCY1JibDRlMnAyeEJoV2lPckZv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-22-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CRH to Acquire Arcosa; Leading U.S. Provider of Aggregates and Critical Infrastructure Products for $8.5B",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-22-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Type I Glass Composition Specification Market Forecast Points Higher Toward 2035, Driven by Biologics Expansion - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR2c3RG9MNFJhanlSYXhRQm9aQkg1V2RxLS1NZzFVMl8yTFNlRXFFVWxkUEo0NVJmUENQNVphUWhJV042TFdFTDQtN1dsdldlQ2Z1TGZ6R2VLZk1xN2ZwemJZcG85T0pZSDg0U2xGVWR4MDJFTjVrYlZBT1lVSzh0bXRBeTNnT3l4dTFCaGpMSmFtdlF4d0ZIM3B3ek4xQ1FRZnM4dDFFODl1cUU3T2puNTJUUEplcERSd2pTTzFZRDJRbmVmTUsxemtNaG5XWHF2T0w0akdCbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-06-22-003",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Why Is Owens Corning (NYSE:OC) Outperforming the NYSE Composite? - Kalkine Media",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glass_fiber_electronics"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0FEUDdIdWZHT1FLZW04QS1ubFpMUkZGUjZDdVcxY1doX29FZXhpc0dsbEdyZW81WmkxbGFXZnFKSnItdlAyUUFrNW93NFZXM0F5dGRwSHh5Mkl4aExaeGZ5M3JpejN0dkVMNGF0V1EzcjhoVlZTMHJYNnNlMDItR0J5bzV6Sk5Oc3FRa2hmM2VUaU9FMTFsZmNTbXpLSDBMa1dpU0d0ejRHZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-06-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals closes trading window from June 24 for Q1FY26 results - scanx.trade",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3EwckRhUW0tNDhlTnVtY29RS0dKdUUwblVtWnFfYTlYLVJqbTlHb3lwTW5PNjhnXzRuNFZXNE1Jcm9aOTl1eUVaYVhWRVlJdUJKZXF4dkRjYTFGTVpOQnNjeUhOdEVITzZta1ZXeVJTN29iYWE0YmltRWlPNEN6czFoWEI0eklaTmdYQW5VVjBJdHBsTHotUEFObTdDcVcwV2lSX0MxdUZLUmhjVkVFaDRlNnNWOExzQmlndmtyYVVMSTA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "glass_fiber_electronics",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 206,
+    "too_old": 148,
+    "gate1_blocked": 29,
+    "gate2_blocked": 17,
+    "passed": 16,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "CLEANER CHEMICALS - PressReader",
+      "Owens Corning Rolls Out New Duct Liner - ACHR News",
+      "Ben's Perspective | Erin & Ben Napier X Owens Corning® Roofing Ionq (crtjfRkE3m) - Fathom Journal",
+      "Owens Corning Inc (NYSE:OC) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+      "Erin Goes Roof Gawking™ | Owens Corning® Roofing X Erin Napier Dove Vedere Al Nassr Al Hilal (jp1hhF"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為First Solar、康寧、Owens Corning相關動態：「Vaughan Nelson Investment Management L.P. Acquires New Sh...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vaughan Nelson Investment Management L.P. Acquires New Shares in Owens Cornin...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "CRH to Acquire Arcosa; Leading U.S. Provider of Aggregates and Critical Infra...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

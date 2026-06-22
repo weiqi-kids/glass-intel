@@ -1,5 +1,299 @@
 [
   {
+    "id": "tata_chemicals-2026-06-22-001",
+    "date": "2026-06-22",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tata Chemicals closes trading window from June 24 for Q1FY26 results - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3EwckRhUW0tNDhlTnVtY29RS0dKdUUwblVtWnFfYTlYLVJqbTlHb3lwTW5PNjhnXzRuNFZXNE1Jcm9aOTl1eUVaYVhWRVlJdUJKZXF4dkRjYTFGTVpOQnNjeUhOdEVITzZta1ZXeV",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3EwckRhUW0tNDhlTnVtY29RS0dKdUUwblVtWnFfYTlYLVJqbTlHb3lwTW5PNjhnXzRuNFZXNE1Jcm9aOTl1eUVaYVhWRVlJdUJKZXF4dkRjYTFGTVpOQnNjeUhOdEVITzZta1ZXeVJTN29iYWE0YmltRWlPNEN6czFoWEI0eklaTmdYQW5VVjBJdHBsTHotUEFObTdDcVcwV2lSX0MxdUZLUmhjVkVFaDRlNnNWOExzQmlndmtyYVVMSTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-22-002",
+    "date": "2026-06-22",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vaughan Nelson Investment Management L.P. Acquires New Shares in Owens Corning Inc $OC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeDJGak5yRW9iM3FEUi1ickFQbTZvT0Q3Z3RicloxcE5sTUpuZHFFMGRrSngycmVHekJtTUc4RmtFX1QwUEJXeG9zWGxCSkZ2b1UwOXpWeFFTTzFQdDNFamxoRnJKUlRJVkdUWEw0T1",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeDJGak5yRW9iM3FEUi1ickFQbTZvT0Q3Z3RicloxcE5sTUpuZHFFMGRrSngycmVHekJtTUc4RmtFX1QwUEJXeG9zWGxCSkZ2b1UwOXpWeFFTTzFQdDNFamxoRnJKUlRJVkdUWEw0T19lYWpvQUpjeHFfUEQ4WWNIYnpuNGJ5VElxYmZaek1jYjlGekJXZWlNd3hSVkt4LUdCSFZOXy1FNW9Ka0FkRDhEZmo5NjVXMWxtc0cyUkJ5M2Q5Rzk3c2VNQWRCY1JibDRlMnAyeEJoV2lPckZv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-22-003",
+    "date": "2026-06-22",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "glass_fiber_electronics"
+    ],
+    "impact": "positive",
+    "title": "Why Is Owens Corning (NYSE:OC) Outperforming the NYSE Composite? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0FEUDdIdWZHT1FLZW04QS1ubFpMUkZGUjZDdVcxY1doX29FZXhpc0dsbEdyZW81WmkxbGFXZnFKSnItdlAyUUFrNW93NFZXM0F5dGRwSHh5Mkl4aExaeGZ5M3JpejN0dkVMNGF0V1",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0FEUDdIdWZHT1FLZW04QS1ubFpMUkZGUjZDdVcxY1doX29FZXhpc0dsbEdyZW81WmkxbGFXZnFKSnItdlAyUUFrNW93NFZXM0F5dGRwSHh5Mkl4aExaeGZ5M3JpejN0dkVMNGF0V1EzcjhoVlZTMHJYNnNlMDItR0J5bzV6Sk5Oc3FRa2hmM2VUaU9FMTFsZmNTbXpLSDBMa1dpU0d0ejRHZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-004",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SAINT GOBAIN : Deutsche Bank reaffirms its Neutral rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2pNTG91V0kxZ2lYcU1naW5mU3VwclItaUd3SDBOcm94Z1dzSmRZaTQ4VThheGQ0VzFIUzRFNTFoY1hIZnVOOEduQzVVcjZ1Y0RGZDhRMVhjQ0ZPcldtYmNPLUtxQUlwRGh2dlFpaH",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2pNTG91V0kxZ2lYcU1naW5mU3VwclItaUd3SDBOcm94Z1dzSmRZaTQ4VThheGQ0VzFIUzRFNTFoY1hIZnVOOEduQzVVcjZ1Y0RGZDhRMVhjQ0ZPcldtYmNPLUtxQUlwRGh2dlFpaHJydmdWVTdLRFJVNFREZkY3MzlFV2dVbkdCSTRMVVA0VGlDc2JlMmU5eVJLeGdWbjJpWnB2TVBaT1NnaWxB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-22-005",
+    "date": "2026-06-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is First Solar Dirt Cheap Amid the AI Boom? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2g3QW5pTDB2TGtmZ1FzYWQ4WGg5TDNpVUh3QTdVWDhwRVFURTVWOHpuNjUxdGp5dHBIY2JEMElBcHlXeWlvMFRTWktaZlU2WW0zcVJweVgzV2h6aWg0RnJkVzZPdHh4M3B0N1JVMD",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2g3QW5pTDB2TGtmZ1FzYWQ4WGg5TDNpVUh3QTdVWDhwRVFURTVWOHpuNjUxdGp5dHBIY2JEMElBcHlXeWlvMFRTWktaZlU2WW0zcVJweVgzV2h6aWg0RnJkVzZPdHh4M3B0N1JVMDRVcVRwMGV6cUlLTFFMTjJQRWFWb25PZmtBWG5jNmRfVUdvVzR6NXdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-22-006",
+    "date": "2026-06-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mizuho Raises its Price Target on First Solar (FSLR) - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUlFicU8xVGE5TjBOd1RKUDFLYzJBTERVRDljNGlibTZTNVp5WmFxSHkxU2J4dGZ0Ry1iTWthNHE2X1A2aUlwSlZFU0o4bGduQjZMZERBT3JUdmdqVXBjdGY0MGJzQ2U2OWNaa1lvQ3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUlFicU8xVGE5TjBOd1RKUDFLYzJBTERVRDljNGlibTZTNVp5WmFxSHkxU2J4dGZ0Ry1iTWthNHE2X1A2aUlwSlZFU0o4bGduQjZMZERBT3JUdmdqVXBjdGY0MGJzQ2U2OWNaa1lvQ3RBTGxkcDBnMWNkYTRDNUJ4S1N2TU4yUHhvYVFObkZnc3VPcHJTc2xZUTlB0gGiAUFVX3lxTE1zUXo5Um9HbHVOOTRmRnlIWWFHaElOSGp5cHN0emdZQXFReVM4Z19KTnFSUDdSM0ZWbXFqWjlncmxVZjBvUnhxV2tmMlZnZ01NYUdVLWVwY2NIYWRLTFlDcm5DNUFtVUZ4am83X1N6Y0tNWERDSWlqdUZPaGVoY2NlTF9JVlI5NXVfRmhRUnRtTlJsSGJlRnRkUWZuOWNpOTVvdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-22-007",
+    "date": "2026-06-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Phosgo introduces world’s first solar e-bike with impressive 120 miles of range - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWNBRXhBazE3Nkg4RXpueElfeEVMaUFUSTZpQTdEallraEFxZGYyQmVTRjhjTFdhZWZJRFBNZDlBMjNsTExVQ3NMOV9BeDhlQWNzN2w2YlY4WjZ4Sl8zN0F1VU5RSVZYZEdhMUE5d0",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWNBRXhBazE3Nkg4RXpueElfeEVMaUFUSTZpQTdEallraEFxZGYyQmVTRjhjTFdhZWZJRFBNZDlBMjNsTExVQ3NMOV9BeDhlQWNzN2w2YlY4WjZ4Sl8zN0F1VU5RSVZYZEdhMUE5d0JNeGhoV1NuWkJsWk1Fd0RIUmF4QlBMaXFGNVhNOGlXd2RYOXdNMzhZZmxWZXU5dHBIbVEzdzdGbExQdnpsNWRyZzJQWENLNlRLS2dsVkJVdUhqUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-008",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "CRH to Acquire Arcosa; Leading U.S. Provider of Aggregates and Critical Infrastructure Products for $8.5B",
+    "summary": "<p>Strengthens CRH as the #1 infrastructure player in North America and reinforces CRH as the leader in U.S. aggregates Acquisition is highly complementary, advancing CRH’s strategy to build an aggreg",
+    "sources": [
+      {
+        "name": "crh_news",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-009",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Type I Glass Composition Specification Market Forecast Points Higher Toward 2035, Driven by Biologics Expansion - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR2c3RG9MNFJhanlSYXhRQm9aQkg1V2RxLS1NZzFVMl8yTFNlRXFFVWxkUEo0NVJmUENQNVphUWhJV042TFdFTDQtN1dsdldlQ2Z1TGZ6R2VLZk1xN2ZwemJZcG85T0pZSDg0U2xGVW",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR2c3RG9MNFJhanlSYXhRQm9aQkg1V2RxLS1NZzFVMl8yTFNlRXFFVWxkUEo0NVJmUENQNVphUWhJV042TFdFTDQtN1dsdldlQ2Z1TGZ6R2VLZk1xN2ZwemJZcG85T0pZSDg0U2xGVWR4MDJFTjVrYlZBT1lVSzh0bXRBeTNnT3l4dTFCaGpMSmFtdlF4d0ZIM3B3ek4xQ1FRZnM4dDFFODl1cUU3T2puNTJUUEplcERSd2pTTzFZRDJRbmVmTUsxemtNaG5XWHF2T0w0akdCbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-010",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Weathering Protection Glass Coatings Market Growth Outlook to 2035 Driven by Solar Energy and Automotive Durability - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM05oTC0zNVZfcV9BWk1NR2hLN1hBVEVRTFc4c1UzcWp0ZUgzOUV1a1NYS2Y4MWtxSmVrVUJKLUlGTWxvbERqajhIeG1EUjZ3NjNZUHBrR2dMWWlnYjBZVThwc2xwV3BpamdfSllCbk",
+    "sources": [
+      {
+        "name": "google_solar_glass",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM05oTC0zNVZfcV9BWk1NR2hLN1hBVEVRTFc4c1UzcWp0ZUgzOUV1a1NYS2Y4MWtxSmVrVUJKLUlGTWxvbERqajhIeG1EUjZ3NjNZUHBrR2dMWWlnYjBZVThwc2xwV3BpamdfSllCbkRyY1RObG5wYVpmUXhWejBCU21vX19iNDNoeFZIWS1YTWRCTFNpR1pwcjZ2QkJ3T1J6U29Wb0RBTDFocHNxSGpib3NCVU5kblNkTkp5YVBzR0hTSGNKUE1Ub2tSb2xTZzU4YldMRGFvNU9aMXlXYkFZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-011",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Construction surges ahead despite cost, power concerns",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/g_RMA1JMmw4uMCt33SWrT6Nf1L2IDAc5ywiHCqUq2w0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzcxMDYxLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-surges-cost-power-concerns/823307/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-012",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Maximize project performance with an AI-powered construction ERP",
+    "summary": "<p>How AI-native construction ERP platforms drive smarter decisions across projects and financials.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/spons/maximize-project-performance-with-an-ai-powered-construction-erp/822757/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-06-21-001",
+    "date": "2026-06-21",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "auto_glass_trends"
+    ],
+    "impact": "neutral",
+    "title": "Why Fuyao’s head-up display windshield quietly changes daily driving - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2tYTzNoUFliaFJqRnE5SUpJX3JEdWMtU2YzVjhILWpNVnRZTlM3ZDEyWjFvV0ZRdERtR0c3R2FzOWFEWTRJeGtKWEhPTndTbTZkT042N1RrWjJrUExyeV9HblRHV0U2blBvekNUVT",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2tYTzNoUFliaFJqRnE5SUpJX3JEdWMtU2YzVjhILWpNVnRZTlM3ZDEyWjFvV0ZRdERtR0c3R2FzOWFEWTRJeGtKWEhPTndTbTZkT042N1RrWjJrUExyeV9HblRHV0U2blBvekNUVTh0WjJpeXlhekZ5d1FLXy1VanBmVlBBSDVDY2htdkZvVDJEZFRtUjI5T0VPRnFLNzduNE9HeENFTGw0dWRZZXdXdTNZa1RCRzU5ZmtZdm14SlJ0MEc3ZEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-21-002",
+    "date": "2026-06-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Corning Stock - Sunday background on glass and display specialist - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVURZejFVSUx6S0RqYlBoSlZTejhvazFENE5UNEVkdHdUNGlnZEVuRUZ0N01PV3dmV0VRLXZYS2lvbTJBR2MxT0pFMW1oLXF0UGNJTEdfM25pclMzLVRhTjhlQmQxejE0d3h5WE91Q2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVURZejFVSUx6S0RqYlBoSlZTejhvazFENE5UNEVkdHdUNGlnZEVuRUZ0N01PV3dmV0VRLXZYS2lvbTJBR2MxT0pFMW1oLXF0UGNJTEdfM25pclMzLVRhTjhlQmQxejE0d3h5WE91Q2lucGNvY2xwdXUzZlhNWC00UVh0MWI3b1AwY2tOWVhsYl9tSGE4VFFjbWIxUjV5clg4SV81MEFKU25qMV8tWjZFaXJyUlJEUHZ3cGRKRFFUUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-21-003",
+    "date": "2026-06-21",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar, Inc. $FSLR Shares Purchased by Stance Capital LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkhIOGhiRnJLOXlQQ2FYSy1UV3VfSEFvZ0wzNnZObDI1OWZSMlROQzR4WF9uMXdKZzVyNUZFSHJjSERUQzR5ODRQZS1OYWVySlRRUjR6ejNxa1ptd0NPbnVBclV3WWpIQWE3TWU3Z2",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkhIOGhiRnJLOXlQQ2FYSy1UV3VfSEFvZ0wzNnZObDI1OWZSMlROQzR4WF9uMXdKZzVyNUZFSHJjSERUQzR5ODRQZS1OYWVySlRRUjR6ejNxa1ptd0NPbnVBclV3WWpIQWE3TWU3Z2F2cUJlaTdIWDRvbnNIcjR3M2NBRkZESlAwLV95WFMtSGZWOXc4Mkpyekd4R0laeklKLWNxdlEtRmdVNEZXOTQzY1FKV1NtVlB3elBMUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "owens_corning-2026-06-20-001",
     "date": "2026-06-20",
     "companies": [
@@ -1273,6 +1567,26 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQdTIwR3g1WkMtMHRkOHlDVUtvbzZzV1hmN1QtWmhOX3JiTVNJdC13LVQ5TE1oRXl0UlNJWGRFN2hycE5uSlN4Wm5wdjhSbUFZNzdQMVUzaks2Y3d0RkFlQ2dKZEN6WU1JcVlCR3ZvbUltclVsSEhsZmU0MTVjX0VxaktaZExLTzZVcHpkQl94UG1XNEtBYTZGNXVTYVlTLVR0WDhkYlNlUmduMlNBVFBuZGRiaUhfeVFLODFhU19yRHRfVXdTcTNackNLRTJ3QklyVkwtcEtsWGJzMm84bmJ1NEl4TFpVOF8wdHdGV096eFp5OEhjSkZZalRRd2tFT3djVFN0Q284ck1KR3ZHMzcwZHlrYnVmVDdjRHpBeVZPdkNvMi1CX3oyNXlPLU9FNGZqQlhUbnRJNkRzZm9LTTRBclZhQl9VMk5wdDZUOVQwUDg5U1BB0gHaAkFVX3lxTE1VbVB2enFELUVqV01CelpYVEhJNFhhWVhJNGR4SDQ1MDdIazQ5VXYySlMtWjJRU19WTGhFMElTZ3REY3NqQnVrTlpJNDV4SExtZFFBTkxKalZYNFFUVEZVMlA1UXQ4d2JNSGdtX3VKVk1zbTVTdG4wMnRqRXhyeFhmOGoyXzV4UVdRWm5hV2hlb2N0d0lCcEtkRE9lcnFuRml0VnRqNEdNcUd3YmNRU2p0bGxlUEdJZU1RbEtXbzdlOThlekkwQ1pJR29TZWt3ckdiQmFNeTl0SnlUNzczQXJaa1ZzS0lObngzUXdkOVVQX1R1eDk1TnpDNVpRV2VGZ2VaUGR0bGI5ZmFwYzhaNjVvR2xTdFlnU2VfX0lnSTRLNEItNXp1Z3hRb3VVMWd5bldZcG5Wdkt1UTk0SVE3eHFadE0xVVVjZC1vMDZjZVo4WDNLNHFFcWtLQUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-06-18-046",
+    "date": "2026-06-18",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass (OI) Stock Price, News & Analysis $OI - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zcElGV2lmUmFaY2pYU0lkTVRrS1ZKbFVjTnNyQzdVaUJKQk02ZGRMMGtHZjdvajZFdFZqSlRCXzJiNFlQVnFuSWNDdFJSbE10Y1p5Ug?oc=5\" target=\"_blank\">O-I Glass (OI",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zcElGV2lmUmFaY2pYU0lkTVRrS1ZKbFVjTnNyQzdVaUJKQk02ZGRMMGtHZjdvajZFdFZqSlRCXzJiNFlQVnFuSWNDdFJSbE10Y1p5Ug?oc=5",
         "type": "rss"
       }
     ]
