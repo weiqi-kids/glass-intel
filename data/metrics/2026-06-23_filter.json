@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 28,
+  "gate2_fail": 16,
+  "passed": 23,
+  "gate2_samples": [
+    "CLEANER CHEMICALS - PressReader",
+    "Owens Corning Rolls Out New Duct Liner - ACHR News",
+    "Erin Goes Roof Gawking™ | Owens Corning® Roofing X Erin Napier Dove Vedere Al Nassr Al Hilal (jp1hhF",
+    "Owens Corning Inc (NYSE:OC) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "Owens Corning Inc $OC Shares Purchased by Pacer Advisors Inc. - MarketBeat"
+  ]
+}
