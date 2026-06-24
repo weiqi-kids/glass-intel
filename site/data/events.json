@@ -1,5 +1,107 @@
 [
   {
+    "id": "owens_corning-2026-06-24-001",
+    "date": "2026-06-24",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "SG Americas Securities LLC Grows Stock Holdings in Owens Corning Inc $OC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2FTVzZfcm96M1NyOEZ4X3NyUk1OMzIzaFludEJpU0JQVGZsMEhzTlZ3LS04NS1IcGQ5WFl0endXTXA5NHBtVDAzd3lBLVZhR21xYXRuWGx0Z21vQ0FBWTNLSC1VNjJELWVpRjJhWk",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2FTVzZfcm96M1NyOEZ4X3NyUk1OMzIzaFludEJpU0JQVGZsMEhzTlZ3LS04NS1IcGQ5WFl0endXTXA5NHBtVDAzd3lBLVZhR21xYXRuWGx0Z21vQ0FBWTNLSC1VNjJELWVpRjJhWkRma0pPMDJGZjY5UXdITzAwUUxEcVdTa0ZuS2Y1V2trQ3V4ZGtGdUExSVkxc3NYRXZhM2J6RnhDLXh6ZEtqejVjcTQzaWxLeGk4RTR1bFFDWU1FZnlscy02S2pnSGo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-24-002",
+    "date": "2026-06-24",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VOLTA: One year demonstrating hybrid melting at industrial scale - Saint-Gobain",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNU2VhNmx5OE9kWG04TzlmejJrQ0hLQjFtT09PTVdlSGtyQUFNd0NvNVh5UGlCai0yOHZNcV8xeUZkTzN4em1jWnJTeWZTNUt6Q3hjVFhCZlFSZXBtbDA1Mm5walFvTzUxYWstRlY4R1",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2VhNmx5OE9kWG04TzlmejJrQ0hLQjFtT09PTVdlSGtyQUFNd0NvNVh5UGlCai0yOHZNcV8xeUZkTzN4em1jWnJTeWZTNUt6Q3hjVFhCZlFSZXBtbDA1Mm5walFvTzUxYWstRlY4R1JVSUxRdnZmZ2syS05xS3c3alNYS2JYR2dQYUptRnJNdWQ5cHJfR19SbUhwRFBhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-24-003",
+    "date": "2026-06-24",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Watch Data Center Buildout Limited by Labor Shortages, Saint-Gobain CEO Says - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0tnNjk1c2ozZXA1cDVtamFZZWcyR1NHdHF4Qm1Fd2puX1NCbDIycFZpdnNuSVhwdUV6OGV3ODJPZjVjblRSVEI1LVNvcVIxN2pWVE1fQ3N0ODhhMGNtTUF2TDE4T1c4VWUtZXRnWV",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0tnNjk1c2ozZXA1cDVtamFZZWcyR1NHdHF4Qm1Fd2puX1NCbDIycFZpdnNuSVhwdUV6OGV3ODJPZjVjblRSVEI1LVNvcVIxN2pWVE1fQ3N0ODhhMGNtTUF2TDE4T1c4VWUtZXRnWV9pRkRxSzFlWmtUQlBnMnZDUWd0QmFlS2tfb0NXTVlvSEx3aW9rZFpmM1NQSFdUb04tWlEyVHh5eXNzMHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-06-24-004",
+    "date": "2026-06-24",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LONGi Awarded \"2026 Climate Lighthouse\" Outstanding Case of 2026 Shanghai Climate Week: Zero-Carbon Technology Leads Green Transition - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOdlQ5bHZHZENSMkd2UGpxbm9nYUNDREFwTU04RlJDYkNLZGQ2aVhJS3RPcE1oRGNXMzZoUTh3c1dqUEtrQnBkUFdHemxZOEZtTG1BLUJLeEdTdFBZQXgzNjhDTm1PcjJKNnFaVk9ReT",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdlQ5bHZHZENSMkd2UGpxbm9nYUNDREFwTU04RlJDYkNLZGQ2aVhJS3RPcE1oRGNXMzZoUTh3c1dqUEtrQnBkUFdHemxZOEZtTG1BLUJLeEdTdFBZQXgzNjhDTm1PcjJKNnFaVk9ReTlwRFFLa2ZEUWU3bDdOMTBZNTVtSlRFMklESmFjT2t2Nkc0VEFFOGtOQjNMU19wdmFrR2NVU0FHTDJELW1pbUVhbkJ6Zzd6SGtINEFxTmExZUU2Q3ZfMmhmUDBxQlpMb3JiYUgyZWU2c19xZWlVX0txZXBvWTRQY2ZiaXdncTFCVlRpa0NCeUo2c2NqNFlic3p5cFBNSmpkNzBqUE5OanNIT01SRHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-24-005",
+    "date": "2026-06-24",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Klemeru South: EADEPRO Development Builds Perak's First Solar-Powered Green Township in Ipoh's Klebang-Meru Corridor – \"Every Home Generates Its Own\" - News-Press NOW",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxPVUVoWDlPcXVnZnQtaHh5eVlLY0hnQ3FnamFpZU14ZXc2R0Znc1JOTkxkdjVPdndtYWhzdTFsVk1CLU1paFBTVEMzMWVacklsSW5sRGNiYVFGN3hMbS1iQTVzVDREd0J6b3l4SDg2OD",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPVUVoWDlPcXVnZnQtaHh5eVlLY0hnQ3FnamFpZU14ZXc2R0Znc1JOTkxkdjVPdndtYWhzdTFsVk1CLU1paFBTVEMzMWVacklsSW5sRGNiYVFGN3hMbS1iQTVzVDREd0J6b3l4SDg2ODEzcjN6OGVORXQ1UmFZWTJKVlliMTROcnhmQ1RvN25aZXd1c0V3bTlTX1laTGRBdlBQOFV3TVlDNDhzUDREaGxSdzA4eGRoaWc0cGdTVzRNZFg3ZzYzYWYtZFUzcVhhN3M3Z1l1cFc1N0FaYWRCS2U4M3E1RGxtclpiRmtjMnBZX253STAwdGloUlhWYnFCcS1UNmREVUhXd2F5bXFERC1MeDA5VlZpQ2d5S2lOLWJURV9naGVfYVg0UzJMdVo3aVE2eHFlek9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -129,6 +231,295 @@
       {
         "name": "google_solar_glass",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zQ3lMLVZPZzAtanI3eVNpVzRCbVgySDV3akRYOG04a0JOemRjZFVKaDZzYUwtbmFXR2hYMFR2bFNORVc1RnJkMkhOemhraG5yVGc2blVUYkRKR3NRYTdCWmdLVHNyVnpYRlFudkowaU14TG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solvay-2026-06-23-008",
+    "date": "2026-06-23",
+    "companies": [
+      "solvay"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Solvay updates investors on Syensqo spin-off, shares trade steadily in Brussels - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORXhnRVpfemNSb0tVcGFuVnQ2UDJnSkZvLXJVNkJNY3NybWp4RGRrTjAzaDNaVDZNMzlYTURUdDhRdnZlX3VqX1FMTGZLaVkzTzY2c29IbENQUk5xT3gtMnJwdzZ2YkJqWmpNX3VHcm",
+    "sources": [
+      {
+        "name": "solvay",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXhnRVpfemNSb0tVcGFuVnQ2UDJnSkZvLXJVNkJNY3NybWp4RGRrTjAzaDNaVDZNMzlYTURUdDhRdnZlX3VqX1FMTGZLaVkzTzY2c29IbENQUk5xT3gtMnJwdzZ2YkJqWmpNX3VHcmVpenFtSm1xcnR6TXZVLWZLWm1jUW5yQlJRRFJHdVN1UVotMFgzZ2d1X2d6MUVPWUxZSUJUQWplX3pYbWNHUEdMeGFCM0wtanJud0FkWEllSzEwRERUQkxn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_glass-2026-06-23-009",
+    "date": "2026-06-23",
+    "companies": [
+      "xinyi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Glass Holdings Stock Sheds 2.5% in Hong Kong - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW5YZmZtTmo3WDRBSU15dE1EZkFZYThNTlVhNHZNSldwV3RLVFVEYzJ3YTJUNzVuNDRabm1PZ0RzbE5vcnh4bTVLbU9rbzY0T3kxNFV4SmZ4LXNSWndfNV9uVm56Q2R0N3Q1VUNqLT",
+    "sources": [
+      {
+        "name": "xinyi_glass",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW5YZmZtTmo3WDRBSU15dE1EZkFZYThNTlVhNHZNSldwV3RLVFVEYzJ3YTJUNzVuNDRabm1PZ0RzbE5vcnh4bTVLbU9rbzY0T3kxNFV4SmZ4LXNSWndfNV9uVm56Q2R0N3Q1VUNqLTBnZ29ncGtNaUtkVXZBWWoxSUduaDJKekFrTWY3dlpnTmVNeXF3RUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-06-23-010",
+    "date": "2026-06-23",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Intraday Movement | Xinyi Solar Plunges More Than 5%, With a Sharp Rise in Put Options and Short Interest. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTzl4bkRpNV90NXU4QjMyVDFzdHFpemdfV2RTRG1PVVY3Smh5Q1g3ekpVd1VnTXRCT1U4THUyMUdwSW5ETHpORGh0SGUtdlBlVnFlX29mRENaeExrNzdmcDhHeGVMVmVWczJCYnhMRi",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTzl4bkRpNV90NXU4QjMyVDFzdHFpemdfV2RTRG1PVVY3Smh5Q1g3ekpVd1VnTXRCT1U4THUyMUdwSW5ETHpORGh0SGUtdlBlVnFlX29mRENaeExrNzdmcDhHeGVMVmVWczJCYnhMRi1hbmF4TnVsMllZemViZTQ1MWd2MHJONUllR2lfaGhwcGExOGozN2hSU040WEMzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-06-23-011",
+    "date": "2026-06-23",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Citi: Maintains 'Neutral' rating on Xinyi Solar (0968.HK), lowers target price to HK$2.4 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmRsWDJiSFVic0lJVWtxMTZuQXhKME9aZHNGWEVoODhPZ2VZYm5XRkw5SmlXTUNoT3pTRjhoVVdyemkxbGtma0Q5WDhmYzZvbjh0amVvNEZEQnhJdHRxYVhxbmhMOHFNdWxVdDNObU",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmRsWDJiSFVic0lJVWtxMTZuQXhKME9aZHNGWEVoODhPZ2VZYm5XRkw5SmlXTUNoT3pTRjhoVVdyemkxbGtma0Q5WDhmYzZvbjh0amVvNEZEQnhJdHRxYVhxbmhMOHFNdWxVdDNObUlXQ3k0YXkwSnpsTTFfTFhHZmdMYUp2VFdyYnJIRTJ6bDJFVzYtN056SGhBZUsxNnJhTXVN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-012",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "O I Glass (OI) Stock Could Be 30.4% Undervalued After Its New Hybrid Furnace Launch - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVU4OVV2VzhMZWFJaWxuWVpCX2hLSXd4X0JONGVuNkdRNHFGSl9hMGZOczkzeFdCTTBrU1VfQXhhOUd2cndacUtyNjRNZHU2OGpQaUVBeVhXSi1xUlNyQkhVLTJuazlZbWduMmYwNV",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVU4OVV2VzhMZWFJaWxuWVpCX2hLSXd4X0JONGVuNkdRNHFGSl9hMGZOczkzeFdCTTBrU1VfQXhhOUd2cndacUtyNjRNZHU2OGpQaUVBeVhXSi1xUlNyQkhVLTJuazlZbWduMmYwNVE2U1VmX3hZNGNCemRWcjZwOG1VQ2ZDN1hDLXVRN1AzNDhBa0FHcHlmV040RjFhNmFYSlRvYmRreFRFOFNqT3dVVUdsdUtrNE9jRzBPVUdJTGNHbzDSAcgBQVVfeXFMUENtMG5MOXRQRDd4MXZlbUtLLVBWU0FVN25RVHotdzB6QmprMGE1dVc5aXdDNmlwUFFOYkRlc1dsWl9yRnNKWTZTQWREcmVwWGJDTkVPbDdadjdLOTZjaV9QYlFGQi1PMHhEOXpjVHZiVmEyWFdKUDNBZGhzTkRydUlWdElxOS1zLVdhaHVpQzZSbjFwWTRGTUxCajdjd3dhV1ZiZXdxeHQzU0tVcTI3YWV3cEpNZkpIZ2N5OVl0b0pIZHNnTnZUaVo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-06-23-013",
+    "date": "2026-06-23",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What is Zacks Research's Estimate for O-I Glass Q2 Earnings? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmFQaFJ5RHZXVHZmNTV4a2V1UG1uTDBlcFc0MUVIeVdEblJHWmlsc2JudEpGb3pHWENBZEQybjRZU0gzdjhrYTlraVVyUjJRYjBobUxxTERhdUNEem5NV0M2VWFWY2k1bTFpOXZvOE",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmFQaFJ5RHZXVHZmNTV4a2V1UG1uTDBlcFc0MUVIeVdEblJHWmlsc2JudEpGb3pHWENBZEQybjRZU0gzdjhrYTlraVVyUjJRYjBobUxxTERhdUNEem5NV0M2VWFWY2k1bTFpOXZvOE9JSnplVUVUWm9WT1NOVWVVenRrOHRyREtLSllSZmtzVzhXNEdsLTUySEdxd2VFT2pTWGpmM09IcmRLWkRtOTU5cnN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "flat_glass-2026-06-23-014",
+    "date": "2026-06-23",
+    "companies": [
+      "flat_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Citi: Maintains \"Neutral\" rating on Flat Glass Group (06865.HK), expects glass segment to turn loss-making in 2026 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbW1QazdkcFNUOUJibXA1dUhxQVZZX0hTWGhBNlJzNE5WQWhla2hXMTJWQTFqYmpYT0VoQ2tNX1VTdnl1VEFHMF9KSDlneERpOUdHM2JHWk5iaHc4N0YyQ2JTR3dnb3dOOVY2T181M0",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbW1QazdkcFNUOUJibXA1dUhxQVZZX0hTWGhBNlJzNE5WQWhla2hXMTJWQTFqYmpYT0VoQ2tNX1VTdnl1VEFHMF9KSDlneERpOUdHM2JHWk5iaHc4N0YyQ2JTR3dnb3dOOVY2T181M09udE5rN3hRM19RMFBjTHhEWW14SFFmdDZQSTlVbHd2WFpEMGNmakxvSXZweXg4emRpb2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-015",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Hong Kong Market Moves | Solar stocks decline collectively; production cut rumors may not affect short-term supply-demand balance, as market focuses on the extent of actual supply-side output reductions - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWthQnk3Q2dKaWRXWlY5X0ZKSGZWMFZ2T1c5QUh2OHFsQzYteDYteXc0Tk1UejRwOTRyMlpKRXNvcHgyMVFhTFptTzVESGNrdXNDRzB3MGRMcHFrQVBVWUlKWFp3OTJMMlBtR3F5Um",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWthQnk3Q2dKaWRXWlY5X0ZKSGZWMFZ2T1c5QUh2OHFsQzYteDYteXc0Tk1UejRwOTRyMlpKRXNvcHgyMVFhTFptTzVESGNrdXNDRzB3MGRMcHFrQVBVWUlKWFp3OTJMMlBtR3F5UmdfSzNueC1hQTh1Zmt5Zm1JcUVqSFo2Z3ZxdjVUTkpQY2dBVDFQMDgxOFhsRmZQV1NxNml3UllXYUlpUlRRUUtSLTlGdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-016",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Hong Kong Market Moves | Solar stocks decline collectively; production cut rumors may not affect short-term supply-demand balance, as market focuses on the extent of actual supply-side output reductions - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOY2JGSm53M1FtclNka2ZScDVQNGVLRUREek1DMWd2dWJ0aXIwYVFvYnpjRVpJM2NvYVlqN09lSG1KQllveURnTGtBLUNOQXMxeTZuZXRmaF92d1lBSnhjX0twdGExMl85S1l3V2o0UG",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY2JGSm53M1FtclNka2ZScDVQNGVLRUREek1DMWd2dWJ0aXIwYVFvYnpjRVpJM2NvYVlqN09lSG1KQllveURnTGtBLUNOQXMxeTZuZXRmaF92d1lBSnhjX0twdGExMl85S1l3V2o0UGlJUjBCeW1FTDRpQ1lZNjZIdWdUaVpNenM4dTljQU9rRU84T1FsRWxGeGMtMEQ4VzZfRHlHajdaWVR5N3JaQmZYSkxR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-23-017",
+    "date": "2026-06-23",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "A Look at First Solar Inc (FSLR) After 5.3% Decline -- GF Value $266.13 vs Price $249.24 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORlA1ZExGVjVOdHRnUHlwUVlmdVFkN3dBRWJUblRMQVdGTnRKdF9oTE5MSDZrYUduOERoT3hRSWVtMnhIN201NVNlZV9UTzloeVhIT2xOX1dtbDl5eUdYZk9LUC1fMU1TcXhqcmM1MG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORlA1ZExGVjVOdHRnUHlwUVlmdVFkN3dBRWJUblRMQVdGTnRKdF9oTE5MSDZrYUduOERoT3hRSWVtMnhIN201NVNlZV9UTzloeVhIT2xOX1dtbDl5eUdYZk9LUC1fMU1TcXhqcmM1MGxCLS1GYzJlMDQ0Vi1JcFFmZ3lWb3pKQkVhYTNNQWk1MDhGWVNSTXhlNHYwSURYVXlHR1ItVVZqRDVFclIzbDBZNjhMRmdBR0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-06-23-018",
+    "date": "2026-06-23",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "IKEA’s Parent Ingka Group Acquires First Solar Parks in Spain to Expand Iberian Renewable Energy Capacity - ESG News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGlfOFdBZXlPeVFfQUtoRUZDSzUyLV94cnBlc2tZUTlKUU12a2xmUmJWblcxWVhGY2Rrc096VVllWWxVb3BCUWtvbEk2c1RET1pweUp2dERVcFlfVl90Q1pKaVljSlFCTF9ZSXNsVE",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGlfOFdBZXlPeVFfQUtoRUZDSzUyLV94cnBlc2tZUTlKUU12a2xmUmJWblcxWVhGY2Rrc096VVllWWxVb3BCUWtvbEk2c1RET1pweUp2dERVcFlfVl90Q1pKaVljSlFCTF9ZSXNsVE1WRWMwbWxIRDNrYk9xTFoybHU1RFQ4blJYc3ctbUlKeVRDeUVUal9nenE2S1JYT3JOd2lWOGhQZjk0U1NtZDJsbnBCV1loWVNjLXAtcVRQVGpuRkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-019",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Spandrel Glass Ceramic Frits - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNWk9ZMW52VWtmN3N6WWh3RVFOOFhHZ1dwQVctV0RwaUt2cXlRbS1leElkTGpWcm9PR0JhbjJxX25sZEVuTGZxRW1lUGFnREgyTHlqTlJfSVk2ZVV1Ymp4VTU1SzA3V3d2Y1JFY1RxUV",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWk9ZMW52VWtmN3N6WWh3RVFOOFhHZ1dwQVctV0RwaUt2cXlRbS1leElkTGpWcm9PR0JhbjJxX25sZEVuTGZxRW1lUGFnREgyTHlqTlJfSVk2ZVV1Ymp4VTU1SzA3V3d2Y1JFY1RxUVJxSFQtcXdoRThZb1RpYnZlT1JfcUdQRDNoaEtUNGRxa214a2pVWFd6SDZ1NlpadDhZQmx2NVdUZWVUc0NBTE53ZXRTa0VkZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-020",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "'Freedom of Glass Solutions': How Lithuania’s Gravera built growth and export success - The Baltic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzVTZEVSUUZFVHRpY2FqLTFFdjI0SDlFYkFRZ3RuRGEyUnFYcV9DdzZkRnFVQ2R0S3Mxd25Rdl9UZENSZ2tiSHMtVzhKTlgyQUJKbHc2MG83a0VlTGpfN0xsaWRCb0xOQmh6WTdfLV",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzVTZEVSUUZFVHRpY2FqLTFFdjI0SDlFYkFRZ3RuRGEyUnFYcV9DdzZkRnFVQ2R0S3Mxd25Rdl9UZENSZ2tiSHMtVzhKTlgyQUJKbHc2MG83a0VlTGpfN0xsaWRCb0xOQmh6WTdfLVBEMEJRSTdTVnYtREVBQkZERkszMDlhVWV6SWotZlBhR29odUZpTC1GT2UyU3Q2dG9Wa1R5dVhETFNNZnRaN3VPX0VZQ0Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-021",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Jacobs-McCarthy JV starts work on $185M California water project",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/uguQovVRvyfePpAzfJ5XE2WkzYkLZoNHjgheVh49v3M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Hb2xkc3dvcnRoeV9FeHRlcmlvcl81LTIuanBn",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/jacobs-mccarthy-california-desalter-project/823539/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-022",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Superior Construction CEO: ‘Every good mentor was at one point a mentee’",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/YXXkujy--PtJeHxXusbiaAZSVc1BgnDBVavQE95dQ08/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BWE9fUkVOREVSX0ZJTkFMLmpwZw==.webp\"/>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/superior-construction-ceo-training-facility-skills-trades/823408/",
         "type": "rss"
       }
     ]
@@ -598,6 +989,26 @@
     ]
   },
   {
+    "id": "first_solar-2026-06-22-025",
+    "date": "2026-06-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is First Solar Dirt Cheap Amid the AI Boom? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWZOelRncUZMNTVpbTZUcnNMQ0UxbmNXblNhaXl6YzVZM2JRQnh4d2hoYndUek1sNG5yT0Rmdkg0YWpqbDN6SFptVWVPc2FtNENjQ2xVR1ZQOFpYTVRtdE5qZmFRV3RQRUk5TngxZz",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWZOelRncUZMNTVpbTZUcnNMQ0UxbmNXblNhaXl6YzVZM2JRQnh4d2hoYndUek1sNG5yT0Rmdkg0YWpqbDN6SFptVWVPc2FtNENjQ2xVR1ZQOFpYTVRtdE5qZmFRV3RQRUk5TngxZzlCZnh1RDBsQ0FJQWtFN0puVXNsR3ktc0ZZcGk5Y25EYVFzd3dfSG1fUHI3c2l0SGRoZ2dSd3IxcU02VklPdGNYQlpnaHBWbW9Xa0RheTZNd2diaDhDNEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "fuyao-2026-06-21-001",
     "date": "2026-06-21",
     "companies": [
@@ -674,6 +1085,27 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2RMQ3VjM0ltR19STF9rOFZDdW9wdklBV3pUcnlkYTVVN3c2TnB6ZE85Y24xNHhtMGh6M0E2aEZqODZQSFBqcjBBWUZCb3V1d2RTQVhMa3BSOWtTM3NJZnpURWc2MlJfNC1BUF9EVTVrQi1RckIyTGQzdEZuNFk3UU4wX3k4U1RjajFFcUZHQkhZd19lMDY0eFhqdXdpbl9aeVJteTRHSkEwbExFVWFTX1lB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-21-005",
+    "date": "2026-06-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Corning Stock - Sunday background on glass and display specialist - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVURZejFVSUx6S0RqYlBoSlZTejhvazFENE5UNEVkdHdUNGlnZEVuRUZ0N01PV3dmV0VRLXZYS2lvbTJBR2MxT0pFMW1oLXF0UGNJTEdfM25pclMzLVRhTjhlQmQxejE0d3h5WE91Q2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVURZejFVSUx6S0RqYlBoSlZTejhvazFENE5UNEVkdHdUNGlnZEVuRUZ0N01PV3dmV0VRLXZYS2lvbTJBR2MxT0pFMW1oLXF0UGNJTEdfM25pclMzLVRhTjhlQmQxejE0d3h5WE91Q2lucGNvY2xwdXUzZlhNWC00UVh0MWI3b1AwY2tOWVhsYl9tSGE4VFFjbWIxUjV5clg4SV81MEFKU25qMV8tWjZFaXJyUlJEUHZ3cGRKRFFUUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -799,6 +1231,27 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ0FqRnBselVkTUV6amZ3V3N2bFNRX0ZCM1A0Q19YNHN1WVdDVF9GenRuR3hheHZ4dEJOalktZFVxMko2YmM0QXBlaDEzcWRiV09LT2w2Z0c0MHJfQ0NwS2VYaHk2YmZfM1p4Q2pxRGxndU0yQUI4dXVnVWlrYnZ1M0VMazBZVzFBVXNsVHVjQ0ZNYlk5cDlVdHRsRUhTOGM0eWczUGZFM3JIaGdERFVzUFBEOEswSnpzWmN6eVltODJuY3lSNElYV19qYmxvOXRRR1h3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nsg-2026-06-20-007",
+    "date": "2026-06-20",
+    "companies": [
+      "nsg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Sheet Glass Stock - Saturday background on the glass maker - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQejYtaHFqOUx4UTQ4WGp1eWtHeUI1R3RrS3BGay01UGszWFNrSTVvQW5zUmc3OUJ5NFF0SG03OFBkeFhrZHpCeFJFSmhFb0xWNGZ4d3JqQTY2OVJWR2Rvcy16WTBzQWEzQjNNdmwzaW",
+    "sources": [
+      {
+        "name": "nsg",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejYtaHFqOUx4UTQ4WGp1eWtHeUI1R3RrS3BGay01UGszWFNrSTVvQW5zUmc3OUJ5NFF0SG03OFBkeFhrZHpCeFJFSmhFb0xWNGZ4d3JqQTY2OVJWR2Rvcy16WTBzQWEzQjNNdmwzaW9QcXBpYW42TWFvNnFjVWMtSGpubEsteGxDaTZCTUptdGJvNGI0LUNrclNOcER3THlPSDF1QU9xOE9vMjFkdlZRNUxJOHRQTEZLbnE1UktpZw?oc=5",
         "type": "rss"
       }
     ]
@@ -1100,6 +1553,48 @@
       {
         "name": "oi_glass",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNEIyNjJQTVdLdVFfekdhY2tsa1dodVkzcE9DSnhhYmhCQ3hETVhZNEx6N0JsZ3l5S0lpRC01cmt2OVVJUUNOclNsX2RWNXg2dThjVHk2NkJkVUFlQU1PazhxRGI2NnU2SW5KcERqdnhtcFAzbEpOOFBreDVnYkpQNVYzQzN5SldLUzhxMXZRZHRTb0RmUFUyNXl3eDRfTTJVU2k0N1oyelZmdHZ5blN6ZnR4SFEwYVpkTjNuTE5zaVlrTGRGeXpqdG1ZeTVIZWJhaFJ0dHNteG84MGVoV3lBeWo2dDJZcWlabkJCUDRkdktGaWJyTGJaM3VjRXF1N19YTHhzUF9oQXZNZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solvay-2026-06-19-016",
+    "date": "2026-06-19",
+    "companies": [
+      "solvay"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solvay Stock - Weekly review and sector context after specialty chemicals split - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmxCbEhDVE1JOEM0SXdXZzRtYnpESVpSWnV3REJ0dzl2SF9wVmpmeTU1ekdZaEpmSEN1TEd3eTJQQU9tQmh3ZFJHUlhhVzBYX3UwUXlrUFZQTFROeGVDQ3lKQ0pMdVh4ejZaM2NFb0",
+    "sources": [
+      {
+        "name": "solvay",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmxCbEhDVE1JOEM0SXdXZzRtYnpESVpSWnV3REJ0dzl2SF9wVmpmeTU1ekdZaEpmSEN1TEd3eTJQQU9tQmh3ZFJHUlhhVzBYX3UwUXlrUFZQTFROeGVDQ3lKQ0pMdVh4ejZaM2NFb0ZwaWwxcnZSX1RfRlk0Y0dNRFowMWl3S0NvRnNKY0RsR3lCbXVjbnl1MmRWRWJkT3RlcHY4aEZ6T0RjV0lRVFZKZUpCd2REYkZXcUFlanZrZjA2NnY3bFBmREhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-06-19-017",
+    "date": "2026-06-19",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "solar_glass_demand",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Stock - weekly sector check on solar glass demand - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHlwTG43VTl6SUN4MGVFanM5cHhwSDBvOVF5LXNfNUxwbDBwVFVweG1nbFh1ZmVNVUNQbFJIemZ5ZjVtRGY3T3ZhSVQyNTJlaVFnWUhGZ1ZoM2xvM1VkVVFJTnpGLUw4MmhOdEdLWU",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHlwTG43VTl6SUN4MGVFanM5cHhwSDBvOVF5LXNfNUxwbDBwVFVweG1nbFh1ZmVNVUNQbFJIemZ5ZjVtRGY3T3ZhSVQyNTJlaVFnWUhGZ1ZoM2xvM1VkVVFJTnpGLUw4MmhOdEdLWURlVjM5SWxWeUhtWHFmcURXR1Fkc0FIYm9oZW5YM1NVd0NLWXZNQnZmME5XTW9sSUVjejBReUNla1RnaGQybmFUZExHNVl3cmdfVnc?oc=5",
         "type": "rss"
       }
     ]
@@ -2038,6 +2533,47 @@
     ]
   },
   {
+    "id": "xinyi_solar-2026-06-18-048",
+    "date": "2026-06-18",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "solar_glass_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Xinyi Solar’s ultra-clear photovoltaic glass quietly matters - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGhsazNhTm4yUDlEZWtwOXpSejNuRHlGRjhPbGpSSDNqYl8yeG1EZTJXVHRuSkszbnpLLWVDeDBYTm9tMTVhakdWcnYzZXRsaG05d0UyR3lic180ZU5sX1FvRUt5Z1hJX2gtX0RjM2",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGhsazNhTm4yUDlEZWtwOXpSejNuRHlGRjhPbGpSSDNqYl8yeG1EZTJXVHRuSkszbnpLLWVDeDBYTm9tMTVhakdWcnYzZXRsaG05d0UyR3lic180ZU5sX1FvRUt5Z1hJX2gtX0RjM21mQVlEMXRvV1ZmaE1VYWFXUU11eUFmNFM2bV9DSTBYYTdNS0t1UHZZQ1R3VjVySEl6T0VhOGw1LUFoVkZYbzQ3aUd6RVh0U2hRb3Z6QnJCRkI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-06-18-049",
+    "date": "2026-06-18",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Stock - Thursday technical picture and sector backdrop - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYUg2cHZ5SjRRN0x6cHNsTVczTFA0TC1jOWtzTnB4QTNuaTUtcl80VndjY2RUbHR5OF9vT3pIbUVKN1lCOG5fbWlteGYtX3FtVGtEc2ZBV2dydVpRV3Aza1EycERYM0xCUzdva3AwdE",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYUg2cHZ5SjRRN0x6cHNsTVczTFA0TC1jOWtzTnB4QTNuaTUtcl80VndjY2RUbHR5OF9vT3pIbUVKN1lCOG5fbWlteGYtX3FtVGtEc2ZBV2dydVpRV3Aza1EycERYM0xCUzdva3AwdEpOZXJ0RVhzWHA1akRQYkJlV0g0U28zZ2FSMkpaQVFWSkFWcmFLZnl6SmxlMEFqbTVpN25WU3o0NlFmTkZmcFROc2FXQk5fZHAxVWloN1I5RmQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_solar-2026-06-17-001",
     "date": "2026-06-17",
     "companies": [
@@ -2597,6 +3133,26 @@
       {
         "name": "xinyi_solar",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSF9HejdxNVZVUkltNmdiSDBUR1Q1MmhXa0JhdTR2NnowazN2M05ib2NBcTVTRm04N3cySXJQYS1Cd241a3NqQURPV1p5WDJ0QmFYMXNldzc0VXFUaGV5S1owNFQ2eU5BT3N0NTdLU0pJZUZPNlE0V0p5RGd6NEktNk1HeVRMRUt6WmJRSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-06-17-030",
+    "date": "2026-06-17",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Stock - JPMorgan lifts stake above 5 percent - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2JYcjVNSEQyeUk0NjM1d2N3NlBheEtkRC16OXpJeWV1WmFkX0JxallOX1NqdnJwRUpiVHF1bW94cVJodGFiZGZlVVFNbHdRQVNmWHRyaFdCRWVJcTN2WEk0cmtGRVZBeklaX0lwcV",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2JYcjVNSEQyeUk0NjM1d2N3NlBheEtkRC16OXpJeWV1WmFkX0JxallOX1NqdnJwRUpiVHF1bW94cVJodGFiZGZlVVFNbHdRQVNmWHRyaFdCRWVJcTN2WEk0cmtGRVZBeklaX0lwcVNtcHBhdHFPREZ2eWZwbjRTdmtIeHNEZVpWRy1HRFBzZjJ5RG84MzhUS3k5UFFXaU1CbDJJMTJjMDBtbEF2RUhnUVhPSQ?oc=5",
         "type": "rss"
       }
     ]

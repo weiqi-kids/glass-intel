@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 28,
+  "gate2_fail": 15,
+  "passed": 28,
+  "gate2_samples": [
+    "CLEANER CHEMICALS - PressReader",
+    "Allied Roofing Solutions Earns 2026 Owens Corning Platinum Excellence Award - Carroll County Mirror-",
+    "Owens Corning Inc (NYSE:OC) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "Owens Corning Inc $OC Shares Purchased by Pacer Advisors Inc. - MarketBeat",
+    "Erin Goes Roof Gawking™ | Owens Corning® Roofing X Erin Napier Dove Vedere Al Nassr Al Hilal (jp1hhF"
+  ]
+}
