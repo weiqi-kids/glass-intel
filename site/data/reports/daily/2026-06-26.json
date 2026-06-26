@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:56:18.205039Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "agc-2026-06-26-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hybrid Glass Furnace Cuts Fossil Fuel Use 66% in First Year, Saint-Gobain, AGC Report - megaproject.com",
+      "companies": [
+        "agc",
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjEyQ0FMdXY1QkpWVkN1bHNiTHQySTR1eHZnM1B0ZFVzSTZiLWVRNGlfcTdpZjFsTWdwTHUxTEJfOTN6VzVXdGdXSzM1MTAxUnNfSTQ4WnB3MmV3d0RMNnlRLUhKbjFiUk02VGFDVmdEQmFKbFBELXJVVDFIN3p4cFRSblREd3VfdUpQcmRXUWxhOVdCU0hmTDZDSXlXcnRvWGNGbE5fUGFDcktrY1pBY0l0NEdYMEcwYWlsdg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nsg-2026-06-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Nippon Sheet Glass Company, Limited – FWB:NI9 - TradingView",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNem1wVUszT2JDc3FUa1dwZWFjUV9naERPbDFhanRLQVQyYWFUSUJZeGRtNGFPYWpSWmptYVgzb3V3WnJpZnljMWxYTUZzTGg1YmN3VzBPcDhFa2IxRlNKVFdieEd0QUdLeUcwVEVjOXVFY3hlTEpwYTJoV1lkTF9BNHl5YmVqX09IbFlxalJPYkl1X2l3M0VVUTRUMHQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-06-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Happened with First Solar's Q4 Earnings and 2026 Guidance - Kavout | AI",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTEwT2c5ZHR2Mkk0V2RsNXhrdzBldVBaRkx0NEVHb0N5djQtTU9fODZkRWthaUxNd0hfZU1ZeXZlbTkyQnROWnZodjU0TVVqZVhFZTFIRmRkeVR3b0pMelRMTEU4VmlPRjJPMVUtNzU5SmY5MGg5WV9NNl9tYjN6c3VyRmEwRm5YS3NCSmw3WmxINmQ0NTVoSUZEY0JtZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-06-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. $FSLR Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glass_fiber_electronics",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUFkSTB2WFNXUWc0REVrbzAxdTBVYTlwZk9fMVdFUmRxbGZ3Ri1OOEhmWWpCbFYyZ0Fqa2tlVmpfXzZHYUYwX3FJaE45bi0tZmxOMnoyU0NxMmNPSEVMOVQxUXVORnYteURKa3VhRXJ6elB1c0hlVWdUTzdJNWEzV0ZSTklxRC03Y1k5Q0NyQ1Rzb1JabXlnRVROY3E4aTRxeVJpOTU1LUVJZ0JrZl9FbjMzRlJNaGVHM2E3dktPX0FFaW5P?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-06-26-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI doesn’t replace workers. It raises them, writes Mark Widmar, CEO of First Solar - Cleveland.com",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEpkOTdUOE9xZGlaUHFFOUxXRTNkb2l4aUYzVXZEa3BRTHlVLTB1bE03Z19Ja1VOc1ktTWczWlV2dE9JSkExalhkdjZXRmF3SXJRQ1BYVHNteWFKRWNqUGpic25iZjRYcUwzRVVrY0FlVnBOcnZZZXJsQ1FBYnhkX2d1SVNrdHVUbkVqSFZvTUxaZ1NjbU9VQTY2bzQtR2pkM0Fial9vX2tmN24wRThIU29HVG9tUlpWRmNHSXFjUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 3
+      },
+      {
+        "id": "nsg",
+        "count": 1
+      },
+      {
+        "id": "fuyao",
+        "count": 1
+      },
+      {
+        "id": "agc",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 181,
+    "too_old": 169,
+    "gate1_blocked": 30,
+    "gate2_blocked": 27,
+    "passed": 29,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Tata Chemicals surges on Tata Sons listing buzz - The Economic Times",
+      "Tata Chemicals shares rise up to 6% as RBI finalises NBFC-UL norms: Here's why - Moneycontrol.com",
+      "Tata Chemicals up 6% as RBI's NBFC rule brings Tata Sons listing in focus - Business Standard",
+      "Tata Chemicals Society for Rural Development Supports Gujarat's Shala Praveshotsav 2026, Benefits 2,",
+      "Tata Chemicals shares rise 4% on hopes of Tata Sons listing after RBI’s new norms - The Economic Tim"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為First Solar、日本板硝子、福耀玻璃相關動態：「Hybrid Glass Furnace Cuts Fossil Fuel Use 66% in First Ye...」。主要關注主題為財報、展望、玻纖電子，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hybrid Glass Furnace Cuts Fossil Fuel Use 66% in First Year, Saint-Gobain, AG...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Price to earnings forward of Nippon Sheet Glass Company, Limited – FWB:NI9 - ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
