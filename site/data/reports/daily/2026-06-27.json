@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T10:14:53.115464Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-06-27-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Gets A Housing Tailwind As Its Undervalued Case Holds - simplywall.st",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa2VncE9wcHhnQms0VThzNGFEWmJjQWI3RUpNYzR6YkdLWk1TSU5OWHB5TWczQzFIWmU3bHBpUGNBcUhFajhQbWJoZ2ZwOVM3R0VEQ04xWG1MYjNHVnRpYWhuUzRnSzc0ZGpmVkhJVlJ3YUxodzhwVE9EWVJOVG9ZMGFCVWdmY2xJMFBNa1BwUTVYSm4yTHFuZUN2Z2U2ZGR6WXE0MFNadWdwMWpXZlQ0c1RMYjYyR09CNm9hNnhkNGFxSVRkQ3dZSzkxM3U5SVZyZ0HSAdIBQVVfeXFMUGtlZ3BPcHB4Z0JrNFU4czRhRFpiY0FiN0VKTWM0emJHS1pNU0lOTlhweU1nM0MxSFplN2xwaVBjQXFIRWo4UG1iaGdmcDlTN0dFRENOMVhtTGIzR1Z0aWFoblM0Z0s3NGRqZlZISVZSd2FMaHc4cFRPRFlSTlRvWTBhQlVnZmNsSTBQTWtQcFE1WEpuMkxxbmVDdmdlNmRkellxNDBTWnVncDFqV2ZUNHNUTGI2MkdPQjZvYTZ4ZDRhcUlUZEN3WUs5MTN1OUlWcmdB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nsg-2026-06-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to sales forward of Nippon Sheet Glass Company, Limited – FWB:NI9 - TradingView",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUdIRE1uTWJpY1h0SUZpX3FldkJob1ZkZktJSVdDSEJUVjFQTDE0YWdIaVdJSk9hTTVFZkxRZ3IwakVxREM3RzNNc21rQnlYdnpVejR6Z0ZRc0JLWmpJd3I4dlU0QnY0V1MyQ2lxVEliNTh5TzB0NWFFM2RkcGdGY1JkN3lnQTNHeC1iZkpqOG5nd01yUF9kMg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-06-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Banque Cantonale Vaudoise Sells 4,497 Shares of First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObGw3UFVNZmdCWC1PTTN3WG9UdXF1bHB6LTJTZHZuczZQWkFRYWR3X3RmNWdqQTJwWkZNQm1id1JCZ2FBMnZZcE1PMWdxRDNCU0p5ZVNzY1J3VVVwQkgxQV95UjkxMFppVGpOVk10T2JYUEZKWUs1VzB4NEt2UU11SHc2NFhNUU9rMGJWY3BBUkJpUlQ3WjZEeENyMGlhQnVNQXU3US1ldnY3UkY2eXdIUnZtTUxFejNHV0JHY2p2RHNqUEktdTg0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "nsg",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 188,
+    "too_old": 152,
+    "gate1_blocked": 29,
+    "gate2_blocked": 32,
+    "passed": 36,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Tata Chemicals shares rise up to 6% as RBI finalises NBFC-UL norms: Here's why - Moneycontrol.com",
+      "Tata Chemicals surges on Tata Sons listing buzz - The Economic Times",
+      "Tata Chemicals up 6% as RBI's NBFC rule brings Tata Sons listing in focus - Business Standard",
+      "Tata Chemicals Society for Rural Development Supports Gujarat's Shala Praveshotsav 2026, Benefits 2,",
+      "Tata Chemicals shares rise 4% on hopes of Tata Sons listing after RBI’s new norms - The Economic Tim"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Owens Corning、康寧、日本板硝子相關動態：「Owens Corning (OC) Gets A Housing Tailwind As Its Underva...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Owens Corning (OC) Gets A Housing Tailwind As Its Undervalued Case Holds - si...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Price to sales forward of Nippon Sheet Glass Company, Limited – FWB:NI9 - Tra...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
