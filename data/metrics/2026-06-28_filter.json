@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 30,
+  "gate2_fail": 30,
+  "passed": 18,
+  "gate2_samples": [
+    "Tata Chemicals Highlights Growth Strategy and Clean Audit at 87th AGM - TipRanks",
+    "Tata Chemicals shares rise up to 6% as RBI finalises NBFC-UL norms: Here's why - Moneycontrol.com",
+    "Tata Chemicals surges on Tata Sons listing buzz - The Economic Times",
+    "Tata Chemicals up 6% as RBI's NBFC rule brings Tata Sons listing in focus - Business Standard",
+    "Tata Chemicals Society for Rural Development Supports Gujarat's Shala Praveshotsav 2026, Benefits 2,"
+  ]
+}
