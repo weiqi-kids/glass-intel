@@ -1,0 +1,242 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:40:38.971568Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-06-29-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hsbc Holdings PLC Sells 19,041 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjdZNEp0N25MTmM0LTQtMkw0ek5CQ0NBNDdlNWlKSXRsTjVldHdUQkpDbGxBS3lqcmRwRGl5Ukd2aTJwUnI2Z1k2Q1RfaklGTXpUMm9SNUwtel9ESVY0UWJCcnR0endCUmpET1FiLVZrNlJ0eEhvbG5fcWQ5aG45T2tSdWZUbzZHTjFWSTRLOTVXYzBPMG1tSkszNzVKOEU0dDA2QTMtVmdUX094UmQxckFxUWpWUHA4RjlQMDNB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-06-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LONGi and Saudi Water Authority Sign Strategic MoU to Advance Renewable Energy Integration and Digital Transformation of Saudi Water Sector - SolarQuarter",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOczVUaTJkdWk3cGpFNlJIdXJkVDZqazVSWC1MVTk1V01ENnJISVVBQzJpdjg0OEpwZl9oZTNvRHdwdC04d3NRYmRwb09VeDBtSjlIZW9sSUV2R1o0ek9DSnN4OXFMQmJKOEpVdy0zYWFOYjh3S0huQ3FhV2FueUJ4ZGFsNVFGbE55NVg0VzZMVG1abmRZMTIwWUxjbzNFNzhCQ2JnMVEzenJSSF9Jb3h2VWFHR01Bb192WnZQdGpaRUdSenFFMEpmcXdURzlYVS1hZExtZjZwMDBOeEwtWHA1NmprbTNuZ3M4c2tSOXMtRTlDeTBoSnZsY0Y5OENjakFDTTJiWS12aw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-06-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. $FSLR Shares Sold by Patton Fund Management Inc. - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDh2MUI0UmdTNDRFMmhEQjlCd1RHUzJfdVoyQTNBTjgtNnpwS0JxNExNa0ZlUXVwQ1FWR1VsdS1OUkk3aGdoMEllVUs5UGt6TXplVkVmM0daZGNkLTU2UTFITnZWTVN6RXkwS3oxTzRfM25rTzEzeDFyNGhIMXJSVVdELWltVlpudEhMVmlJU0xmd1V2RmllQXdwdWtha2RpMzJobWRCSkwyRnJqTjZKNjYtdVYxaUZkUXpudGNQRjg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-06-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lead Plaintiff Deadlines in Shareholder Class Action Lawsuits Against Nano-X Imaging Ltd. (NNOX), Peabody Energy Corporation (BTU), and First Solar, Inc. (FSLR) Announced by Holzer & Holzer, LLC - GlobeNewswire",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPUVFaY1BBamZIRmVGcUZJVTFBZHctYUNBeWduSjZzSF9KNnliV1NPcTFfRTRLSkNtNV9lTGJNcFN6ZXo0cWxjWTMyQUJvYVBEMGlFUVNQcU5xRUFNaEtxQXplall6Um9kOWlsaW82bWI3VGU3VHlZYkE1YzhIVm5NbjVrNnJVMnhpNlRBNk03VmdTQ1ZIdzlJaVFiZ2xzdUJxcFp4cURsXzMxYUlyQkkxWWU4cnoxaTlGTlpIaGhpb19hT1VXZUJ3SnoySE1BTDgtMWtlU0tIWnJnamRnQnJobzBzVExsemtUMWtOTFl2eUpWcnU4TkVScEdkN0p6c3lfNjBCc3hCTnExYVM3ODBrQ09LeDNvejA1cXFZWlUxMjdHRXN1ZmEwbVpVUGJJTGJWM3k5X1hLZXVCYWhQUDRKd0VXQTAxeGJwV3VYZ2c3MEN0dXQ2czUwZDFXbjgxS1Q2dmVMN0pRbzZqU09a?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Terra-Gen wins approval for 1.4 GW California solar project - Solarbytes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFFvaVZnR2JkdHM3U0JlVFJxRVRNaWg4dmZ3SVRxay1oYjBEYWN1S2xNU3NvdVhyUEtLb29Rblp1TlVsLXNOM1Q3dmNFZTJyV1NKVHY5Vnc2cVBqbEFvcWE4SmxhaHkxMEUwVzh3RGRYaVl0Q2Q0STgwV3BMRDZvQnVGekViaXExSng1U2ZTSlo0eWNjeVhuRXQwcTVDeUFxRUR3NVZUYmZsRGVZenc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 4
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 210,
+    "too_old": 143,
+    "gate1_blocked": 30,
+    "gate2_blocked": 31,
+    "passed": 25,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Tata Chemicals shares rise up to 6% as RBI finalises NBFC-UL norms: Here's why - Moneycontrol.com",
+      "Tata Chemicals surges on Tata Sons listing buzz - The Economic Times",
+      "Tata Chemicals up 6% as RBI's NBFC rule brings Tata Sons listing in focus - Business Standard",
+      "Tata Chemicals Society for Rural Development Supports Gujarat's Shala Praveshotsav 2026, Benefits 2,",
+      "Tata Chemicals shares rise 4% on hopes of Tata Sons listing after RBI’s new norms - The Economic Tim"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為First Solar、Owens Corning、康寧相關動態：「Hsbc Holdings PLC Sells 19,041 Shares of Owens Corning In...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hsbc Holdings PLC Sells 19,041 Shares of Owens Corning Inc $OC - MarketBeat（財報）",
+        "level": "red"
+      },
+      {
+        "text": "LONGi and Saudi Water Authority Sign Strategic MoU to Advance Renewable Energ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
