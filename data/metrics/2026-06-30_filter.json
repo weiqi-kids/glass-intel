@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 30,
+  "gate2_fail": 29,
+  "passed": 35,
+  "gate2_samples": [
+    "Tata Chemicals shares rise up to 6% as RBI finalises NBFC-UL norms: Here's why - Moneycontrol.com",
+    "Tata Chemicals surges on Tata Sons listing buzz - The Economic Times",
+    "Tata Chemicals up 6% as RBI's NBFC rule brings Tata Sons listing in focus - Business Standard",
+    "Tata Chemicals shares rise 4% on hopes of Tata Sons listing after RBI’s new norms - The Economic Tim",
+    "Tata Chemicals Society for Rural Development Supports Gujarat's Shala Praveshotsav 2026, Benefits 2,"
+  ]
+}

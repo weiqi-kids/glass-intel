@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-30",
+  "total_events": 14,
+  "by_company": {
+    "owens_corning": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "agc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nsg": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "flat_glass": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "solar_glass_demand": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "inventory"
+      ]
+    }
+  ]
+}
