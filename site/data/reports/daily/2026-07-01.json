@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:29:19.638547Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-07-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning's Glass Bridge Targets CPO Pain Points; Taiwan FAU Makers Unfazed, Cite Different Ecosystems, Not Competition - finance.biggo.com",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5dGw4aTR1V3YtVXlDX0diYlp5TUFWTjJRQUdlU0RCdzE5MlBKN0hLMkZ3Q2l3Qzh2RHdrSm5icTA5c194dTVsRHNRZVZTVjhkeUtHQ3dMRlVoSTAwdE96cXlweFFRd0NKc1l3RnRFRHZUMGtPTXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "agc-2026-07-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of AGC Inc. – TSE:5201 - TradingView",
+      "companies": [
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjhSbWZEZmRtbGVTZW5mUzdSZ21TWnYyMzJ3dmJIV0hyMDJuU21SeEJCdENmbDg0WV91UG5ab2ExaDNZSDd4NzM2dmpzUGlyc2hnWV9kb2Ewa0NnMnA0MTZfZ3pfS1Qxbl9XQ09BUGxyblV1M3pfX3pyWTFBVXJPQVF4a0pIZWJkNGF3eG5sU1BRTHIxRkZhSDFJYmN2QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-07-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar (FSLR) Is Down 5.3% After Russell Index Additions And New Securities Lawsuit - simplywall.st",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTFVXU1FzZFgyUkVNdDJYbWlsVUN1QTZCcHN3RDRGVzJLLWF6eFc4ZFNYSFJaT3NSZDlxRWtqWWdMZS0ycnVkUFlWQXp4ZVRFWmpQWE05NHY2NlpVQUdTRjlqS09zamo1Mkd0Tm9ObWNRM0pkMzlfVG5MSWlNUzloUW5FSGpqT3l2UWxIZlNWZUtEMm9rT2xjbWF5UXVoakFpeXdQSkFHenNMQzFMR2p1bkFCSDVNaERld0tUZGZqLUVZenFuQk13ZXc3S3hCaHFVVnfSAdcBQVVfeXFMT3NpeGZmSFdCcVhvQ19ibHZvYjN3ZFBMVEdERzExRmd6MXY5eHI2UFYxRHAzN3VqZzlWanBMZmdUR2tGQ1pDT1Y5ZGNIeURQcTdDZ2g5RnZPNk9Lc0V3VC11dkQxOWJLMURtMWs4S1UzbWZvdU5sb2VHRmJ3cXNnN2dTMGQxZ2ZGUzBFY0dzcFUtSFg4cVk5SGduSm1fMDFjbmt0ZENjeUFuQUZrdEs4V01QSEdRdTZEbnQ5bFpENDJVbkpWZUxNTjllbVhtZGZOR1JYamJTbk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-07-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Impact Partnership Wealth LLC Acquires 6,286 Shares of First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTIzSFNfcm83YzM3NWxPSGdhVGhXaEdoU2tpWUJ1VjBTYXFxdTlhRDU5WTZPYnZ3LTVLZ2cyQ0pRMW50dVZqM3pDQ184MHFQdC1zQll5WXE3Qm5hWUNBZ09FbkloY29KQlFHMlpjRWVVcEFTTk1iSVZPemxxMm96Z0JrdV9jczVsc21UbjRLQVh4UE4wWnc2YzNpaFhvRHA0MUVKeWdfNmxvV3I0NEFkemE1WGt5RFR0MGo1aVFpQnBWdTBDeEFHd3RtM1pLaG11?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Union warns factory jobs at risk over Labour’s net zero glass tax - The Telegraph",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXRVTUxTWm84NF9BWFNKcFpkUzZGSWtGdVJFd0s4VlFGUklZRTBoT01TVkRaQ25qN21faUxNSklhVWphdzJ2VFR6a0lUNk92eWxqUEdJN1B4M1R6UDZKdDJTdnc3TmRZeHZTM0ppM0J4ZjFlTmRwc3BFS042NkRYTVVUdmVBMUZIYmJ1SDF0N0tjbnJHdE9rdEN3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "agc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 211,
+    "too_old": 133,
+    "gate1_blocked": 34,
+    "gate2_blocked": 29,
+    "passed": 32,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Tata Chemicals shares rise up to 6% as RBI finalises NBFC-UL norms: Here's why - Moneycontrol.com",
+      "Tata Chemicals shares rally as potential Tata Sons listing stirs value unlocking hopes - Indiatimes",
+      "Tata Chemicals shares rise 4% on hopes of Tata Sons listing after RBI’s new norms - The Economic Tim",
+      "Tata Chemicals surges on Tata Sons listing buzz - The Economic Times",
+      "Tata Chemicals up 6% as RBI's NBFC rule brings Tata Sons listing in focus - Business Standard"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為First Solar、康寧、Owens Corning相關動態：「Corning's Glass Bridge Targets CPO Pain Points; Taiwan FA...」。主要關注主題為財報、光伏玻璃需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Corning's Glass Bridge Targets CPO Pain Points; Taiwan FAU Makers Unfazed, Ci...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Price to earnings forward of AGC Inc. – TSE:5201 - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "光伏玻璃需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
