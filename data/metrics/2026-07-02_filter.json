@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 26,
+  "gate2_fail": 30,
+  "passed": 35,
+  "gate2_samples": [
+    "Tata Chemicals Limited Financial Disclosures & Filings - TradingView",
+    "Tata Chemicals shares rise up to 6% as RBI finalises NBFC-UL norms: Here's why - Moneycontrol.com",
+    "Tata Chemicals shares rally as potential Tata Sons listing stirs value unlocking hopes - Indiatimes",
+    "Tata Chemicals shares rise 4% on hopes of Tata Sons listing after RBI’s new norms - The Economic Tim",
+    "Tata Chemicals surges on Tata Sons listing buzz - The Economic Times"
+  ]
+}

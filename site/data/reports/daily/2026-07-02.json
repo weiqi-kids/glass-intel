@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:46:28.388443Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-07-02-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Veteran receives new roof through Owens Corning partnership - Medina Gazette",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOck9BSENBeGZCb2liTzNrRnZVNzQxVDdQQ0ltTXlwQVMwWU55d19JSzNCZE9VSERsUC14VXdnLWFzYWNHVHY5TFFyWG1tSU56VGpGZU1tUU1OUUJmS3VVcGp0OE1nUmM3Z18yVENRVExNZlJ4N1E1UXpBZDBEcThrZmtzZjI2bnBRanhQY0tIN1RLOVJlTkdjZVZFQ0JqNGJY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 205,
+    "too_old": 143,
+    "gate1_blocked": 26,
+    "gate2_blocked": 30,
+    "passed": 35,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Tata Chemicals Limited Financial Disclosures & Filings - TradingView",
+      "Tata Chemicals shares rise up to 6% as RBI finalises NBFC-UL norms: Here's why - Moneycontrol.com",
+      "Tata Chemicals shares rally as potential Tata Sons listing stirs value unlocking hopes - Indiatimes",
+      "Tata Chemicals shares rise 4% on hopes of Tata Sons listing after RBI’s new norms - The Economic Tim",
+      "Tata Chemicals surges on Tata Sons listing buzz - The Economic Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為康寧、Owens Corning相關動態：「Veteran receives new roof through Owens Corning partnersh...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Veteran receives new roof through Owens Corning partnership - Medina Gazette",
+        "level": "yellow"
+      },
+      {
+        "text": "康寧、Owens Corning為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
