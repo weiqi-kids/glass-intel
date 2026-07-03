@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 25,
+  "gate2_fail": 30,
+  "passed": 27,
+  "gate2_samples": [
+    "Tata Chemicals Limited Financial Disclosures & Filings - TradingView",
+    "Tata Chemicals shares rally as potential Tata Sons listing stirs value unlocking hopes - Indiatimes",
+    "Owens Corning jumps on takeover speculation after reported Carlisle approach - Quiver Quantitative",
+    "Owens Corning shares jump on Carlisle bid report - Investing.com",
+    "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView"
+  ]
+}

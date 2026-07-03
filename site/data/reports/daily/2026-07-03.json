@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:43:10.383592Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-07-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Shares Climb 2.5% Defying a Bearish CAC 40 - Idéal Investisseur",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlJDNjBPdUJqYmc1SVVMRUo3a2dPbkx0RlpESng1LTRTX004bHNWeGJsN29lcnJ3bGZhTVdoY252emNKOUYzVjlzcFVsWXJHWF9XREtrSk42bTBrWWFjV0JhMjM0a21SWnZrREFPNWZJLU9ZZ3VrYUN3Q1JVX3l4MmVjbGxrbkFJXzJCRU15elFGSGpLSGFIZDBVRjEwOUhjT0Y3MTlJZnlCV3VJTVQydWdRSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AIKO Continues Partnership with Nordlys NTNU, Norway’s First Solar Car Team – AIKO, Find Your Power - AIKO Website",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lQW83Rm0zRm9zWUFwc2J5cl9wa3NyZ0xQc1hvUlU4NGNuRnhmYWFCRHdvRjFKS3lMWjZmbnhrV18xeHM2bG40OU5DbFBYNzVGc1RxWTdfQWNKdWFYbWc0T242OWN4T0xSMng4N3F1M3pyRWRMeHlzT2RB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 191,
+    "too_old": 166,
+    "gate1_blocked": 25,
+    "gate2_blocked": 30,
+    "passed": 27,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Tata Chemicals Limited Financial Disclosures & Filings - TradingView",
+      "Tata Chemicals shares rally as potential Tata Sons listing stirs value unlocking hopes - Indiatimes",
+      "Owens Corning jumps on takeover speculation after reported Carlisle approach - Quiver Quantitative",
+      "Owens Corning shares jump on Carlisle bid report - Investing.com",
+      "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為聖戈班、First Solar相關動態：「Saint-Gobain Shares Climb 2.5% Defying a Bearish CAC 40 -...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Saint-Gobain Shares Climb 2.5% Defying a Bearish CAC 40 - Idéal Investisseur（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "AIKO Continues Partnership with Nordlys NTNU, Norway’s First Solar Car Team –...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
