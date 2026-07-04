@@ -1,0 +1,183 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:17:05.039144Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-07-04-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Why Owens Corning Stock Rocked the Market This Week - The Motley Fool",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmlKUzVWdy1BcVB5ZXpqT0NlYldERkZiZjVHOFF4eVlFOHdKVjVmd2dtalc1Y1JOc2J0dERycHRTdmxnVW5QUjhGUUJmNHNlSEF6UUhVOEpHaXd6YXVBX2NYQWdwa2xZb0lCZVNDVE94Uk1NRlhKRDRralJPeUU3MHdpUUZRX0M5UU1PbGtrMkozV1F1ZTVwYg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-07-04-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Why Owens Corning Stock Rocked the Market This Week - Yahoo Finance",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlBVbWJEQk1sVDExaFV4VGFWVmk3NURvTm1yQXpTQXY3UEJ3QXNlQUtBcHVLUVMzbWVDZG5fY05IRzllZEJpWjktblhKUUdRcERZYmR3c3VyeURCSFlhcF9wUUZsVlU4elpPV2VVdEMyandXejNfUno4cGIwU3k3azVob2pLV09zbEtsbXZWdVpZM1RnLTdrUTA5RQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "owens_corning-2026-07-04-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Pictet Asset Management Holding SA Sells 10,256 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMlFlS29UWDBoc3JVTkRWc004ZTFfV0Z3bHVNakFyTndoaGdoZ3F6bndxV3RRV2FKMzhtcXMxcHhrWVFfc21pZXNtdFItV0k1bHZ2bGFpdTVZekgyMS04NTBtZUlWaUdXd210dkFTc1pzb0xRcFNXU2JmSjV1RVpJUzVNMjgybk1mcnQxX3R2LXV4S2ZfYmNuTFdQVm9kM1FZTnJkWlVaR0NnY0hPTnFPMzE5VVNSWTBRdXBpQmVCcEQtRGJMMlBhYWZaMFNIM2l1XzhIRA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-07-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning Inc. highlights glass and optical growth as investors assess long term demand - Ad-hoc-news.de",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTJ0RmFwWWhaSEtfMDJORjhLMXZHR0R2aG4tNkwxS0g4eWp6c2phLU5RUjdqMXRpdkN3ay1YTnFCMmt0Y0x2VEZRRllhSzN0aHEzWndVRkNNaUF4dTl4NzJScHlsa2I4d0J2YVNsTHlFMTkzTEhQTnJTNGhzVnV0YWU0NnpERWp1Uk1vR1BsRDFET0dWWkNqUEd0ZWVRTUM4dGNNSnVWc3ZRdHpBcHltbWRqaDNMTXptVnFWcWR5eU9tdEY0dWpjRUNaYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "inventory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 4
+      },
+      {
+        "id": "owens_corning",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 209,
+    "too_old": 172,
+    "gate1_blocked": 26,
+    "gate2_blocked": 19,
+    "passed": 12,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Tata Chemicals Limited Financial Disclosures & Filings - TradingView",
+      "Owens Corning jumps on takeover speculation after reported Carlisle approach - Quiver Quantitative",
+      "Owens Corning shares jump on Carlisle bid report - Investing.com",
+      "OC - Owens Corning Latest SEC Filings - Finviz",
+      "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為康寧、Owens Corning相關動態：「Why Owens Corning Stock Rocked the Market This Week - The...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Owens Corning Stock Rocked the Market This Week - The Motley Fool（庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Owens Corning Stock Rocked the Market This Week - Yahoo Finance（庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

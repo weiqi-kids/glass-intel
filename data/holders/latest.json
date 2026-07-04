@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T10:43:09.765774+00:00",
+  "updated_at": "2026-07-04T10:17:04.436610+00:00",
   "companies": {
     "solvay": {
       "name": "Solvay",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 156672,
           "pct_held": 0.15,
-          "value": 4095405
+          "value": 4129874
         }
       ]
     },
@@ -250,13 +250,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 9648,
           "pct_held": 0.0,
-          "value": 770682
+          "value": 774155
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 22900,
           "pct_held": 0.0,
-          "value": 1829251
+          "value": 1837495
         }
       ]
     },
@@ -402,7 +402,7 @@
         {
           "holder": "Invesco Exchange-Traded Fund Trust II-Invesco Solar ETF",
           "shares": 20396136,
-          "pct_held": 4.74,
+          "pct_held": 4.75,
           "value": 132778850
         },
         {
