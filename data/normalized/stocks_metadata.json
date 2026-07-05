@@ -1,13 +1,13 @@
 {
   "tata_chemicals": {
-    "earliest": "2004-09-20",
+    "earliest": "2004-06-22",
     "latest": "2026-07-03",
-    "count": 5381
+    "count": 5445
   },
   "solvay": {
-    "earliest": "2004-09-14",
+    "earliest": "2004-06-16",
     "latest": "2026-07-03",
-    "count": 5585
+    "count": 5649
   },
   "owens_corning": {
     "earliest": "2006-11-01",
@@ -16,19 +16,19 @@
     "history_complete": true
   },
   "taiwan_glass": {
-    "earliest": "2004-10-01",
+    "earliest": "2004-07-05",
     "latest": "2026-07-03",
-    "count": 5350
+    "count": 5414
   },
   "agc": {
-    "earliest": "2004-09-21",
+    "earliest": "2004-06-23",
     "latest": "2026-07-03",
-    "count": 5383
+    "count": 5447
   },
   "nsg": {
-    "earliest": "2004-09-21",
+    "earliest": "2004-06-23",
     "latest": "2026-07-03",
-    "count": 5383
+    "count": 5447
   },
   "xinyi_glass": {
     "earliest": "2005-02-03",
@@ -49,19 +49,19 @@
     "history_complete": true
   },
   "saint_gobain": {
-    "earliest": "2004-09-14",
+    "earliest": "2004-06-16",
     "latest": "2026-07-03",
-    "count": 5583
+    "count": 5647
   },
   "corning": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-02",
-    "count": 5482
+    "count": 5544
   },
   "oi_glass": {
-    "earliest": "2004-09-17",
+    "earliest": "2004-06-21",
     "latest": "2026-07-02",
-    "count": 5482
+    "count": 5544
   },
   "flat_glass": {
     "earliest": "2015-11-26",
@@ -82,9 +82,9 @@
     "history_complete": true
   },
   "au_optronics": {
-    "earliest": "2004-10-01",
+    "earliest": "2004-07-05",
     "latest": "2026-07-03",
-    "count": 5350
+    "count": 5414
   },
   "innolux": {
     "earliest": "2006-10-24",

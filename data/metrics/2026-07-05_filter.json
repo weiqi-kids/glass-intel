@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 26,
+  "gate2_fail": 16,
+  "passed": 25,
+  "gate2_samples": [
+    "Owens Corning jumps on takeover speculation after reported Carlisle approach - Quiver Quantitative",
+    "Owens Corning shares jump on Carlisle bid report - Investing.com",
+    "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView",
+    "Enterprise value to EBIT forward of Xinyi Solar Holdings Ltd. – HKEX:968 - TradingView",
+    "Intraday Movement | Xinyi Solar Rises More Than 3%, With the KDJ Indicator Showing a Golden Cross. -"
+  ]
+}
