@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 26,
+  "gate2_fail": 14,
+  "passed": 11,
+  "gate2_samples": [
+    "Owens Corning shares jump on Carlisle bid report - Investing.com",
+    "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView",
+    "Intraday Movement | Xinyi Solar Rises More Than 3%, With the KDJ Indicator Showing a Golden Cross. -",
+    "The Xinyi Solar Monocrystalline High-Efficiency Module from Xinyi Solar Holdings - long-life glass a",
+    "Intraday Movement | Fuyao Glass Surges More Than 3%, as UBS Group Maintains a Buy Rating. - 富途牛牛"
+  ]
+}

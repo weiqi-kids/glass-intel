@@ -1,0 +1,219 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T12:09:19.539817Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-07-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LONGi Signs Strategic MoU with Saudi Water Authority to Accelerate Solar PV, Green Hydrogen and AI Integration in Water Sector - SolarQuarter",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUmpKRTVjcTd2SkFqcGx2Y29wUVQ2d1YzdGs3OEszQW9POEhWZm45Qks5MjhFRXJlbU9Rdi1yS0RRdVdFLUc3dXF1SHZOLUs4eDJpa1I0cEFjY0hnaVVybTZwdGtPUUJYZlBkdU16M1kzWXFqUVZtRDlIV2wwMWdZcDhsTkhQbW5qaGYyWmE2Z0wwaUpLQzIxYWFseV9rXzlyUlFtRGVCSnppak9ubmJDdmV2Y2xlNTVzVXBzX0ZhQTlrbl9CSS1WOXVDb2RnRk5WMWRXSUlxS05LVTh4SFlaM3ZxenpQdFo2UlVJWmd2ZjhFZ3Rr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vikram Solar starts PV module production at manufacturing facility in India - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVp4SjdiTzE3bW94bEVYYWFPRFpDWGtiMUdkeWk3bDIyYXlTYVk2b2hTQ2hzS2hnMC1qSTdxR0lVSGNGOVZTUFJ5RGE3V1BoMU1EVzFBMTVfa0VEUi1GOU1CM3pwMUhaOUtIaWw1Z1FtVm52OGRaNnpacjF0MFZkVmJOa2Itb2YwaUliX2VBTWVFM2ZHMHlsY2Z3eVNudFdEUnZUNF9DaDlTcmlvOE1lMlA5YkNYaFYyc3BsSVJ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FuturaSun launches PV modules with integrated anti-soiling glass technology - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMjBFajllWWZsaVpHZGZHVmFHZDBmSjFUQ2NyeVJuNFpFeEgySmpfbHpnenlUd0stek1UaFVzX3VHZDRsU1RBWjk0dktEZl9VVU5vMnNJekVNeVUwSkZPb3RRLUtJMUwtUENCeXNiNzZuZ0lXRVZOak5GUDJXVzhRSjV3WmltR0pxb0lPcGlEbjVSZnByZXhuM2twclBJa3psXzJPT1c0aXVVQmotS0tIMVh0Y0J3dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ClearVue targets Qatar greenhouse boom with solar glass - SMH.com.au",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMUlTSkN6aUlpMmxCeFRWTE1JcGhkMjdhMnlxem84Q1RKVHVqX0dmbHUwZWxTX2o4MDlvU0FxV2plbU9HNkpXOTA3RlRSaUx5STNub3I2RDV1dWhqeElwc25kWFpmYm1mYm5VWFhLa1A1N0FRUGZwN1ZiOFBUWHZUazVhWWxXS1NSeHpsak5IOFhpZXRaYjEybFl1QnBGdW5QdnM2eDNMN0tEQkpwLUw2Y1F0NDFzZWxPc0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-07-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PFG Investments LLC Buys 4,493 Shares of First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdkRpaUJlRWctZnhqbTlKbnJYYzRNX0xTNEx6aEd2YTBwNW0xOTVpVjRJcVpvQmNwUGJmSHpWV194WmlJY0JJMGNmUko3YUs1ektSLVlpS0NNNHZOOUlOSlM4OWZmZDBwZzhJdmlQbi0wNmNHZWM3djNQbVNhNjExSGdSa2J6bERFZVZJLXlycjZVeFNteEEtYzZHT3BnZzVBTEVCLU40TVFLWm1lVlJKOHRvNWlFUHFHeDgxbVJ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 227,
+    "too_old": 159,
+    "gate1_blocked": 26,
+    "gate2_blocked": 14,
+    "passed": 11,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Owens Corning shares jump on Carlisle bid report - Investing.com",
+      "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView",
+      "Intraday Movement | Xinyi Solar Rises More Than 3%, With the KDJ Indicator Showing a Golden Cross. -",
+      "The Xinyi Solar Monocrystalline High-Efficiency Module from Xinyi Solar Holdings - long-life glass a",
+      "Intraday Movement | Fuyao Glass Surges More Than 3%, as UBS Group Maintains a Buy Rating. - 富途牛牛"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為隆基綠能、First Solar相關動態：「LONGi Signs Strategic MoU with Saudi Water Authority to A...」。主要關注主題為財報、建築活動、光伏玻璃需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LONGi Signs Strategic MoU with Saudi Water Authority to Accelerate Solar PV, ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vikram Solar starts PV module production at manufacturing facility in India -...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "光伏玻璃需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
