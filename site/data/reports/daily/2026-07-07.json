@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T11:13:34.041334Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-07-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals re-designates Rino Raj as VP Manufacturing (India) - scanx.trade",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUml5UGc4T3ZNeHB2VjczRFhLWTd6aTZfcjZqSFFNVy0zOE1VbWxxZ0V0VHBpN3I1Y1RiQ3FCakZ6WnJEZmdRd2RFOFg4ZkUzUy1tcnMtVFBkRERIMTdOOVk2Qk11eU9mTnJaYVItYjA5dHVEVHJ0SDB6MWtIamYzLUIyU3dYdnFSTjV5cXh0RHU4bXJZa0JoUmU0b0VMT2MtNHpVYVNkcll4SEZyS0Y4ck1FVVRqMU9YN01nZg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hong Kong Stock Market Movement | Solar stocks decline collectively as weak demand persists, potentially exerting further downward pressure on prices and profitability across the supply chain. - Moomoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.67
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVVkNW5ud2VvbEZweGxJRl9oOHEzWWxMbXlrcXQ2YjBOM2hEcGpfNUYxNENMZGIxVVdKWHlGN0dhRjY1TW9zT2NfTENnUmtFSnZ5NnZmYjNqMzVJNDhFVGo0b3pxaUtFaWNhemg2dUxIbFlXLXJOa0poS1dXM1l5MXJya0g3SVJpdnJLTnQxVEFUcGtWaWg2Y0xxc3k2T052bFpLNzVQZWN2WmRfVzVj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SAINT GOBAIN : Deutsche Bank sticks Neutral - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHZzMnZkTmE3SVVXZmNRa3MwS0xuS3BqejVwM19BZnBRVmdmNFZGaEpiajdrMFN5UDdzNV84cnBXRUdtTkxkUGx3cnNfQmNJRjBKR2cwa01kclcxYzdBUXAtZmJVTHYyZzNKVkZKaFVta0V6V0M4Q2d6bC13dHFPaWlNUmF4T0FSemtvLUQ4ZkQxNEpYaEhjVWdn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hong Kong Stock Market Movement | Solar stocks decline collectively as weak demand persists, potentially exerting further downward pressure on prices and profitability across the supply chain. - 富途牛牛",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.67
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2VSZDl5ZlVfdzdQWE16VTdjbU84dEZTLVJNTnlTWk5NcXYtX240N0hWWmVYN1VZSV9QU0lKaHVoWURkbm5mcGtXOVIzeTJ1enE0SjYteURVZFQ2RDh1UkpvYmNpQ1RObWs3bUt6TlFLSXlNSkJGQzZDTFk1UHJjcHVWUDNFY08wVzFDX2gycnhRS1kwNkFDQm5WckFGVWloMUxfVGhROEI3cnFmVnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-07-07-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FSLR Investors Have Opportunity to Lead First Solar, Inc. Securities Fraud Lawsuit with the Schall Law Firm - PR Newswire",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQXU3SzRCMUZVR0pQWDZSUkhSc1B5ckRoQmxwZmpPcHRXQVQwZ0dKdEVBSU1UaGdzdHc1MVIwaHpFMWRydzlwX1Y5d1JqQnFkRnllNDNENWdIVzZnTzZJeVAwUGlOa0d3WkFvN0IzQlBfLXZxa2hpTVVUcTdvZ0Rnd0pDN0pJX2liVklrRHNaZU1vWHRNcU40QzNHNnBUNkVsMUlxSXN4ZTdZTXFENkllNk1OcDRfY19XOE1fc0pTQ3h3cmticVc1VGFuTGRQSEdOalpBX1dKOXlKeEM2aXF3bzhVaFFJWHpiRHNIWHVKc2p5LUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.27,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.45,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 210,
+    "too_old": 159,
+    "gate1_blocked": 29,
+    "gate2_blocked": 12,
+    "passed": 26,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Lee Danner & Bass Inc. Grows Position in Owens Corning Inc $OC - MarketBeat",
+      "OC - Owens Corning Latest SEC Filings - Finviz",
+      "Intraday Movement | Xinyi Solar Rises More Than 3%, With the KDJ Indicator Showing a Golden Cross. -",
+      "Intraday Movement | Fuyao Glass Surges More Than 3%, as UBS Group Maintains a Buy Rating. - 富途牛牛",
+      "O-I Glass (OI) Could Be 27% Undervalued As Russell Index Removals Refocus Attention - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為塔塔化工、信義光能、First Solar相關動態：「Tata Chemicals re-designates Rino Raj as VP Manufacturing...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tata Chemicals re-designates Rino Raj as VP Manufacturing (India) - scanx.trade（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hong Kong Stock Market Movement | Solar stocks decline collectively as weak d...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

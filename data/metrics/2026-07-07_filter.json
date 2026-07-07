@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 29,
+  "gate2_fail": 12,
+  "passed": 26,
+  "gate2_samples": [
+    "Lee Danner & Bass Inc. Grows Position in Owens Corning Inc $OC - MarketBeat",
+    "OC - Owens Corning Latest SEC Filings - Finviz",
+    "Intraday Movement | Xinyi Solar Rises More Than 3%, With the KDJ Indicator Showing a Golden Cross. -",
+    "Intraday Movement | Fuyao Glass Surges More Than 3%, as UBS Group Maintains a Buy Rating. - 富途牛牛",
+    "O-I Glass (OI) Could Be 27% Undervalued As Russell Index Removals Refocus Attention - simplywall.st"
+  ]
+}
