@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 30,
+  "gate2_fail": 11,
+  "passed": 30,
+  "gate2_samples": [
+    "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance",
+    "Owens-Corning Inc (OC) Shares Fall 3.1% -- What GF Score of 83 T - GuruFocus",
+    "Lee Danner & Bass Inc. Grows Position in Owens Corning Inc $OC - MarketBeat",
+    "Intraday Movement | Xinyi Solar Rises More Than 3%, With the KDJ Indicator Showing a Golden Cross. -",
+    "Intraday Movement | Fuyao Glass Surges More Than 3%, as UBS Group Maintains a Buy Rating. - 富途牛牛"
+  ]
+}

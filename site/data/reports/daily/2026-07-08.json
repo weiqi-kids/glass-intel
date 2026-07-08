@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:24:24.122011Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-07-08-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Y Intercept Hong Kong Ltd Sells 29,519 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTERzcEMtQUZYanByb0U0R2E0blp2LXhIVnFWaWpMejM0NXdGWmtOR3loRl9fUUVpYWdJTUt2TzJQV1Q1NEs2aGJvaUQycUpSbV9kTmVXeGZnY2RudUlIa2dVcFhfTlNsTDlsWTVWaEoyRTB4cEtyZFl5ZGl6a2hpUFhFbTZFVnpTMnZCa3Bhc1hEb1JsY2FUYVM3NENhUm5LRmtKSGUwX2RiV1FTM0NVSVVBOXJVX19YNjBXblBQV2l4WV9MUy1HTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning Inc. highlights glass and ceramics expertise as a diversified technology supplier - AD HOC NEWS",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3VsbjFpSnVVdjVQaTdNQmo3aV9CYTkzTUFMaldXd2l3ZlNpN3lYUVhTbUhuZGRfc2J1QzBYTFdYbWNidEE3YkZ0Zks3eWRiLUNrNWdKa3l6d21rVXZUbG9yNnZ6bUVSRmY2VUtQeHhzMXhaMG1sbFJieTFIRDd2Ml9BWkIzT1JyUWEzUE1JMGlhVUNLNF9fOFczSVpTb0ZvT1RDeWoxeDN2VTBMSWh2TkswczQzb1dyLTQtRmsxWTN4RF94YUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 213,
+    "too_old": 150,
+    "gate1_blocked": 30,
+    "gate2_blocked": 11,
+    "passed": 30,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance",
+      "Owens-Corning Inc (OC) Shares Fall 3.1% -- What GF Score of 83 T - GuruFocus",
+      "Lee Danner & Bass Inc. Grows Position in Owens Corning Inc $OC - MarketBeat",
+      "Intraday Movement | Xinyi Solar Rises More Than 3%, With the KDJ Indicator Showing a Golden Cross. -",
+      "Intraday Movement | Fuyao Glass Surges More Than 3%, as UBS Group Maintains a Buy Rating. - 富途牛牛"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為康寧、Owens Corning相關動態：「Y Intercept Hong Kong Ltd Sells 29,519 Shares of Owens Co...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Y Intercept Hong Kong Ltd Sells 29,519 Shares of Owens Corning Inc $OC - Mark...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Corning Inc. highlights glass and ceramics expertise as a diversified technol...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
