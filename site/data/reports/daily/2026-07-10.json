@@ -1,0 +1,219 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T11:10:08.226050Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-07-10-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Is Down 7.1% After Earnings Power Faces Competitive Strains and Margin Questions - simplywall.st",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXl3U1FKck9nMjFkVDlQQlB5MEkzSnZlaWhKbVpjMDZtSkp1TDVmb0JzWnBDWGs2YWZrYkxWY0hIVkJoQk9QNDRUVm8tOG9iQkpUUDVTY2FFcUtaVHhJd0JSeUg4ZlBJbG5SazRUUDdCcWR5bF9QN1REbjBnakJPTmR4YnBpaWNveXpIempXRDlOcXJBbEZBcjR5WFFQZzVna3c4VEdmRm05dVdiRnhSRHBsY2VvNmdhT3RwYXRvNjJpZHVRQ0FZTE1NR2V1SklsS1BF0gHTAUFVX3lxTE5JeXdTUUpyT2cyMWRUOVBCUHkwSTNKdmVpaEptWmMwNm1KSnVMNWZvQnNacENYazZhZmtiTFZjSEhWQmhCT1A0NFRWby04b2JCSlRQNVNjYUVxS1pUeEl3QlJ5SDhmUElsblJrNFRQN0JxZHlsX1A3VERuMGdqQk9OZHhicGlpY295ekh6aldEOU5xckFsRkFyNHlYUVBnNWdrdzhUR2ZGbTl1V2JGeFJEcGxjZW82Z2FPdHBhdG82MmlkdVFDQVlMTU1HZXVKSWxLUEU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-07-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals and Small Animal Hospital join forces to advance pet nutrition science - Indian Chemical News",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmFaN09kSmxFR3Jqbk9qVTlYLXhEZTBqWi1DdTAwcU1jTC1nd2RxLXNVV0ZKWmUwZ1RHMUltSEFaWUs0Q3ltY3piNGxTaXBDS1k1cGlQZEZWMHBkZWRWSnlLYzMzeDdlYkJoZlhfT19PVlFvbXpxWFhsQjhpODJ2Nkd1VUg1SmRHbkF6WHFyejV1a0tiUlV2LXc2TVp6NmZuU0tESFZUbEw5Z0Zzel9qNUxiaWNycmpEd1U0ZDFXUktHSmh1Rmc2N2w1Y3RrbjTSAdYBQVVfeXFMT1pSZjF3SnB1dW55NGtzaGZ4b3JoeXZqY1dtV3J6eURhdDlDTWI4X2k3eGNBWlhSQWVmVjc3TjhCcUZxMEtFX2pyUHpSY3hmNkFoOUdoZHNUcEVZQ0dyMGtxM3pEQW1pd1haaDE3dkk4eXN1WmI3bS1DNFBjVjFZN3lpbWtZUG5iM3dVSmpac1VtNXIwOXdxRUhiZm9XYUpPcXZkSF85dzNqY1hmV2FSQ0NBT1FxZ3g3blJsVnM2TEJYemtNX0tYcGY0WjdVZXRTT05kUUZsdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-07-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. $FSLR Stake Cut by Munich Reinsurance Co Stock Corp in Munich - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmNxUUI4ZHUzQnV5a2NqNDE1UGVJTVF0VTBSVzUtUG44NnJfSjRoN1Ntd1lLN0dwTHhNdjh0TGZSSXp1VWQyV3Y3RWtOQ2pRYzZlaFBHYWpHNE5YenJqTDJkZzNWQnZSbzQ3MGNwYmVYTDA3T2lrUHFuVjEtb0IzMnVQei1HTEVnRkJvYldYbUZTdDlVRHBnMEZwUGluTGhhLWlXRzZKX0FLUDFPN1ByRWNTc3BCNkVXTzRiajBiMFBnZ09mSkF1SmtId1ZkdGVzWlJv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A peek inside Illuminate USA’s massive solar panel facility in Pataskala - The Newark Advocate",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOclRtNy1jc25DZ1NIdTYyQWRkUTdyczRkWFBGX1M2RXdxY0pFUWUtNUJYYmlndUttUDJwUGlOcVZkTUFBWFhOYTZlRWNSdW9MQVc0bFpXU0paQ2M1S3NDWWVHOHJmelVTdHBVNTlRcGRWVEdMdGFUNXIzVm1sNFJTQnVTLWhSMDg0aGRrMVlSS3M1WWducHJVdlJEN1lKTmM2ckRkSmMtWGI5VldCc2thd0IzTEttdjBiMWw1ZWxKU0R4akR0SFdFWU9QY0s3LTJoLVVITnZtcXQ3M185aC0wcVl0ckU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-07-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Chemicals and Small Animal Hospital, Mumbai Sign MoU to Advance Pet Nutrition and Companion Animal Health - SMEStreet",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObjFuWnJqbVVrdmxSY2wyREJPNmxDd2pUVEgxMkNqcFV5NXNYdmV6MTZIQzNXZFpGRC1zNklKaFMzdnlGeDY4aUxnVUdMREJoMF9xUV9GZWlTdUpTVDhJX0dRZWhkRDFoRFRNTUhzMlBKQ0c2YWpzMHFoaVlwVmpGOFluSm4tTnZUUkZidEkwaVlqRlcyRXhOMlpucGtCWTNsTmdRajdQSzJfc0x2eHNnWDlFTFhRMDFlenAxWERTaDl3dzktbndIV19CWDhiaE1ROE1Pa3dENVN5a1hnRWJ1R9IB4AFBVV95cUxObjFuWnJqbVVrdmxSY2wyREJPNmxDd2pUVEgxMkNqcFV5NXNYdmV6MTZIQzNXZFpGRC1zNklKaFMzdnlGeDY4aUxnVUdMREJoMF9xUV9GZWlTdUpTVDhJX0dRZWhkRDFoRFRNTUhzMlBKQ0c2YWpzMHFoaVlwVmpGOFluSm4tTnZUUkZidEkwaVlqRlcyRXhOMlpucGtCWTNsTmdRajdQSzJfc0x2eHNnWDlFTFhRMDFlenAxWERTaDl3dzktbndIV19CWDhiaE1ROE1Pa3dENVN5a1hnRWJ1Rw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 442,
+    "dup_title": 219,
+    "too_old": 144,
+    "gate1_blocked": 33,
+    "gate2_blocked": 13,
+    "passed": 33,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Tata Chemicals and Small Animal Hospital Mumbai Partner to Advance Pet Nutrition Research - Prittle ",
+      "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance",
+      "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know - Yahoo Finance Austr",
+      "Xinyi Solar Holdings Ltd. Actuals & Estimates (HAN:13X) - TradingView",
+      "Intraday Movement | Fuyao Glass Surges More Than 3%, as UBS Group Maintains a Buy Rating. - 富途牛牛"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為塔塔化工、Owens Corning、康寧相關動態：「Owens Corning (OC) Is Down 7.1% After Earnings Power Face...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Owens Corning (OC) Is Down 7.1% After Earnings Power Faces Competitive Strain...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Tata Chemicals and Small Animal Hospital join forces to advance pet nutrition...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
