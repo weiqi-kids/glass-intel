@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 30,
+  "gate2_fail": 20,
+  "passed": 27,
+  "gate2_samples": [
+    "Tata Chemicals and Small Animal Hospital Mumbai Partner to Advance Pet Nutrition Research - Prittle ",
+    "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance",
+    "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know - Yahoo Finance Austr",
+    "RBC Capital Adjusts Owens Corning Price Target to $172 From $148, Maintains Outperform Rating - mark",
+    "Xinyi Solar Holdings Ltd. Actuals & Estimates (HAN:13X) - TradingView"
+  ]
+}
