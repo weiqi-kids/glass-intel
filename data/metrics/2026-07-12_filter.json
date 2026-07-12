@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 31,
+  "gate2_fail": 18,
+  "passed": 4,
+  "gate2_samples": [
+    "Tata Chemicals and Small Animal Hospital Mumbai Partner to Advance Pet Nutrition Research - Prittle ",
+    "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance",
+    "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know - Yahoo Finance Austr",
+    "Xinyi Solar Holdings Ltd. Actuals & Estimates (HAN:13X) - TradingView",
+    "Compagnie de Saint-Gobain (SGO) CMD 2025 Summary - Quartr"
+  ]
+}
