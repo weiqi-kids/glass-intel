@@ -1,0 +1,14 @@
+{
+  "total_raw": 43,
+  "dup_title": 10,
+  "no_date": 0,
+  "too_old": 5,
+  "gate1_fail": 24,
+  "gate2_fail": 3,
+  "passed": 1,
+  "gate2_samples": [
+    "Podcast: Rivian goes to market, Xiaomi goes big, and a $14,000 tiny EV in the US",
+    "A ‘widow-maker’: Structural failure in NYC likely to trigger legal battles",
+    "McCarthy completes $74M Kansas wastewater project"
+  ]
+}

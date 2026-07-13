@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:20:58.470246Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How BIM is becoming construction’s most effective margin protection strategy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.constructiondive.com/spons/how-bim-is-becoming-constructions-most-effective-margin-protection-strateg/824173/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 43,
+    "dup_title": 10,
+    "too_old": 5,
+    "gate1_blocked": 24,
+    "gate2_blocked": 3,
+    "passed": 1,
+    "pass_rate": "3.0%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Podcast: Rivian goes to market, Xiaomi goes big, and a $14,000 tiny EV in the US",
+      "A ‘widow-maker’: Structural failure in NYC likely to trigger legal battles",
+      "McCarthy completes $74M Kansas wastewater project"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為建築活動相關動態：「How BIM is becoming construction’s most effective margin ...」。主要關注主題為建築活動，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How BIM is becoming construction’s most effective margin protection strategy（建築活動）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
