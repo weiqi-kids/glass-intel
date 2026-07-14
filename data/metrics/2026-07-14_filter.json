@@ -1,0 +1,16 @@
+{
+  "total_raw": 442,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 30,
+  "gate2_fail": 17,
+  "passed": 29,
+  "gate2_samples": [
+    "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+    "Tata Chemicals and Small Animal Hospital Mumbai Partner to Advance Pet Nutrition Research - Prittle ",
+    "Candriam S.C.A. Has $8.19 Million Holdings in Owens Corning Inc $OC - MarketBeat",
+    "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance",
+    "Xinyi Solar Holdings Ltd. Actuals & Estimates (HAN:13X) - TradingView"
+  ]
+}

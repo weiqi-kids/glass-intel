@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T10:03:31.351965Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SAINT GOBAIN : Bernstein sticks Neutral - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmdLSlhMQnJKUXRGQ0dnUGlvUjNKa3FadGgtaG90YXJhbnZOVUVFRU1sREJZU2o3Vl9uNlc3ajVmOEw1a2k4aHFSTXYtNm91al8wZDd4dE9VQ1VBOWFsR2U0MVRqZlVGVnRhaFdaOTUtaDhvQ1VmSDFfX1M3Z3NSZkNoS215cFcyR0gyY19qNjZpQ3pQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "P.A. Resources secures RM1.3bil aluminium supply contract from First Solar - The Star",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWVWcGlfX3A5bzk1S1J2TUlrVFRZZC1mVEhZaXZvdTA0RWlSaWtnMjlRQmk2MVBfeVhOLWNsVks5UDk3aDZQaDBQOXR0dVVKX095eTk4MVBzWnFvbWZNd09kakVzYkdfSk5XbFN4aUpIRF9JQVJjOHROQ0ZYZnVJV3VVLWRLSWQwZi0wR0QtVXJVS1E0WllkT1U1VXNRaXFHNkpxYUd5VHlIUzl5Nzh6MDVndDZhMzdhV2J0R0NaaWhld1BLWGktTVdwNVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 442,
+    "dup_title": 187,
+    "too_old": 179,
+    "gate1_blocked": 30,
+    "gate2_blocked": 17,
+    "passed": 29,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+      "Tata Chemicals and Small Animal Hospital Mumbai Partner to Advance Pet Nutrition Research - Prittle ",
+      "Candriam S.C.A. Has $8.19 Million Holdings in Owens Corning Inc $OC - MarketBeat",
+      "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance",
+      "Xinyi Solar Holdings Ltd. Actuals & Estimates (HAN:13X) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為First Solar相關動態：「SAINT GOBAIN : Bernstein sticks Neutral - marketscreener.com」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SAINT GOBAIN : Bernstein sticks Neutral - marketscreener.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "P.A. Resources secures RM1.3bil aluminium supply contract from First Solar - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
