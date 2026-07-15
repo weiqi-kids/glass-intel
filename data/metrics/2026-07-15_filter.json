@@ -1,0 +1,16 @@
+{
+  "total_raw": 442,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 26,
+  "gate2_fail": 23,
+  "passed": 24,
+  "gate2_samples": [
+    "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+    "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+    "Tata Chemicals and Small Animal Hospital Mumbai Partner to Advance Pet Nutrition Research - Prittle ",
+    "Candriam S.C.A. Has $8.19 Million Holdings in Owens Corning Inc $OC - MarketBeat",
+    "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T10:08:16.688795Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-07-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Egypt CEO: Our investments strengthen local manufacturing, positioning Egypt as a regional export hub - Ahram Online",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYzJhTGEzekRLbXhpT3Bwanp2UUpTRVExY3FybEJnQTFvdEpfSVp4WmkwVUJpSUVGTGQtTUotZXJQTGNVZXhjVEVJdzR5SUZRY2xhNGplR3NRZnBCQ2g1MHRGcHJWaTI5dFBRMHNfdW5WblJQWmV1UV9MLVdNMExFNGlvV2lWNjJlRE9KR21yb0xZMzlYdTJmQU4yS3ZmMkZFUGEzQXNRNnNfZzVNaXNVbGhtMVVYM2I0Rl9lRTZ0X1BRemdnZ25UZlVuUFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-15-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Strontium Hydroxide Market Demand to Accelerate by 2035 on Electronics Miniaturization and MLCC Expansion - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmozMURyVERlYWFsYXpoWXRJaDN1dFh2aTVpcnZXenNiUVdFcjR2SHBoNlkxUXZDTGZGMWpORGlpeTRpTjRRV2dKQlJ4d29GeGx5WS10bmJ1Nk5jcUxFbjdwb1N1ajVobEZWbHk4REJHT25lT0p0NThkRS13QkRXTURnamFZMzZwYlZpVzhRalRzYXlDaDUzbExQQVZsRzhuaXpOZHpEdWprZnZubVFMYjZZeEJ0LXBuNUQweXRmdDNOaGIxcXUwUHY4X090YnBQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar Stock And 2 US Clean Energy Names Backed by Domestic Supply Chains - simplywall.st",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3drTk5US0JHMjVxR1dyTWN3QU51YUhrdGF3ckxibGJVVmNyMnlZemVyRXhqWkdpNnhFWWthY25yekhCWXV0VlNVUEgzM0xuTHlWaVVNaF9jRlZhN0lVY0dOdkVtU1RwMUdPUGxGeTYyaHFibVZuNUFCbEtQSGZaaWFIWXhZVzd5aUs2MDVCT1gtMEdLTVNYMUlMRVMyaDB2MWx4Q05uOGY1QTdOVXJPT1hEcjR6SGQzaGdQXzMta3FmTFMzNUNrNS11ekVUVmdOUlHSAdcBQVVfeXFMTW9uVG1XWUZkYjRneWlOSHhCWGdTMzVRYy0weXVmYlRBMlNLV25zQUljR285Y0F4MUdmY2txaDdiWHVoS09TREx5RjduNkMwQkJQaWU2WG5XTkZKdXJGVzlVU2dGUVJCT3V4aFFmX1BLZndhX0JUZWl4dlBBWWhFb2gyVmxkV3YyMm1DYkJjeW42S0RYUEpBVVplTEFERzY0RUoxckhtM2FZbjRHZnJ0MVNvNG9rZVpRcWdWZVFyM2lETmh3RWxBZXhFTXFvbUxmNHpYZTFZUE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 442,
+    "dup_title": 209,
+    "too_old": 160,
+    "gate1_blocked": 26,
+    "gate2_blocked": 23,
+    "passed": 24,
+    "pass_rate": "10.3%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+      "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+      "Tata Chemicals and Small Animal Hospital Mumbai Partner to Advance Pet Nutrition Research - Prittle ",
+      "Candriam S.C.A. Has $8.19 Million Holdings in Owens Corning Inc $OC - MarketBeat",
+      "Owens Corning (OC) Faces Fresh Scrutiny, Is The Pullback Enough To Make It Cheap? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為聖戈班、First Solar相關動態：「Saint-Gobain Egypt CEO: Our investments strengthen local ...」。主要關注主題為財報、庫存、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Saint-Gobain Egypt CEO: Our investments strengthen local manufacturing, posit...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Strontium Hydroxide Market Demand to Accelerate by 2035 on Electronics Miniat...（產能）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
