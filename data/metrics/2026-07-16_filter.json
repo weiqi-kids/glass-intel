@@ -1,0 +1,16 @@
+{
+  "total_raw": 441,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 29,
+  "gate2_fail": 19,
+  "passed": 36,
+  "gate2_samples": [
+    "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+    "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+    "Tata Chemicals and Small Animal Hospital Mumbai Partner to Advance Pet Nutrition Research - Prittle ",
+    "Candriam S.C.A. Has $8.19 Million Holdings in Owens Corning Inc $OC - MarketBeat",
+    "Xinyi Solar Holdings Ltd. Actuals & Estimates (HAN:13X) - TradingView"
+  ]
+}
