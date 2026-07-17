@@ -1,0 +1,229 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T10:03:33.599997Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-07-17-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Inc (NYSE:OC) Given Average Rating of \"Moderate Buy\" by Analysts - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGctQzlrcjVhM2dodlFlYVIzS2hqMmtUc25RRlV5U0N0c29RcEJWLUI4TkxmLTlNcUI5ZW5RY0VpRzNUQ2IwWnpUZU51eVAtbFd6Z1V2ekxfRzJjLTZkTnAxTy1aUnlMNU55M2JXOUpQRUJSZTVnSlZiR1VReDB3dlRFMmltUWx5Vzg5VUtkVFh6Sk9hREEtdVlqMUhmWFhxeng5Rl9yeUkwT0J0QjBEU2xzU1Q3SHdXQWRhTUgtdkxHTTVpWGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-07-17-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Inc $OC Position Raised by Allspring Global Investments Holdings LLC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTJmQXYzbnZxRC12U1o5WGU3YmFfdW5ESllqZVhnRm9OSjZHQzBZZnQ1OGg1WldIaWI0Nnl6MkxxMmN4SEd1OHRJWUY4TXhtY29nT245ZXR2MmwzdEhpSUhRS0NneS0wZ18tYU9IQW5OaWlyVHZ5ZGlaa0VCNUtOWFFKN1Voc1ZDU3JLMFBjc1NlWjlpLWhqTE8tQ29sNmdNanJrOG5GX1FpTGxoZTFkYXpWZmswWk9PWWlORFFPT2dSY3Badm1ucnRldVpMQy1zenpQS245LVptQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "solvay-2026-07-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Solvay stock trades steady as spin-off Syensqo reshapes the group balance sheet - ad-hoc-news.de",
+      "companies": [
+        "solvay"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1J6ZmhTVU54dFpFZWtvcUQybzVKeHlPanRvQU1XSTFWeVVLbE91cHBKN1l6X2dBWE95M2xjcjlUSTZsMF94ZXFFTTJySU5FaFpJQS1mRm51UUU1SE5fbnZ1enFhQmh4X3l5NnJKUzlDbUt1UjA1enVSM3V1RDQxVXN4UFlZTmVKRnFJREhkeU5KWlRhXzBfcm85dEdqYmswSm5wQ2tXQmtIZUFWNE85a1h1Y3VnaVBfN1dCTzg4RWk0N0R6OHBCOWZnanU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-07-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar (FSLR) Is Down 7.3% After Tariff‑Related Lawsuits Question Its Policy‑Driven Narrative - simplywall.st",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUgtWjFUMmhiTVNiS3o1dU1rUUVmcjdITXVzcXBaaDBnUi0yYkNfUjdCRDk0QktPMlQ5YVpzWGZzWW8yTzd6VHhBSl9QMzN0UmF4OGR6ZW5waXhPQWpOZGttTTJ4U29UOF9uYjJBN3hfMEZzLXdHenc0dDAyV0ltWVhsMDIxT0dhbUlYTmtjNmZHT1JCYUEtc2hOWmRGemV4YVM0dUk0NkpDVktmRjBPTnZJUC1rUjVhNjgwajBXeXlDTDA0cFJMVGtvSDl6T2RHaFHSAdcBQVVfeXFMT0lRRDNMY0J5T01rZmJCS213Z0J3WEkzUVF2ZXRvcmpMU1BCNk4yN2tVZk0zSmh3U3pxVEV5ZW9tMTZXVDRfTzVGR180dVo1bzB3d3hvMEFKLTh3M3JlTFlKYUw2aDk2MndHa2NOMG5fMTJBcnZEWG8tVDMxOHUxR1NuV3Nrck5DY29mZF81cWtiUTBoNzVMYU45WTQwSVRKT0ZXTF9VQ3RocWRJR3FmYTVwZ2xEeG1FNnJFd09WMmxlaGp4czRSOExHWFRKSW5PLU9BVmlzV3M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-07-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Avalon Trust Co Decreases Stake in First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU202OHhFejFRbXRENEY1cUJIU1JJTUwzVTNWM25Yd0JIMnpTUWE2M2tUSDR6RHRIRndBWWJwU3B0cC1rckZnOTdJUkdqNEZBZTNhYVR5MVJJcWRDTTZJMnBwY3FmZTBseFExbkNOLS1HTE8zRWtZbVJpWHZ5YnpxcHppUk5WN0ZTQVZSWm5qX0ZEQ0JjandQdG4wVkU3MXE4SDhMN2FkdVczZnNKUE03dk9MWEc2cTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "solvay",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 205,
+    "too_old": 173,
+    "gate1_blocked": 24,
+    "gate2_blocked": 15,
+    "passed": 23,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+      "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+      "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 4 - ArchDaily",
+      "O-I Glass Is Maintained at Overweight by Wells Fargo - Moomoo",
+      "Truist Financial Cuts O-I Glass (NYSE:OI) Price Target to $13.00 - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為康寧、Owens Corning、First Solar相關動態：「Owens Corning Inc (NYSE:OC) Given Average Rating of \"Mode...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Owens Corning Inc (NYSE:OC) Given Average Rating of \"Moderate Buy\" by Analyst...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Owens Corning Inc $OC Position Raised by Allspring Global Investments Holding...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

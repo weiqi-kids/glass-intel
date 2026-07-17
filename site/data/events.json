@@ -1,5 +1,104 @@
 [
   {
+    "id": "solvay-2026-07-17-001",
+    "date": "2026-07-17",
+    "companies": [
+      "solvay"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solvay stock trades steady as spin-off Syensqo reshapes the group balance sheet - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1J6ZmhTVU54dFpFZWtvcUQybzVKeHlPanRvQU1XSTFWeVVLbE91cHBKN1l6X2dBWE95M2xjcjlUSTZsMF94ZXFFTTJySU5FaFpJQS1mRm51UUU1SE5fbnZ1enFhQmh4X3l5NnJKUz",
+    "sources": [
+      {
+        "name": "solvay",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1J6ZmhTVU54dFpFZWtvcUQybzVKeHlPanRvQU1XSTFWeVVLbE91cHBKN1l6X2dBWE95M2xjcjlUSTZsMF94ZXFFTTJySU5FaFpJQS1mRm51UUU1SE5fbnZ1enFhQmh4X3l5NnJKUzlDbUt1UjA1enVSM3V1RDQxVXN4UFlZTmVKRnFJREhkeU5KWlRhXzBfcm85dEdqYmswSm5wQ2tXQmtIZUFWNE85a1h1Y3VnaVBfN1dCTzg4RWk0N0R6OHBCOWZnanU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-17-002",
+    "date": "2026-07-17",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Inc (NYSE:OC) Given Average Rating of \"Moderate Buy\" by Analysts - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGctQzlrcjVhM2dodlFlYVIzS2hqMmtUc25RRlV5U0N0c29RcEJWLUI4TkxmLTlNcUI5ZW5RY0VpRzNUQ2IwWnpUZU51eVAtbFd6Z1V2ekxfRzJjLTZkTnAxTy1aUnlMNU55M2JXOU",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGctQzlrcjVhM2dodlFlYVIzS2hqMmtUc25RRlV5U0N0c29RcEJWLUI4TkxmLTlNcUI5ZW5RY0VpRzNUQ2IwWnpUZU51eVAtbFd6Z1V2ekxfRzJjLTZkTnAxTy1aUnlMNU55M2JXOUpQRUJSZTVnSlZiR1VReDB3dlRFMmltUWx5Vzg5VUtkVFh6Sk9hREEtdVlqMUhmWFhxeng5Rl9yeUkwT0J0QjBEU2xzU1Q3SHdXQWRhTUgtdkxHTTVpWGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-17-003",
+    "date": "2026-07-17",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Inc $OC Position Raised by Allspring Global Investments Holdings LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTJmQXYzbnZxRC12U1o5WGU3YmFfdW5ESllqZVhnRm9OSjZHQzBZZnQ1OGg1WldIaWI0Nnl6MkxxMmN4SEd1OHRJWUY4TXhtY29nT245ZXR2MmwzdEhpSUhRS0NneS0wZ18tYU9IQW",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTJmQXYzbnZxRC12U1o5WGU3YmFfdW5ESllqZVhnRm9OSjZHQzBZZnQ1OGg1WldIaWI0Nnl6MkxxMmN4SEd1OHRJWUY4TXhtY29nT245ZXR2MmwzdEhpSUhRS0NneS0wZ18tYU9IQW5OaWlyVHZ5ZGlaa0VCNUtOWFFKN1Voc1ZDU3JLMFBjc1NlWjlpLWhqTE8tQ29sNmdNanJrOG5GX1FpTGxoZTFkYXpWZmswWk9PWWlORFFPT2dSY3Badm1ucnRldVpMQy1zenpQS245LVptQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-17-004",
+    "date": "2026-07-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Is Down 7.3% After Tariff‑Related Lawsuits Question Its Policy‑Driven Narrative - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUgtWjFUMmhiTVNiS3o1dU1rUUVmcjdITXVzcXBaaDBnUi0yYkNfUjdCRDk0QktPMlQ5YVpzWGZzWW8yTzd6VHhBSl9QMzN0UmF4OGR6ZW5waXhPQWpOZGttTTJ4U29UOF9uYjJBN3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUgtWjFUMmhiTVNiS3o1dU1rUUVmcjdITXVzcXBaaDBnUi0yYkNfUjdCRDk0QktPMlQ5YVpzWGZzWW8yTzd6VHhBSl9QMzN0UmF4OGR6ZW5waXhPQWpOZGttTTJ4U29UOF9uYjJBN3hfMEZzLXdHenc0dDAyV0ltWVhsMDIxT0dhbUlYTmtjNmZHT1JCYUEtc2hOWmRGemV4YVM0dUk0NkpDVktmRjBPTnZJUC1rUjVhNjgwajBXeXlDTDA0cFJMVGtvSDl6T2RHaFHSAdcBQVVfeXFMT0lRRDNMY0J5T01rZmJCS213Z0J3WEkzUVF2ZXRvcmpMU1BCNk4yN2tVZk0zSmh3U3pxVEV5ZW9tMTZXVDRfTzVGR180dVo1bzB3d3hvMEFKLTh3M3JlTFlKYUw2aDk2MndHa2NOMG5fMTJBcnZEWG8tVDMxOHUxR1NuV3Nrck5DY29mZF81cWtiUTBoNzVMYU45WTQwSVRKT0ZXTF9VQ3RocWRJR3FmYTVwZ2xEeG1FNnJFd09WMmxlaGp4czRSOExHWFRKSW5PLU9BVmlzV3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-17-005",
+    "date": "2026-07-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Avalon Trust Co Decreases Stake in First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOU202OHhFejFRbXRENEY1cUJIU1JJTUwzVTNWM25Yd0JIMnpTUWE2M2tUSDR6RHRIRndBWWJwU3B0cC1rckZnOTdJUkdqNEZBZTNhYVR5MVJJcWRDTTZJMnBwY3FmZTBseFExbkNOLS",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU202OHhFejFRbXRENEY1cUJIU1JJTUwzVTNWM25Yd0JIMnpTUWE2M2tUSDR6RHRIRndBWWJwU3B0cC1rckZnOTdJUkdqNEZBZTNhYVR5MVJJcWRDTTZJMnBwY3FmZTBseFExbkNOLS1HTE8zRWtZbVJpWHZ5YnpxcHppUk5WN0ZTQVZSWm5qX0ZEQ0JjandQdG4wVkU3MXE4SDhMN2FkdVczZnNKUE03dk9MWEc2cTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-07-16-001",
     "date": "2026-07-16",
     "companies": [
@@ -288,6 +387,219 @@
       {
         "name": "google_solar_glass",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1BUVGt2U2RCNnFPUzhpYjB0VkktMldEdDFPZ3hrYVJqbGs4WUdLS25DcjFFc0tsM1ZXaDh3SFU5Yi13SHR5TU82QXU3bW9uMWVSVVNteEFXZVpRSlFmUm1Ta3lTcDJRUEV6VW1reUYwOGFHem9oM1NUaExORkNvcUVKYUVrdWQ5SWhnNmstb3NCYVN6WEFKV3RHb1BXWnhTSVJOY19iMDdUUFFfUVE4RWZGZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-07-16-016",
+    "date": "2026-07-16",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass (OI) Draws Fresh Interest On Demand Hopes And Earnings Watch - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOU9ORnJjTXVTTENsdlVFU1lORTBhaXVvQ0kydUNENUJ1MHlHLXdySTh0NHhMcUFIRVJqMWFJS0tfY0UweHdiSDZzaGQ3Qm5rZVE4RXdYZG1TbDJkZEs0Y01Wa2ZXM3A2OFJiWFcyZX",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOU9ORnJjTXVTTENsdlVFU1lORTBhaXVvQ0kydUNENUJ1MHlHLXdySTh0NHhMcUFIRVJqMWFJS0tfY0UweHdiSDZzaGQ3Qm5rZVE4RXdYZG1TbDJkZEs0Y01Wa2ZXM3A2OFJiWFcyZXRmbFZqd0V3SkhPR21fZ1NhUzlvblJLSm12cW14TDZJWlR1MC1jdGpKNjZqakJGLTBBMEM4TWNvelRQaTRJbDNhSW5hYkJadEtkZDJVN2k4R29GZFXSAcgBQVVfeXFMTzVteXVFU2dkd1MtTFoycVNPdEVfSWhKajdibGhHeExGTGRwOV91eEN0UUhVaWVOdHl0emJNcS1Ma0c0aURBWXpaV0JyUkpZVlRyOTlOcTlkemh1VkRTRExvbFBQRnU0anIxb3YwVFgxUFZYWGpoUnFFbC1KUjZDR3pwSUtxZU1iUFNoanc5cjBwRE1xMW5PN0pBR0xYdmFEQ3ljN0ladDFidGJXQTI3OTNXWmtlRlJia3dLajNRU1FPcXFzLXRjVTY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-07-16-017",
+    "date": "2026-07-16",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Investors Buy High Volume of O-I Glass Call Options (NYSE:OI) - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPenlFOEhIUEU0b3VOeDhsY1JQb1g5N0NYWW90M0trNEFHUFBNajA0cmQwQlJUbjVVVllLeUhWVzZyTTZHclZOLTNwRW50d29zZ3lnWW1mUTVwSWxvZTZwTGw3QjRKdll2OEpHbHdnZm",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPenlFOEhIUEU0b3VOeDhsY1JQb1g5N0NYWW90M0trNEFHUFBNajA0cmQwQlJUbjVVVllLeUhWVzZyTTZHclZOLTNwRW50d29zZ3lnWW1mUTVwSWxvZTZwTGw3QjRKdll2OEpHbHdnZmc5d2RUVWZTR1RDemd1MjltV2R2djhNdHllTGhsMUpISWNkUU85aUYycUtvWVc0bnNPbk5zeWRxR0NNN0dVTTE2SF9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-07-16-018",
+    "date": "2026-07-16",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FY2026 EPS Estimates for O-I Glass Raised by Zacks Research - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEtEb0R5Q3plT3BLOFA0OFN2OVB3UWtGM1lOSkxwa3d2R0RGclpNU3pxTU5xUl9kNmxaUzZsWnNTNUtsWWpLYUlpMV9rOVNBNnp0WjNFdlBFdkNKNmZxZERwby11RnN0NnlWQ2ltWi",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEtEb0R5Q3plT3BLOFA0OFN2OVB3UWtGM1lOSkxwa3d2R0RGclpNU3pxTU5xUl9kNmxaUzZsWnNTNUtsWWpLYUlpMV9rOVNBNnp0WjNFdlBFdkNKNmZxZERwby11RnN0NnlWQ2ltWi02eE5LY1l1Y3oyQ2JuVVBIU25OTTJZN0NaRFZXMHA1M3k4aTZtcW5vN2RSVlhFWmduMjZHcjBDQ2xVd1FTSjVtNEwyOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-07-16-019",
+    "date": "2026-07-16",
+    "companies": [
+      "longi"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "LONGi breaks its own efficiency record with next-gen solar tech - China Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5vUGJuM3EtbThoTXdqdUFzRmxfT3VaUUJXc1N5bDlESnpuU1g0bXE5ZDNiQVVxbHlTbWNsbXgxbUVKSEFBU0J4My12V3JqYUJNRVdRanM2NW9LRzZXZXRHdl9iZTJvUG1oMVh4ZTBvZn",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vUGJuM3EtbThoTXdqdUFzRmxfT3VaUUJXc1N5bDlESnpuU1g0bXE5ZDNiQVVxbHlTbWNsbXgxbUVKSEFBU0J4My12V3JqYUJNRVdRanM2NW9LRzZXZXRHdl9iZTJvUG1oMVh4ZTBvZnZfRlBZaXF4SGVSbXlJQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-07-16-020",
+    "date": "2026-07-16",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LONGi Green Energy Projects Up to 3.8 Billion Yuan First-Half Loss as BC Tech and New National Standards Reshape Solar's Survival Game - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8ydkI1UGJVWHgwbWhRTlNGMjNTWlZBTjhkeHVDd0RQTFVMQkxlTEZ2Y3drQ3lsRWU2VU1KMGU2VWI1U2FzWG9lZ0F6SXBlWmNtNGljeG9jTTllUEdmVTdIZ0ZaLUVQblJEZHFwWXc2NG",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ydkI1UGJVWHgwbWhRTlNGMjNTWlZBTjhkeHVDd0RQTFVMQkxlTEZ2Y3drQ3lsRWU2VU1KMGU2VWI1U2FzWG9lZ0F6SXBlWmNtNGljeG9jTTllUEdmVTdIZ0ZaLUVQblJEZHFwWXc2NGhTZXdmbmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-16-021",
+    "date": "2026-07-16",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc (NASDAQ:FSLR): A Decent Value Stock with Strong Fundamentals and Attractive Valuation - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeXFGOFN4VXRwUFliNzhSRlZYQmNzUEY1cXRTS0w5dTBYZnBOdk9NYmY3d2RFU05tZnp3b2hyeHk1b3k1cWJMM2RZeWpURHhvOUxqRkF2TzJqVzlXT21OWG1yRE9QM1dLakNQZmZPcm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeXFGOFN4VXRwUFliNzhSRlZYQmNzUEY1cXRTS0w5dTBYZnBOdk9NYmY3d2RFU05tZnp3b2hyeHk1b3k1cWJMM2RZeWpURHhvOUxqRkF2TzJqVzlXT21OWG1yRE9QM1dLakNQZmZPcm1obVN6dV9FbWh4RlFWZDFGcGc5M0tLNFRyNFFsbjJydDJsRVk3Z1dtazVLZTJ1N21nRG5kaWlwMkF4QlFYVjRZdXRvX1EzNlZ1bWxURHhsODhMSVRfNWhaeDVrclVOMU4waGJ5UEJySlZfaTRqQUN0UndRSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-16-022",
+    "date": "2026-07-16",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SueWallSt Reminds First Solar, Inc. Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of August 24, 2026 - FSLR - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQbWdweFY1NHQxV2hsMnBZMTZwRF9OdHQ0dGFmMUpaMUFERzRSS3JsaXFGQUQ4TTROSTlZczcwMk5hbWdkR29NWWJkbm5ZM0ZreXI5T2lIZkFfUXAxb1hlZUFpRGZTMzI5eHVfT3k1bX",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbWdweFY1NHQxV2hsMnBZMTZwRF9OdHQ0dGFmMUpaMUFERzRSS3JsaXFGQUQ4TTROSTlZczcwMk5hbWdkR29NWWJkbm5ZM0ZreXI5T2lIZkFfUXAxb1hlZUFpRGZTMzI5eHVfT3k1bXYtME5hSFE0VERHMTlxY2VTQmEwNHI5T21YbjFZX2R2cDA5bktXV19ETVJMcEY2QnpiSUtBck9iLUJ2ZUpzV1hZWUNzWmJfVTk2V0o5MG50Zll1T080aGR1aWtxSGktRnBwSkZtLXl0X0p1cW1NZjlvNGc2RHpCc2otN01IQ0txQ2NjY3gwb0haajNZLUdrRU1ZV1pNVjdYZE5JX001bWRielF2elBFU2M2V24w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-16-023",
+    "date": "2026-07-16",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Slides as Traders Weigh Legal Overhang and Await Late-July Results - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ2J0TWkyZGhpbFA0WDRIeldDem9xQ1BLWWJuV1JKSHdjYm1qeHRhZTJCRnR4SjBwSG83YVdEYk9LVXVMRUZMVlA5NDE3NTFKVkZxNDNvSzJ4YlROY3NXa1gyelVNSHo1LW9yMWdTLX",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ2J0TWkyZGhpbFA0WDRIeldDem9xQ1BLWWJuV1JKSHdjYm1qeHRhZTJCRnR4SjBwSG83YVdEYk9LVXVMRUZMVlA5NDE3NTFKVkZxNDNvSzJ4YlROY3NXa1gyelVNSHo1LW9yMWdTLXVhRVBrSHZ4bHZBcm0wSC1tRk5SSm5pMTRuaW1uMlpyOWNhNlJ3OFlIV1BnT055SHFrTVFrdkltTXhWWUx0RTdjOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-16-024",
+    "date": "2026-07-16",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar, Inc. to Announce Second Quarter 2026 Financial Results on July 30, 2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzU0ZGdIZV9PTDYwZGFOZXJYLUFjWGhkR1I2b2JNQzFIdl9DbFNUMDNoUm5DSlZBMm05YVI2dm42Nk9tbXl0ZGFLM3RwVHhkNEktTUpSLXRPVkNLR0dpeFJOYlNWa0RXaXFrZVV4Uk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzU0ZGdIZV9PTDYwZGFOZXJYLUFjWGhkR1I2b2JNQzFIdl9DbFNUMDNoUm5DSlZBMm05YVI2dm42Nk9tbXl0ZGFLM3RwVHhkNEktTUpSLXRPVkNLR0dpeFJOYlNWa0RXaXFrZVV4UkhaQ1lnNHdaNngtM2hCOGxyazVJM090RktBem1JMG1qLVRpUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-025",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Construction costs dropped in June, will likely tick up again",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/J4wYn9KjDzTJx8oUdQncZNCDwMxW76hsFC0Wb0Pg_Sg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxNzgzMDQ3LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-ppi-inputs-june-2026/825461/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-026",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gilbane tops out training facility for New York Mets",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jV5GAjvJ4q-ouy09LPvly8V8Lh9vgpNM-KCOZ8apdvQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KdW5lMzBQaG90by0yMDQ4eDEzNjUuanBn.web",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/gilbane-tops-out-training-facility-new-york-mets/825354/",
         "type": "rss"
       }
     ]
@@ -642,6 +954,105 @@
     ],
     "impact": "neutral",
     "title": "Meta commits $50B to Louisiana data center and surrounding area",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KjpOBTphbPdXZsDIawOka6pH5ur4aycg-OwvEcyaaWU/g:nowe:0:37/c:959:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMV9DYXJvdXNlbC0wMl9",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/meta-commits-50b-louisiana-data-center-richland-parish/825329/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-15-019",
+    "date": "2026-07-15",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Press Release: Owens Corning to Announce Second-Quarter Financial Results on August 5 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNG5KY05kZXNJVy05bGhCeDJlcDloS2NWck1jblVSMndiQ1R1XzBFM1VEbUV4cmprSkFPUFRVWHRmWVNaTVEtOXFZdHk0WFQxUE1HSHdvLU1VTU52emxoZG9SNGU3MVhuTGhVd3J0c0",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNG5KY05kZXNJVy05bGhCeDJlcDloS2NWck1jblVSMndiQ1R1XzBFM1VEbUV4cmprSkFPUFRVWHRmWVNaTVEtOXFZdHk0WFQxUE1HSHdvLU1VTU52emxoZG9SNGU3MVhuTGhVd3J0c0hRa1BfXy12VnVDSjgzQjY4M1hGTUZsejN6VlAyNHpoWC1UcGplTDNkWTRPQ1F3dllmNHFmWUEzWDVKVHN2RFdrTU1FeVhWdXNRaHFrRU93cVJaZ2R5Y3ZfRDZfYWpJVi1sQ1YzLVVlbVBPRWIxb1BXWVBVUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-15-020",
+    "date": "2026-07-15",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 3 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNX2VUd1docHc0aGF4b2JNdlhMVWxTdzBXLVpzQ0lHMlEzOEZCeDFZTEJzT3Q1d2NuV3dEemwtcEJycmNaMGJWcHExWGNBY1d2LUhnN3ZkOUtlTzVVRUdjNElyNi04elRnWFB1T0g2dU",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNX2VUd1docHc0aGF4b2JNdlhMVWxTdzBXLVpzQ0lHMlEzOEZCeDFZTEJzT3Q1d2NuV3dEemwtcEJycmNaMGJWcHExWGNBY1d2LUhnN3ZkOUtlTzVVRUdjNElyNi04elRnWFB1T0g2dU1nV084WmxJMlI3N21LeFhrbFRCZ1I2dElpWXRGNW1CRDN2MmtSZlhxZG1DczNHSXRFWGRYSTc0WmdIMW55SU1CR3hTSnNvOVc4OHFEN1dWVTRDOGVndGh1N2JHUFZ6LWRYSVBGaFhBelNwN3RGVjNoclVyeEM1bFdKcUNLb2FvTGMtVl9ZUVAydUpBOXJ6T290Ry1zcmh4MlVwTTY5dV83alFYc3BPenRHWkdFOFdaOTlEZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-15-021",
+    "date": "2026-07-15",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 1 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxPNnROUlo1Ny01UE5XVzFUZUlDbFQ1SjQtREd5bEZkMjdMeXpjbEJjMDZnTFFoS0xISVBlXzY3bnladHFSY2lGZm9IUS10ZUFTQ2RfVHpjSmM2WVhBaDBHMlcxOXI3ZmJxLXZqbGNTaE",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNnROUlo1Ny01UE5XVzFUZUlDbFQ1SjQtREd5bEZkMjdMeXpjbEJjMDZnTFFoS0xISVBlXzY3bnladHFSY2lGZm9IUS10ZUFTQ2RfVHpjSmM2WVhBaDBHMlcxOXI3ZmJxLXZqbGNTaEpSMmVWckM1MFZJYkNvZE85S0JKaEhLSFhaaXZaR2hjVlhObkstblZoMS04WmJoZmJ0LWVGQ2dmUkdRVVlKTnRQWXRfUTg0MElNeENVMGhmUndwV0h5d3RYY2l3YlNOYy1ZLU01NjFNbFVIc3F1SkdTcmh2d1RLQkVnbnJURVBIOFdVV0JDal9qRzR3YXlubVYxS3hqd0lDaEdJc3ctRDIybXFrY25McS11OXlUZ1piemJIQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-07-15-022",
+    "date": "2026-07-15",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - Key Biscayne Portal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxPdTV6WEdxaWF6bG5qSHBDbGdTWWM4TDRlcUR1dmdvWVI4OXBhQzlxV2stcmN4NUVHZE14N0lQbk5DTDRvb2JTbjc0VThxN0l6SmN5eVJFTWFsUDczeXpSVkRabHJ6UmhOT1ljV2VpeF",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdTV6WEdxaWF6bG5qSHBDbGdTWWM4TDRlcUR1dmdvWVI4OXBhQzlxV2stcmN4NUVHZE14N0lQbk5DTDRvb2JTbjc0VThxN0l6SmN5eVJFTWFsUDczeXpSVkRabHJ6UmhOT1ljV2VpeFpFUlRjQUU2T3FhaGc1RTRFM1EzNHBBRk0yNWpJay14SGxKQXZyOEk5WF9YQ1dnOGJQYTh1T0lTTlVpTkM1WEl1RkNfQzFST0ppdFJfOUNRSkc5UXk1VEZRUGFSTERqU1JkUGp3Z1huU2xQNDl0XzB0dGtrS3B5T0pFN29aYjlfRFVXRnFzYkJfYjNLdWRPS2JrUjRCMDRjZ1hycnRtN3ZCY2FuaXVZR2d3TFp1dQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-023",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Meta commits $50B to Louisiana data center, surrounding region",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KjpOBTphbPdXZsDIawOka6pH5ur4aycg-OwvEcyaaWU/g:nowe:0:37/c:959:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMV9DYXJvdXNlbC0wMl9",
     "sources": [
       {
@@ -1152,6 +1563,46 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/new-york-data-center-moratorium-contractor-pushback/825222/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-07-14-027",
+    "date": "2026-07-14",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GGRC, Tata Chemicals Roll Out PINS Irrigation Network - SMEStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzRTbFpzbkdFdnl6a0I1T1ZabEtPSjNUZEZDTWQxNWNMNm5lOGxZOUhhNDJ6cWpjam1mZzlBYzhQTVFySHE1U0UxQ1oxYkMtSWlqeUs5N2hDVUlZc0JFMExyYVY0N3pEM01Sc3c4NG",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzRTbFpzbkdFdnl6a0I1T1ZabEtPSjNUZEZDTWQxNWNMNm5lOGxZOUhhNDJ6cWpjam1mZzlBYzhQTVFySHE1U0UxQ1oxYkMtSWlqeUs5N2hDVUlZc0JFMExyYVY0N3pEM01Sc3c4NGF6T2VjM2loem9lUm56bnFTVnFmSDZHcWl0c0k0dnVxcGVyQzRo0gGUAUFVX3lxTE9XNFNsWnNuR0V2eXprQjVPVlpsS09KM1RkRkNNZDE1Y0w2bmU4bFk5SGE0MnpxamNqbWZnOUFjOFBNUXJIcTVTRTFDWjFiQy1JaWp5Szk3aENVSVlzQkUwTHJhVjQ3ekQzTVJzdzg0YXpPZWMzaWh6b2VSbnpucVNWcWZINkdxaXRzSTR2dXFwZXJDNGg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-07-14-028",
+    "date": "2026-07-14",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Prince – Monitoring Xinyi Solar's price movement (Prince's Investment Notes) - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGQ5UUkzMzZqSUJ3VXJSS3plZm0wRmtSR2JYanpWZDhoS1lfSUJnUTNCc3Q2Ty1IcGFSekJ6TGJBNHA4XzZnNDhTNU5LNTBUVnNmbzhpdlc5YjBxR3l1ZkZNU2ZDanpMS202VGQ0RV",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGQ5UUkzMzZqSUJ3VXJSS3plZm0wRmtSR2JYanpWZDhoS1lfSUJnUTNCc3Q2Ty1IcGFSekJ6TGJBNHA4XzZnNDhTNU5LNTBUVnNmbzhpdlc5YjBxR3l1ZkZNU2ZDanpMS202VGQ0RVlvWnhtZy1HZ2V3Z21xWElhb2VDMGZEZUd5TV9weWlTdUxIUDNxYkVRVVdzOFVXOGVfWVJYdXVDTWlFaGJqaVd6Rnp2cWZ2VkF2amlsa05n?oc=5",
         "type": "rss"
       }
     ]

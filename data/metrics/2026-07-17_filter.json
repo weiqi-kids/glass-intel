@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 24,
+  "gate2_fail": 15,
+  "passed": 23,
+  "gate2_samples": [
+    "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+    "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+    "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 4 - ArchDaily",
+    "O-I Glass Is Maintained at Overweight by Wells Fargo - Moomoo",
+    "Truist Financial Cuts O-I Glass (NYSE:OI) Price Target to $13.00 - MarketBeat"
+  ]
+}
