@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 22,
+  "gate2_fail": 18,
+  "passed": 20,
+  "gate2_samples": [
+    "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+    "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+    "Xinyi Solar Expects HY Net Loss Up To RMB50 Million - TradingView",
+    "A-share photovoltaic leader LONGi Green Energy (601012.SH) is expected to report a widened interim l",
+    "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 9 - ArchDaily"
+  ]
+}

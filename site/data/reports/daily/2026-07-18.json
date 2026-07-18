@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:38:50.447579Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-07-18-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Fifth Third Bancorp Has $5.10 Million Holdings in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVndHWDdELU1GSlFJREdUZkotTWtQLW02WU9xWnNNT0wtZnloX2RMaW9RdUNhMHBsR2tLMzhhc29PblRFQkozbmpBcVIzaDNHYXR2aWJUWjl1SkZUMzdmZGx6Q29Cc0FCYTQzMVBPZEFzcHdmR01leTBVTXJJSVRwbHZyTHdCQlJxTjhFMmxETlFYaUg1SUlfVnN2YWZyYzc1cE81N2VDSjRfMm9hOTdyWXB5M1NrbHlid21xUU9RSkY1bUhjNEdQcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-07-18-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Inc $OC Stock Position Raised by Principal Financial Group Inc. - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYVVCdUJJcEtBUGFUTGJWYXdPV0ItaFZCeUItZkRPVGVLeHF3S2d2eVV6X2tXb2RFcEM4cUF3ZlJBdmI4aHViNTROa3JwN3J3X3Q4b3dyVGs1NjVfMUxNQjFWQnFzdzFmYnVGTWR0cGxsQlBSTTBJUG9UVTZ1SWJxM0Y2VExjRmRfQklVV3BtclpzMmpuSmFNR0dtTjc2eF9TYlBmbGdnd296MjFYQVV5NmNzY2w1X1hTVG5PQjVDMWZiaWFlMlAzU2laYUpoRnNkT1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-07-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages First Solar, - GlobeNewswire",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPNUZGc3NHRks0Y2VnTG5TNlVLNnlKVENuVEJmQ1VZN05aaVlnODB3aE14Ylhqa3ctR1V3cC1XRlV5b0dCMkhpWllqVkk2TWpkdlU3LTdUejBqMkprUnhkWmNpVGVNbWxRVW5NXzdLS2RPTEs2d0ZqYV9wRXVjSXZqSG9YOFJnY2FVdDY5dWlJSXBfSlV2VlBqVTZYMERCSWQtUFVFcVVfY2U2ZHRQZmtVa0dmZE1EZk5FcWpsYm54TllpcWVZSTZrSFcyb05FdVZ5TU02SmdOaGg0RVFSX2N3dzFfNThHSUVRNE1jUGk4alA4cGlPVlJqaXo3S0d0ZHViTndKd1BJUXR4SjlrQ3NzOXhZdEJUb29kVklwakc0enVvNU5Nc01nUVhfeG9acmw2WjZUV1o2UDZWaHg0S2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-07-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Powerchina Hands Over First Solar Power Plant In Colombia - megaproject.com",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSEg5a0phUlloU1dBRW9xdmVKa3JJTmRMRTFQWWVQOWdWLTdSSE5DRGRhb3BtNXhLVVI1eWFjcUdfMkF2M2xrMFlpbzVRdUNVMVgzenhVZUdYY05sTWY5TWd1NkwzcDJFMmcyTEU5QlU0TnBUbklaeXBmV3JIblg2WklBRWp5WEtTVzVtUjF3Q3A0ZDlSTFNPV3RuOWxnQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 205,
+    "too_old": 174,
+    "gate1_blocked": 22,
+    "gate2_blocked": 18,
+    "passed": 20,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+      "GGRC, Tata Chemicals kick off PINS project - Manufacturing Today India",
+      "Xinyi Solar Expects HY Net Loss Up To RMB50 Million - TradingView",
+      "A-share photovoltaic leader LONGi Green Energy (601012.SH) is expected to report a widened interim l",
+      "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 9 - ArchDaily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為康寧、Owens Corning、First Solar相關動態：「Fifth Third Bancorp Has $5.10 Million Holdings in Owens C...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Fifth Third Bancorp Has $5.10 Million Holdings in Owens Corning Inc $OC - Mar...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Owens Corning Inc $OC Stock Position Raised by Principal Financial Group Inc....（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
