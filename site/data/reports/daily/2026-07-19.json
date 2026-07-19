@@ -1,0 +1,169 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:56:37.552678Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-07-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades steadily as margin focus follows solid 2025 earnings - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEt6QWN5UEwwUHYtZTg5RndGdDFrY1Y3TnlZVVJTTG1YdjlrRTRYZ3NFdk82Q0ZfcGIwT3BPV0lXeHFjZUhKYkk1Tjc2dVRmMnk3V2lmT2Y2SVgxNnNOTTloMUhaWFppSGZab2ktVXVHNGRlNTZqZFJFWmVXVUg5MkVQSE8zeDc3bTZMNmlLR2dJSGxnaVdmWDQzWTZ3R2tkRV9tX3NsMzhaSWJKWWJzTEFfQTJBVkxsQ3hNVWpjN0NtNTVEZHBJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-07-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades steadily as earnings and margin resilience shape investor focus - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWNTMHlQbDh3dEpwaVk4SUZQRkhVMDYtcmw5NFZSWXVoSGM3NXVKakRmSHRkZFJxTi1qUnVXQksxTXpzcDlDdXJXZlBoS1kxUmMyNTRYS3poNTVrWGxiUUNodVdZczYtUW9MYTVpZEVRcEg0dzJtd2VyUURKV18xWWVQNmhNaFhBRkEyc24yOFJmbnc0UVNHZ3FWajRZeUhZTmRUZzB4VXZOM0laNkV5YlBWeE1FQWZJdXk0VUtLUnVTWFlXNmt3VzlIMUZqdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-07-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning stock trades steady as specialty materials demand supports revenue and margins - ad-hoc-news.de",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUERZanY0dnF4bS1QUk1kNF93NWtrY3huZFNfZ1pfMkpZRmdWMWFES3U1ZTQ0WFo3QlprNlNsdkJsV2ZsQ3ZmWlpaX1N5RVdMVTZVcTFaRUl0U3VzdTc4S05nS185ckFRNDU3TThVTk5hQ0ZwNUxhNWhydkNkX0tYT0JSdnNCaDJCUE1FSEU2ZVMwWmljb0pFdGRwV084emJOcnlTb0ZadTFPTUgyY0RMRzJqRmhJYXUyVjZpSFJONXBqTnVtOWRIZ0sxU3NZUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 214,
+    "too_old": 174,
+    "gate1_blocked": 20,
+    "gate2_blocked": 16,
+    "passed": 12,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+      "Xinyi Solar Expects HY Net Loss Up To RMB50 Million - TradingView",
+      "A-share photovoltaic leader LONGi Green Energy (601012.SH) is expected to report a widened interim l",
+      "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 20 - ArchDaily",
+      "O-I Glass Is Maintained at Overweight by Wells Fargo - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為聖戈班、康寧相關動態：「Saint-Gobain stock trades steadily as margin focus follow...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Saint-Gobain stock trades steadily as margin focus follows solid 2025 earning...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Saint-Gobain stock trades steadily as earnings and margin resilience shape in...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

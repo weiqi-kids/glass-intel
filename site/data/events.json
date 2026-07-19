@@ -1,5 +1,68 @@
 [
   {
+    "id": "saint_gobain-2026-07-19-001",
+    "date": "2026-07-19",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock trades steadily as margin focus follows solid 2025 earnings - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEt6QWN5UEwwUHYtZTg5RndGdDFrY1Y3TnlZVVJTTG1YdjlrRTRYZ3NFdk82Q0ZfcGIwT3BPV0lXeHFjZUhKYkk1Tjc2dVRmMnk3V2lmT2Y2SVgxNnNOTTloMUhaWFppSGZab2ktVX",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEt6QWN5UEwwUHYtZTg5RndGdDFrY1Y3TnlZVVJTTG1YdjlrRTRYZ3NFdk82Q0ZfcGIwT3BPV0lXeHFjZUhKYkk1Tjc2dVRmMnk3V2lmT2Y2SVgxNnNOTTloMUhaWFppSGZab2ktVXVHNGRlNTZqZFJFWmVXVUg5MkVQSE8zeDc3bTZMNmlLR2dJSGxnaVdmWDQzWTZ3R2tkRV9tX3NsMzhaSWJKWWJzTEFfQTJBVkxsQ3hNVWpjN0NtNTVEZHBJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-19-002",
+    "date": "2026-07-19",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock trades steadily as earnings and margin resilience shape investor focus - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWNTMHlQbDh3dEpwaVk4SUZQRkhVMDYtcmw5NFZSWXVoSGM3NXVKakRmSHRkZFJxTi1qUnVXQksxTXpzcDlDdXJXZlBoS1kxUmMyNTRYS3poNTVrWGxiUUNodVdZczYtUW9MYTVpZE",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWNTMHlQbDh3dEpwaVk4SUZQRkhVMDYtcmw5NFZSWXVoSGM3NXVKakRmSHRkZFJxTi1qUnVXQksxTXpzcDlDdXJXZlBoS1kxUmMyNTRYS3poNTVrWGxiUUNodVdZczYtUW9MYTVpZEVRcEg0dzJtd2VyUURKV18xWWVQNmhNaFhBRkEyc24yOFJmbnc0UVNHZ3FWajRZeUhZTmRUZzB4VXZOM0laNkV5YlBWeE1FQWZJdXk0VUtLUnVTWFlXNmt3VzlIMUZqdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-19-003",
+    "date": "2026-07-19",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Corning stock trades steady as specialty materials demand supports revenue and margins - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUERZanY0dnF4bS1QUk1kNF93NWtrY3huZFNfZ1pfMkpZRmdWMWFES3U1ZTQ0WFo3QlprNlNsdkJsV2ZsQ3ZmWlpaX1N5RVdMVTZVcTFaRUl0U3VzdTc4S05nS185ckFRNDU3TThVTk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUERZanY0dnF4bS1QUk1kNF93NWtrY3huZFNfZ1pfMkpZRmdWMWFES3U1ZTQ0WFo3QlprNlNsdkJsV2ZsQ3ZmWlpaX1N5RVdMVTZVcTFaRUl0U3VzdTc4S05nS185ckFRNDU3TThVTk5hQ0ZwNUxhNWhydkNkX0tYT0JSdnNCaDJCUE1FSEU2ZVMwWmljb0pFdGRwV084emJOcnlTb0ZadTFPTUgyY0RMRzJqRmhJYXUyVjZpSFJONXBqTnVtOWRIZ0sxU3NZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-07-18-001",
     "date": "2026-07-18",
     "companies": [
@@ -78,6 +141,87 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSEg5a0phUlloU1dBRW9xdmVKa3JJTmRMRTFQWWVQOWdWLTdSSE5DRGRhb3BtNXhLVVI1eWFjcUdfMkF2M2xrMFlpbzVRdUNVMVgzenhVZUdYY05sTWY5TWd1NkwzcDJFMmcyTEU5QlU0TnBUbklaeXBmV3JIblg2WklBRWp5WEtTVzVtUjF3Q3A0ZDlSTFNPV3RuOWxnQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solvay-2026-07-18-005",
+    "date": "2026-07-18",
+    "companies": [
+      "solvay"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solvay stock trades steadily as SpecialtyCo spin-off refocuses portfolio - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1BHeGZpWFVLanMxRVJvak1hOVJVR1pTT0h4akVHakdhZWxnMUpPcXY2bUZIQ3R1UG9wZ1NTdi1vU2FCNmNOVmFXWDdpZmJkSEV2RTRfQTdFcHRTeGQ3Umd4UjJTc25oQS15bnVqVz",
+    "sources": [
+      {
+        "name": "solvay",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1BHeGZpWFVLanMxRVJvak1hOVJVR1pTT0h4akVHakdhZWxnMUpPcXY2bUZIQ3R1UG9wZ1NTdi1vU2FCNmNOVmFXWDdpZmJkSEV2RTRfQTdFcHRTeGQ3Umd4UjJTc25oQS15bnVqVzBZdkhuWm5mODJrT1J1dFhCUk5pTE9pWWh1VTVsSmNNT05Tb1RETlM2b3VVUS1MZ2NkcW5kdWR1RkNmTUkyVlJ6ZjV1M21vbTNRdDlnQUpYN01sN1MyZW5QQV80bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-07-18-006",
+    "date": "2026-07-18",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in AGC Inc. Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UWTdnZk8yeGIwX3VhZkFONDZpUlF0c3c1WWlQUjh5elBlRmxKV2NsbVhFYVpqRG9Wdm8yRTVWczNTMWJmSk1yZmpxZ2swTEpVLVVXejBhaWhodzUyMVE?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UWTdnZk8yeGIwX3VhZkFONDZpUlF0c3c1WWlQUjh5elBlRmxKV2NsbVhFYVpqRG9Wdm8yRTVWczNTMWJmSk1yZmpxZ2swTEpVLVVXejBhaWhodzUyMVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-18-007",
+    "date": "2026-07-18",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lead Plaintiff Deadlines in Shareholder Class Action Lawsuits Against First Solar, Inc. (FSLR), Futu Holdings Limited (FUTU), and Hub Group, Inc. (HUBG) Announced by Holzer & Holzer, LLC - WBOC TV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOR0pwR05xUG5La0dpbUkzRlpweGxTSndxaEZTcm0yVnU3ckFJckdSMVk4X2xvRnZsTld6eEZnODdyUW5Ia2dOOG5qS2J3XzhzckNkREI0c1FfZDB2eUN5OGxUUGdianNydmtKRTRFVl",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR0pwR05xUG5La0dpbUkzRlpweGxTSndxaEZTcm0yVnU3ckFJckdSMVk4X2xvRnZsTld6eEZnODdyUW5Ia2dOOG5qS2J3XzhzckNkREI0c1FfZDB2eUN5OGxUUGdianNydmtKRTRFVlU3U2ZJWDFGeUkzUWFyWC04dF9Sc0RYekxTNU9HbE1VSm5MakQzV0tPWm5VaWxTUlR3VGhlNi04eXRXUXVTYTV1N2pxb1lUeW1nbWkzZjlLclF1MGxUU0MxU1pWNUFTQnNBVERPbFcxREpvQjNjcFVlMVJLSVFfVU5mUGhnalVjaGtOS0JiY2RObDg0MUFyTlVOek81U3QwUUNmRjVWMHZnU1V4dl9kc0JyY2FLamtLQ3pKQ2Y0T2pxM2plUnNOTFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-18-008",
+    "date": "2026-07-18",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Quadrant Private Wealth Management LLC Buys 6,625 Shares of First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHNZaWhtTVcxZHNMNFRXTllSNzFJUWljam82TERDYlFOcFhOMHpjdEQ3eEptZWpPMWFwSWdmRDdBMG9Gb0ZaSTk4NWJZcWlPU2VzRU94bzQ0NTVxbnNNMnZ0ZWJPZkhYd2NCVVlCdU",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHNZaWhtTVcxZHNMNFRXTllSNzFJUWljam82TERDYlFOcFhOMHpjdEQ3eEptZWpPMWFwSWdmRDdBMG9Gb0ZaSTk4NWJZcWlPU2VzRU94bzQ0NTVxbnNNMnZ0ZWJPZkhYd2NCVVlCdUhOZ3BLczFONkxVcEdiYlNUalREd0pLNjNjaEo5dHo0ZmcyUEFTdHhsZjNEQ3hkc0NrdEJkSGc4cldrR0tqVDJvN29VNy1uLUh2cm54cW9ZcFNISWFObkd3TEhTRXJzNWduM3hyY3E0NA?oc=5",
         "type": "rss"
       }
     ]
@@ -403,6 +547,87 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/google-inks-investment-offtake-deal-for-largest-us-solar-project-cypress-creek-arkansas/825527/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-07-17-018",
+    "date": "2026-07-17",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "glass_fiber_electronics",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar - Expects 1H2026 Net Profit to Fa - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1FhRWFUMkFJUTdwT2FPcWIyeHNWRzRra3ZHalVEb0x2WFlVN2NlZ1BLWlMyZWpiY3gzVEtPOEVNRG85SUFzdFpjREtFclBuMTRSakFaSS1KakY1OFlPdmNkb2hOaXVqMkhEeUxCUm",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1FhRWFUMkFJUTdwT2FPcWIyeHNWRzRra3ZHalVEb0x2WFlVN2NlZ1BLWlMyZWpiY3gzVEtPOEVNRG85SUFzdFpjREtFclBuMTRSakFaSS1KakY1OFlPdmNkb2hOaXVqMkhEeUxCUm5lLUFoZllseWxNS1MxVlQ2dGd5cm9GMUtIQVpCb1hVZnhHR2RNYWJ0WmdJX0J3Z1Bl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-17-019",
+    "date": "2026-07-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 6 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNcDRfX0I0a3NuZDZ5b1ppOGVvT3R4VGVtVUtvcnJ4WWE0OWZ5TjJnQ2tDSmw3SDVpa2gwdDB1NEwzaGZZbTRRZ3NFY2FSLWpieVg0T2liS3RubmxwR1RuQVVodmFXSXRBZlBoRUxwZU",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcDRfX0I0a3NuZDZ5b1ppOGVvT3R4VGVtVUtvcnJ4WWE0OWZ5TjJnQ2tDSmw3SDVpa2gwdDB1NEwzaGZZbTRRZ3NFY2FSLWpieVg0T2liS3RubmxwR1RuQVVodmFXSXRBZlBoRUxwZUFfWGJwRHB1ZnVTTFIxU0lLT2JqbXpRcDc2b081d3FsbE5JaTh6b1RRdnRpLTV5QzRFRWZqZ3FGcFlfXzVPdFJkNlNaakItWEtTck5ST2N0bE5qU0s5ZEZvYUI5QVVacUNpZklpaEZCblJZS0pqUDNDaDJVM0gyaGlWNkhPVVRHSEVhMDdWbWhzLUFTdXYxWkhxajVFVFlJbDdxWWpVUkFYQlpCZnVkOWJEb21YdXpvX1piZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-17-020",
+    "date": "2026-07-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 17 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxOQ3EyZXZyT2xIdlFaSU1zSmhwMnZmTUZfVTQ3eTRBaGkzVTFNOVBUdEg4d0FKRmdxeEpLX3QwZ19SZzNEZG1Sd2lXZ3FWbzVtOXotNWxsRktMZ09hNWUxUVFmZlEyMWxKaWM1WW5zMX",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOQ3EyZXZyT2xIdlFaSU1zSmhwMnZmTUZfVTQ3eTRBaGkzVTFNOVBUdEg4d0FKRmdxeEpLX3QwZ19SZzNEZG1Sd2lXZ3FWbzVtOXotNWxsRktMZ09hNWUxUVFmZlEyMWxKaWM1WW5zMXF5bkEyRWxJLW1JWlRySjJNUDEtUnRuNUtMaGlVdlhQRDZsMC0xVEV0dmppV1RDaG1XZV91ZVJWVTZKRWhkM3FzS0VreExTZ0Z4cWhFRGsxYW5Gc0liMEpJa2U0QlhvVDJvUjZ1VkxDcjB0N052bTg0dlRVaW5uZG1UTkh5TjdwNXF1WnI5VU0yQ0RIUVdxbFFhQ2s2TWw5Y3IwLTBoV0xuVGZzbkdyVVBpVkZFV1VLeDFGdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-17-021",
+    "date": "2026-07-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 10 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQOTQ1bzlDOGJtT0VCR3Y4Q3VseWo3UzV4a1ZhMUM3M0pBTlFOZk1faGJfTS1TRVk1aVROR1FNOWkyWDViYUl0X2k0YWV0SVZyX2wxQUZiZmI0Ny00dHJCcDE2RFp4YXRvbWY4c1luYS",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQOTQ1bzlDOGJtT0VCR3Y4Q3VseWo3UzV4a1ZhMUM3M0pBTlFOZk1faGJfTS1TRVk1aVROR1FNOWkyWDViYUl0X2k0YWV0SVZyX2wxQUZiZmI0Ny00dHJCcDE2RFp4YXRvbWY4c1luYS02WlE4Z2hIZkFybW92V1BmLW9uRzFkaG5fb1NQc0dfcndURV9Tb1VxbmFuaFVoelVMSmJ6TmZMQVNhZGJ3OU1UUklaTnVLSzd0cjVKWkhyS0FNWkpzVEozUXN4VVdrSHdrdEJIdDdIOHBqTFZlMWR2cEZfemN4dHZmbjZ3c3VsY3FTelMzclAtMDJNWWl4UGVxc0pXZEh3ZERCdEhOZVZWVHZIZFU2a2NoUXJpZmVyLXQ4QQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2375,6 +2600,28 @@
       {
         "name": "longi",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbjdIdHdWdHFFdWx5clFqdDhZUWhjMlRzVkRocmZPS2luYV9NS2FyZlJ2Mm1RR0N1RlBHMTNlTm1JcDdxMkxlN2V1bjIzZ2FiUFYwUExXUFBKaVpHRzlIdnAwMjgyOE9nT0s5eEhhZkNjQk1EdEZ3d3gtU2pyMHFmaXZGSS1MRDFubTRua2EtWmhfWHhfeS1JNDNRYkRuZEx4N1JMUHF6N3BTcXMxRGgxZ2ZWVU9pS3lFVENOWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-07-13-022",
+    "date": "2026-07-13",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Inc Stock 12‑Month Price Target Raised to $157.79, Implies 10% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdGloUnoyWHN1VUd4ZmMwMzYwRmQwU0Q0M3lDWFlBeWFyNlZSZXlyeC1CbjNpczVSMXNLVDQ4TllqYzRUZ0xuSm9TSE02SHBqRll1WWdWLVBqQ2RWZ1VEWkVZdFJMQUhiR3Y4NFJPRk",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdGloUnoyWHN1VUd4ZmMwMzYwRmQwU0Q0M3lDWFlBeWFyNlZSZXlyeC1CbjNpczVSMXNLVDQ4TllqYzRUZ0xuSm9TSE02SHBqRll1WWdWLVBqQ2RWZ1VEWkVZdFJMQUhiR3Y4NFJPRk9vRjJycFVLMEVZdmViaVBWaHcwcFM0c3k5MjFOQ2NKRlY1VnhlWWUxWU85WjkwNURQUzl6M2dVVWRsWXZCc1ljTm5XRmhodGZSSTVFanB6aHdRbEU5T0ZYbzhhS0V4c3ppVkE3ZjZNZWlyUQ?oc=5",
         "type": "rss"
       }
     ]

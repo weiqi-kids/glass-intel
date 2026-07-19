@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 20,
+  "gate2_fail": 16,
+  "passed": 12,
+  "gate2_samples": [
+    "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+    "Xinyi Solar Expects HY Net Loss Up To RMB50 Million - TradingView",
+    "A-share photovoltaic leader LONGi Green Energy (601012.SH) is expected to report a widened interim l",
+    "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 20 - ArchDaily",
+    "O-I Glass Is Maintained at Overweight by Wells Fargo - Moomoo"
+  ]
+}
