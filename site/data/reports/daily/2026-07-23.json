@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:28:22.625902Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-07-23-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "First Solar (FSLR) Could Be 17% Undervalued On US Expansion And Backlog Strength - simplywall.st",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHNjcVUxMWNvT2NBSWRHOE1sTVNiQUJGU3JvdG9SQjdwNG1OdEw1Wi1weXl0NGZtWXZuODlYbEJpRmg2Rzc0OVBVUDRnWk1pT3dhOWdQZnk0LWF0cERSbGg4VTVrSEoxRzI5OFN3Q05FVUhQQzduV1ZBOEFEZDFFbE1jTXBlalFLbmdTX1J2UTJVbDk2Y0JTTFcxSnMta2FOcFBQeFNEZnlnU0ZIaENRS1dNcGQtdGZicmpjY04zZHBLWjdOUE44VXdLdmZFdTRtWkHSAdcBQVVfeXFMTU5GZWhwalo4TWZPZjFjdFdQRUxmb21Bd08xbHoxcEFKeThZOC13UE1kRmNfdEY4Y2xtMk1kUndVejJwR3ZtdUxwM1pfem9CdEU3NDFFMUlfa3ozSTFIUlN5V2lLbGhSQWkwQkQ3cGU3NHdDRF85R0Y5WTlLdFhjSThzdWpXVDh1ZWdiZkFOQUd5R0tPNjE4bi1hYzM1Q0w5czhEU09rRDA3dzRRajhKM1EyNTJJc2RTcHRTQjlZMU5RVnRTbDBDNmZfd1JKSUdwMTZOcnRKa2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-07-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain, CEPT Partner for Sustainable Buildings - Machine Maker",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWpyOVlmUk5wR2wzdHg4cW5ldkJZSWxnSDlJWlBGUF95UFpROG4ycnp0Vk5Wb29LYUUxOGtPZllWRjJXTlRoWEVpdmVCSmZYdnQ1b3FUeHZZQl9TUjVERDBuR0NENS1GWkNkTGtDcTdvdWlBVmhubF8xWmhveFllS095VG8xdzZZS1BOaU9n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-07-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass, Inc. $OI Shares Sold by Levin Capital Strategies L.P. - MarketBeat",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREhHYXlkOE8wUnB3aENZRjk5QzkzZjZLWWw3Y2FDa25neVFzbHZfWnJYRzZNNHRWQ0ZmbnM0Zm9qbnlLVS0tZ1RNM2FrMGlacTkybFNGRlotS0NfeTByTHJVbGRmdFlUMHYzdk9tcmplSUxOWHB6Z0YxOUFGRUQxVktSN0NvbjNGMXQ1NFF6TEtsaUpsWEVpb3pCVHJUcG5qUUNGTV8yV05wRGlJalBZSV9zRy1MN1ZJeWxFTw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-07-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KBC Group NV Lowers Holdings in First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjR6bjByMlNLOF9OZ2tzMnJYTFBnYVhoSHZhYWlOX0dUbkNsdWk3RlRfaEtNMWlPNDJtQWtIWW0xSzRJWVhmRkZybFU2SDJSWGRORVY1U053eU9IckJaSkVyaEtGalNrSVlHMmpzQ3VMaVFjREdkRVdPT1JEb1puSEQyQV9KNE9jQ0VmR2QxSDZNNXp4dUtSUy1yN1hFVEREUHpGN3ZHcDNJNnBWblNyTlo2dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-07-23-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. $FSLR Shares Sold by California Public Employees Retirement System - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glass_fiber_electronics",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbzBmNE9RUXlEbXpTazRIS2RZYlp2eHhDb3hWVWlzMXFOdm9qZVZVcUZJVVBQMmZrMnVRT1V0aTg0NC1uSWNCUENfSGowT0pMdWpxWGJQZnoyb1lHZF9RY1pCb2RCWmQ5Q2cyRDBLeDJMamZidVctSDcyZlhITXNWTFBBcUFEYlJkOEhLYm1qb2FrSEY2d1FnQnlyUjJRWTNqZ2VPZzMwV1NlQXlLVUtzeUszODdfWGJsZmNBaDk0QUZJRjhURGhlMVJ3S09ySW5UbFBaSDdrQnFIZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 5
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 204,
+    "too_old": 173,
+    "gate1_blocked": 26,
+    "gate2_blocked": 12,
+    "passed": 23,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+      "First Trust Advisors LP Buys 403,803 Shares of Owens Corning Inc $OC - MarketBeat",
+      "KBC Group NV Sells 97,211 Shares of Owens Corning Inc $OC - MarketBeat",
+      "Xinyi Solar Expects HY Net Loss Up To RMB50 Million - TradingView",
+      "Xinyi Solar: Decrease in Solar Panel Installiations Hurt on Resutls >0968.HK - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為First Solar、Owens Corning、康寧相關動態：「First Solar (FSLR) Could Be 17% Undervalued On US Expansi...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "First Solar (FSLR) Could Be 17% Undervalued On US Expansion And Backlog Stren...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Saint-Gobain, CEPT Partner for Sustainable Buildings - Machine Maker（建築活動、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

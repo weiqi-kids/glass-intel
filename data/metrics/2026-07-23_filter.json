@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 26,
+  "gate2_fail": 12,
+  "passed": 23,
+  "gate2_samples": [
+    "Gujarats okhamandal farmers to benefit from advanced irrigation initiative led by ggrc and tata chem",
+    "First Trust Advisors LP Buys 403,803 Shares of Owens Corning Inc $OC - MarketBeat",
+    "KBC Group NV Sells 97,211 Shares of Owens Corning Inc $OC - MarketBeat",
+    "Xinyi Solar Expects HY Net Loss Up To RMB50 Million - TradingView",
+    "Xinyi Solar: Decrease in Solar Panel Installiations Hurt on Resutls >0968.HK - Moomoo"
+  ]
+}
