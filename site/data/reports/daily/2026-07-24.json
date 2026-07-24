@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:24:25.546538Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-07-24-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Stock Looks Fairly Valued At Current Levels - Yahoo Finance",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVhOSzdQZFpkUzF6cmo0cjdFWVZZZVRWZXhhN0pKODNTRlVON2w1YlZidDBDMVJVZmEtTnRLaVJVUWtRekhidFg3QWtNWGJ4bl9Kd3h5UW1Fb3VVU1BmZVNWWC1DWkdGX3ZCYnR4UXNPRGJVeG5qSFdRUWJROWhfR2xQd1NDaHFTWEdqN3BqSUpPV2Q3WHR3Uw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-24-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "US Solar Power Just Hit a Record High as AI Data Centers Push Electricity Demand to New Highs - 24/7 Wall St.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWllUQ1hkRUdaVUpiT1lRVExmc3MxQkNyLUgtTk1OUWk2VWhZQTduaWZZR1hsZnVyZ2F1YWRYdVoxOHNxZ2dvMmxlWXBQU2xDQnJzLTc2OUJ2TkVWQ01FZEhvRkJtb0xHZUtzRFRsOV9SLWlVY0c0Umg1RkRDMHdfSXFreXlMTzdzRk1nWU9FdWdET2R4ZVVKaW40Y3Z1MmVRQjRuWGc4clBVWk12cmEweV92dEk3Z1VkRmRFVDYxSFcyMUE5Z2pkNjlmYjhRQkFhRTRz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "solvay-2026-07-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Solvay stock holds steady as portfolio transition and earnings metrics shape investor view - Ad-hoc-news.de",
+      "companies": [
+        "solvay"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX21vekZHa1B3TEdPeldpNUdQMEZHekNkbW1lZXBHOUd6NnZJbU0tYTlGNVdpZ2NTc3RpcFNRNGZWbXNMQ1BLYTJMV25ZTWVOXy13bVVXajk0SzdWWDdpa3hISGFqN0ZHYWZCZkVGMTdiT09ZdExpN3dmVnYxc0JiT2p0T3dTS0wycm1DYXAtSFc4UmRCQk80MXhldjBnSGhSVm1hMHBWdlE4ZG1MTWRxbVk1eWFwNGZnQnpGb3BRNWFoSlBzQXd6OQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-07-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain, CEPT University tie up to establish sustainable construction research centre - ET Manufacturing",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPWDZQSmkwYzd2VFQ0ME5fdmtZSkV3dkM0emt4WUtmYV9sMHhnZGhxSmJHS1NHNkhZcHhVYVdpVVB6UHJDMWZRc0hvZ0tkLU1ESFdoR1d1U2twdnhuc3I3TG5kSEYxLUk4LVIzLW55Zy1GNzE1UmNIMDBCR2hHYlpBRUxlenVJZnZ4R2NVMjQ5RTZlOG8wQ3pKNzl5SjVGekFqcVBTLWVodFQybW95Vk5jZ1pwd0VhZ0FzSUtTSmh4Z0ZuN3hTMWx6dk1FOEJJaWNWaE9uUjRkM2lLSjYybFgxZTBGZkFxWGprWGtzZVltelZGRUVCN2I1OGdTTDhhWnl6RDB0TmIxVjlPODFtM1BsMDkzaC1BbWx4a2g2V1p4NzhsNkV4M2Z3Ujc5bHNqOVpS0gH8AUFVX3lxTE5RLXFKd2tkNEtwVWpBWGd0SUg5QnV1NE9KN29pR00tRzBVeWhZM1VuaFExckpKZU02d3RZeTFzUnpaZFZ5T3h5Yk5BVm1sdC03V2tVZXF0MUhXekVqMG1BVUc4OUliTEhhUVlQOHRaNGM4a3dQSFI0MlhMV0p1Z3FvYTlIMjEwSVlFRnRPb2JUYzJiQ0N0ZXFOd2k3S1dlakJlWlQ5TmpiN0lqLWVZNHR2WGJFQWZmSEhheGxQZXl2cUkzR1UxZzkza25iQl81TDg0ZVBHOTItMHFkdFBoR1JQaERBWkhQWTNBcklsRG5ZdzNJaUZZVUwzU0xCLQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-07-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades steady as pricing and cost controls support margins - Ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDBHclU2RmVLQTV4NjlidHQtdkJ3RFItTlZvRGcwTU1SR0pyZFQ4ajZ6ZmhQNW9ZRVB2RVZDTU9OQ3JtdWVKV0ZvdWRkZTlIYjRDQ3J4anNzMFpuOGZGTzR2M1hYdHVyRXZTS0Q4ZFpCWEVlV0tUT3RJOXFNWm5wTm9CcjRsOVJsbWNYVHFHbl9rWXVGWVFjbFN2aC15OGx0WktJTThmMjF4N2V2alI2RXhNUmlmVlFsM1lyWXluVlVlaU9rTHhF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "solvay",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "construction_activity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 200,
+    "too_old": 166,
+    "gate1_blocked": 23,
+    "gate2_blocked": 18,
+    "passed": 28,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "First Trust Advisors LP Buys 403,803 Shares of Owens Corning Inc $OC - MarketBeat",
+      "KBC Group NV Sells 97,211 Shares of Owens Corning Inc $OC - MarketBeat",
+      "Xinyi Solar Expects HY Net Loss Up To RMB50 Million - TradingView",
+      "Xinyi Solar: Decrease in Solar Panel Installiations Hurt on Resutls >0968.HK - Moomoo",
+      "O-I Glass, Inc. (NYSE:OI) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為聖戈班、Solvay、康寧相關動態：「Owens Corning (OC) Stock Looks Fairly Valued At Current L...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning (OC) Stock Looks Fairly Valued At Current Levels - Yahoo Finance（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "US Solar Power Just Hit a Record High as AI Data Centers Push Electricity Dem...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

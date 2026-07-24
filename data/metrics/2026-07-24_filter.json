@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 23,
+  "gate2_fail": 18,
+  "passed": 28,
+  "gate2_samples": [
+    "First Trust Advisors LP Buys 403,803 Shares of Owens Corning Inc $OC - MarketBeat",
+    "KBC Group NV Sells 97,211 Shares of Owens Corning Inc $OC - MarketBeat",
+    "Xinyi Solar Expects HY Net Loss Up To RMB50 Million - TradingView",
+    "Xinyi Solar: Decrease in Solar Panel Installiations Hurt on Resutls >0968.HK - Moomoo",
+    "O-I Glass, Inc. (NYSE:OI) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat"
+  ]
+}
