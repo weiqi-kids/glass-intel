@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 25,
+  "gate2_fail": 16,
+  "passed": 42,
+  "gate2_samples": [
+    "First Trust Advisors LP Buys 403,803 Shares of Owens Corning Inc $OC - MarketBeat",
+    "KBC Group NV Sells 97,211 Shares of Owens Corning Inc $OC - MarketBeat",
+    "ETF investissant dans des actions Xinyi Glass Holdings Limited - TradingView",
+    "Unifor members at Saint-Gobain on strike - unifor.org",
+    "O-I Glass, Inc. (NYSE:OI) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat"
+  ]
+}

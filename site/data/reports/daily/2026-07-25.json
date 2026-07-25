@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:54:15.585290Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oi_glass-2026-07-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Volatile OI Options and Softer Estimates Altering The Investment Case For O-I Glass (OI)? - simplywall.st",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWpKem1iYk1TY2NsbHJaQ0ZqZFh2ODRhcDM3ZzMxNkNRMTlVMWJvZml2S0puak13YVBpZVBRcEotNHk2TFdZdjIxdk1RT3JVcGtQRUxsY1NIUDhtblUwWHViUzhZY3RoNVlhdEd0QjFJUnI5WnJMN1R3OG9sWDFrMGxnTDk0bVBHczdDNGdIbFhGc1U2dkxBMGs2Z3Y1Z2ZCbFd2MFhvZzR2OG1BcktDbmZLMTk1eXZGeWNLcVJ4X3BJVHPSAcgBQVVfeXFMTXZpN0JiU2QtTldQQ3BfZ08ydXhnMEo2NEs1VTl6bTNQSUtiMHVLVXhwalFITm5WZkh5TWFDNGlmMUJ2NV9iYUtMUmhJRXNQeElIZnd0dTYzWEJuN2tGTnV3LWw2Z2lsMk5iM1J6SFh5cGxqTVZTaGxKM3JOdzdJMmNtb2JON3o1dW9OdlNnQWFtOFliX3dEWDFtT2hIa2FuT2hOaFk0R0hrNnBSdGRVeEtKamFjZWRlSm5LdHpjSzZkdElISDd2cVo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-07-25-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ABN Amro Investment Solutions Has $1.94 Million Stock Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUl9wQS1tNmxfVV8tMFVUUkw4LUVKdWR6OGRGbGVGOU5aRlpDVVpRNU8zejZxajVjWVM3RFNYWjBDX0J4NUtfd05MUmJQaWZzZHVDOEpCaHRmYUx2dmtYWHdCcTNpc1pqTkxxeXI5bmlGSTdNLVgtUHBsaGluNlFpbXhfOWExYWZHUkdDcUhJbm5qNnBuNXdSWlM1YmRHbFdackJiVUFxbWVOdGNVdnVFa3Y5dmM3cnItME9KUkYxeHcxNFcxdktfTW54NjlBS0RDRmo3SW54UFpFbUFKZkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-07-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saint-Gobain, CEPT University Partner to Advance Sustainable Building Solutions in India - TheCSRUniverse",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0w0eTVSZjhXdmV4Y3RMOXhLeThZTUMzUmRKaVFFSEh1T0MzMUxUVWt3bTBpTTVLS1BCWjh0SG40TlFKQzQxOWVvTXF4M3lpVFZnUk8wRjE1UkZRYUJMbFZTUWhHQ0VGSGh5cUViR1dHbmR1T2NGS05Zc1diUHdFUjNnMkxwWGxxQlRMV28xdDNIUjN0U2NFZUU5NWYtMnYyMlBJZTFKWnE4dS1yRHJLVG5naVJjYU1wbklvYndvLUw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-07-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Tariff and Operations Litigation Altering The Investment Case For First Solar (FSLR)? - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGFKWnZ6dHF1V295bHNxMUVrQ0steUFNZERrV1hPM3lVbHRYM3JfakhHd004b0sxM3EwTkR3RDdaTmRuTldYX1RoNEJCZkozNW84UGJxQ040QTdhbHJBOFNvbTBrTTExMENnSUhsVXBaU3hieFN1dUtEMnhJV0xNbkdNWUVlX2xBSUd1QXBnbkpsU2xIdHdTTmlzMzVFdTcyMmg0cEt5MXFrQWpYQlJrcXNIbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-07-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar (FSLR) Lawsuits Put Valuation Back In Focus Following Tariff Questions - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVl9qZll6MnZSclRxRDNLNnFST25HMEJVZ1pjRE5RSWthdFRhZVFiNGNyUHdXQ05nSnFLNHhMRXgzZFR6MktnZXhtVVhscjBPdHJzSlcySzB2ZmNCNE5sMTN0eHhYdXgxZ2R3WktVb1ZUUzZmdGNiUm01Rnp4UXZSNFNUTnFGQnhuUm1GT3JuMW5nNUNqbGpxYTRB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 195,
+    "too_old": 157,
+    "gate1_blocked": 25,
+    "gate2_blocked": 16,
+    "passed": 42,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "First Trust Advisors LP Buys 403,803 Shares of Owens Corning Inc $OC - MarketBeat",
+      "KBC Group NV Sells 97,211 Shares of Owens Corning Inc $OC - MarketBeat",
+      "ETF investissant dans des actions Xinyi Glass Holdings Limited - TradingView",
+      "Unifor members at Saint-Gobain on strike - unifor.org",
+      "O-I Glass, Inc. (NYSE:OI) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為First Solar、Owens Corning、康寧相關動態：「Is Volatile OI Options and Softer Estimates Altering The ...」。主要關注主題為庫存、建築活動、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Volatile OI Options and Softer Estimates Altering The Investment Case For ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "ABN Amro Investment Solutions Has $1.94 Million Stock Position in Owens Corni...（庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

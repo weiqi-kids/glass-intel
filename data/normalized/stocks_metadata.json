@@ -2,7 +2,8 @@
   "tata_chemicals": {
     "earliest": "2000-01-03",
     "latest": "2026-07-24",
-    "count": 6626
+    "count": 6626,
+    "history_complete": true
   },
   "solvay": {
     "earliest": "2001-06-18",
@@ -12,24 +13,27 @@
   },
   "owens_corning": {
     "earliest": "2006-11-01",
-    "latest": "2026-07-23",
-    "count": 4960,
+    "latest": "2026-07-24",
+    "count": 4961,
     "history_complete": true
   },
   "taiwan_glass": {
     "earliest": "2000-01-04",
     "latest": "2026-07-24",
-    "count": 6603
+    "count": 6603,
+    "history_complete": true
   },
   "agc": {
     "earliest": "2000-01-04",
     "latest": "2026-07-24",
-    "count": 6627
+    "count": 6627,
+    "history_complete": true
   },
   "nsg": {
     "earliest": "2000-01-04",
     "latest": "2026-07-24",
-    "count": 6627
+    "count": 6627,
+    "history_complete": true
   },
   "xinyi_glass": {
     "earliest": "2005-02-03",
@@ -52,17 +56,20 @@
   "saint_gobain": {
     "earliest": "2000-01-03",
     "latest": "2026-07-24",
-    "count": 6824
+    "count": 6824,
+    "history_complete": true
   },
   "corning": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678
+    "latest": "2026-07-24",
+    "count": 6679,
+    "history_complete": true
   },
   "oi_glass": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678
+    "latest": "2026-07-24",
+    "count": 6679,
+    "history_complete": true
   },
   "flat_glass": {
     "earliest": "2015-11-26",
@@ -78,8 +85,8 @@
   },
   "first_solar": {
     "earliest": "2006-11-17",
-    "latest": "2026-07-23",
-    "count": 4948,
+    "latest": "2026-07-24",
+    "count": 4949,
     "history_complete": true
   },
   "au_optronics": {
@@ -96,14 +103,14 @@
   },
   "etf_mxi": {
     "earliest": "2006-09-22",
-    "latest": "2026-07-23",
-    "count": 4988,
+    "latest": "2026-07-24",
+    "count": 4989,
     "history_complete": true
   },
   "etf_tan": {
     "earliest": "2008-04-15",
-    "latest": "2026-07-23",
-    "count": 4597,
+    "latest": "2026-07-24",
+    "count": 4598,
     "history_complete": true
   }
 }
