@@ -1,5 +1,107 @@
 [
   {
+    "id": "fuyao-2026-07-26-001",
+    "date": "2026-07-26",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A-H Premium Weekly (Jul 24th): China Longyuan, CNOOC, Fuyao Glass, ZTE, Nci - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGNrOVRkbWZMc3cxRnQ3M0x2Vnd2ZGtEcjFyNmpWS0I3V2tMS3liQ1RMX2VRTTZDSmNOUXBYYWNTY3k5N0VXZVBaNmxLc0dRcHhVN1Y5NG1IQVVQQk5iVGVURVJ0aUdaNHRtNm9vTE",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGNrOVRkbWZMc3cxRnQ3M0x2Vnd2ZGtEcjFyNmpWS0I3V2tMS3liQ1RMX2VRTTZDSmNOUXBYYWNTY3k5N0VXZVBaNmxLc0dRcHhVN1Y5NG1IQVVQQk5iVGVURVJ0aUdaNHRtNm9vTEwxNnd1QkdmX0d3aUxHTVdHMFRuZVJhOHhUbHdYbHVVVlpXbzBYTThXU29jVWZmbDFkUm56OW9MRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-26-002",
+    "date": "2026-07-26",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock finds support as margin focus follows solid 2024 results - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNa21fR29vUVZ2R1JBWXJ2MHVDVFRIdlItVFNlRGpnN2JOVDlzS3g2WE1ibmhaX2tLM0c0ZnVmMjdkUGotNXg1eFQ3ZWxWMTUtRFE5ZkluNWd6cFVsYkdLbDNzTWlMdDY5SHEtQ2VmYl",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa21fR29vUVZ2R1JBWXJ2MHVDVFRIdlItVFNlRGpnN2JOVDlzS3g2WE1ibmhaX2tLM0c0ZnVmMjdkUGotNXg1eFQ3ZWxWMTUtRFE5ZkluNWd6cFVsYkdLbDNzTWlMdDY5SHEtQ2VmYlJSSE9vd3ZsQXJsTVVFNkJocVFMcjM4NWlWT2NlTkIzdFhDdWZ3RERhLUwxLW1yVjJ2V2tNN2xON0k2dWZwSWlHR25iT0dlN2FIbnF4SEV5b0Zlc0Vw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-07-26-003",
+    "date": "2026-07-26",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cooper Creek Partners Management LLC Raises Holdings in O-I Glass, Inc. $OI - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWJHQ1RFRnJnTlR0UGU5aEgyU1B2clBfZUJYUnZpWC1PN3hjVHlBc1FpdW1xeDBJVnhpNHBiMS0xNkcyMGdOMzQwQlJBM1hBTEJpQmVNVTBsTVpJVzZJTkphci1hc2xZTnVkSHFYNG",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWJHQ1RFRnJnTlR0UGU5aEgyU1B2clBfZUJYUnZpWC1PN3hjVHlBc1FpdW1xeDBJVnhpNHBiMS0xNkcyMGdOMzQwQlJBM1hBTEJpQmVNVTBsTVpJVzZJTkphci1hc2xZTnVkSHFYNG1yMlJzQjlZTGFtcVhzOFRsaHNjY1N1TFRLTVNCZjBRYTZXcFRWblJTZ2tUWTU1QkpuaDlHbXlLbUhFd1lzak85UzVyVzRsQXJxVFJIY1pqcGVBYmNuZld6amhhQjZmdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-26-004",
+    "date": "2026-07-26",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "First Solar Stock Faces New Pressure From China BRI Green Energy Spending - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQi0zLUxxWTV6bEp5RDVSd1pWYkFKZndCSXJzZDRaVE0xWlk1ekc5bWZ6QU1QN1JQMVotMEpjUVJieDNnV2NCMlB3Y2JvV0VwN0ZBQmRZem1KOTFNejZTTlNFRUpDRVlpSGFRVHNWT3",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQi0zLUxxWTV6bEp5RDVSd1pWYkFKZndCSXJzZDRaVE0xWlk1ekc5bWZ6QU1QN1JQMVotMEpjUVJieDNnV2NCMlB3Y2JvV0VwN0ZBQmRZem1KOTFNejZTTlNFRUpDRVlpSGFRVHNWT3ZHQXdWZHdmcnZYazRMNGlNVU1YckpzeW9FMnljeWNTcHN4VG1KZDNWeHlHX0t1bzd2WElWeTZ3a2RCRVR5MDhqVmQxRlVOT0I0WWw5aHZVc1YzcXYxV09DU3FJLXBwdkY2anfSAdcBQVVfeXFMT1hVeGhKd0llQWtZTW1OWDN6Yy1iRV9VV3VwRlVwRzFSOXc4V1F3ZUxndnE5VzE0U2lmczByOWtKd29PaXU1M1ZncFBwbkFJWkw4VU1tRzNFN2dEOVM3RE1JVXRmaGhfamJFVHJxQ3piVXU5MnF6MlFlZGppbzVLY3hnUkJVZ2E5QzFmc3BFa3RHZHdOUlVzYnJhWjBSdDJhVFFQVXVfeTMwTmVTVzVXejRWMWg4QTBYQVgtd2FlX1M1MVAyWUNzOTJGdWdITGE2eXNwSFJTTkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-07-26-005",
+    "date": "2026-07-26",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Trust Advisors LP Acquires 69,518 Shares of First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOcE80aGZubEc1UzM4M285SjhJSEJ3bDVMQ0sxVUpkeWlueDM5c1NVMGw4b2dxdjAzX1NjWXY1eV9WUmFGb2pCMnRkaVJxVWZZQWJBRjBxRFcxNXFheW9hUkRaXzA3b1p3eG9oRDVQQ3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcE80aGZubEc1UzM4M285SjhJSEJ3bDVMQ0sxVUpkeWlueDM5c1NVMGw4b2dxdjAzX1NjWXY1eV9WUmFGb2pCMnRkaVJxVWZZQWJBRjBxRFcxNXFheW9hUkRaXzA3b1p3eG9oRDVQQ3MwdmhQSUZWTGVZc3FjRHlqU0FNNjE0WHBKaVhFRjJXLUs2aHdVOWV2NGhFM1BnTkFrbWNWc1A3RHd0aDJTanN2QUs3YzVRYlUwRVZnZWlnOUY5YkMyNXNYR0J3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "owens_corning-2026-07-25-001",
     "date": "2026-07-25",
     "companies": [
@@ -92,6 +194,46 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVl9qZll6MnZSclRxRDNLNnFST25HMEJVZ1pjRE5RSWthdFRhZVFiNGNyUHdXQ05nSnFLNHhMRXgzZFR6MktnZXhtVVhscjBPdHJzSlcySzB2ZmNCNE5sMTN0eHhYdXgxZ2R3WktVb1ZUUzZmdGNiUm01Rnp4UXZSNFNUTnFGQnhuUm1GT3JuMW5nNUNqbGpxYTRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-07-25-006",
+    "date": "2026-07-25",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AGC Inc. Revenue Breakdown – TSE:5201 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5mQ2pPc1UyNTZuZFBYQkkwbDZHVU0wVFNUZmJ6SXJzV3ZGaEx4Y25jdXlhdXNtRzdxT2ZwYWJ2cXloN3dKLTJZYXRlMFZpbDNaY1lsR1psUEVSWE4tSWVUWTZneWFLcHUydVdadGJfRl",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mQ2pPc1UyNTZuZFBYQkkwbDZHVU0wVFNUZmJ6SXJzV3ZGaEx4Y25jdXlhdXNtRzdxT2ZwYWJ2cXloN3dKLTJZYXRlMFZpbDNaY1lsR1psUEVSWE4tSWVUWTZneWFLcHUydVdadGJfRlg2VW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "flat_glass-2026-07-25-007",
+    "date": "2026-07-25",
+    "companies": [
+      "flat_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Flat Glass Group Co., Ltd. Class H Revenue Breakdown – HAN:72T - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5jVm9FdEpsaUJkaTRJaFYwaDdLVEpPUVcxdE9kVG1yT3ZwM0cwTzJmb3pnemZtSmgwZDlqamJvaERYcUVLMVdqeVVpN3UwZEpvNjV3dnR6S0hHek94cDVlVy0zVGtzdEt1RjRyd0Z1bH",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jVm9FdEpsaUJkaTRJaFYwaDdLVEpPUVcxdE9kVG1yT3ZwM0cwTzJmb3pnemZtSmgwZDlqamJvaERYcUVLMVdqeVVpN3UwZEpvNjV3dnR6S0hHek94cDVlVy0zVGtzdEt1RjRyd0Z1bHRCdw?oc=5",
         "type": "rss"
       }
     ]
@@ -888,6 +1030,129 @@
     ]
   },
   {
+    "id": "agc-2026-07-24-041",
+    "date": "2026-07-24",
+    "companies": [
+      "agc",
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AGC agrees to sell AGC Polymer Material stake to Saint-Gobain K.K - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FalBTTWVXbC1OSVZBdVpOZ3FMczZQMzV3Q3lYUjV5YktNTEdFamNpQ3VHdUNLeWdMV3o0YTVPNGRGUTBFb1h3OThIOW1mUVpGZkRNTTU2enVEUUdPWXdQTHl4MNIBY0FVX3lxTE5Fal",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FalBTTWVXbC1OSVZBdVpOZ3FMczZQMzV3Q3lYUjV5YktNTEdFamNpQ3VHdUNLeWdMV3o0YTVPNGRGUTBFb1h3OThIOW1mUVpGZkRNTTU2enVEUUdPWXdQTHl4MNIBY0FVX3lxTE5FalBTTWVXbC1OSVZBdVpOZ3FMczZQMzV3Q3lYUjV5YktNTEdFamNpQ3VHdUNLeWdMV3o0YTVPNGRGUTBFb1h3OThIOW1mUVpGZkRNTTU2enVEUUdPWXdQTHl4MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-07-24-042",
+    "date": "2026-07-24",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "glass_price",
+      "solar_glass_demand",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "HK Stock Market Alert | Xinyi Solar (0968.HK) Drops Over 4% Again Amid Falling Photovoltaic Glass Prices; H1 Net Profit Expected to Plummet or Turn into Loss - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNY045RXpBR3lRZDd1Tkw3Yk9zUmxEdnMzMUpNLUNaSTRuay0xMkdlbnR2em5KT0F0RE5MVXkzbHRNQkZWNF80c0NxRGxwaVV5YlZoeTQwYUZDc21vVjY5c3QxSU91bFFZMDl0dVhraV",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY045RXpBR3lRZDd1Tkw3Yk9zUmxEdnMzMUpNLUNaSTRuay0xMkdlbnR2em5KT0F0RE5MVXkzbHRNQkZWNF80c0NxRGxwaVV5YlZoeTQwYUZDc21vVjY5c3QxSU91bFFZMDl0dVhraVdoTEJOLVFSLTBwSnRzdnhGM1dVRXp4VnVUbk5rTnRpUi1tZXdmWGlsUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-07-24-043",
+    "date": "2026-07-24",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Morning Briefing: 🗞️Congressman demands answers from Fuyao - Dayton Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2s3T1NnSUpfY2h3ZWNsR1RoVkxQYkhSSjNMVW42ZS1WWmpicVFRSURHMmRzVmZ6Q2Y1MG5GNnREb0JnN3AzcGh6RVQyVHRLaW1IbldMejVFeWxSVDE4Qi1adUFlcXlHLURKdUhkcF",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2s3T1NnSUpfY2h3ZWNsR1RoVkxQYkhSSjNMVW42ZS1WWmpicVFRSURHMmRzVmZ6Q2Y1MG5GNnREb0JnN3AzcGh6RVQyVHRLaW1IbldMejVFeWxSVDE4Qi1adUFlcXlHLURKdUhkcFkwTE5MMXdZc1lXcU9uVGpSREthZmJrdk9OdGxCSkdMZWNpeTJ3MkVOUkZZTXdEb0hnN05JUHQtbHBINmU1Um84Z2REckYwS1cyVzM5M3hub3NXdk03LUMzUDNwdnltUVdjTUFKU3I4bmRiamM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-24-044",
+    "date": "2026-07-24",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain Sekurit India Ltd. Revenue Breakdown – BSE:SEKURITIND - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4taWdVUXZfbXU3Yk1iQ1BoNHJHM2Vvc0ptVWFDS2I1ZExkZlVTajNBaWIyMTdqX1FreU9iaENTTEJmR0N4R3BwZDRXNVB5SUd1S29hMl82ZTR4OGk0VjR0SVJUQUZpOWZHVFctWUdaMH",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4taWdVUXZfbXU3Yk1iQ1BoNHJHM2Vvc0ptVWFDS2I1ZExkZlVTajNBaWIyMTdqX1FreU9iaENTTEJmR0N4R3BwZDRXNVB5SUd1S29hMl82ZTR4OGk0VjR0SVJUQUZpOWZHVFctWUdaMHNuTHVaNmRMbGJHcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-24-045",
+    "date": "2026-07-24",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Project for Sesc Parque Dom Pedro II wins in three categories of the Saint-Gobain AsBEA Architecture Award - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwNBVV95cUxOTEJEbjVxQnFQOWctSHlCanVBaG0zOG1PNF9ra3o5UDNac3llRnJ4c2xrSm9FZDJOVk9zWUZ2Ukl3cW9oQWpSbC1IVktJdUUxOG5adE1fOTJGUUtRdmNfSGMxS29nZmFmS0c5czNpLW",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOTEJEbjVxQnFQOWctSHlCanVBaG0zOG1PNF9ra3o5UDNac3llRnJ4c2xrSm9FZDJOVk9zWUZ2Ukl3cW9oQWpSbC1IVktJdUUxOG5adE1fOTJGUUtRdmNfSGMxS29nZmFmS0c5czNpLWdDS28yckRjaTY5cWVkTUl6eDZyak1IbTJRYXhFLVF6R05RXzFZQ2p5ZGNpaGkybnYwZ21uU3ljR2d2OFUwZTR5Yk5VUXByYXNuNmgxWllrenBPN09BYV9jODFwajNUMUs3X0Q0bElBZno4WVpVWTFYMXBlNUpOQ29PZnpYYXh1ckVfY1NKbHdVNkl4WVQzTE1rNzBrYms1WE00STdHZU83N2pzdFB1bEtBMzhHb1JZdWs4N3ZqZ3ZYa3BPZXl5R0NPREVROEM0RlVXWGwtNkU3VlZsYlFUMm9YNlJ4TjBRTkN3OU9PcENFd08takdqaVFXNGFkUU9aZjl1eWd5aVc5Tjd2SVZKRVpNM3FGUS1GVC14ekFLSGxwMU1pWWxWVUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-046",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Are Options Traders Betting on a Big Move in OI Glass Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUtjWERqSHRxSFJBTktlN3pkeVhsbDE0a3BjbmN3dVh4NjUtdGVOWlNOdElkVVk4U09fOGVqd00wWDd4U2Q5ZHg1VjhEdVQ2VC02M1RYTHRmYzE2T3FKeDNZRmxiRllXMXFWNXBzSz",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUtjWERqSHRxSFJBTktlN3pkeVhsbDE0a3BjbmN3dVh4NjUtdGVOWlNOdElkVVk4U09fOGVqd00wWDd4U2Q5ZHg1VjhEdVQ2VC02M1RYTHRmYzE2T3FKeDNZRmxiRllXMXFWNXBzSzBrbEFXTnhOaGZfN09mWTd6QlhTUnNMU0lQZTk2QXZrWWI4eldEVUxZdVZ6czZFTG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "owens_corning-2026-07-23-001",
     "date": "2026-07-23",
     "companies": [
@@ -1448,6 +1713,27 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXVPckVLdE55bzFSVEpmM2xmWFR4aXV5LTBQZVlpaURyUldpemJDdHA5WDU0dlR0elBLdXd5OXQ0Wl9xVjNRZFlKUU81M3U0aEdiaDQxVWUwSVVUcFBGQTdBT3p1djV4RXRxbzQ1V1A3Mi1vZEZSekg2SnZFOVhKMGU1dnZoRXJGOVNVZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-07-23-030",
+    "date": "2026-07-23",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "AGC Inc. (5201.T) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yck1IWnBhWWQwRmtvcWZXVlpoMHUxQzZhb1JOV241VTlNR1FKWUM1V2dET21kUXZ1clIwWlpQTUQ4VGk2RGZWV3hjWmFIMTZzUlVweQ?oc=5\" target=\"_blank\">AGC Inc. (520",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yck1IWnBhWWQwRmtvcWZXVlpoMHUxQzZhb1JOV241VTlNR1FKWUM1V2dET21kUXZ1clIwWlpQTUQ4VGk2RGZWV3hjWmFIMTZzUlVweQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2447,6 +2733,24 @@
     ]
   },
   {
+    "id": "unknown-2026-07-21-035",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Dutch students unveil 'world-first' solar-powered ambulance - France 24",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1piaUNrM19FTGNrVHZZQzU3a1BvODVnbGhfWXBCTm5MVjFsSmZybkRucU9mcnFlSGdLdDVSVG5YODVJYm5CcjY2bU1hejNaTXZjaUJVZEFlV195N0p3ZzhuQnlBenZnb0RaZ0ZELT",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1piaUNrM19FTGNrVHZZQzU3a1BvODVnbGhfWXBCTm5MVjFsSmZybkRucU9mcnFlSGdLdDVSVG5YODVJYm5CcjY2bU1hejNaTXZjaUJVZEFlV195N0p3ZzhuQnlBenZnb0RaZ0ZELTZMelliR3AxVWhQdTRCeVZkLWFGOHRINjROdTFNZHpOdjh1WWhnakRnVk5IcEpsVGYyRzYwY1Vxcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-07-20-001",
     "date": "2026-07-20",
     "companies": [
@@ -3183,6 +3487,26 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUERZanY0dnF4bS1QUk1kNF93NWtrY3huZFNfZ1pfMkpZRmdWMWFES3U1ZTQ0WFo3QlprNlNsdkJsV2ZsQ3ZmWlpaX1N5RVdMVTZVcTFaRUl0U3VzdTc4S05nS185ckFRNDU3TThVTk5hQ0ZwNUxhNWhydkNkX0tYT0JSdnNCaDJCUE1FSEU2ZVMwWmljb0pFdGRwV084emJOcnlTb0ZadTFPTUgyY0RMRzJqRmhJYXUyVjZpSFJONXBqTnVtOWRIZ0sxU3NZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-07-19-008",
+    "date": "2026-07-19",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar: Decrease in Solar Panel Installiations Hurt on Resutls >0968.HK - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmE1SkxERnh3ejdJMEVpY2RMTmYtS0RZc0pJTEY3UUhIMnJUeEphb3FKM3FiSnZZQjBmUVdoQzNqNHJqQ0MwdXQ2a2JWRTQ1Q2JfMDd4R1pBdGNLRFJuQ2J0YUhMZVdHTjN3UVhFM0",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmE1SkxERnh3ejdJMEVpY2RMTmYtS0RZc0pJTEY3UUhIMnJUeEphb3FKM3FiSnZZQjBmUVdoQzNqNHJqQ0MwdXQ2a2JWRTQ1Q2JfMDd4R1pBdGNLRFJuQ2J0YUhMZVdHTjN3UVhFM0xwMTUwWnl4MzdvUHpHaEt0M0lMU3ZHNDhEWGNtSFQ0d0F5VVNjQTlDTjlZaEE5WUZHUWxoY2k4SlZDRmVo?oc=5",
         "type": "rss"
       }
     ]
