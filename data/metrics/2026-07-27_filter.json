@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 28,
+  "gate2_fail": 11,
+  "passed": 16,
+  "gate2_samples": [
+    "Owens Corning Inc $OC Shares Sold by SummitTX Capital L.P. - MarketBeat",
+    "AGC Completes Third-Party Verification Under UL 2809 for Fluorine Raw Materials Used in AFLAS™ FFKM ",
+    "ETF investissant dans des actions Xinyi Glass Holdings Limited - TradingView",
+    "Unifor members at Saint-Gobain on strike - unifor.org",
+    "O-I Glass, Inc. (NYSE:OI) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat"
+  ]
+}

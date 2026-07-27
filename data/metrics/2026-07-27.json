@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-27",
+  "total_events": 8,
+  "by_company": {
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
