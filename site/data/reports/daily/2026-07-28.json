@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:40:45.184219Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-07-28-012",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "AGC to transfer majority-owned Polymer Building Materials subsidiary to Saint-Gobain - Indian Chemical News",
+      "companies": [
+        "saint_gobain",
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOWJnSlNxN2lPZklvSkoxYWVtZllNSjlfeHVPdTA0Sk5xaHplMFdjc3ZDMURUX2hiTklCcTM3bFF6TllmT09sQVZIY25tRmdwX19nMVh5c28xS2xHd050cVUtS3FjMHpsek0zSnBNaFlVOTNjemVLdVJ1VDlhNkJFUkFJRWxCRjlqVnNQRUMyU1pPY1hSR1N5ZUdORF9rM2UtUUpQN3I4d0xZRmNuVEw1UURMS1BRaEt4MGxibkd5QU5MVnRMNTZSS2tCejFPbHVfYWZveERIRdIB3gFBVV95cUxNT1ZXdmcxbzk2QWVWaW9SNmpNZ2MycHRLSHVXdXlCcW5XZ2hmQ1FYMmhNZFltMmc0WE9JM1lEZzE5a0lXc0pIYjZkanhTbzdNeGhBa1FhNmNJVTZKNDR0ZjNhVWNBc0ZPUnVocEJnajhSMW5tb0JSZjFSQ0xJeUtJeWdqLXdnMExiN3FWN1hiNnRDX0RUS1EzZVdvLVJ5MU9pWkI0OFE0aU9lR0pzQkFJWjRScmN1bUZ0U1Jyd0VQY2xtaEx4RW1UUU0wT1BzNDZod1VDaE1UX21xM3dscWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-07-28-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tata Chemicals Q1 Results 2027: Revenue Grows 14% YoY; PAT Declines 81% - Sahi",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OdXNqb2Q1M3hsdUJoMzF4bHNNNmpoVWI2X0xIVW10cmtiZUtJWjRhRndzbHBLTG84UXFHbVY5YXgtRUxDcFFqYm00MXlnbWhDczNhTGpJSEFFdklTQjdydUctTTZMVFc2?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-07-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Neutral Tata Chemicals; target of Rs 700: Motilal Oswal - TradingView",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXVza0FVa241N21VVDhGN1NBN29QeVlhQ1UtaDNnMEZfZ2picmUtdG9iNTV3elB0MmRHVGY4VUZFLUh2c2x3Z1ViSHV5cVpQR1hzejZuUU5PbUg4RTlDWkRxVFR0RHM0ZVlDQWRaT3g0c1RqbTNFNExEUGVnMGpWc3ozUWI5Mzg2MTdZZmI4a0NsTFR2UWsyU0hpU0YxcTk3VVIyNHpzdFp4WEFQWV93bDctOEJHbjQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tata_chemicals-2026-07-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Buzzing Stocks: Coal India, Godfrey Phillips, BEL, Tata Chemicals fall 3-5% after Q1 earnings- Moneycontrol.com - LinkedIn",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbG9ZdlBqNEFiZ0V0MkJCOGZ4blotR21yME9YZEM5blhQaFlyMTdWYl9fanhLa0lXUDRaSG5oa1JjUE02RTQyQnBZUEpWTEhGLTEwaU9KLU5UZUdvb3pKNzNiQTdGcFRqbUhrQXozbDJIbXFaQXJqdjFyc3ZvZHJIdGkxNGh0T0pLVUJwZ01CWHo5Si0tcjA3Yk5zVW9qWFdqRWYxdzk5aEJic3RNcTlya0IyT0x1ZU5sUEU2dA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-07-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals Expects Sodium-Ion Battery Pilot Completion In Six To Nine Months - Sahi",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2d4WXM2WnF0eHBnRHY5Tl9oVFg1bmdNZ3FYaFNPZHUzQnVraVozX244U0xFcFplRTRpMjVxY19IX2RFWE5OVlZlSjdTSVp3X1dLV29KVU1fNzdPWnJxZ0hJamFHRjFBbnQ1V29EOUdGdWpQOUsxMjdfaFNQaHNHMG9HbUdEOVFueFRjSnlQVXY5d1FEcEVwQzZjbHlxaWhmdTB2czM1M0NDWl9MN25Rb3JTOUk5NXFqbzh3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 11
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "agc",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 193,
+    "too_old": 169,
+    "gate1_blocked": 30,
+    "gate2_blocked": 12,
+    "passed": 34,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Neutral Tata Chemicals; target of Rs 700: Motilal Oswal - Moneycontrol.com",
+      "Randall County commissioners to consider tax abatement amendment for Owens Corning - NewsChannel 10",
+      "AGC Completes Third-Party Verification Under UL 2809 for Fluorine Raw Materials Used in AFLAS™ FFKM ",
+      "ETF investissant dans des actions Xinyi Glass Holdings Limited - TradingView",
+      "Unifor members at Saint-Gobain on strike - unifor.org"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為塔塔化工、聖戈班、First Solar相關動態：「AGC to transfer majority-owned Polymer Building Materials...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AGC to transfer majority-owned Polymer Building Materials subsidiary to Saint...（建築活動、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Tata Chemicals Q1 Results 2027: Revenue Grows 14% YoY; PAT Declines 81% - Sahi（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-28",
+  "total_events": 17,
+  "by_company": {
+    "tata_chemicals": {
+      "count": 11,
+      "sentiment_avg": -0.14
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "agc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": -0.12
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

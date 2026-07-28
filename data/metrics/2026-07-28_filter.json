@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 30,
+  "gate2_fail": 12,
+  "passed": 34,
+  "gate2_samples": [
+    "Neutral Tata Chemicals; target of Rs 700: Motilal Oswal - Moneycontrol.com",
+    "Randall County commissioners to consider tax abatement amendment for Owens Corning - NewsChannel 10",
+    "AGC Completes Third-Party Verification Under UL 2809 for Fluorine Raw Materials Used in AFLAS™ FFKM ",
+    "ETF investissant dans des actions Xinyi Glass Holdings Limited - TradingView",
+    "Unifor members at Saint-Gobain on strike - unifor.org"
+  ]
+}

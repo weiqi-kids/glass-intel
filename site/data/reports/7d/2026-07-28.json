@@ -1,0 +1,191 @@
+{
+  "date": "2026-07-28",
+  "date_range": {
+    "start": "2026-07-22",
+    "end": "2026-07-28"
+  },
+  "generated_at": "2026-07-28T10:40:45.320558Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "corning-2026-07-23-012",
+      "date": "2026-07-23",
+      "title": "Owens Corning (OC) Could Be 4% Undervalued Following Its Recent Share Price Strength - simplywall.st",
+      "importance_score": 0.95
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "agc",
+      "company_b": "saint_gobain",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 47,
+      "last_week": 36,
+      "week_over_week_change": "+31%",
+      "sentiment_this_week": -0.01
+    },
+    "inventory": {
+      "this_week": 12,
+      "last_week": 13,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": -0.04
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "construction_activity": {
+      "this_week": 7,
+      "last_week": 3,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "solar_glass_demand": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "saint_gobain": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "first_solar": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "innolux": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "owens_corning": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "corning": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 8
+    },
+    "oi_glass": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "solvay": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "tata_chemicals": {
+      "event_count": 11,
+      "sentiment_avg": -0.14,
+      "rank": 3
+    },
+    "agc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 155,
+        "last": 160,
+        "change_pct": -3.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-22",
+      "event_count": 17,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 30,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 50,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 12,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 20,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 17,
+      "sentiment_avg": -0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-22 ~ 2026-07-28）共 155 則事件，重點為「Owens Corning (OC) Could Be 4% Undervalued Foll...」。信義光能情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "信義光能",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
