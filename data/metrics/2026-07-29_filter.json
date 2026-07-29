@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 28,
+  "gate2_fail": 12,
+  "passed": 51,
+  "gate2_samples": [
+    "CS Joho suspends operations for Tata Chemicals Magadi Mining over non-compliance - Citizen Digital",
+    "Govt suspends Tata Chemicals Magadi mining operations over compliance breaches - Capitalfm.co.ke",
+    "AGC Completes Third-Party Verification Under UL 2809 for Fluorine Raw Materials Used in AFLAS™ FFKM ",
+    "Unifor members at Saint-Gobain on strike - unifor.org",
+    "Is O-I Glass Inc (OI) Facing Challenges Despite 31.5% Undervalue - GuruFocus"
+  ]
+}

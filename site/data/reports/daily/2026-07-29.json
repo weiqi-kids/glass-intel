@@ -1,0 +1,223 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:44:22.914547Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-07-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals Kenya Unit Receives Notice to Halt Mining Operations - Sahi",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHhWWEhnTDNKc29nS0JTODRUWFJXX19mZDhFVUwxdUZxYmI3TEY1bEJSY0R6QjFrVGVuT0JUTEQzdnlqQ2RJQ202RkJKWUJhSjRfSlZVd1hfa015TDhJSG1ULVpSRldKLWRoZmdxNjJ0N1dfYUtCVmszTjVoM0xrZUE2cGg2djdQbkVWNlk1OHp2VHYwaUFNN08xaWc2TEZydU5mbmpDWUYwZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-07-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Government suspends Tata Chemicals operations for non-compliance - KBC Digital",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFg2dlpGdk54TkVvRDVIQkpTSjFjaTNCMmo4S1R1SXFzOWNURlptZjVFXzNMc3NBOW8zQ21hOU5ZS3gxZWpWNS1zR3NMc3NSWVFYTnUzdk5DenhBakd6RnJwYkRWcXBEUkczUFpGVjBqSW9IRElXN2JTWVphVzEtbWpfbWZmd2NLSHQyY2RPaVc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-07-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass: Q2 Earnings Snapshot - theheraldreview.com",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWhlWU1GS1NjclZwbHQ1aTZibmExd0lMWTNrTWFjTVdsT045Zzhzajk2VFp3OUUzazVLSnAxeFhsN0pTSjZDWXpYMFNnMWNRY3VBN1Z5elRzN2ZVQVBHWm03T1NpZnZISU1xQ3ZMYmpadFc4MEJTbk1hZzk2VVQ1MHpsZWxmVU9hRlJOUk1pT0xuOG50ejdj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "oi_glass-2026-07-29-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-i Glass, Inc reports results for the quarter ended June 30 - Earnings Summary - TradingView",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcTN5LTJQcFVCWEFPUmQyOFB1TXZSR2h3X2JzWTFRX3lZUFZiNlBLZ3dlLVVOdjhITE1MeVNzZm50cndJb1Zoc3pnUXVBb2hPdUV4X1psYzFsTFhuMi1yZmxHc09GTE4zZmh4el9wQWJxSVV1VlhvaHZ3a09oTGJBYjFOeFhjYXhzMHA1bnRxdWEtZ0hfMjduOVZxOVNEQ2FvYXMyNHJ3NHhqVkoxUXM5cFFQVUxFWENmR0IyTWlfTFlaNkZaT2l4Q3ZyWEJpdjg1MjJXRU1SUUczd0hmdnVR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-07-29-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar Earnings: What To Look For From FSLR - StockStory",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3FXYmtacjdoY0RKelBlOElTQl9MajZONzFmZUxEWTh1bU9zU2FVZFR3S1lrOVJLeEpIMkpTQjFhVnFEd3R3bm5uYlVTaW5qd2JReGRtUWlVVkFNOGtoc3V3WmFpVTNOTkpaQS1YNGx0TGRFUjhOQ0dxUGhYd2tjdXVsRWY5TnZxRDNQbFl4d0FpOWdOWTI4UWQxYkI1clJwbGhWNnV0YmlZVEYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 4
+      },
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 185,
+    "too_old": 162,
+    "gate1_blocked": 28,
+    "gate2_blocked": 12,
+    "passed": 51,
+    "pass_rate": "20.2%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "CS Joho suspends operations for Tata Chemicals Magadi Mining over non-compliance - Citizen Digital",
+      "Govt suspends Tata Chemicals Magadi mining operations over compliance breaches - Capitalfm.co.ke",
+      "AGC Completes Third-Party Verification Under UL 2809 for Fluorine Raw Materials Used in AFLAS™ FFKM ",
+      "Unifor members at Saint-Gobain on strike - unifor.org",
+      "Is O-I Glass Inc (OI) Facing Challenges Despite 31.5% Undervalue - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為塔塔化工、O-I Glass、First Solar相關動態：「Tata Chemicals Kenya Unit Receives Notice to Halt Mining ...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tata Chemicals Kenya Unit Receives Notice to Halt Mining Operations - Sahi（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Government suspends Tata Chemicals operations for non-compliance - KBC Digital（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
