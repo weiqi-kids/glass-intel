@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:30:05.999371Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-07-30-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Did Owens Corning's (OC) New CFO and COO Roles Just Redefine Its Execution Playbook? - simplywall.st",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVFIcmtkeEt6NFcyYzdta0tZMnFYSGJudzVLekJ4d0pZcXR4Y2MyZnh3YVM0Wk1qMTJxcXZRV29xc2ZPbUR3OVVWdExaWGRuaWZUQ3hJbGk3U2pRbVhNb1owdXNOZldsam42N2FkckZ1RU41UC1zNGtzZkVZWWhGZmktLXJQanpmMEhLbzB1Y3BiTTBtWGxmQzhnNW1YSVo2cVdJa05yamlDYXJLWWNBR2JLNzh1UmlveHNJaXVNOXNFd2NGUG0zM21Db0ExUdIB0wFBVV95cUxNOTFXcmpUZUpwRTVERk5zM1BtWEhxZ0t2aHhUZ0JCZjM5SjhxN2wtMjNIMjFveFp2LUdQaDN2QnZJMHdVTkw5QTRaMWRTM2J5LXZTMXBCZ1JjZ3N5dWJPaUEzUVNRXzRnQTBydk9EWGt1UFRabWVENkZhSjdCX0ZXR2lxaXltVkt3MDV1THVWSlFLUm83YTFCWTJIeEkwbXFaZ0d0cnR1bDlNUFpXM1NCVklEQ0xURzJwUUtaWEc1d1RqVFVWS0VEQ1hWOXMxLVBtLVFF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-07-30-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "OMERS ADMINISTRATION Corp Has $1.41 Million Stock Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNDVzbDVYQ2xQcUpMaWlpb2xTUEFDYjUtZVdLN3dGQThSZ1drRk0wbWZsTnBzSGROaVpNazY5ZlkyWTRqNDY0dWlhVUhITnV3c1V0T05yTUluSFdPRC1zT2FzSEFXeHNqcUhuNGE1VUhnX3E1WWVta19yODNaWktpYW13cWVJa3ZxcU15UUFsRTU3dEtob211Z3oydTVJZks2dlg3QzhGUllVQVRTalQzSWVJUU12ZHppUWJKYmswa3REaWwteEJhLXRVYXZyTnhiWkdBVzhXdnI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "owens_corning-2026-07-30-007",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Sei Investments Co. Acquires 121,902 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnhPREFNLWlxY2o3ZFcxeEtCNzA2aVJ1dnUzWDFUaUpQMDFLemhHZWhYS1hia3FmNU92YThLbGlkMmlqRzBxWkNMeEgzbUp5RkNXVy0wSTVxbUhmc0RmTlNQUmF4eU92NWJDb1EyUFFxdzV6dUpKMVVndHJ3NzdwMVVZTG5KWlZCM0pod0tTR0FHWXZLZ2IwYnBXZnU5dDdQVTl4bkFSQUllUEFBck5vRXkzRTNUSFBKVFl5WmdCQ2ZiZnhF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "owens_corning-2026-07-30-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Bank of Nova Scotia Acquires New Holdings in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTDFYX3ZxOGRMWVlZSUZmVU5mOFEtbXFGeWVwdmVOYzh0a1VTWFRrS09jVHdERmtyOHhRVm1UbU9xMUhZUXBWd0ZPZDAxMkN4LXQwTVZGUG1hSmYtaTRlV190dHBNT2hoUHNzLXFjMERBQUNIXzMzaW5POTJIMGx5SE1mYnVWRW5GazNud1pyaEs5YmRrbHVTLU9hc0Y3VlNyNVN2ODFWQXBzWDlXbWliX3N1YmVJQ2gyTl9kb1F3dE51X21W?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-07-30-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain Sekurit Q1 Standalone Net Profit Declines to 93.4M Rupees vs 107M YoY - Sahi",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmVuSFYyODR1ejZoSHBCWmZmNTZpS2tDeXo0QVlNVWU3QjlUWmlrX05HeEl1Q3llMmUwUDlKODJSbVFsV09FeVFTZWYxcHJSRFB1UFdjLXVUUHVFdjZjUWpTRGxWVnRfZnJQZ2VVMWlEQTIxQWZaVVNMUlpjNEJ1d25wbjZIbURuTXJTSmlvSWU1bW93SjdHbDFlLV9CRE1LMXU2TzF5U1hOdi14RkJDblFxQlY0V1FnMDFzb0dR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.16,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 5
+      },
+      {
+        "id": "corning",
+        "count": 5
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "oi_glass",
+        "count": 3
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 171,
+    "too_old": 175,
+    "gate1_blocked": 27,
+    "gate2_blocked": 13,
+    "passed": 53,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "CS Joho suspends operations for Tata Chemicals Magadi Mining over non-compliance - Citizen Digital",
+      "Owens Corning Appoints Jonathan Collins as Chief Financial Officer to Advance Strategic Priorities a",
+      "Owens Corning Names Jonathan Collins CFO as Leadership Team Refocuses on Growth - citybiz",
+      "Owens Corning names Jonathan Collins as CFO - Investing.com",
+      "Owens Corning Appoints Jonathan Collins As Chief Financial Officer To Advance Strategic Priorities A"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為Owens Corning、康寧、聖戈班相關動態：「Did Owens Corning's (OC) New CFO and COO Roles Just Redef...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Did Owens Corning's (OC) New CFO and COO Roles Just Redefine Its Execution Pl...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "OMERS ADMINISTRATION Corp Has $1.41 Million Stock Position in Owens Corning I...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

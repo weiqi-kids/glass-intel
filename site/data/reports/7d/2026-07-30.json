@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-30",
+  "date_range": {
+    "start": "2026-07-24",
+    "end": "2026-07-30"
+  },
+  "generated_at": "2026-07-30T10:30:06.089008Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "corning-2026-07-24-002",
+      "date": "2026-07-24",
+      "title": "Owens Corning (OC) Stock Looks Fairly Valued At Current Levels - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 59,
+      "last_week": 38,
+      "week_over_week_change": "+55%",
+      "sentiment_this_week": -0.07
+    },
+    "inventory": {
+      "this_week": 14,
+      "last_week": 12,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": -0.04
+    },
+    "construction_activity": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "solar_glass_demand": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "solvay": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "corning": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "owens_corning": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "saint_gobain": {
+      "event_count": 12,
+      "sentiment_avg": -0.17,
+      "rank": 3
+    },
+    "first_solar": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "oi_glass": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 4
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tata_chemicals": {
+      "event_count": 16,
+      "sentiment_avg": -0.1,
+      "rank": 1
+    },
+    "agc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "au_optronics": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 211,
+        "last": 157,
+        "change_pct": 34.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-24",
+      "event_count": 53,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 13,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 25,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 55,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 35,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 21,
+      "sentiment_avg": -0.14
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-24 ~ 2026-07-30）共 211 則事件，重點為「Owens Corning (OC) Stock Looks Fairly Valued At...」。友達情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "友達",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "康寧",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Owens Corning",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
