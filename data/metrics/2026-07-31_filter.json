@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 28,
+  "gate2_fail": 18,
+  "passed": 48,
+  "gate2_samples": [
+    "CS Joho suspends operations for Tata Chemicals Magadi Mining over non-compliance - Citizen Digital",
+    "Owens Corning (OC) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance",
+    "Owens Corning Appoints Jonathan Collins as Chief Financial Officer to Advance Strategic Priorities a",
+    "Owens Corning Names Jonathan Collins CFO as Leadership Team Refocuses on Growth - citybiz.co",
+    "Owens Corning Appoints Jonathan Collins As Chief Financial Officer To Advance Strategic Priorities A"
+  ]
+}
