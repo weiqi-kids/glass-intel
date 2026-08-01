@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:44:49.834261Z",
+  "updated_at": "2026-08-01T10:03:44.116807Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "First Solar",
       "ticker": "FSLR",
       "currency": "USD",
-      "ar": 1373954000,
-      "ar_prev": 1294040000,
-      "ar_qoq": "+6%",
+      "ar": 1476221000,
+      "ar_prev": 1373954000,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
-      "inventory": 1228542000,
-      "inv_prev": 1072928000,
-      "inv_qoq": "+15%",
+      "inventory": 1425874000,
+      "inv_prev": 1228542000,
+      "inv_qoq": "+16%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "flat_glass",
@@ -160,17 +160,17 @@
       "name": "O-I Glass",
       "ticker": "OI",
       "currency": "USD",
-      "ar": 805000000,
-      "ar_prev": 601000000,
-      "ar_qoq": "+34%",
+      "ar": 883000000,
+      "ar_prev": 805000000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 1003000000,
-      "inv_prev": 1002000000,
-      "inv_qoq": "+0%",
+      "inventory": 947000000,
+      "inv_prev": 1003000000,
+      "inv_qoq": "-6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "owens_corning",

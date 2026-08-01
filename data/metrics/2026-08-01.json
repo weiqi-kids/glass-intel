@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-01",
+  "total_events": 5,
+  "by_company": {
+    "xinyi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "flat_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
