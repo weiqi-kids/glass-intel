@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 27,
+  "gate2_fail": 21,
+  "passed": 21,
+  "gate2_samples": [
+    "CS Joho suspends operations for Tata Chemicals Magadi Mining over non-compliance - Citizen Digital",
+    "Owens Corning (OC) Could Be 5% Undervalued As New Leadership Takes Shape - simplywall.st",
+    "Dala Group LLC Purchases Shares of 10,936 Owens Corning Inc $OC - MarketBeat",
+    "Owens Corning (OC) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance",
+    "Owens Corning Appoints Jonathan Collins as Chief Financial Officer to Advance Strategic Priorities a"
+  ]
+}
