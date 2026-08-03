@@ -1,0 +1,13 @@
+{
+  "total_raw": 43,
+  "dup_title": 12,
+  "no_date": 0,
+  "too_old": 5,
+  "gate1_fail": 22,
+  "gate2_fail": 2,
+  "passed": 2,
+  "gate2_samples": [
+    "This huge Texas solar hub is nearly 1 GW, and it’s only half built",
+    "Ryan Cos. execs discuss data center headwinds"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-03",
+  "date_range": {
+    "start": "2026-07-28",
+    "end": "2026-08-03"
+  },
+  "generated_at": "2026-08-03T11:33:24.055760Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "saint_gobain-2026-07-28-012",
+      "date": "2026-07-28",
+      "title": "AGC to transfer majority-owned Polymer Building Materials subsidiary to Saint-Gobain - Indian Chemical News",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 56,
+      "last_week": 41,
+      "week_over_week_change": "+37%",
+      "sentiment_this_week": -0.08
+    },
+    "inventory": {
+      "this_week": 12,
+      "last_week": 12,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "construction_activity": {
+      "this_week": 2,
+      "last_week": 6,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.2
+    }
+  },
+  "company_7d_summary": {
+    "tata_chemicals": {
+      "event_count": 17,
+      "sentiment_avg": -0.09,
+      "rank": 1
+    },
+    "saint_gobain": {
+      "event_count": 8,
+      "sentiment_avg": -0.25,
+      "rank": 3
+    },
+    "agc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "oi_glass": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 4
+    },
+    "first_solar": {
+      "event_count": 14,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "owens_corning": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "corning": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "au_optronics": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 11
+    },
+    "flat_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "xinyi_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 218,
+        "last": 192,
+        "change_pct": 13.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-28",
+      "event_count": 58,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 43,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 52,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 55,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-28 ~ 2026-08-03）共 218 則事件，重點為「AGC to transfer majority-owned Polymer Building...」。聖戈班、友達情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "聖戈班",
+        "reason": "本週情緒偏負面（-0.2），共 8 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "友達",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "塔塔化工",
+        "reason": "本週出現 17 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

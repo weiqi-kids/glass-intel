@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-08-03-001",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Type II helmets are changing construction safety. Here’s what North American contractors should know.",
+    "summary": "<p>Type II safety helmets are reshaping construction head protection across North America.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/spons/type-ii-helmets-are-changing-construction-safety-heres-what-north-america/826314/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_glass-2026-08-02-001",
     "date": "2026-08-02",
     "companies": [
@@ -1244,6 +1262,25 @@
       {
         "name": "au_optronics",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzOVE3SVZVRG1xekZZbnRYSnBOTzFMOXQwOFhNWVUxbkZJWVQyZVBncUZzWG51TVRlU1cwODJtVjA3WXl6R3QtejBrV2RzMktqQ3Fyblljemg3aWxIbXloNXh4bGtXMlpIMGFCUTRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-055",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "FlatironDragados-Sukut JV lands $1.8B California dam project",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SlcN8HuXgrBmLC8PPfqLNONJwZGdnqrnUq55gwevCl4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV9BbmRlcnNvbl9kYW1fYW5kX3R1bm5l",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/flatiron-dragados-sukut-jv-anderson-dam-project/826724/",
         "type": "rss"
       }
     ]
