@@ -1,0 +1,264 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:41:42.949675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-08-05-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning returns $264M; Q2 free cash flow is $199M - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUxMNk45RUFRV0s1cmNheEtVMFpNZGcxSm1lNy04MmpmcFFhcVVLRGh6LXUwazhMdUlUUjBSc2daam1OYkxjbGtOUWZkQlpXODVtSERIal9pVGVIRF8xLTFRU3Utd3Z0UVItVVd0N2Vlak83MC15cUVhRFBaSEhvUVBXd1psZXRoYlhISFdVbmJpY2ZFMzdGRE5zcWNyQXdieUlaX1dOS0U1UHJTendXcXhlSzBhVHQ1QzZKdzB3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-08-05-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Q2 2026 Earnings: Flat Sales Came With Lower Margins - TradingKey",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBra1BvUnN2bVVHNXRSX0xxVXJfUkNpX3hqUFBwcEJhMnBSYlVQdHAteXJUbWx5cEFOQUNXWHVxaU5RY2htcHFrbUtRYWlYTFZyUVpRbzNHQUlvZ1ozVng3OWVaMDlaREM4T0cxMk9R?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "owens_corning-2026-08-05-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning shares rise 3% on Q2 beats By Investing.com - Investing.com Nigeria",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYk5vZERBNlZNZ0t4R085NHdPSnRNVUlYSEdfLTNqSnpJRnFVNVBIRmpLR2lwaklJVVJYbVNaLVVLX2gydGx1MXhsSjN5dXZfSTNDRjFLLWJwWW56MGJ4OXZQMzNMNnVJTmlmZ0R2Z1BkTGp6bE5ucDhzUWI1bEFuNjhob0ttWDczcUkzY3lQc1RNUUVSSHJlbDdlRDNXeVVnVWFF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "owens_corning-2026-08-05-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "(OC) Owens Corning Expects Q3 Revenue Range $2.60B - $2.70B - marketscreener.com",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFRwSEM3bDJDcE5RVFhzNU14RzMtTWZGZjNEUENkNGV0d2JVODB6cUxrcnNVTUFha3pQNXNnZmVNVnJiQXZWWXpKaGdMYTZLZXY4cXBXVnFCNkYtSmZKeWtzeUtlby1WaW1NNzVPMUFSazUta3h3aklfTldJT0dLaUV3Zk1mZGdvMGNNajBhaEVfaW8wbFVKM2wtcnVwUDRlRTRoQTdWaDBhZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "owens_corning-2026-08-05-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Q2 Adjusted Earnings Fall, Sales Rise; Issues Q3 Revenue Guidance - marketscreener.com",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSHV5b0V2akRjZjF6TlFudU5MTTEyT0pzNEJQX0FFVWZTWEE3OGhTRjVtLWdPd3ZhZDJXdUNfemRZZGtBOHZaVlYyYV9SVllHcUI5QWNxOVpBMi1WOGVRVkRVYXpqQjgxdnA5SmxQZEZwRG5Zek1FMzNQZHFmR2NhMmh3eU9VY215RjJFY1dUZVZYcnlJR2NkeWsyMTVuYmRIU2ctRkZjeHdLMVQ2dmdxQ2oxN1dvV3lSb3BrbG1uTkVGTTVzOWdxUmZB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 6,
+      "topics": [
+        "guidance",
+        "earnings",
+        "inventory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 6
+      },
+      {
+        "id": "corning",
+        "count": 6
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 211,
+    "too_old": 144,
+    "gate1_blocked": 28,
+    "gate2_blocked": 22,
+    "passed": 34,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Briefs: Tata Chemicals and Atul - Indian Chemical News",
+      "Tata Chemicals Standalone June 2026 Net Sales at Rs 1,281.00 crore, up 9.58% Y-o-Y - Moneycontrol.co",
+      "CS Joho suspends operations for Tata Chemicals Magadi Mining over non-compliance - citizen.digital",
+      "Owens Corning Appoints Jonathan Collins as Chief Financial Officer to Advance Strategic Priorities a",
+      "Owens Corning (OC) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Owens Corning、康寧、First Solar相關動態：「Owens Corning returns $264M; Q2 free cash flow is $199M -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning returns $264M; Q2 free cash flow is $199M - Stock Titan（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Owens Corning Q2 2026 Earnings: Flat Sales Came With Lower Margins - TradingKey（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 28,
+  "gate2_fail": 22,
+  "passed": 34,
+  "gate2_samples": [
+    "Briefs: Tata Chemicals and Atul - Indian Chemical News",
+    "Tata Chemicals Standalone June 2026 Net Sales at Rs 1,281.00 crore, up 9.58% Y-o-Y - Moneycontrol.co",
+    "CS Joho suspends operations for Tata Chemicals Magadi Mining over non-compliance - citizen.digital",
+    "Owens Corning Appoints Jonathan Collins as Chief Financial Officer to Advance Strategic Priorities a",
+    "Owens Corning (OC) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance"
+  ]
+}
