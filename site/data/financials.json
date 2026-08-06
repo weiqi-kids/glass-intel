@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:41:39.589360Z",
+  "updated_at": "2026-08-06T10:44:48.437401Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "Owens Corning",
       "ticker": "OC",
       "currency": "USD",
-      "ar": 1353000000,
-      "ar_prev": 937000000,
-      "ar_qoq": "+44%",
+      "ar": 1508000000,
+      "ar_prev": 1353000000,
+      "ar_qoq": "+11%",
       "ar_period": "QoQ",
-      "inventory": 1492000000,
-      "inv_prev": 1472000000,
-      "inv_qoq": "+1%",
+      "inventory": 1455000000,
+      "inv_prev": 1492000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "saint_gobain",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 441,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 30,
+  "gate2_fail": 15,
+  "passed": 42,
+  "gate2_samples": [
+    "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+    "Briefs: Tata Chemicals and Atul - Indian Chemical News",
+    "Tata Chemicals Standalone June 2026 Net Sales at Rs 1,281.00 crore, up 9.58% Y-o-Y - Moneycontrol.co",
+    "‘Thanking them for their service’: Bartlett veteran receives new roof as part of Owens Corning progr",
+    "Owens Corning Demonstrates Value of Reshaped Company; Delivers Strong Results from Continuing Operat"
+  ]
+}
