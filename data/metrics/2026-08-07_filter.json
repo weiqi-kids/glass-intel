@@ -1,0 +1,16 @@
+{
+  "total_raw": 442,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 28,
+  "gate2_fail": 15,
+  "passed": 48,
+  "gate2_samples": [
+    "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+    "Tata Chemicals Standalone June 2026 Net Sales at Rs 1,281.00 crore, up 9.58% Y-o-Y - Moneycontrol.co",
+    "Briefs: Tata Chemicals and Atul - Indian Chemical News",
+    "‘Thanking them for their service’: Bartlett veteran receives new roof as part of Owens Corning progr",
+    "Jefferies Adjusts Xinyi Solar Holdings' Price Target to HK$3.30 From HK$4.59, Keeps at Buy - markets"
+  ]
+}

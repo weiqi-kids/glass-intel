@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-07",
+  "total_events": 9,
+  "by_company": {
+    "tata_chemicals": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": -0.07
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "solar_glass_demand": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

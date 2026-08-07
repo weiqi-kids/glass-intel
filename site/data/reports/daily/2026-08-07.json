@@ -1,0 +1,229 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T09:05:06.151782Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-08-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why did Tata Chemicals shares jump 6% in intraday trade on Friday? - Business Standard",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjljM0hxTkNOdlJPR0d4WGZIZTZnQThSQ2lyVGlGckttN0lzMTBNdU9SM0pZbjFKamtnTUtUUUZNZW9YMHNSTmFLbWExTEp0ekVaRUkyNWZzYzF6VW5kY3VuaUFmZk1HaGpxMHRxRVZidThIamsxcHd0aWNFUklpbDBKcUd4ZDBIdHZNOXctaG9fcW1pbDQzSEl2cTRDeHotT0VFQldhNDM2RUhlS0pRRWdSanJvLU5pTTdIS1liX2hDem9KX0R1UFBxc9IB0AFBVV95cUxNdEVxNHNaMEFTTG9MNWRtbVJ4M083N2c4RGJ6WW50MlhibGlaTWFKRmlRZkx5aV9naHB5RzFGTUQxSWtvdThIWTFncXFHS0JaRmJuLWZETHFCWUhVckdJQnpndlg3NDdfbHZCSXNJTVRFcGhSUnRidVdwc2VUMHF3UUlqZ2twMGlPQ1VvNUpXLUw5cnBXVDI4cm5wQW1hTHI1ODF0MHVjeTBZTk1PT1VaRGtjNTg3eUNHSEZzQWhyRU1sUDktM20waWtTSjFubjFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-08-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals shares rise up to 5% as RBI retains Tata Sons in the Upper Layer NBFC list: Here's why - Moneycontrol.com",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRWhsY0JucnRvOV9NdkdndzhtRS1RZjFnV1dYTjVWeUo2SmVOU3JIeWRBdkc2eno1cjhEdUVKNlUyVnNoNkZ6X01VNE9oNUQ3YTdPUFdSQ0t1SU5Bd2ktSGdZc3RmLUttbUdzS1dWcGI1d3FoRDVqdkZuaVNTa0x0ZVJNSDlHOW0yT1kzdTlCSS10UWpGRlNMeThONFZmSWFTSnRhQllISnpmSHR5RDRPaWNoZWVGalA2MzVxQS1DTEp6QTlzLTUwNEtYaXBuNFZHSkgyMkYwNGlyN0lzUmt2Qi15YWFmU0txVTRRbFJqeEV4eTdhV2Vac3A4bmnSAfwBQVVfeXFMUEVobGNCbnJ0bzlfTXZHZ3c4bUUtUWYxZ1dXWE41VnlKNkplTlNySHlkQXZHNnp6NXI4RHVFSjZVMlZzaDZGel9NVTRPaDVEN2E3T1BXUkNLdUlOQXdpLUhnWXN0Zi1LbW1Hc0tXVnBiNXdxaEQ1anZGbmlTU2tMdGVSTUg5RzltMk9ZM3U5QkktdFFqRkZTTHk4TjRWZklhU0p0YUJZSEp6Zkh0eUQ0T2ljaGVlRmpQNjM1cUEtQ0xKekE5cy01MDRLWGlwbjRWR0pIMjJGMDRpcjdJc1JrdkIteWFhZlNLcVU0UWxSanhFeHk3YVdlWnNwOG5p?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-08-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals, Siemens Energy, Tata Investment Corporation shares surge amid spike in volumes - upstox.com",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHVwcFhYV1JsVzM1Q3pxeWZhZDNSQnhCZHJwTlAwZktJdTZjcWpOcGFsVWRoS2FfUUxtdkI4WmN4SExJRVdDaEc3SmxvUkV0Q1dIWG5GaS1mcXJnVGVteTR0WS1uWnhtNFZGUjZZQ25RSmNhdy1UTGIxajVSMFlhdF8ycU1nQkd3c0h0Z0RuOGRoUGY5T2hjRURSREhobDl6UHBXbVVEUjlPTnZnWnNicHFyX2NYdVRBTHBfTkZNdjlZQURrcDNGSVRpX2hhN2lra3BtTkF3WHZuTzZPMUNxc2NLbnVzZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-08-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The first solar eclipse in almost 30 years: Where best to view it? - Sky News",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnp0Wk5wUFhVV3cyZ1E3eDI0M3Q1Zk84Znk1UUltVGlad2lKaGZMdHhxT2NQUUVyWHNiU3F4WEl2VmNhQUZoRUNkX0VwX1FCd09ZdE9QZVE4R2d0UUlhR3NDYTdmN3hPVXhlQ3lHdzAzMFRlT09TN2lleS1BMVhJVUwwNlpaOXFvUnBXM1AycDBPdWhTc2V1Z0RyZ3RydUxqbWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-08-07-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CIP begins construction of first solar and battery project in Mexico - EnergyWatch",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9neWdWSUlIRS1xZjRyY1htQ2tJVjBYbFYwYm4zSlpPTGFCdjU0NmtHTmpPRGU4anUxODBLX1FWRHFkU25TOUhPMkJnNXVySWU1UF9YSkpCendQdjVENU5kYXd3MzByZUR3QXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 4
+      },
+      {
+        "id": "first_solar",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 442,
+    "dup_title": 194,
+    "too_old": 157,
+    "gate1_blocked": 28,
+    "gate2_blocked": 15,
+    "passed": 48,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+      "Tata Chemicals Standalone June 2026 Net Sales at Rs 1,281.00 crore, up 9.58% Y-o-Y - Moneycontrol.co",
+      "Briefs: Tata Chemicals and Atul - Indian Chemical News",
+      "‘Thanking them for their service’: Bartlett veteran receives new roof as part of Owens Corning progr",
+      "Jefferies Adjusts Xinyi Solar Holdings' Price Target to HK$3.30 From HK$4.59, Keeps at Buy - markets"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為塔塔化工、First Solar相關動態：「Why did Tata Chemicals shares jump 6% in intraday trade o...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Why did Tata Chemicals shares jump 6% in intraday trade on Friday? - Business...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tata Chemicals shares rise up to 5% as RBI retains Tata Sons in the Upper Lay...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "光伏玻璃需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

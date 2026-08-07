@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:44:48.437401Z",
+  "updated_at": "2026-08-07T09:05:02.704547Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "群創",
       "ticker": "3481.TW",
       "currency": "TWD",
-      "ar": 41495801000,
-      "ar_prev": 40109416000,
-      "ar_qoq": "+3%",
+      "ar": 41594147000,
+      "ar_prev": 41495801000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 47890734000,
-      "inv_prev": 37470290000,
-      "inv_qoq": "+28%",
+      "inventory": 46700952000,
+      "inv_prev": 47890734000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "longi",
