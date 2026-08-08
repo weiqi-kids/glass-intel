@@ -1,0 +1,16 @@
+{
+  "total_raw": 441,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 26,
+  "gate2_fail": 20,
+  "passed": 43,
+  "gate2_samples": [
+    "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+    "Tata Chemicals Standalone June 2026 Net Sales at Rs 1,281.00 crore, up 9.58% Y-o-Y - Moneycontrol.co",
+    "Briefs: Tata Chemicals and Atul - Indian Chemical News",
+    "Owens Corning (NYSE:OC) Given New $177.00 Price Target at Citigroup - MarketBeat",
+    "‘Thanking them for their service’: Bartlett veteran receives new roof as part of Owens Corning progr"
+  ]
+}

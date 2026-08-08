@@ -13,8 +13,8 @@
   },
   "owens_corning": {
     "earliest": "2006-11-01",
-    "latest": "2026-08-06",
-    "count": 4970,
+    "latest": "2026-08-07",
+    "count": 4971,
     "history_complete": true
   },
   "taiwan_glass": {
@@ -61,14 +61,14 @@
   },
   "corning": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-06",
-    "count": 6688,
+    "latest": "2026-08-07",
+    "count": 6689,
     "history_complete": true
   },
   "oi_glass": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-06",
-    "count": 6688,
+    "latest": "2026-08-07",
+    "count": 6689,
     "history_complete": true
   },
   "flat_glass": {
@@ -85,8 +85,8 @@
   },
   "first_solar": {
     "earliest": "2006-11-17",
-    "latest": "2026-08-06",
-    "count": 4958,
+    "latest": "2026-08-07",
+    "count": 4959,
     "history_complete": true
   },
   "au_optronics": {
@@ -103,14 +103,14 @@
   },
   "etf_mxi": {
     "earliest": "2006-09-22",
-    "latest": "2026-08-06",
-    "count": 4998,
+    "latest": "2026-08-07",
+    "count": 4999,
     "history_complete": true
   },
   "etf_tan": {
     "earliest": "2008-04-15",
-    "latest": "2026-08-06",
-    "count": 4607,
+    "latest": "2026-08-07",
+    "count": 4608,
     "history_complete": true
   }
 }
