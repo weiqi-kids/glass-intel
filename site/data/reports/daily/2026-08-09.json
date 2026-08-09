@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:50:25.434146Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-08-09-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Does Owens Corning’s (OC) Profit Dip and CFO Shift Reframe Its Capital Allocation Story? - simplywall.st",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmlQdEV3ZUI5cVBZclVRZzBiWDNmdFo5ZENXMk1LSGJFRjZzSUdRb1VSSndPczlWQW81aU5qX1RSVmljdXBWT3Vsc3hsS2EteXlKbmRUMWd0aU9rcXUwcU5DV0xZY1dvQzhCUUN6a1EtdXBPSG5mN0V3bDFEeGY4MUk4TTc3bXF3R0dqc0g5OENLN2hIYjVsQjlIYXBYRDJjSVZEdmdjdDZPZzVUMDg2QjZ4TElBZDdiUk5vTURmLWFKcnZuOG5IT21VLVXSAdIBQVVfeXFMUGNOUGpkemtWZkFXbTYzRjNFYVBCUUcyLVVFMHZnYzkzaE5ES3lYS2tkTnNDeUVCcmlLSC1GTGtLRFBBc3VHeUl0Qk80clowQkttUmFXZFdET1ozV1hfUFc3UjA3WjNDN2M0UXhvV1RiWUx6NjVXSnhLaWdrUk95dE5oYTJFcktZQ05NbmI5WGNnUW5YN09SOVExM19ielZRUzE0T0w0LWVUR0NFakNBcjRBTlA5SHZ3MEJYMHJWX2pYcUszZ29wWnRJTWZGU0dfNEZB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar (FSLR) Is Up 18.5% After Backing New Tariffs And Reaffirming 2026 Outlook - simplywall.st",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeHlIVjYtdFdBdmFsY2RsaHdjSGE5WnhoNzFwV0l4UVFQRENHOVNENzJqZTRPbW53LXhiRFRiWTM1c3hDd3pCMWNORGJXemhjMXRrRDFWS04wcDNqM3h3aVRUVXFmRDhGVDgwWjA3clZBX2YyUFAtaDdKQmIxSGhfZlZTSUxnTUg2ZFRteE9sWnhtS3o0NE81R0dybjZyZzdVTmw2ajNmcTdJSUhhU2tsOUdGS2RRNk9LclkyRTlCNXhvbHFtSENOMDZTaDI0Z1ZUZEHSAdcBQVVfeXFMUDVubVhPNzB1MG0weElJSUtPX3R5ZENyOFhxb0sydGxob1JHS2htU28wdXhVREJHSV9fSEVJcTJ0UVE2WFdoalJHVzB6VVFyTjVvbDRqSkV2b3lHS3NHUU5sbE5XS09QSWFiMzFHaFIzTjR5N29YS19Va3c2WlE5ajZSYVg0MEgtNXRqVjhTMFg2YUxwdGM5aWtTbEgwOUoxdTBKVG9haXF5NW9YQnRPVWVnSnk5cWpEazR4ZlpBZW1Ja2NxN3l1UTc4R0xCaWJXVC1tNkNpUDA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assenagon Asset Management S.A. Has $44.51 Million Holdings in First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXpLbmNON2NFcTVLaHUxbVB3TGtsTktSem41RVBUSk5XQWtpRlMwUUgyZHB3WDdtYmhEM1FmVlZXRTBEVGk5bm1rRmw3VHlyU0kwckwtUkJvR3JRMlhHdnpMMGNVMzZRbllvaHZUc2o3ZENFZ3U0aE1MMGpCVklCcDlGakNwcG5KZW9ZLWJDLVpGWmNJOWRDVFBIZkFMUEFKa25hd25zdzZUdWg1OFAyZzhWbFlXQm9acDdaVzlGV2VnNFlXUV9KSC16bGhqb2VNT0N5eGNYYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 222,
+    "too_old": 160,
+    "gate1_blocked": 25,
+    "gate2_blocked": 16,
+    "passed": 16,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+      "Briefs: Tata Chemicals and Atul - Indian Chemical News",
+      "Tata Chemicals Standalone June 2026 Net Sales at Rs 1,281.00 crore, up 9.58% Y-o-Y - Moneycontrol.co",
+      "‘Thanking them for their service’: Bartlett veteran receives new roof as part of Owens Corning progr",
+      "Nippon Sheet Glass Company, Limited (NI9.F) Analyst Insights, Price Targets & Recommendations - Yaho"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為First Solar、康寧、Owens Corning相關動態：「Does Owens Corning’s (OC) Profit Dip and CFO Shift Refram...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Does Owens Corning’s (OC) Profit Dip and CFO Shift Reframe Its Capital Alloca...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "First Solar (FSLR) Is Up 18.5% After Backing New Tariffs And Reaffirming 2026...（展望）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

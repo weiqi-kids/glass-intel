@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 25,
+  "gate2_fail": 16,
+  "passed": 16,
+  "gate2_samples": [
+    "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+    "Briefs: Tata Chemicals and Atul - Indian Chemical News",
+    "Tata Chemicals Standalone June 2026 Net Sales at Rs 1,281.00 crore, up 9.58% Y-o-Y - Moneycontrol.co",
+    "‘Thanking them for their service’: Bartlett veteran receives new roof as part of Owens Corning progr",
+    "Nippon Sheet Glass Company, Limited (NI9.F) Analyst Insights, Price Targets & Recommendations - Yaho"
+  ]
+}
