@@ -1,5 +1,81 @@
 [
   {
+    "id": "corning-2026-08-10-001",
+    "date": "2026-08-10",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pacer Advisors Inc. Sells 372,254 Shares of Owens Corning Inc $OC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDd0MTVuSkFjWUdMajc2ZTE0WnNXZmxKQ1BQXzlOYjlFSGxoOFZiRjhyeWhfZ0ROdkZfVDl6NU5fS3hnX1d1a0JCcjNSUUNOQ2paaG9ZUkpYbElQM29wREpOaUNTSVBzVUtHR2tuZn",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDd0MTVuSkFjWUdMajc2ZTE0WnNXZmxKQ1BQXzlOYjlFSGxoOFZiRjhyeWhfZ0ROdkZfVDl6NU5fS3hnX1d1a0JCcjNSUUNOQ2paaG9ZUkpYbElQM29wREpOaUNTSVBzVUtHR2tuZnVudGpqeWRjbmQ3OXV1NUdibFlCX1FoQjhlOFNrbjU4ZnMtcnFHeUo1clo4Tjl6akFhbENYUWVRalpPNXZzYmpObUhqX0dsZjB0QW9YX1BFUUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-10-002",
+    "date": "2026-08-10",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Owens Corning Inc $OC Shares Sold by Bank of America Corp DE - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhDVUFUWXl6VTRDQnZRcjNwSk8yY0JOV2g5b2N2ZlZPXzBMeXN3SlhDNll3LXljeGVWSzNReVJMTmJMcVoydzB0bHBBMVpQVUpaMng2QXdTeUJKdmV1ejlteHhJNFRYLTV0aUowbm",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhDVUFUWXl6VTRDQnZRcjNwSk8yY0JOV2g5b2N2ZlZPXzBMeXN3SlhDNll3LXljeGVWSzNReVJMTmJMcVoydzB0bHBBMVpQVUpaMng2QXdTeUJKdmV1ejlteHhJNFRYLTV0aUowbmZ0QUdaSmhka21GaG95MUZOSldJUjh2S2dHaHFFYmVqLU5uRjlCUnplelh4RXNQdUVSMmlnc0E1SFhQam1MZkc4RkJpc2t3OE12TUtWSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-003",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The weather will be crucial for solar eclipse viewers - here's what to expect - Sky News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnp0Wk5wUFhVV3cyZ1E3eDI0M3Q1Zk84Znk1UUltVGlad2lKaGZMdHhxT2NQUUVyWHNiU3F4WEl2VmNhQUZoRUNkX0VwX1FCd09ZdE9QZVE4R2d0UUlhR3NDYTdmN3hPVXhlQ3lHdz",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnp0Wk5wUFhVV3cyZ1E3eDI0M3Q1Zk84Znk1UUltVGlad2lKaGZMdHhxT2NQUUVyWHNiU3F4WEl2VmNhQUZoRUNkX0VwX1FCd09ZdE9QZVE4R2d0UUlhR3NDYTdmN3hPVXhlQ3lHdzAzMFRlT09TN2lleS1BMVhJVUwwNlpaOXFvUnBXM1AycDBPdWhTc2V1Z0RyZ3RydUxqbWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-10-004",
+    "date": "2026-08-10",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Solar Backs US Section 232 Measures on Polysilicon Imports, Citing Solar Supply Chain Security - SolarQuarter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVp1Si1VbS15S2xmR3pxcVQ0MlhUNG9IZVdKcFhSY3pLdXpJTU5nemx1S2w0cEtjSmFCcXFWNk5XRnYtTUptZjkzRTVQVmZwdEJzRl9PV3FmRXBfcG01YjVyb3pwanN2MjU3SV9UOG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVp1Si1VbS15S2xmR3pxcVQ0MlhUNG9IZVdKcFhSY3pLdXpJTU5nemx1S2w0cEtjSmFCcXFWNk5XRnYtTUptZjkzRTVQVmZwdEJzRl9PV3FmRXBfcG01YjVyb3pwanN2MjU3SV9UOGNCSW4yeXRVWEw2QlhtSXkzWC1PT252Z2tZZm5HckszZ1dQb0x1Z3VYT2JmLWlvdU9SRlJRSGM0eTgtLS1uX29GcG1rN19BTEhIbGdpNVo1NTJjLUF3WXZySVRPbmwwZFlHbFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [
@@ -54,6 +130,65 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXpLbmNON2NFcTVLaHUxbVB3TGtsTktSem41RVBUSk5XQWtpRlMwUUgyZHB3WDdtYmhEM1FmVlZXRTBEVGk5bm1rRmw3VHlyU0kwckwtUkJvR3JRMlhHdnpMMGNVMzZRbllvaHZUc2o3ZENFZ3U0aE1MMGpCVklCcDlGakNwcG5KZW9ZLWJDLVpGWmNJOWRDVFBIZkFMUEFKa25hd25zdzZUdWg1OFAyZzhWbFlXQm9acDdaVzlGV2VnNFlXUV9KSC16bGhqb2VNT0N5eGNYYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-08-09-004",
+    "date": "2026-08-09",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TATA CHEMICALS LTD (TATACHEM4.BO) cash flow - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9FUWh6TGN6OG1WOUZPNmJWdjVsa2ZZcU9Yd2x5T0ZnLWtxQlpNWGxiSURxZ21OMGVGNDg4bEQ2T2MtTjhid0lhS3JTSENVV3h0LWlZV25ReFY2WWdxY1pMTHgyVG53UGtlU1E?oc=5\" ",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FUWh6TGN6OG1WOUZPNmJWdjVsa2ZZcU9Yd2x5T0ZnLWtxQlpNWGxiSURxZ21OMGVGNDg4bEQ2T2MtTjhid0lhS3JTSENVV3h0LWlZV25ReFY2WWdxY1pMTHgyVG53UGtlU1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-005",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Compagnie de Saint Gobain (ENXTPA:SGO) Could Be 12% Undervalued On Earnings And Microsoft Deal - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX05TckozY0hiUS1GaS1RQy0zS1VpRGk4MmhRNlJFdGpMUmtUaENtZ0IxeFF1a0N6Y2Z3Rk02LU92dWRuZzdxNDlfX09HX1FES01DRlUyeEkxMGh6YzY0eFhHVmlLQ1JOS0JvR3NNbX",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX05TckozY0hiUS1GaS1RQy0zS1VpRGk4MmhRNlJFdGpMUmtUaENtZ0IxeFF1a0N6Y2Z3Rk02LU92dWRuZzdxNDlfX09HX1FES01DRlUyeEkxMGh6YzY0eFhHVmlLQ1JOS0JvR3NNbXVCa3pya2l3eVItV3VpWEVNREFpYlRHYmd3UmYyLXo0LUhtNG8xVENYSUlTaW80UmNQTXAwUjhmQmRnM1FPSXg3NEI4cnozampVeFJsT05jUUdKc0NremJZRHBjbEU3bmxOYV9ObzdLUlVHU0VEMDU4X3VZdTZod9IB6wFBVV95cUxPdFBMUnVUSG54Zy1SR01rYnNmaC1lRWs0Z3NSdkdHVGNtSFA5X1dLWEJtVGxTNjV1Yng1S0dNSUFySHRLSUhjR1pFNllsSUZPV0IzeXdscE9RcXd5NGdySS1WNkp5VWVDRk1wbkFfa1BFWENZZHpwR05FXzFyM25lUTdDbDhESHlYVndwZld4Sm1lbG95eU9pOFYwc1FLQ29SUUkzY1gzQlVXaTJlUmFZNkh5LXp4aEEzSTlZeWFZZE9talRxdnJyc2lHeHlkcE1IUFNGeTVBU2lUdHp3dEp0RDlmcndSejduZ2tZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-08-09-006",
+    "date": "2026-08-09",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating O-I Glass, Inc. (OI) And Encourages Investors to Connect - Stockhouse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2JTRnFSQkJFMXVXZVZUbUhyb01Gck9nVXpSVU9FNDI2OVFtVDBnb21CVWVPMG9oUEtVQTd2Wnl1b2g1Zy14WkNjd3pMTVNPWXI2V3I3VDgwTGdPYmFGQmxWdEM5Q25keGtwbG9LWT",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2JTRnFSQkJFMXVXZVZUbUhyb01Gck9nVXpSVU9FNDI2OVFtVDBnb21CVWVPMG9oUEtVQTd2Wnl1b2g1Zy14WkNjd3pMTVNPWXI2V3I3VDgwTGdPYmFGQmxWdEM5Q25keGtwbG9LWTc4TmRyMHcyRF9UZnd2LXFCalRIM2hRcFAxZ3VFZXp1dHZzTFFJYTRmbExqX1R4d1JSRFdKTE9QQTBJbmdQMUpyLTB5dkYyaGJWZlozcHJlLWtxdFlHVGp2RFVNdzByZw?oc=5",
         "type": "rss"
       }
     ]
@@ -289,6 +424,108 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xankta3BRTEtKTlR5bWVpX0VqRUNGWUd3YTlfTVBuZGVRRVF2VVpZWll0WGQ3OTVmbVIwdlBMd2tkYjduakNFaXV0LUJkb2NFcEZBbDdfV1FzLUc5d0dreEVFZktxQl9aUjFsX0JpdXdLLXlwTmREYUduTDM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-08-08-013",
+    "date": "2026-08-08",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tata Chemicals Deploys 120 Local Volunteers to Strengthen Government Schools in Okhamandal - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXlFZk53b2JTRjlYYXZaSFVoa0JSaGNWMUdqaC1pSDhOek1FbF9qSTdBMU51Tkp2WHpkLTZCNDdtVS1ILTZ6czRibmVzX0t2Yy1GeGVyMUpja0Vwa0NsU1VEdE9oSXR6N2lyT1dkQ3",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXlFZk53b2JTRjlYYXZaSFVoa0JSaGNWMUdqaC1pSDhOek1FbF9qSTdBMU51Tkp2WHpkLTZCNDdtVS1ILTZ6czRibmVzX0t2Yy1GeGVyMUpja0Vwa0NsU1VEdE9oSXR6N2lyT1dkQ3NtLV9BamRidWs2WC1IbFVXOFN6VmNkWXdaZ3ZzWUdKN1VwbTEwbnpZLUNheXhIcXJzTXpJdm82Rm1EenZ2UnFUWHFlRmVpWUZzMThVd0RsbjhIUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-08-014",
+    "date": "2026-08-08",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Q2 Earnings Call Highlights - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTNLdjZXcGxnSEpCcmd2Q3JuZWNZQ0c0b3Rhc0ZXRm4yS1RqSDRNcFlRNFNkM2VRUFVOcm9oWlVCckR2czJpS18zVmhUWC1GRllxUk1XVEN6T2hFelhmSzBQYXJqb3JaMU9ScVZCbz",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTNLdjZXcGxnSEpCcmd2Q3JuZWNZQ0c0b3Rhc0ZXRm4yS1RqSDRNcFlRNFNkM2VRUFVOcm9oWlVCckR2czJpS18zVmhUWC1GRllxUk1XVEN6T2hFelhmSzBQYXJqb3JaMU9ScVZCbzNiaUlTS2dyYlFYRC1zVVJtdUU4c1RUOUxiaGZORHd6N1QxRG9lNFR4YnR5c2hIMTAzM3h0dA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-08-08-015",
+    "date": "2026-08-08",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "AGC Inc. (5201.T) stock price, news, quote and history - uk.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yck1IWnBhWWQwRmtvcWZXVlpoMHUxQzZhb1JOV241VTlNR1FKWUM1V2dET21kUXZ1clIwWlpQTUQ4VGk2RGZWV3hjWmFIMTZzUlVweQ?oc=5\" target=\"_blank\">AGC Inc. (520",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yck1IWnBhWWQwRmtvcWZXVlpoMHUxQzZhb1JOV241VTlNR1FKWUM1V2dET21kUXZ1clIwWlpQTUQ4VGk2RGZWV3hjWmFIMTZzUlVweQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-08-016",
+    "date": "2026-08-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Backed New 15% US Polysilicon Tariffs - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkV1SGVaaUtfNVcyQ0xLYUZsdzloVnVEaGVSU2wweGt5V1F3bjZ5eUJHcl9HeWktSFdQQ29odXMxS2dodk9YN3NWdjlCR29RN1BfUUZxOVQ1Z2lDN0JCYU1xRi04WEpvQVZTWlluV1",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkV1SGVaaUtfNVcyQ0xLYUZsdzloVnVEaGVSU2wweGt5V1F3bjZ5eUJHcl9HeWktSFdQQ29odXMxS2dodk9YN3NWdjlCR29RN1BfUUZxOVQ1Z2lDN0JCYU1xRi04WEpvQVZTWlluV1lmT2RyV3EydWVraklmNzBkTy1keldQM3JhSUhEU3lqdlRVbU8xRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-08-017",
+    "date": "2026-08-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) After Tariffs And Guidance, Buying Opportunity Or Fairly Valued? - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE5scElLOUZHNEFGNTVrUHNJVERxMDd1b3J3M1FnZU9tUGJ6NXV3NkdCd3kyRWNTZlA2bEw2bGVKLXBCV3hGZW81QlRtVV9OUDlkelZQR3VoSXB1ZzNCb01BRnZQeEZERnc5WGdYV0",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE5scElLOUZHNEFGNTVrUHNJVERxMDd1b3J3M1FnZU9tUGJ6NXV3NkdCd3kyRWNTZlA2bEw2bGVKLXBCV3hGZW81QlRtVV9OUDlkelZQR3VoSXB1ZzNCb01BRnZQeEZERnc5WGdYV0hrWUctRFdkaXB3WFlZNTVjVzUyY3NEWjZZTFlEWC15SVgzd3lPWloyUV95MkFRYjQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1113,6 +1350,86 @@
     ]
   },
   {
+    "id": "corning-2026-08-07-043",
+    "date": "2026-08-07",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (OC) Is Up 8.5% After Q2 Earnings Beat, Buybacks And CFO Transition – What's Changed - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNanVzcHRmUnpPRmRyRUo1dEs3Q2VaVEJVeHJCWWpLSTA0eGxvUTZvb09sRXU0cF9YMDEyVjJPS01wdFZESHlJY293REtFRzVINmRPdEdKQ1FVdDd6eUVtMzBvbnlUcTNsWVBaa3JvOH",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanVzcHRmUnpPRmRyRUo1dEs3Q2VaVEJVeHJCWWpLSTA0eGxvUTZvb09sRXU0cF9YMDEyVjJPS01wdFZESHlJY293REtFRzVINmRPdEdKQ1FVdDd6eUVtMzBvbnlUcTNsWVBaa3JvOHRRY09nTVZHVU45WE90ZVFva2NWN1hFa1pTcDZVZVVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-08-07-044",
+    "date": "2026-08-07",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Is AGC Inc. - Unsponsored ADR (ASGLY) Stock Outpacing Its Conglomerates Peers This Year? - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTQ4ZW5LRG5PODhVb3pqMUduWk5xTkVhRnljTTcyemlaOWx2c19LeEUydUJaa0tMekZvOXRZaVNHRzEwTHpIc2J2QUN2ZHhZeERoendoYmF1cFh0MG1LbTB4S2hhbVpnMlQyVWoxYX",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTQ4ZW5LRG5PODhVb3pqMUduWk5xTkVhRnljTTcyemlaOWx2c19LeEUydUJaa0tMekZvOXRZaVNHRzEwTHpIc2J2QUN2ZHhZeERoendoYmF1cFh0MG1LbTB4S2hhbVpnMlQyVWoxYXFaTlZXRy1hMUVjN3pHN3VWWlMtX0ZWaHFYQUJSQTBfS1AwMjAtUjVqSk9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nsg-2026-08-07-045",
+    "date": "2026-08-07",
+    "companies": [
+      "nsg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Sheet Glass Company, Limited Reports Earnings Results for the First Quarter Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2NPX1pvQVFuSXVINjdnR1Q5S0RnQ3E5V0FMdXp2R19HSEUzVUE5bVBjTzU4ZndYN2MzYm9NdjRpdHlaY3R3SmNiOXY0NkVMWEpoNGs5VkF4WFNKZW81QlI0eHBZenUtMXdDZ0VjU0",
+    "sources": [
+      {
+        "name": "nsg",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2NPX1pvQVFuSXVINjdnR1Q5S0RnQ3E5V0FMdXp2R19HSEUzVUE5bVBjTzU4ZndYN2MzYm9NdjRpdHlaY3R3SmNiOXY0NkVMWEpoNGs5VkF4WFNKZW81QlI0eHBZenUtMXdDZ0VjU0lVbnlyU0dNQTJaeXpFMnAwNmZzdlJjNl8wMEo0QmFWZHI2WGhWMDBKbW5fdHg2bVFyYm1TWTRucktaUXVmLUxRaHp4enY1M2ZNbVdiVkhzSEYtc2xlVHRXWnNRZzMzUVRsVFVHLUNiQXhvRTBzSU5FLXRSaU5nQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-046",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solar stocks pop on Trump tariffs: AlphaSpace heat map breakdown - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWF2bW1UUXN2OUJhNTRlazZJZjNWWld4V2pXQU1ITXRpNno2QW1DWXZNX2tyZjltYng2SzdwVnhIRkdhYmJmbUI3ckVrR1pFeDl6UVJZY0c1Y0NpYnFQazFTWEdkellER181YlgwTX",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWF2bW1UUXN2OUJhNTRlazZJZjNWWld4V2pXQU1ITXRpNno2QW1DWXZNX2tyZjltYng2SzdwVnhIRkdhYmJmbUI3ckVrR1pFeDl6UVJZY0c1Y0NpYnFQazFTWEdkellER181YlgwTXdQUHBxNXliNFpUY3JSVDgxNm1wSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "owens_corning-2026-08-06-001",
     "date": "2026-08-06",
     "companies": [
@@ -1663,6 +1980,69 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRF82SjlmLUFmZzlDN3dHRUkyckl1eDlSNVZQNkJwUjl6MV94YTN1WEtzLV9IbFZrOVBqamRpOVpEUVpVaFE3NmpHVUxMQzZLYmk2SWRGQ2c2WmhnVTZQdEp4Wm13NXRYTGRqdVFRRkxwQ1BBQWp5WFdIa0N5dzFydG5TcXBkZkNPTTRNRkpQVVM5Q3JTeklINDJkT095WGdFVDcxeVAyaGNEWTl2VjlrMVhNMjdFbTIw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-06-029",
+    "date": "2026-08-06",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UBS Adjusts Price Target on Owens Corning to $198 From $174, Maintains Buy Rating - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNajlGTGZpUVN4cXptMThXdmdkVXVUOFFUNXhTLVRCNDV4dVl0dXF4a0hqclR4U2ZuNmQ1WURYWm5vVlMyLUw3ZlBWS1d3dUk4bmxWdE94SndFajhHMFpUZ3VTaXJVbk1mS3pBdXlmYW",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajlGTGZpUVN4cXptMThXdmdkVXVUOFFUNXhTLVRCNDV4dVl0dXF4a0hqclR4U2ZuNmQ1WURYWm5vVlMyLUw3ZlBWS1d3dUk4bmxWdE94SndFajhHMFpUZ3VTaXJVbk1mS3pBdXlmYW5rNGZQdk9ISFJpTXhVaUZPTFNGSGdBYzFhdGtuWmVkMTgwM1FmcUhIeVdYWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-08-06-030",
+    "date": "2026-08-06",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Saint-Gobain returns to growth in all regions in first-half 2026 - european-coatings.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNThYazBMQjRmZXRXQ1JQU3E5NjZiRTg3elItV1BmTVJJeTJkcWd4TkJrNlJtUVhfMF9Zbi11S2N6S004NDBPbW0xck5HTE5zblFDQ0Rxam9mYWxZVlJoX3o5ODZ3X3RwU3dldUpqLU",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNThYazBMQjRmZXRXQ1JQU3E5NjZiRTg3elItV1BmTVJJeTJkcWd4TkJrNlJtUVhfMF9Zbi11S2N6S004NDBPbW0xck5HTE5zblFDQ0Rxam9mYWxZVlJoX3o5ODZ3X3RwU3dldUpqLU96VnZVUnQ5MkJKVkU3NUgxTXl0WV9ZQzFrSUVlTTBURnRwWXBuaGZqUmh0dWRBelZQMGt1Ql9faUlLS3NIZDB4amFnUHQwak5uVzJDS1lzWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-08-06-031",
+    "date": "2026-08-06",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass, Inc. (OI) Stock Forecasts - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzBNUE5QQXZReXJMRk1MT0V3RnRlMWV6ODlPUWhoR1RwV3FMT2xmUmZYY056bWx6bm5FSHozVUhVcldaQ0VLR2tEcWotRGNicG1sSXQ1UnNTZERzemhURlgtMWp2LVFFOVlfbXV1em",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzBNUE5QQXZReXJMRk1MT0V3RnRlMWV6ODlPUWhoR1RwV3FMT2xmUmZYY056bWx6bm5FSHozVUhVcldaQ0VLR2tEcWotRGNicG1sSXQ1UnNTZERzemhURlgtMWp2LVFFOVlfbXV1emlwdmI1QUJ2aGlxYlYxenFpYlBKRnpVd3dtWXFSUE80VQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2694,6 +3074,89 @@
     ]
   },
   {
+    "id": "corning-2026-08-05-051",
+    "date": "2026-08-05",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Q2 2026 Earnings Call Summary - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXFjbXpad1Vaakp3eHp0WWYwMHZRT0d4QVJzS1psbXFGY0VkTW9NR2ppaHM4S2RVVkJwdkw5QnpJZmx2NUtJQmRuZ0hSOUI3eFMwcGsxVGVhbHNSNGE3ZWY1LUh4SHRYb0FxeXJNdE",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXFjbXpad1Vaakp3eHp0WWYwMHZRT0d4QVJzS1psbXFGY0VkTW9NR2ppaHM4S2RVVkJwdkw5QnpJZmx2NUtJQmRuZ0hSOUI3eFMwcGsxVGVhbHNSNGE3ZWY1LUh4SHRYb0FxeXJNdEZkQjdRdlhUeHhXWElmeDZUd1Vid250bUtaTC1lSGs2MHBoa1BLd3ZhcFlxMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-05-052",
+    "date": "2026-08-05",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens-Corning Inc (OC) (Q2 2026) Earnings Call Highlights: Strong Revenue and Synergy Gains ... - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPWURBUlVobllfSng5QTM2a3lKUUZEdUVLZUFPOXZQVHJMYXk0TmJIZFBNaHR4T0dXTWxkdjNNNTMxcFlUWU85VFAwT1BYQVlNNU5TS0hDa0tKSHhZMlp1LUdROVRLOFcyM3NVNHlOcm",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWURBUlVobllfSng5QTM2a3lKUUZEdUVLZUFPOXZQVHJMYXk0TmJIZFBNaHR4T0dXTWxkdjNNNTMxcFlUWU85VFAwT1BYQVlNNU5TS0hDa0tKSHhZMlp1LUdROVRLOFcyM3NVNHlOcmpBcUYxUWtPdzBIcVFLMXRlQ3lVVEtDRjRCVkZGUU5hR0k2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-05-053",
+    "date": "2026-08-05",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (OC) Q2 Earnings and Revenues Beat Estimates - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmllbndmRFk0V1FIejJDa2ZseThkbmljbk80SkRhaDdnR2FhNkhuelhUUGxQbHhCY1VKSUlTTmR2ckpla2lvdm4zeXZEQUNnVFFUSXg3T3JQN1M2c1EzQ1BFV0M1bkhXS2pUZm5ja2",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmllbndmRFk0V1FIejJDa2ZseThkbmljbk80SkRhaDdnR2FhNkhuelhUUGxQbHhCY1VKSUlTTmR2ckpla2lvdm4zeXZEQUNnVFFUSXg3T3JQN1M2c1EzQ1BFV0M1bkhXS2pUZm5ja2RKUTZneGFzTlQxV1ktcTA1N3pKa0dJRXRyMlRIWU1ReEJFREVMUWVXUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-05-054",
+    "date": "2026-08-05",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (NYSE:OC) Delivers Strong Q2 CY2026 Numbers - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQUZSbmg0TFluak4wTzJOSGc5LXdsczdiY1hoSGZHU09hSFlsUXlLT0hlaldjcmppcHVLMW5GUEUwVVl3S0RJSlc1Qi0xcE5aN3B5eG1QUzdtQVlhaDFFZGpKb2d0LWhOX0NzWEtOcX",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQUZSbmg0TFluak4wTzJOSGc5LXdsczdiY1hoSGZHU09hSFlsUXlLT0hlaldjcmppcHVLMW5GUEUwVVl3S0RJSlc1Qi0xcE5aN3B5eG1QUzdtQVlhaDFFZGpKb2d0LWhOX0NzWEtOcXY2LWhmZjgtRlhJZWtvMEZiX2FpdDNnWE5lVjVITDFCZzMwRTU2SDNMRTNXMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "owens_corning-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [
@@ -3287,6 +3750,24 @@
       {
         "name": "agc",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZW5BZ21mMGZ0dklaaWlEOVUyR3h2MXZxSGxhT0tlSHZXWGxqbmFQS0JEZVVGY0NhVjQxTjZvdGlqSFlPVk9jZ3BGWHhUbE1CcThoOGJ3V2tJeEtvN0g0VXg0UFNJQmVNTzhHazhLRXdVa0hQc0Vvbi1HaEc5UkdRUW1PVlQwZzljQnpMQXE1RzJ3Qkl6NnFzdFZ4dTMyQXNDR1NFVkIzbTMxdHFWQU85b3ZUaDJzMDlrbWU0NE1BOWY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-08-04-031",
+    "date": "2026-08-04",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "$XINYI SOLAR (00968.HK)$Rising from HK$1.87 to an early-morning high of HK$2.52 today, it finally became technically overbought and pulled back. Immediate support levels are at the 5-day and 10-day moving averages. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3k3VHVaczA5NEpsYWZRb1d2RWtYU1dkRm5OU0RwcEhxRTBzcV9uNGtrblJiZXhlODA5UnRvWWdMM2FCT3pzQTFvY05KQjVrbkFtRW9hNEFSTHY3ek9rWWtLZjFQNVBwMnlOaGV5ak",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3k3VHVaczA5NEpsYWZRb1d2RWtYU1dkRm5OU0RwcEhxRTBzcV9uNGtrblJiZXhlODA5UnRvWWdMM2FCT3pzQTFvY05KQjVrbkFtRW9hNEFSTHY3ek9rWWtLZjFQNVBwMnlOaGV5akhMcF8xWWduTTdvTTdvQkFvc3d3UGNXR2N0OFBuQWtKRWNfa3p0MklnRS1RWQ?oc=5",
         "type": "rss"
       }
     ]

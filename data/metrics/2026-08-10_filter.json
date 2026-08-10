@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 26,
+  "gate2_fail": 11,
+  "passed": 24,
+  "gate2_samples": [
+    "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+    "Truist Adjusts Price Target on Owens Corning to $140 From $125, Maintains Hold Rating - finance.yaho",
+    "Jefferies Adjusts Xinyi Solar Holdings' Price Target to HK$3.30 From HK$4.59, Keeps at Buy - markets",
+    "$XINYI SOLAR (00968.HK)$ Reduce positions in stages to lower cost basis. - Moomoo",
+    "Gallery of Results of the 5th Saint-Gobain Architecture Award – Habitat - 25 - ArchDaily"
+  ]
+}

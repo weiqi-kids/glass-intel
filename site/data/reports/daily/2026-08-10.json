@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:27:44.512986Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-08-10-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Pacer Advisors Inc. Sells 372,254 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDd0MTVuSkFjWUdMajc2ZTE0WnNXZmxKQ1BQXzlOYjlFSGxoOFZiRjhyeWhfZ0ROdkZfVDl6NU5fS3hnX1d1a0JCcjNSUUNOQ2paaG9ZUkpYbElQM29wREpOaUNTSVBzVUtHR2tuZnVudGpqeWRjbmQ3OXV1NUdibFlCX1FoQjhlOFNrbjU4ZnMtcnFHeUo1clo4Tjl6akFhbENYUWVRalpPNXZzYmpObUhqX0dsZjB0QW9YX1BFUUc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The weather will be crucial for solar eclipse viewers - here's what to expect - Sky News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnp0Wk5wUFhVV3cyZ1E3eDI0M3Q1Zk84Znk1UUltVGlad2lKaGZMdHhxT2NQUUVyWHNiU3F4WEl2VmNhQUZoRUNkX0VwX1FCd09ZdE9QZVE4R2d0UUlhR3NDYTdmN3hPVXhlQ3lHdzAzMFRlT09TN2lleS1BMVhJVUwwNlpaOXFvUnBXM1AycDBPdWhTc2V1Z0RyZ3RydUxqbWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-08-10-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Owens Corning Inc $OC Shares Sold by Bank of America Corp DE - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhDVUFUWXl6VTRDQnZRcjNwSk8yY0JOV2g5b2N2ZlZPXzBMeXN3SlhDNll3LXljeGVWSzNReVJMTmJMcVoydzB0bHBBMVpQVUpaMng2QXdTeUJKdmV1ejlteHhJNFRYLTV0aUowbmZ0QUdaSmhka21GaG95MUZOSldJUjh2S2dHaHFFYmVqLU5uRjlCUnplelh4RXNQdUVSMmlnc0E1SFhQam1MZkc4RkJpc2t3OE12TUtWSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-08-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar Backs US Section 232 Measures on Polysilicon Imports, Citing Solar Supply Chain Security - SolarQuarter",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVp1Si1VbS15S2xmR3pxcVQ0MlhUNG9IZVdKcFhSY3pLdXpJTU5nemx1S2w0cEtjSmFCcXFWNk5XRnYtTUptZjkzRTVQVmZwdEJzRl9PV3FmRXBfcG01YjVyb3pwanN2MjU3SV9UOGNCSW4yeXRVWEw2QlhtSXkzWC1PT252Z2tZZm5HckszZ1dQb0x1Z3VYT2JmLWlvdU9SRlJRSGM0eTgtLS1uX29GcG1rN19BTEhIbGdpNVo1NTJjLUF3WXZySVRPbmwwZFlHbFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 202,
+    "too_old": 176,
+    "gate1_blocked": 26,
+    "gate2_blocked": 11,
+    "passed": 24,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+      "Truist Adjusts Price Target on Owens Corning to $140 From $125, Maintains Hold Rating - finance.yaho",
+      "Jefferies Adjusts Xinyi Solar Holdings' Price Target to HK$3.30 From HK$4.59, Keeps at Buy - markets",
+      "$XINYI SOLAR (00968.HK)$ Reduce positions in stages to lower cost basis. - Moomoo",
+      "Gallery of Results of the 5th Saint-Gobain Architecture Award – Habitat - 25 - ArchDaily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為康寧、Owens Corning、First Solar相關動態：「Pacer Advisors Inc. Sells 372,254 Shares of Owens Corning...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pacer Advisors Inc. Sells 372,254 Shares of Owens Corning Inc $OC - MarketBeat（財報）",
+        "level": "red"
+      },
+      {
+        "text": "The weather will be crucial for solar eclipse viewers - here's what to expect...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

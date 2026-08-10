@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:50:22.486310Z",
+  "updated_at": "2026-08-10T09:27:39.469840Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "旭硝子",
       "ticker": "5201.T",
       "currency": "JPY",
-      "ar": 324396000000,
-      "ar_prev": 310030000000,
-      "ar_qoq": "+5%",
+      "ar": 342972000000,
+      "ar_prev": 324396000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 465415000000,
-      "inv_prev": 457674000000,
-      "inv_qoq": "+2%",
+      "inventory": 495857000000,
+      "inv_prev": 465415000000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "au_optronics",
