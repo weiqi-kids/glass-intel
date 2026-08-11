@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 24,
+  "gate2_fail": 13,
+  "passed": 37,
+  "gate2_samples": [
+    "Sheriff’s Office Identifies Worker Killed in Tata Chemicals Incident - SweetwaterNOW",
+    "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+    "What Is Behind Owens Corning (OC) Shares Climbing Today? - simplywall.st",
+    "Cash flow from investing activities of AGC Inc. – HAM:SHJ - TradingView",
+    "Saint-Gobain, AGC to Build Largest Electric Flat Glass Furnace - usglassmag.com"
+  ]
+}

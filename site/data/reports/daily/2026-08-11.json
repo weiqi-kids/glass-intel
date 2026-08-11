@@ -1,0 +1,265 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:03:43.498094Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_glass-2026-08-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Glass Holdings (SEHK:868), What Is Behind The Fresh Attention? - simplywall.st",
+      "companies": [
+        "xinyi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glass_fiber_electronics",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeDJvVG9NYnpFOWx0US05d0FFdXFza2ZnT1pyUnJITjFReWFoVEZycUFWbUpLc1QyRHdWQ1oxWXh5VHhFaTV5NUM5aGFBdTFnYUo5d0gyNW9DVXZ1c2JORWRIQUNuOFdRWlBKWGxUT0I4U1RVcTkxeGRwZkJNTW9LRGFqZWVrY3hHcHlNZlgyY29YZnZpbWpCbHlWZ29ZLVlrS1dVU2JKRERQME5td19ndk9JZTVab0psSFlCNGNSUEIyWTFyUlR2b2VXUHpkZ3U5c0JnbzJHSURFWGltWjNGNUY1WFoyd9IB5gFBVV95cUxPeDJvVG9NYnpFOWx0US05d0FFdXFza2ZnT1pyUnJITjFReWFoVEZycUFWbUpLc1QyRHdWQ1oxWXh5VHhFaTV5NUM5aGFBdTFnYUo5d0gyNW9DVXZ1c2JORWRIQUNuOFdRWlBKWGxUT0I4U1RVcTkxeGRwZkJNTW9LRGFqZWVrY3hHcHlNZlgyY29YZnZpbWpCbHlWZ29ZLVlrS1dVU2JKRERQME5td19ndk9JZTVab0psSFlCNGNSUEIyWTFyUlR2b2VXUHpkZ3U5c0JnbzJHSURFWGltWjNGNUY1WFoydw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-08-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Did Profit Compression and a Lower Dividend Just Shift Xinyi Solar Holdings' (SEHK:968) Investment Narrative? - simplywall.st",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbC12aC1kTEJxQVR4MmtxdWdRWEpreDE3TGxnaXhhcUhHaGgtSmU3REdCZE9qdWhDbmI4ZU9ScnpXcVEyTFhvSk83U1VLdGR1UGZibHRNeDBWTHBZTzhsRHBIUndpa1E2YWk2QTM2XzBZUXZBeF9Kb0Nmd0gzdnlYSU1jemNjNWd6WWdZd01rNFRNV2dDQjlPbmlhdFlJTkxpWWFBVTB1cE1wSE9Xay1lR2Zfa0FqcHkyd21xckJ4UGpLSVNWTFZEMDBUYldSckZFb3dsRDEtRGRDLWpMSllDZ2dB0gHnAUFVX3lxTE1zN2hBWDRoZlNoZU9XV3ZBd3ZEV3huWHJIVXZENkZhNkVvbkp6cUZid2F2R3dRQXg0VlduVy1CamwwbTlFbzFtYVFwLXFlV09sWjhGelBqQTVxSlFTeEVlVXY2R2RucnRqN0VBaHY2ZS1DbUttVl90Njl1MmJNMVpxTk5nN0w4SHVKOExBRVBYUDBJOHVfX2VCWmo4aWdTNTVxUElCbV90UkstazRqNDZKYlFGbEFHZnlwc0xnalVMV0lRZTA3M1M0Y1ZhMWVzaUI2Ymo2UW9RSGhoT0F3aEtiaWZQVUtqUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-08-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain triggers SA materials probe into Chinese and Saudi imports - Business Day",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMV9LWHlPQ3hYbDJrR2tBOUZLSlNPV2pZUEp0bjV4clNuV1pEd19rLV91el90SUpCWURCODNvWlFZcm5sd1JSdlVrYUFoWVZzZW15U01FR2JLZ0ZnM2ZnQUM4c3NEY2JobnZsSUZjSE5hS0l1dE5XOXJvMWthdjVfb3M5MENGdWhkY1o3M3F4OURsT0RPNU8xeTU1V0U0XzZFOEJIVmd2aGJDTEFHaGFXaC1zU1pwZGlIaXV5Q2ozd1o?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "longi-2026-08-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bayern Munich announces solar energy partnership with LONGi - Sustainability Online",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWQ4OEowWlV2c1RsQjI0RHJKR1BPUmpjZE95MGlRdnRFSDMxWjQ5MGo5Vk53S0hISmhDU3BxVWZ4SXhxTXRhWVR6TURub0JXOElLTFpzQllPWWtOQ3VxektYTS1QWmM2RjR1c3dmMDZpMW5GNzV5a1J5SU1TSVJXTDV4bEZzekF2MHdTUm0zYk52bTFNOEFLTFdLUlgweEk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-08-11-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. (NASDAQ:FSLR) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnlVeFdKVElhY2NJRmRocXlyNlR5bEdkODVWT3drbUFYNWJBdy10M0VsVXhrX3Q4N0M2cll3eW9nY0l5bmRZMjRRRlNyWU5ibHIwSGZoOS1wWFJQcl82SnBmbTlGU2FCd215akIxVGctMzhiQWVSNDN0VVppdXA4WHF1SDlqNDVFR3hZdGRoS09KTURiNEpmSFB4ajUzWDJDWmZfSUk3czB5ampKSjFDZ3pSTGwyS0lwREdVV1Jvc2ZndDl2azh6ZEs1dkNnS0N6ZGpZb3ZBZV9Hc2Zt?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "inventory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "xinyi_glass",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 203,
+    "too_old": 161,
+    "gate1_blocked": 24,
+    "gate2_blocked": 13,
+    "passed": 37,
+    "pass_rate": "15.7%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "Sheriff’s Office Identifies Worker Killed in Tata Chemicals Incident - SweetwaterNOW",
+      "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+      "What Is Behind Owens Corning (OC) Shares Climbing Today? - simplywall.st",
+      "Cash flow from investing activities of AGC Inc. – HAM:SHJ - TradingView",
+      "Saint-Gobain, AGC to Build Largest Electric Flat Glass Furnace - usglassmag.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為First Solar、康寧、Owens Corning相關動態：「Xinyi Glass Holdings (SEHK:868), What Is Behind The Fresh...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Xinyi Glass Holdings (SEHK:868), What Is Behind The Fresh Attention? - simply...（玻纖電子、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Did Profit Compression and a Lower Dividend Just Shift Xinyi Solar Holdings' ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
