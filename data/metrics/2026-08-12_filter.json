@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 29,
+  "gate2_fail": 17,
+  "passed": 31,
+  "gate2_samples": [
+    "Sheriff’s Office Identifies Worker Killed in Tata Chemicals Incident - SweetwaterNOW",
+    "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+    "Owens-Corning Inc (OC) Shares Surge 3.3% -- What GF Score of 76 Tells Investors - GuruFocus",
+    "What Is Behind Owens Corning (OC) Shares Climbing Today? - simplywall.st",
+    "Cash flow from investing activities of AGC Inc. – HAM:SHJ - TradingView"
+  ]
+}
