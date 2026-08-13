@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 29,
+  "gate2_fail": 20,
+  "passed": 36,
+  "gate2_samples": [
+    "Sheriff’s Office Identifies Worker Killed in Tata Chemicals Incident - SweetwaterNOW",
+    "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+    "Judge declines to lift suspension of Tata Chemicals Magadi operations - Business Daily",
+    "What Is Behind Owens Corning (OC) Shares Climbing Today? - simplywall.st",
+    "Owens-Corning Inc (OC) Shares Surge 3.3% -- What GF Score of 76 Tells Investors - GuruFocus"
+  ]
+}

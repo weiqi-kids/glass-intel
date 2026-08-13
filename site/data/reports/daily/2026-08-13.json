@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:17:48.642900Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-08-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Global majors bet on Tamil Nadu as Daimler, Saint-Gobain line up projects - Business Standard",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0hURV90cmFVbWVnaV9jbEFqZUtkSlhyeVBEZHp5Q1V4cHJlSmlvX2s0QWlrRWF0XzkzRlUzN2xKOTVYZ3dsYnVRRjZjQk9CM01TRXVlSGtMR0sxSzFOd3ZzLU9wQTR1cWJLejFhajI5SXpnT1ZqdS1xQ2NqQ0xsSG42S3plMi1oUk94SjBSendWNkpIVkpGZnJJT3J3eGZkbEQ5Y2NRcGdZNU0tbXlISzdNN000YVlOMGtHcFhoWXRQQm5WTGRQTV9hVi3SAdIBQVVfeXFMTkhmeTFUcWM3TERQbGRYbHVpeUxQQUJUbUZYbVFDNW9vQjJDYnIxZlpxS19tWkFENnViNm5tVS1VUjVHZDRDMG55dUV0d01tWXZRc0huQ2U0NG5EY2theTJNNDI1N1diVVo5UC1jdWpwNlpRYkhxQnhUcDFlQmhhRGtNanhiWDBNeUQxdEJZV3RQUlV5X3NfaDkxM2Zfd2NrT3BpNGMwa0RsZ1dGUXFtYmxaTnpkTk9XbFZ4bWdNd1BzRDhBT3J4UURFNTYwVnprOHNn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oi_glass-2026-08-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass (NYSE:OI) Sets New 1-Year Low - Here's Why - marketbeat.com",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQem1Ma0tka3I3aFh6TDZkYjFBbndBb0ZQVnMxd1Fza3JvRVJNdnBubDl0RENrU2ZjRV94ZUU3X3VaMGF3WXNSZHZsbWtkTkxBYnNyV3p3dl8xemJHQUg3SDFDWmFGV3B1N0phVWhNMlFfX1VUVWtNVDFQWlBqcXU3VUFmZjZ3a0pfQnV1MUMwZURpX3Q1NlVBVXVoNjJQU0VPOGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-08-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RBC Capital downgrades O-I Glass stock rating on volume concerns - Investing.com",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUmxNeU1ONlliV2dFdTNvQV9jbE1wOW9CcVhTUmM1UVhFMkRSV3ZzZHViM1FEYl9UQzNNdmdMY3pjVDVGT0drYktCRXZqcXpRMVRfWm9uZEVZeUFDaTg2RXg1R3hrVUw1S2JXbHVvbW1QTkdRQ1RNTlBMMTVfNE53NG9DSnZ1aFR6eGY1UVFqM2ozbERVQVZtX0dycTVRSzhMYjM0NDhibUFwNHVuanp6OTBCM1hkRXBjYnBuZE5RZEU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-08-13-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Insider Selling: First Solar (NASDAQ:FSLR) General Counsel Sells $922,706.00 in Stock - marketbeat.com",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0FQNjZ6WU1Tb2VIbTBnbWk5TmpNV3ZOcWotX0JZZGtfX01YaXZvd0xJVDA4WFJUU3RwcnZvMzNTODA3U2g0NTYyc2g1enJ2MkZwVWN2aHhneVlIOFBIMEZKWmx3QVdWSzBxQW5pc0J6YkxGdmVybnAtRVZfVXdCOXJzaGE3R0k4dVVmZFBfUW5NalJqVXN6Q3hnUVZjdkJsbDNJWS0wTDM5anBIdFpzTXdQWFQ0aUF0Qm5nX1dLeTJRMWpQYTVUVjBIVlA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-08-13-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Saint-Gobain Lines Up A Big Tamil Nadu Expansion - Finimize",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFdvWWNHVXdGSWhTcGx4TzZ4SEtBNVdiMmpnSGxjZk9HX21xZ3Vha3hGLU15VHJlVDMxNDNCeXVuY3Vqd19iRnh3QnkyMnVzV0JkOUktb1JaTnZZOHVlV25qLUdoelUyS1g3OU1UNWIyZndKanB1TWpLWFl3Y2N6aFNudw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 173,
+    "too_old": 181,
+    "gate1_blocked": 29,
+    "gate2_blocked": 20,
+    "passed": 36,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Sheriff’s Office Identifies Worker Killed in Tata Chemicals Incident - SweetwaterNOW",
+      "Investigation Continues into Death at Tata Chemicals - SweetwaterNOW",
+      "Judge declines to lift suspension of Tata Chemicals Magadi operations - Business Daily",
+      "What Is Behind Owens Corning (OC) Shares Climbing Today? - simplywall.st",
+      "Owens-Corning Inc (OC) Shares Surge 3.3% -- What GF Score of 76 Tells Investors - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為聖戈班、O-I Glass、塔塔化工相關動態：「Global majors bet on Tamil Nadu as Daimler, Saint-Gobain ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Global majors bet on Tamil Nadu as Daimler, Saint-Gobain line up projects - B...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "O-I Glass (NYSE:OI) Sets New 1-Year Low - Here's Why - marketbeat.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
