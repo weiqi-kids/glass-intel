@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 185,
+  "gate1_fail": 25,
+  "gate2_fail": 16,
+  "passed": 40,
+  "gate2_samples": [
+    "Judge declines to lift suspension of Tata Chemicals Magadi operations - Business Daily",
+    "MSHA Releases Preliminary Report for Tata Chemicals Fall - SweetwaterNOW",
+    "Sheriff’s Office Identifies Worker Killed in Tata Chemicals Incident - SweetwaterNOW",
+    "Merit Financial Group LLC Has $1.90 Million Holdings in Owens Corning Inc $OC - MarketBeat",
+    "What Is Behind Owens Corning (OC) Shares Climbing Today? - simplywall.st"
+  ]
+}
