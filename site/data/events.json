@@ -1,5 +1,41 @@
 [
   {
+    "id": "first_solar-2026-08-15-001",
+    "date": "2026-08-15",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Could Be 10% Below Fair Value Following Strong Cash Flow Turnaround - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzNkaWhuSFNIVjVQZkNYYVVyc1FNVUhwUUtwdXZlTThqSk1XREx2WEFqaXZVdk9lb3IxT05DakgzZmxqSlg4S2lWREphYWxaQVN4ek1oeGw0V2l6LTFrdDJXSldFUEd6LVpNV3dkT0",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzNkaWhuSFNIVjVQZkNYYVVyc1FNVUhwUUtwdXZlTThqSk1XREx2WEFqaXZVdk9lb3IxT05DakgzZmxqSlg4S2lWREphYWxaQVN4ek1oeGw0V2l6LTFrdDJXSldFUEd6LVpNV3dkT05tODc1SWh3WXgzM1UwS24yRGR5RjhWSTNEVXk2UU96eHh3Nk1IdlFDbFlieVNZNzNBc19ZaDlMNnpvalBoYkF3NnBXR3k0a0hpV0Z6by0wWllHU3J5TUxZTEJnZ29ZV0xDWUHSAdcBQVVfeXFMTlJUd3dhUnhDdzEtVHBuTEYtSmdTU3Nabk56UlRFeFdLb1dpQURod1hOZWRnQzJ0ZjAwNV9oVGllMUxUZFB4cjlLaDJYSktZRnFNWDRYTXZsRXpWNGtmdTM0amNFemt2blNEOHVhNVBxOU1NUk5sSEptX2dWdFlXVGFoRGVzemhUaVlfVldUNFROTlR5WVUwRmwxVzF2Vno2dlk3Ym5McFEzbXo4bUh6UjdxLVhseUtTVHJJZFJQbXVQUVJPRzlWMTRrczNYcDFpTEdvT0FnN2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-002",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Frosted Glass Etchants Market to Reach 5.9% CAGR by 2035 on Architectural Privacy Glass Demand - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZU5hVmFlNzQwQ25vVWpERnNzcGxfSE9wbXhhamF6bHJIcXNpcGkySUpLRlJfeXJrTWhvOEI4dGhEMkdYcEZGNTJLUURfTHpaNHlBMkl2SDNrcXh5eDhtTFltSnk5TTBwbzYyUXBSVF",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZU5hVmFlNzQwQ25vVWpERnNzcGxfSE9wbXhhamF6bHJIcXNpcGkySUpLRlJfeXJrTWhvOEI4dGhEMkdYcEZGNTJLUURfTHpaNHlBMkl2SDNrcXh5eDhtTFltSnk5TTBwbzYyUXBSVFRqR2F0M1pibXRvVG9scnNXdnZnSnBTVzV6UVMtdmZIREl2eWVEYWtHV2QzVmphVDlOLVNKWGZScGFTYkhmbnNvdXd2UWRJQlk1VU4zTENTM2U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-14-001",
     "date": "2026-08-14",
     "companies": [],
@@ -132,6 +168,289 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3dWbm9zMWZ4UU9QNmNiVTNmelY5UEFPY2h4TG1wLTVPVWhYY2laTUN2OS05V1pzb196ZWpOUWZWckw4WElETnVBYk9UQ2FNM3Y5U3NzM0syVHFIVG5rS0hnanJQM3l1cXVHZXlESk15X2JlSlJVNWFRRTB1bnN1bk1jSjRHa1JzTUFITnRIOUhvNGZvejRkNndpQUZEcXNXVjV1OEFwSnFNUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-08-14-008",
+    "date": "2026-08-14",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Says Chu Charn Fai To Retire As Executive Director - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTgzLVREM1VfN3doZkQ3ZWhOalYyMGRlcVliTTJsY3hyT0s4SEp5QlVvOUtZVnRyeks4YWc4cU0tQ0JfZ2ctRTQ5aDJnUjVNUTdLd0Z6dEtzSzhOZHpxT29kZWdFcHYyNmw2WWhyek",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTgzLVREM1VfN3doZkQ3ZWhOalYyMGRlcVliTTJsY3hyT0s4SEp5QlVvOUtZVnRyeks4YWc4cU0tQ0JfZ2ctRTQ5aDJnUjVNUTdLd0Z6dEtzSzhOZHpxT29kZWdFcHYyNmw2WWhyekRMa2R1aF9meEk3Z3p6cDNUX1M5RXZ4TmlibWFNVnAzRlVWZjFYZnVsWEN4bHdGUGtrakVBZElrRzFaVFpuUkVlMEhqM2dSb0ZXMEoyb053dFlGRzh6eXBvazE4UFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-08-14-009",
+    "date": "2026-08-14",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Saint-Gobain Opens North America Fire Testing Lab - Roofing Contractor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVBEWW9WNmtHWW1YMGJnbzJ4V3czaWhOcFFQa00tbm5ldmNOQS1XOFE2R2d0TDlmbHA3N2I0b1loM3RtaVJsMmdka2hyT0t5dHJtUmcwNlBPTUJnRW84V3E5ckUzNHo5NXFHVHBEa0",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVBEWW9WNmtHWW1YMGJnbzJ4V3czaWhOcFFQa00tbm5ldmNOQS1XOFE2R2d0TDlmbHA3N2I0b1loM3RtaVJsMmdka2hyT0t5dHJtUmcwNlBPTUJnRW84V3E5ckUzNHo5NXFHVHBEa0JReTJkZkt2SERNSUNsS2VjQkhOMVN0VWltWHhJQlhyX21iRlJ4MjRLWlBoWkV4bE8w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-08-14-010",
+    "date": "2026-08-14",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating O-I Glass, Inc. (OI) And Encourages Shareholders to Connect - The National Law Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3dCWGNKSlN1eEFoYk0yNWM0cUExMHdpRWJDQkFUa2tJSFJiS2ZyRU1RTlZ3R0d1UjRHTE5aYVNjTGR4MV9hX0lxd0ZHZE5aUXFXWVVQWmJVaHJ6RFJQTHhBS3p1cjJIZFJ6YmZhTz",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3dCWGNKSlN1eEFoYk0yNWM0cUExMHdpRWJDQkFUa2tJSFJiS2ZyRU1RTlZ3R0d1UjRHTE5aYVNjTGR4MV9hX0lxd0ZHZE5aUXFXWVVQWmJVaHJ6RFJQTHhBS3p1cjJIZFJ6YmZhTzF6R2FDUlFMakpxX1NoVGdLVXRicFhVc096dUVobENkQV9zNjZJM3pFSXJJY01GdVJrRll4OFp0TVAydkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-08-14-011",
+    "date": "2026-08-14",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "AllianceBernstein (OI) discloses 9.6M-share investment stake in O-I Glass Inc - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWJwc2JKYVU3OHVBeXgyWlFCOFVNS1B0c3NkSUtXWWhkdWt2WUNCZFk2SVZmOTFHMDR5eXVRQmpPU0RucDQ1YUR2V2FKejJ1a1IzY3dqVWZzbkdQOEJLVU8tODBhaWNnUVFtdDRYNW",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWJwc2JKYVU3OHVBeXgyWlFCOFVNS1B0c3NkSUtXWWhkdWt2WUNCZFk2SVZmOTFHMDR5eXVRQmpPU0RucDQ1YUR2V2FKejJ1a1IzY3dqVWZzbkdQOEJLVU8tODBhaWNnUVFtdDRYNWxqY0xhQW5TQjBCUm9MMXY2Z2Vabm5pZmNkeG8xYjVwMXRjYUNJVG1lVTN4aFZLQ3FTYnZmSnF3cXBfRVJoeENGYmV6ZDZ2LXZTd0ZFdHhZR3ZSSUZuTEFTaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-08-14-012",
+    "date": "2026-08-14",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Cooper Creek discloses 5.5% passive ownership in O-I Glass (OI) common stock - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOOG0teE94Tm5CcFFpeTZpUk11Zzh6RFBqd1NTSTN5QUx3M2ZUNzZubW1zREJ5Q0haOXFyNjZuU2puS0pOZGJoWEVDR09LdFpFNzc3LU40cFlhUXVwVlA3bzcwdzJ5ZEVFNDgtbnoyaz",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOG0teE94Tm5CcFFpeTZpUk11Zzh6RFBqd1NTSTN5QUx3M2ZUNzZubW1zREJ5Q0haOXFyNjZuU2puS0pOZGJoWEVDR09LdFpFNzc3LU40cFlhUXVwVlA3bzcwdzJ5ZEVFNDgtbnoyazVyWU9wZEVKVGc3dXlfWkxpLXhjam1Pamw1YmM3MGdPWnJlcEdVdzRvNVJaUG81WmZ6N0ZWRjZzQjA4VExETGVWeHUxaE03X2h0WFZyVzhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-013",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Solar Power Hits Big Milestone, Trumping Wind For First Time - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWlULWVxd19HNkFZTjQ1RGxSYnlYUUpkakZQVEpfNG1KSUpQaHU5ZFRJZnE2MUF4eG02dHRxLXRHY25DakkzNElienc3Z0FkNVhsa1g1bXlmaWNGVy1UT1dPOTZ5WnRQeGMtWkVkLU",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWlULWVxd19HNkFZTjQ1RGxSYnlYUUpkakZQVEpfNG1KSUpQaHU5ZFRJZnE2MUF4eG02dHRxLXRHY25DakkzNElienc3Z0FkNVhsa1g1bXlmaWNGVy1UT1dPOTZ5WnRQeGMtWkVkLUFRWTlFN1dnODE3NmU4OFRFOEpaSEgzWFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-014",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Solar Is Now Half of All New Power on the Grid and This ETF Still Trades Like Nobody Noticed - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEU2ZWdzcmhaWll6UkxzbUUtVUtHN2JMWGJzdXZNUHBWNTR2NXJoZzRwSUMxMk9idVJqMWZ3R2dtbjlBY01UMlVra19rbmxabk1LNHZoblBOSUZtM3FFbC0xSXJHc3ZnRV9RUEhJLX",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEU2ZWdzcmhaWll6UkxzbUUtVUtHN2JMWGJzdXZNUHBWNTR2NXJoZzRwSUMxMk9idVJqMWZ3R2dtbjlBY01UMlVra19rbmxabk1LNHZoblBOSUZtM3FFbC0xSXJHc3ZnRV9RUEhJLXNfcFdmZGtveFhUSzFfaGRLVGEwbXlJZlQ2OFBFVkpTYlYwMEZPcDRyazA4NVZtandFZG56b1M4RFdTZU1sZWYxRlFDZHdwTEJKUDlBNmYtQ25GQUJBal9BMUNzazNaZ2ZkR3pQN2ZQRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-14-015",
+    "date": "2026-08-14",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Susquehanna entities (NASDAQ: FSLR) report 7.0% beneficial stake in First Solar - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdVpNdEdQRGY1Rnk1czAxcFBMWkJsSVZ3YUNkTkYydzc4Q1VvMU1UTWJUY0duNG1EOE90NWhwckc0ZXZKRUxza01zS3VrTnI0eFFNdURwQ0NTdDFJY2pzSmRndExRVTNIajM3MVFyOE",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdVpNdEdQRGY1Rnk1czAxcFBMWkJsSVZ3YUNkTkYydzc4Q1VvMU1UTWJUY0duNG1EOE90NWhwckc0ZXZKRUxza01zS3VrTnI0eFFNdURwQ0NTdDFJY2pzSmRndExRVTNIajM3MVFyOEowdVRXeVpCeDNJSkJyNTdrWHpRaUF5SF9zb3pGVFYxUjlxa0FCWDg0ZHVITE9RcmVUMk1xS21nQWd2b0kwbm5SN3lraTl0aTZxYWRMRGFKOFVCSXBmRUJ5eWFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-08-14-016",
+    "date": "2026-08-14",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Innolux Q2 Net Profit Hits NT$4.53 Billion, Up 178% QoQ; First-Half EPS of NT$0.77 Surges Nearly 30-Fold YoY - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9iaVZ5Z21yWkZScG9rcmhYUUs4bHVwbTJkREpZb0RpOHVxVjlGbGdjMHl4bTFHY2hXdzVLN1VRclpQTlgtUUVZQXUwNmlJOXNjTndxd1g4c1JFMWM5WG9oY2xqdUZ0VUtYN3dnNW1QVE",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iaVZ5Z21yWkZScG9rcmhYUUs4bHVwbTJkREpZb0RpOHVxVjlGbGdjMHl4bTFHY2hXdzVLN1VRclpQTlgtUUVZQXUwNmlJOXNjTndxd1g4c1JFMWM5WG9oY2xqdUZ0VUtYN3dnNW1QVEdpb2JPZ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-017",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai starts building the IONIQ 3, its affordable electric hatch",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/Hyundai-IONIQ-3-EV-production.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/08/14/hyundai-starts-building-ioniq-3-affordable-electric-hatch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-018",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "auto_glass_trends"
+    ],
+    "impact": "neutral",
+    "title": "The Real AR Smart Glasses Race Will Be Won in Manufacturing - CEOWORLD magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQejRsc0tvTjUzRl9rbnZicXpiRks4aDctOHpxWllzS29RRDgzWV92eW1VXzFubkkxUW5pWHdLTkhwZ3VWdFBvNm92cjhGcGowcEdhV3pEMmliQU9fUXlnUmFBd1hyY2M0ODIxckxSaz",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejRsc0tvTjUzRl9rbnZicXpiRks4aDctOHpxWllzS29RRDgzWV92eW1VXzFubkkxUW5pWHdLTkhwZ3VWdFBvNm92cjhGcGowcEdhV3pEMmliQU9fUXlnUmFBd1hyY2M0ODIxckxSazZuaXUxV3FDTnJfNEQzWlpMZlNZa0ZJLVNDcC1lSEdWd09vR25JMXdJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-019",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Dolomitic Limestone Market Semiconductor and Specialty Glass Demand Reshapes Revenue Dynamics Through 2035 - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDM1TlRYd094dkZ6U2ltSE1aUEthbnQ2c3o4TEdVYUN2a29aaEdFTDE3V3Z4cE9lMDhyR2tteS1LUVI1YUdFOEhCbTBVQlh2ZmkzNTFJT0xvUHpEY01Ja1BDYkdGcm02alF6cng3Z3",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDM1TlRYd094dkZ6U2ltSE1aUEthbnQ2c3o4TEdVYUN2a29aaEdFTDE3V3Z4cE9lMDhyR2tteS1LUVI1YUdFOEhCbTBVQlh2ZmkzNTFJT0xvUHpEY01Ja1BDYkdGcm02alF6cng3Z3hYUTdFOGswQ3NyNU9TM2s3QW9sQS1EbkVqWXlHMVh1SVR4MTF5UXNhWWNBMkxxSUF1eWRlZnJUVmhydkdSMWU2M2FLaXhYbnVVV0pLUEtwVXhCaWpmaE1DTm5aZ191NUx5LWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-020",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Builders tout more than just data centers in latest earnings reports",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bLDRpFTLS7kveLk87eltsk6CwscVamsfyRB_16ER-uU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80ODgyMjMwMTZfMTI4Mjk2MjE5MzMwMTUwOF81",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/builders-earnings-roundup-q2-2026-balfour-beatty-skanska-wsp-aecom-granite-tutor-perini/827956/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-021",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Construction costs rose 7.4% annually in July",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8sj6da6PRcQA_dcvsvMZbbZVBI2j0ReQmiPOTaj4dKo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxNzgyMjIyLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-costs-producer-price-index-july/827933/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-022",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Skanska small business outreach lead sees opportunity in DBE changes",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/q3-JT22BxlPE8JJHZL5qYfy5mPIlh2wR1LeLS5PT9M8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MTE5ODUyNDJfSld2QUJl",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/skanska-small-business-opportunity-dbe-lax/827888/",
         "type": "rss"
       }
     ]
@@ -689,6 +1008,66 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/pennsylvania-targets-infrastructure-investment-12-years/827730/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-08-13-029",
+    "date": "2026-08-13",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "RBC Downgrades O-I Glass to Sector Perform From Outperform, Adjusts PT to $8 From $10 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUVhdTl1RmZqbjJ6cDNLVDdVbG5oSzBnQ21FVUgyby1uTDRmOEFlN1l6MGxSUWt3QjhlWXZ3a3NEcVJGSE5sZHJXcExzdGw0WmRxcm5GYzM2c2tQZVFZX2RUeVV2VDlCNDFtbjdRWD",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUVhdTl1RmZqbjJ6cDNLVDdVbG5oSzBnQ21FVUgyby1uTDRmOEFlN1l6MGxSUWt3QjhlWXZ3a3NEcVJGSE5sZHJXcExzdGw0WmRxcm5GYzM2c2tQZVFZX2RUeVV2VDlCNDFtbjdRWDF3VGFxNlhEWXFUTlhpdVRoOG5ZUlNEYXBWLXFLQW52RGgzcmw2dnJ1RzIwMWl3dWt3X0J5UnNRczg5YVdiY2ZNdGRNUmUwV1JLYmZJczhnT2RyZENMTHE4b042SGIzTVRq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-13-030",
+    "date": "2026-08-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Spain's First Solar Eclipse in a Century Prompts A.I. Reimagining of Prado Masterworks, and Other News. - surfacemag.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNNE14aTJIOFBySHZrdUtmeUF6aWktRlM3b3ZFSEFzQ0NaTEhGVjdhOTMzU0dnSHdNelJRN2lBa0w1SGlOeUQ4Z1RPak5ZSmJLX3JTVDRPcGtES3hzTHZWWS16NFc0QzJ5bXhhckFYeS",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNE14aTJIOFBySHZrdUtmeUF6aWktRlM3b3ZFSEFzQ0NaTEhGVjdhOTMzU0dnSHdNelJRN2lBa0w1SGlOeUQ4Z1RPak5ZSmJLX3JTVDRPcGtES3hzTHZWWS16NFc0QzJ5bXhhckFYeS1UTXNJQTl5eWw3MGo0cGZmTlVTQ1VoRHJOMk9ZMElWY1h1WmpISUVYVW1XcU41dkJhNVVfMGpGYk9LQTFMVmU3cV92cUg4R0dRdFBVcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-13-031",
+    "date": "2026-08-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lost Money on First Solar, Inc. (FSLR)? Join Class Action Suit Seeking Recovery - Contact SueWallSt - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ1J5eng3OWxoTTJKSkJseFYxeTBSZThRbDRmcHo5TnJGZURTRHhQZVdZMjJuOE5veDBGQllkSmNWZ0VPTjNQZXMtVmJHUTVjdlhwc3dURXcydGgwSUJ4VHB1dXgzWU4wZFNQX3FwTT",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ1J5eng3OWxoTTJKSkJseFYxeTBSZThRbDRmcHo5TnJGZURTRHhQZVdZMjJuOE5veDBGQllkSmNWZ0VPTjNQZXMtVmJHUTVjdlhwc3dURXcydGgwSUJ4VHB1dXgzWU4wZFNQX3FwTTl0SlNDbVJnaGg0dDg5ZVRIeFVyYkFPa3VmZER6Y2pBcXN5LU5kLU9haVJwVUFmMld3ZUNnNmxDZDV2MEhNdHdLUnZXUlU5OGp4dHpZNEtZbUx6WTJpQ19jb0ZMM2dkdHpQY1BBYVc0SVBvWTlQaTRwWUVNTVQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1270,6 +1649,45 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHdTWEd6UFVpTl9uejBELWw4Z0pWZWRiUjcydnY0dmFHbkdpb0V6SFcwMDZHVWJsaVlRZ2tqd0pRYzJ1YXh6emlmQVpTZ2lYZHZoMzVyd1BDd0dBaDQ2NmtkRFlXYmYxNlFyOWNENms3MnNSSDJ2bDEtVmRzRjBkQWdHMXE4X2JFQ3kwOVozLXhnNnF5N0sxQkRTeGtLbHFRMTRlc1pHa3pjRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-12-031",
+    "date": "2026-08-12",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc. stock underperforms Wednesday when compared to competitors - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXR0WFdPUzlhVW1XRVhTMThaVHFySTJKaEpkVXlwUGp0U08yVVppdmkwd1A2SjVTYTdsd0NZRnFzS3lfMlMzdWlBb09TMEJoal92WjgxUlpmNzJSdGxLU3ktUmhXd1NHN0FlbjBLNV",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXR0WFdPUzlhVW1XRVhTMThaVHFySTJKaEpkVXlwUGp0U08yVVppdmkwd1A2SjVTYTdsd0NZRnFzS3lfMlMzdWlBb09TMEJoal92WjgxUlpmNzJSdGxLU3ktUmhXd1NHN0FlbjBLNVdsbm9UY2lFcFd1VHV3dV91SU1xZERLd0lrNWJLNHFOTHN0TjVIWjFNdU5TWG1icE95aHBFdmdraUYwd0hKT0ktb0VON0RNbUdsWGwtaXV4em5lQjdJQ2MxLVBqTS1JT2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-12-032",
+    "date": "2026-08-12",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Zambia commissions first solar-hydro hybrid plant - waterpowermagazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzZMQWVSOEFpZW5NenRreXNaMXAweXhxNXRrSkN5c0tDV2dxMy1sSGZ6d09UN2VkUlhVY3E3djhYcG9yRzFzd2hQbE9uT0lPUFFTd0dNc0FkcG11VFItTS02dGVKX2FBNWc4VWtEcm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzZMQWVSOEFpZW5NenRreXNaMXAweXhxNXRrSkN5c0tDV2dxMy1sSGZ6d09UN2VkUlhVY3E3djhYcG9yRzFzd2hQbE9uT0lPUFFTd0dNc0FkcG11VFItTS02dGVKX2FBNWc4VWtEcmdYRkRNVVhTeWhJVDMzQVZtem8tM1NRWVdOcERWQlNtX1Vjc0lT?oc=5",
         "type": "rss"
       }
     ]
@@ -2605,6 +3023,25 @@
     ]
   },
   {
+    "id": "unknown-2026-08-10-028",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "glass_fiber_electronics",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Recycling, EVs, & Supply Chains Are Shaping Fiberglass - Kings Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEh4aU1idU9kRjQtUWw4TkJhNFNCRFZ2QW5Bdy1ndHZWbG5aVzlXZHlDUXI2UG44WUMtcEpvSktCU0xkODgxSkxBYmdLSVRSOGxsYXpHQ3l4RmsyOTBfSU02T0tlSXJ2QVhSbGNyVT",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEh4aU1idU9kRjQtUWw4TkJhNFNCRFZ2QW5Bdy1ndHZWbG5aVzlXZHlDUXI2UG44WUMtcEpvSktCU0xkODgxSkxBYmdLSVRSOGxsYXpHQ3l4RmsyOTBfSU02T0tlSXJ2QVhSbGNyVTZfd0JpZEx2TUM3QmE5UUdqdXVqZzFOSVhZd1Y1cWNFQkNid29GWWl2TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [
@@ -3247,6 +3684,27 @@
       {
         "name": "taiwan_glass",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnJPRXhJaHZ6N3JGUFE1d3BIbFpZRnoxb2x0QkM4Q2o1QmJKM1FBVkxCX1Q4R24tbkVxdkdqQVN4Vk14S21ZV0tnVWpKNG1kUlVrVUVqWEFiOWNzbzl5N1pqSC1zb2laQ0VUbHliTVVhUVp1VDR5SXN3VkxiNl9tekI0RDk4ODltck05R2xoZFlaQXJfREE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-08-08-028",
+    "date": "2026-08-08",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Q2 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2dmSldkWVBYM0NhYUh0a3RjZ2RTTjhleGwyODFrVnB6SC1hWXZ6ZnZNRXhzalM0R0lKN3k2OFVjeS1PbnJyci1Fal8xaDlzbDBRS21FSHVOZmF4cEc2TWxJTXlDbEpac2lTWi1XTH",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2dmSldkWVBYM0NhYUh0a3RjZ2RTTjhleGwyODFrVnB6SC1hWXZ6ZnZNRXhzalM0R0lKN3k2OFVjeS1PbnJyci1Fal8xaDlzbDBRS21FSHVOZmF4cEc2TWxJTXlDbEpac2lTWi1XTHp3WEtIblYzbUY3OTE5RmlYMHc4SmY1YkY2MWZzSGI0VHNUWFRjZVllV3VjOA?oc=5",
         "type": "rss"
       }
     ]
