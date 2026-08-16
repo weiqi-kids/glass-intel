@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 22,
+  "gate2_fail": 16,
+  "passed": 11,
+  "gate2_samples": [
+    "MSHA Releases Preliminary Report for Tata Chemicals Fall - sweetwaternow.com",
+    "Magadi feels the pain as Tata Chemicals mining shutdown bites - Daily Nation",
+    "Sheriff’s Office Identifies Worker Killed in Tata Chemicals Incident - sweetwaternow.com",
+    "Judge declines to lift suspension of Tata Chemicals Magadi operations - Business Daily",
+    "Magadi’s economy buckles as Tata Chemicals suspension hits jobs, businesses - Citizen Digital"
+  ]
+}
