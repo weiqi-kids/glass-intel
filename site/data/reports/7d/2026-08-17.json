@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-17",
+  "date_range": {
+    "start": "2026-08-11",
+    "end": "2026-08-17"
+  },
+  "generated_at": "2026-08-17T08:50:30.223356Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-08-11-015",
+      "date": "2026-08-11",
+      "title": "Owens Corning: Door Savings Reach $135 Million As Another $75 Million Of Cost Improvements Advance - Pulse 2.0",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 11,
+      "last_week": 5,
+      "week_over_week_change": "+120%",
+      "sentiment_this_week": -0.05
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 28,
+      "last_week": 32,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": -0.02
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "construction_activity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "corning": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "owens_corning": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "xinyi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "saint_gobain": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "first_solar": {
+      "event_count": 11,
+      "sentiment_avg": -0.09,
+      "rank": 1
+    },
+    "tata_chemicals": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "oi_glass": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 145,
+        "last": 229,
+        "change_pct": -36.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-11",
+      "event_count": 41,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 33,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 33,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 5,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-11 ~ 2026-08-17）共 145 則事件，重點為「Owens Corning: Door Savings Reach $135 Million ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "康寧",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Owens Corning",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:50:30.080489Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-08-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning (GLW) After Apple Glass Shift Raises Fresh Questions Over Valuation - simplywall.st",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFhrYmhDTmx2NFkxQ2VNT0pQLUhhVXVUSmgzOTFVU2pfV1VwSU5mZnp3ZUpiXzVLVXNwZ251clNlUHJyR284Tmg1QS1fVDRxeC1HcVY4Q2pIV25XM2dsNTNqV2VqeUJaNHRlQW0tWlk5V1k5NjRFelgzV25vU1ZqVFhrRUhnY1lWeVVTRGtuMmtoUFF0b2VVc0gxQWFycXVGeGNUcjJncXRDQXpDYVBPS3phNV9tTy1aX2pN0gHAAUFVX3lxTE5XeG1pQmRBaUxqN3RIaHU0N0lfU3FMRTBoQWcxVVFTaFFiajVYN2tnNzlIcXg4U19JRkZZa0JvaEo0cEpRVHVwMVBHWXc0YlNiUENsRU5ONFhaTWgxWlczT2JuWkxOV2NadjZEWUFHUDY5MzVCTE5FcnJjamZzMmhSdFhKRVhQOTVxTkh4OURoNDZaOGZ2QmZIZ1FYLVczTVF0TVJmSFR0elFwUXdvemRvMXNTZkVQeXhqQ0R5Mk0tNg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-08-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "9,771 Shares in First Solar, Inc. $FSLR Bought by Global Retirement Partners LLC - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnBidDlSQjJfRFFLOXRiVDV2d2h6X1FBQ0xmeUZEUWRLWXQyNTBaeHBJbTlZTE9jS1RiM0pnWnJnNnBvNmNEcE5OM0xZTHZxWGtCOEdSeS0yN3AwalhWTU9KUEZoQ3FNalcyZEZWNkk3VXNKLVhvS0dyT3hkQThFZWpBdkw4QldiU25pWkpQNFNqcU9YRmhlWEpsbWRnWk5GV1BSYnV0c1QzN3ZKQy1CTlVQc2VkZWpxRGtKSjRFUG9xWThPYy0xWmFhLTVjd0xseW80?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-08-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saint-Gobain stock reflects stable operations as headcount shifts in 2026 - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNW1faFF2VHFHdUxLZnV3R1M4amg3VGtIRUZDeURoUW9EaFMta2JGLS13d29ZQlFwem1HTUZUYllLcDRtMVJwcGFPZTkyN2RHTnlTNUoycmRQNDVIeFV5ZE5Rc0Q5MWR3elFlMG5RRjUwZVZVcTEtOUZKWmlHVDVsLWppNTByeDFRM2NtWkd0ZzY5RHhjdVpITjE2akQ0TWxvRXZmaVNnbHY1RUctWGN4MWFxM3hhTlNRUXFBUHVSclRSbnBIVGFWVjkydG1RZlY3VHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 201,
+    "too_old": 188,
+    "gate1_blocked": 24,
+    "gate2_blocked": 19,
+    "passed": 6,
+    "pass_rate": "2.5%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Magadi feels the pain as Tata Chemicals mining shutdown bites - Daily Nation",
+      "MSHA Releases Preliminary Report for Tata Chemicals Fall - SweetwaterNOW",
+      "Judge declines to lift suspension of Tata Chemicals Magadi operations - Business Daily",
+      "Magadi’s economy buckles as Tata Chemicals suspension hits jobs, businesses - Citizen Digital",
+      "Sheriff’s Office Identifies Worker Killed in Tata Chemicals Incident - SweetwaterNOW"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為聖戈班、康寧、First Solar相關動態：「Corning (GLW) After Apple Glass Shift Raises Fresh Questi...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Corning (GLW) After Apple Glass Shift Raises Fresh Questions Over Valuation -...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "9,771 Shares in First Solar, Inc. $FSLR Bought by Global Retirement Partners ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
