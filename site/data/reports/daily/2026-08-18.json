@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:42:54.513132Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oi_glass-2026-08-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass, Inc. (NYSE:OI) Given Consensus Rating of \"Hold\" by Analysts - MarketBeat",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcDBuUm5OT05EZFFZLWh5Z3Q4bmozSFZPZTlSem04QjlkSU1lVUhvV2VPRzdrbTVsazN0cG1UN0lXNnNLUnFYcEJxcWJLM3lQYmZMekFTMWh6V1AtcHpNaV9RYzU5eTFhVm1MN2RYa1Y5eHh3alBOVGtaYUFkdDhhOWNpc2FwbnVJcDlvYy15cXFPNmtNTklZRVlXT1N4SVp4ODdVcnNyMXF2RnZ2aHNSUjBCRXIwa0lN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Matthew Merfert Is Oxford PV’s New Chief Commercial Officer - TaiyangNews",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXV3amcybEgtMkFObG1ScHA4ZlhPVVQwX1dTR19NT1VXc25hc1hmUGRtT09PT29fMjVpVnBpc3psYUFqS1dwaUpBM1FnQ1VKODF5dXpzNlM0Z2lwRFZLZE9zOE82TmEzcHk3dWk2OS00dlZlckRyei1Na24tWWxwakJDdHZET0FLUk1yR3l6bw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "innolux-2026-08-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Innolux Q2 2026 slides: packaging pivot amid display weakness - Investing.com",
+      "companies": [
+        "innolux"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRmFhS3llRUdkdk1HWDRNWm5aaVJMOUsyUFJqSXNqRjJ3TXNXbkZnMWxxVmZGcjk1QU5jS1VaU2gxUmluNThKaS1jUDdKc2hKdFpqTjNaLWpYQUVYamhSM2FCWldOLUh0LUVMRGFGdUNsemVQY05Oc1B1d3FhTlhfcm54aWttNFRRVEl4Wnh5YnVnX3VCWU9MMktRdFFraUVaTDhQOE1pR3dJUXlwV2lOUjFUTWJMaF9n?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "innolux-2026-08-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Innolux : Net profit and EPS surged in 2Q 2026, driven by high-margin and non-display growth - TradingView",
+      "companies": [
+        "innolux"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZ1JkbldvcWlLQ2h0MllZeVY1Slp2MzhOQkQwMkU5Qm05dnA1MUJQWGY1UGhvZ0FKTGVoU0pzYVNmYkdxd0RNVzgzS3FSRFNjZDg0Qll1R0Y0UTk2S3pQdVZhaXNrWXhYbXk5Rm9kek5uRVR3eUUwOUZfTHJHRnRmMEN5Q2tqcS1LQjgzY2Q0clIxUDRFckpqdnBrRHBLX09TeWVxZVlfVVpDVFFTVGdidWNMMXVtM1V3M0draHFvakIzUWwxd0pQaWhVRUp3X000RXhOM0JNU0h2WFhROHNpUk05LUdLTGRzdHhXY0t5bXdWVVFkSEx0SGlvV1VCZ0RUS3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "innolux",
+        "count": 2
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 186,
+    "too_old": 186,
+    "gate1_blocked": 27,
+    "gate2_blocked": 18,
+    "passed": 21,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "MSHA Releases Preliminary Report for Tata Chemicals Fall - SweetwaterNOW",
+      "Magadi feels the pain as Tata Chemicals mining shutdown bites - Daily Nation",
+      "Judge declines to lift suspension of Tata Chemicals Magadi operations - Business Daily",
+      "Magadi’s economy buckles as Tata Chemicals suspension hits jobs, businesses - Citizen Digital",
+      "GAF vs. Owens Corning Shingles Compared: Cost, Warranty & Performance Guide - financialcontent.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為群創、O-I Glass相關動態：「O-I Glass, Inc. (NYSE:OI) Given Consensus Rating of \"Hold...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "O-I Glass, Inc. (NYSE:OI) Given Consensus Rating of \"Hold\" by Analysts - Mark...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Matthew Merfert Is Oxford PV’s New Chief Commercial Officer - TaiyangNews（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

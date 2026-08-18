@@ -1,5 +1,83 @@
 [
   {
+    "id": "oi_glass-2026-08-18-001",
+    "date": "2026-08-18",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass, Inc. (NYSE:OI) Given Consensus Rating of \"Hold\" by Analysts - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcDBuUm5OT05EZFFZLWh5Z3Q4bmozSFZPZTlSem04QjlkSU1lVUhvV2VPRzdrbTVsazN0cG1UN0lXNnNLUnFYcEJxcWJLM3lQYmZMekFTMWh6V1AtcHpNaV9RYzU5eTFhVm1MN2RYa1",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcDBuUm5OT05EZFFZLWh5Z3Q4bmozSFZPZTlSem04QjlkSU1lVUhvV2VPRzdrbTVsazN0cG1UN0lXNnNLUnFYcEJxcWJLM3lQYmZMekFTMWh6V1AtcHpNaV9RYzU5eTFhVm1MN2RYa1Y5eHh3alBOVGtaYUFkdDhhOWNpc2FwbnVJcDlvYy15cXFPNmtNTklZRVlXT1N4SVp4ODdVcnNyMXF2RnZ2aHNSUjBCRXIwa0lN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-002",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Matthew Merfert Is Oxford PV’s New Chief Commercial Officer - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXV3amcybEgtMkFObG1ScHA4ZlhPVVQwX1dTR19NT1VXc25hc1hmUGRtT09PT29fMjVpVnBpc3psYUFqS1dwaUpBM1FnQ1VKODF5dXpzNlM0Z2lwRFZLZE9zOE82TmEzcHk3dWk2OS",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXV3amcybEgtMkFObG1ScHA4ZlhPVVQwX1dTR19NT1VXc25hc1hmUGRtT09PT29fMjVpVnBpc3psYUFqS1dwaUpBM1FnQ1VKODF5dXpzNlM0Z2lwRFZLZE9zOE82TmEzcHk3dWk2OS00dlZlckRyei1Na24tWWxwakJDdHZET0FLUk1yR3l6bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-08-18-003",
+    "date": "2026-08-18",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Innolux Q2 2026 slides: packaging pivot amid display weakness - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRmFhS3llRUdkdk1HWDRNWm5aaVJMOUsyUFJqSXNqRjJ3TXNXbkZnMWxxVmZGcjk1QU5jS1VaU2gxUmluNThKaS1jUDdKc2hKdFpqTjNaLWpYQUVYamhSM2FCWldOLUh0LUVMRGFGdU",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRmFhS3llRUdkdk1HWDRNWm5aaVJMOUsyUFJqSXNqRjJ3TXNXbkZnMWxxVmZGcjk1QU5jS1VaU2gxUmluNThKaS1jUDdKc2hKdFpqTjNaLWpYQUVYamhSM2FCWldOLUh0LUVMRGFGdUNsemVQY05Oc1B1d3FhTlhfcm54aWttNFRRVEl4Wnh5YnVnX3VCWU9MMktRdFFraUVaTDhQOE1pR3dJUXlwV2lOUjFUTWJMaF9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-08-18-004",
+    "date": "2026-08-18",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Innolux : Net profit and EPS surged in 2Q 2026, driven by high-margin and non-display growth - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOZ1JkbldvcWlLQ2h0MllZeVY1Slp2MzhOQkQwMkU5Qm05dnA1MUJQWGY1UGhvZ0FKTGVoU0pzYVNmYkdxd0RNVzgzS3FSRFNjZDg0Qll1R0Y0UTk2S3pQdVZhaXNrWXhYbXk5Rm9kek",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZ1JkbldvcWlLQ2h0MllZeVY1Slp2MzhOQkQwMkU5Qm05dnA1MUJQWGY1UGhvZ0FKTGVoU0pzYVNmYkdxd0RNVzgzS3FSRFNjZDg0Qll1R0Y0UTk2S3pQdVZhaXNrWXhYbXk5Rm9kek5uRVR3eUUwOUZfTHJHRnRmMEN5Q2tqcS1LQjgzY2Q0clIxUDRFckpqdnBrRHBLX09TeWVxZVlfVVpDVFFTVGdidWNMMXVtM1V3M0draHFvakIzUWwxd0pQaWhVRUp3X000RXhOM0JNU0h2WFhROHNpUk05LUdLTGRzdHhXY0t5bXdWVVFkSEx0SGlvV1VCZ0RUS3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [
@@ -55,6 +133,338 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnBidDlSQjJfRFFLOXRiVDV2d2h6X1FBQ0xmeUZEUWRLWXQyNTBaeHBJbTlZTE9jS1RiM0pnWnJnNnBvNmNEcE5OM0xZTHZxWGtCOEdSeS0yN3AwalhWTU9KUEZoQ3FNalcyZEZWNkk3VXNKLVhvS0dyT3hkQThFZWpBdkw4QldiU25pWkpQNFNqcU9YRmhlWEpsbWRnWk5GV1BSYnV0c1QzN3ZKQy1CTlVQc2VkZWpxRGtKSjRFUG9xWThPYy0xWmFhLTVjd0xseW80?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-08-17-004",
+    "date": "2026-08-17",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Focus Partners Advisor Solutions LLC Acquires New Shares in Owens Corning Inc $OC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWlEwZnlKT1FQcmZTLUxFb01BcWo4TzdqVVJCUXJIc1hPcXc5cFQ1bF9qUnpUTEpyQ3BaWVMzU2ZnSW5HR0NYLVk5b3RvUkxWc0hMWTJCYWoyMERyOEM2WUktOW9OeDdaYTdWWWZqYn",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWlEwZnlKT1FQcmZTLUxFb01BcWo4TzdqVVJCUXJIc1hPcXc5cFQ1bF9qUnpUTEpyQ3BaWVMzU2ZnSW5HR0NYLVk5b3RvUkxWc0hMWTJCYWoyMERyOEM2WUktOW9OeDdaYTdWWWZqYnVuc2d4dnJWMExkZUZEeWdHWGtLNVhwZXJyWVpwR21jV2RoeExQSnFJSnJ5M1pOeEJPbXpJVzRXYktwWWZKRzRGci0tU09LVkhrSlM4dUltRFpLcl9HOEVDdFR5UDZXSnhyVjBHMmVUWlA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_glass-2026-08-17-005",
+    "date": "2026-08-17",
+    "companies": [
+      "xinyi_glass"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ICTSI's East Java Terminal Wins First Container Call as Xinyi Glass Diversifies Supply Chain Beyond China - Breakbulk.News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPY0trTGZ0MVBaUDZvWXYtd0sxYWdxV1JacmJNSEF2azROdjQyZ2ZlenpxR3BiVlRlNllua25GcFNBQTVwWTRjR3YtMmZwdFhlcG5UcFd2dHloR3lMeEZBMXZuUllGYnpJSkoyOThaWl",
+    "sources": [
+      {
+        "name": "xinyi_glass",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY0trTGZ0MVBaUDZvWXYtd0sxYWdxV1JacmJNSEF2azROdjQyZ2ZlenpxR3BiVlRlNllua25GcFNBQTVwWTRjR3YtMmZwdFhlcG5UcFd2dHloR3lMeEZBMXZuUllGYnpJSkoyOThaWlFwTlJSWTVXblVBVFlUMkZvWmJESk5xQkFMSUZFS3FWTTE2dVVUR0h6bTFCUlN6ZHJHdzY1R08tQ0VUeHhKX3pHZk93eVBOanVfR0xPS285T0FMU1NtM1Zj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock slips as workforce trims shape the 2026 story - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUV1b2s4RE1yQk5WNHRYcmw2cTZHbXE2dnFkYkl2NzhlNm0tVVF0UmNKbC1IRlBhUXJqemx0Q1prUDdrLUtjcDRGZUdyZWpHUHpOZjZqeHgxSmpJMm1mTWhWbW54RFBxTlkwOVU5NG",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUV1b2s4RE1yQk5WNHRYcmw2cTZHbXE2dnFkYkl2NzhlNm0tVVF0UmNKbC1IRlBhUXJqemx0Q1prUDdrLUtjcDRGZUdyZWpHUHpOZjZqeHgxSmpJMm1mTWhWbW54RFBxTlkwOVU5NGJGbjltS25SYTFLYW5OemxTX0lYb1dPNVloQlN6TFBZRVpzb2ptcmJUY1lGNWxscXctdEZkU1RqTUhEbTlmTFFjdTg2NF95bW1xRFZ1aWptUzBudEJDdFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-08-17-007",
+    "date": "2026-08-17",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass stock hits 52-week low at 6.61 USD - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWVJWDFpb1RLOXo5c1hYMUZ4ZDgySkRPelc3NDBPcUNfQ1AzU2R5Vm1wckVGMTIteWJwOUhadW56WEVFSm5qY1Z5SlVrVjg4R2I5Z3FLYlJCQTJSYUdYc285TldJM3VYVzhWbllhdz",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWVJWDFpb1RLOXo5c1hYMUZ4ZDgySkRPelc3NDBPcUNfQ1AzU2R5Vm1wckVGMTIteWJwOUhadW56WEVFSm5qY1Z5SlVrVjg4R2I5Z3FLYlJCQTJSYUdYc285TldJM3VYVzhWbllhdzQwXzZQY19ZMGN1NUJFMk5LU1o5UzJlZ0NOajh3c1YwUGZZdUZvZHBIc0F5dWRWZ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Renaissance Technologies LLC Decreases Stock Position in O-I Glass, Inc. $OI - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPdy1neC1NLUNseFFNQVBkbkhwbWNLWWlrSjE1UGZ5MGZDcGlPNFhHSEMxNHJ1Wi1nLVg1U29GRU1DZmlOM3FObVdCSXU1QTFDc0g4RXZ4dU5kOHEwdGhVaExqdzBqNVEzejFmbFRwSn",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdy1neC1NLUNseFFNQVBkbkhwbWNLWWlrSjE1UGZ5MGZDcGlPNFhHSEMxNHJ1Wi1nLVg1U29GRU1DZmlOM3FObVdCSXU1QTFDc0g4RXZ4dU5kOHEwdGhVaExqdzBqNVEzejFmbFRwSnUyaF9DdWY3WktQdDQzamdMbGdpaEN4ZkpxTnJjWFU1T1JwX21fLUNfQjFUSVFVSDdTbHN3MGUtcVpSVEZvNm95N0Q0TUlPUjFuN0tkc2lVdnNiZndTTFk4bzM5d2I5VW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "First Solar Slides as Investors Weigh Tariff Uncertainty and Recent Policy Risks - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUZZWnNuaUx0T2Zoa1RIS3NHRlJmS0wyRnVlb0RQZmphZ0VVQnpfRlAzU2NncWliLTlYTFJyY0R2RFF2dTk5bENtOEVLM0J4aXFTU3hpZVk4VzZyQ1RkYmY5S1pZcHBwZ29fTFZrUC",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUZZWnNuaUx0T2Zoa1RIS3NHRlJmS0wyRnVlb0RQZmphZ0VVQnpfRlAzU2NncWliLTlYTFJyY0R2RFF2dTk5bENtOEVLM0J4aXFTU3hpZVk4VzZyQ1RkYmY5S1pZcHBwZ29fTFZrUC1UVmxsYldsZllia3Nwdl9YZ1A1d2pqaXp1RHFTUi16X25CdWRzUUFxWVF0U0xzR3dkUk4wRnlzeWFTR1ZIbjYtUEJNYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc (FSLR) Shares Fall 3.4% -- What GF Score of 87 T - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZURMSlNNT2Q3OUVJbzBmaWtrTlF3dVplbVQ3S1BHNG1LckZTejBhZjMtcjZxTmNJRENiZUJyX0Q4OUgybVpSRHU0VjZMcWdXRlJDR2VFZ2xpWUdheHUxX0w4UlloeDFfdXJoaGdick",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZURMSlNNT2Q3OUVJbzBmaWtrTlF3dVplbVQ3S1BHNG1LckZTejBhZjMtcjZxTmNJRENiZUJyX0Q4OUgybVpSRHU0VjZMcWdXRlJDR2VFZ2xpWUdheHUxX0w4UlloeDFfdXJoaGdickNsOXN1WXprTmgtQmtpNVltcUUwQjBNWDVPaU5iSnktQWE4MXJ1Nmh5dmxxcVdfRld4RXZQSEk3cEJ4VmZORm44?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Target of Unusually High Options Trading (NASDAQ:FSLR) - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzlBdllYYjVUYVZxZUJJRzZRX2l2aVlNNGtlUl92RHZhZUs5TEZBc0RrbFZqNWVLTnNNQThEQ3pWa0EwTEhGNFhIam9SS2ppUU84OV9IZVI0bDlUVUxRZWlNT1JIWGttd3Z5Mmk2Y3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzlBdllYYjVUYVZxZUJJRzZRX2l2aVlNNGtlUl92RHZhZUs5TEZBc0RrbFZqNWVLTnNNQThEQ3pWa0EwTEhGNFhIam9SS2ppUU84OV9IZVI0bDlUVUxRZWlNT1JIWGttd3Z5Mmk2Y3VIVVpveXk1MkVlRllJc2ZkS0Z2WHFPQnhSV0U0ZF94XzRrSUJxSS1oaGgwWXMzUlROd25sY3VBVGU4U0NWY1Y4MGE2MXpQNEgz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Do Tariff Disclosure Allegations Put First Solar’s (FSLR) Management Credibility Under the Microscope? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNazdVaHU4TlozVVFGMXBLUTR0THp4NkhGQkN4SDhwWi1ralQ3XzdGaGY0cGd1N3I1MlRTNFhrVzF4b0FWX2hQNDBVLU1qZm1iN3JNODlhZVA3Z3RYVXBEc0RkMW9aZjlYZHhnTHd1Wk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNazdVaHU4TlozVVFGMXBLUTR0THp4NkhGQkN4SDhwWi1ralQ3XzdGaGY0cGd1N3I1MlRTNFhrVzF4b0FWX2hQNDBVLU1qZm1iN3JNODlhZVA3Z3RYVXBEc0RkMW9aZjlYZHhnTHd1Wk01aGFITl9nTi1Ja0NaUTBuSXZyU2xpdFpjR3VBZS1TMXlLLVBNMWZNTmFTclBkZnhFOXkyVkNPRWZ2SzlIYmRtd1hhQ1RJbjNGM3h3dGduNEVMY2RRZ0tGTTROYWw5UEhWZEHSAdcBQVVfeXFMUGRYcDhXLVZGeWxpOEJ5QXBQVEFOOUVzbFotNXFzdDNRbEl6WmNadXBvN0tlS1N6dl9BVmVsNDlPeWFDb05rWUM3WWdoMXpoVUZtVE0tODNzRjF2akQyN2VCckFfdmpwMDIwMHZuOXRkREt4QlpKdnFmOVNoSVYzNEFnd3Fsam9haWtfSkh6ajlUQjQ2UlZNNER5cVBnVTllX095MEtURzFWbnVuWEhobnVxamtHSUFRZDVNRmN3Nnd6aFJQZUdQOXAzX0N4TUpqbHlmMWxHXzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "FIRST SOLAR, INC. SEC Filing (Aug 17, 2026) - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3JjTjBja1M0WGdXcUVxYWhQQ204Z3NOR0I0SEd2bjdMTzN0bGhfcUhDX21KNVZKcnhJaldPeUJuY2gyUThpUXBwcjRRdUZ2cjJnV2lxSGk0UVlUc0JwVE00OWdqRXVLZjJWSnR1Mk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3JjTjBja1M0WGdXcUVxYWhQQ204Z3NOR0I0SEd2bjdMTzN0bGhfcUhDX21KNVZKcnhJaldPeUJuY2gyUThpUXBwcjRRdUZ2cjJnV2lxSGk0UVlUc0JwVE00OWdqRXVLZjJWSnR1MkF5SXdYOGk2VFhyTDZZdDZqZmlqME9nd1VVTUNCVTdHei1nSzRQOENj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-17-014",
+    "date": "2026-08-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Applauds Section 232 Action on Polysilicon & Derivatives - inkworldmagazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2hoaUxrMkEwZXVRc2FKYWphdWlXUXJWY0o1Z3lKYmlVemU3WU9VcTMwa00yRElIeGxrLVF4a3p5Q3dybDEyWjlnem5NdFlZZ21mRGtzWEF4aTdPbVdEOXpfRV9KaW1hbHFsQ2tvZl",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2hoaUxrMkEwZXVRc2FKYWphdWlXUXJWY0o1Z3lKYmlVemU3WU9VcTMwa00yRElIeGxrLVF4a3p5Q3dybDEyWjlnem5NdFlZZ21mRGtzWEF4aTdPbVdEOXpfRV9KaW1hbHFsQ2tvZlhLSmY2RWtQNzNRV2xtM19zOVYtRDdnWk5XMDZUOER5QlJrZ3MyMnJaS3VuU1hQbVJpck91bVMxNW4zb0tfYVUtaFFFZjM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-08-17-015",
+    "date": "2026-08-17",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "[News] Innolux Corporation Reports Second Quarter 2026 Financial Results - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fd2F4QmRVbVR1QVdHemdWNlJjS0VtV013ZW1nQUZpSU5OSW1pMmNRTXhhX2VfdXJLVGFUdG9hYW5DeGQ2bWU0MlY4SnZlZE1UM01ZWG9oSXBiTnRiRTVEYw?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fd2F4QmRVbVR1QVdHemdWNlJjS0VtV013ZW1nQUZpSU5OSW1pMmNRTXhhX2VfdXJLVGFUdG9hYW5DeGQ2bWU0MlY4SnZlZE1UM01ZWG9oSXBiTnRiRTVEYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-016",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Glass, Metal and Construction Input Prices Stay Elevated in July - usglassmag.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmF4Z1ptdlotZGxpU2VPSUlWYWI4bkRZcGxCRnRQaTZPTGRZSTdzYUtrRi14Mm5lLXhXc1ZFcWc3OGpsTmFWZno0T0NqUjlKYjl1TEY4WjkzUnpaX3QtNEJUQUJDM3d1OEpxejN2Sz",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmF4Z1ptdlotZGxpU2VPSUlWYWI4bkRZcGxCRnRQaTZPTGRZSTdzYUtrRi14Mm5lLXhXc1ZFcWc3OGpsTmFWZno0T0NqUjlKYjl1TEY4WjkzUnpaX3QtNEJUQUJDM3d1OEpxejN2SzlSVU91RGZPUGNzb0RrSm1LeVBfOTh5STk3RVVITFI0bVVWaFNRVEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-017",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Soda-Lime Glass Cullet Market to Reach 160 Index by 2035 on EPR Expansion and Recycled-Content Quotas - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ0VWSGVzOFdVb183blZlcFpsSjAxTVJBcy14VkhlUEtVN2sxTVFEcDg3ajg4X1h0bGNtWUxSMGY4NWFEQ090UEVIMEtkZEt2ZWNTb0tlUGotUzhIYTI5UU56RVZOWXVabUhIOXlBYV",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ0VWSGVzOFdVb183blZlcFpsSjAxTVJBcy14VkhlUEtVN2sxTVFEcDg3ajg4X1h0bGNtWUxSMGY4NWFEQ090UEVIMEtkZEt2ZWNTb0tlUGotUzhIYTI5UU56RVZOWXVabUhIOXlBYVc2eDdUTjRRaTBEYUpRLWRqUy1WVlNpSGFaMlFfSWRBZXlZQk0wRjEzZXp2b1EwXzNLTW1CTjdPWWt4M1pIb0wzSlE5dnlBTDN2dDMxYmdiSG15b1ljaWdUeEZCQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-018",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI helps contractors insulate against profit leaks",
+    "summary": "<p>Contractors are using connected job data to spot margin risk before closeout.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/spons/ai-helps-contractors-insulate-against-profit-leaks/827876/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-019",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "The next construction productivity challenge begins after the bid is won",
+    "summary": "<p>Faster bidding is shifting construction&rsquo;s biggest bottleneck from preconstruction to execution.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/spons/the-next-construction-productivity-challenge-begins-after-the-bid-is-won/827523/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-020",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Construction’s data problem isn’t new. Brasfield & Gorrie’s approach is.",
+    "summary": "<p>GIS and drones unify jobsite data for real-time visibility and safer, faster decisions.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/spons/constructions-data-problem-isnt-new-brasfield-gorries-approach-is/827639/",
         "type": "rss"
       }
     ]

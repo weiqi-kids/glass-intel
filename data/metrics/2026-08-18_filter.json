@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 186,
+  "gate1_fail": 27,
+  "gate2_fail": 18,
+  "passed": 21,
+  "gate2_samples": [
+    "MSHA Releases Preliminary Report for Tata Chemicals Fall - SweetwaterNOW",
+    "Magadi feels the pain as Tata Chemicals mining shutdown bites - Daily Nation",
+    "Judge declines to lift suspension of Tata Chemicals Magadi operations - Business Daily",
+    "Magadi’s economy buckles as Tata Chemicals suspension hits jobs, businesses - Citizen Digital",
+    "GAF vs. Owens Corning Shingles Compared: Cost, Warranty & Performance Guide - financialcontent.com"
+  ]
+}
