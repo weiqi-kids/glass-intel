@@ -1,0 +1,12 @@
+{
+  "total_raw": 43,
+  "dup_title": 8,
+  "no_date": 0,
+  "too_old": 6,
+  "gate1_fail": 28,
+  "gate2_fail": 1,
+  "passed": 0,
+  "gate2_samples": [
+    "California high-speed rail project could run out of money by end of 2027, inspector general says"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:45:53.677779Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 43,
+    "dup_title": 8,
+    "too_old": 6,
+    "gate1_blocked": 28,
+    "gate2_blocked": 1,
+    "passed": 0,
+    "pass_rate": "0.0%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "California high-speed rail project could run out of money by end of 2027, inspector general says"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-19 無玻璃產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
