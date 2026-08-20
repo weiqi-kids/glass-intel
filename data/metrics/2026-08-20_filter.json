@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 29,
+  "gate2_fail": 15,
+  "passed": 47,
+  "gate2_samples": [
+    "Top Gainers & Losers on 19 Aug: Netweb Tech, Bata, Reliance Power, Bharat Dynamics, Tata Chemicals a",
+    "MSHA Releases Preliminary Report for Tata Chemicals Fall - SweetwaterNOW",
+    "Magadi feels the pain as Tata Chemicals mining shutdown bites - Daily Nation",
+    "Nairobi Water warns Tata Magadi shutdown could upset operations - Business Daily",
+    "130,000 Shares in Owens Corning Inc $OC Purchased by Edmond DE Rothschild Holding S.A. - MarketBeat"
+  ]
+}
