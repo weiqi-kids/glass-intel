@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 31,
+  "gate2_fail": 18,
+  "passed": 25,
+  "gate2_samples": [
+    "Nairobi Water warns Tata Magadi shutdown could upset operations - Business Daily",
+    "Top Gainers & Losers on 19 Aug: Netweb Tech, Bata, Reliance Power, Bharat Dynamics, Tata Chemicals a",
+    "Magadi feels the pain as Tata Chemicals mining shutdown bites - Daily Nation",
+    "Great Lakes Advisors LLC Takes $4.22 Million Position in Owens Corning Inc $OC - MarketBeat",
+    "Foster & Motley Inc. Takes Position in Owens Corning Inc $OC - MarketBeat"
+  ]
+}
