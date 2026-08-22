@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:36:03.805686Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 197,
+    "too_old": 174,
+    "gate1_blocked": 27,
+    "gate2_blocked": 19,
+    "passed": 21,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Nairobi Water warns Tata Magadi shutdown could upset operations - Business Daily",
+      "123,188 Shares in Owens Corning Inc $OC Purchased by Mitsubishi UFJ Asset Management Co. Ltd. - Mark",
+      "Great Lakes Advisors LLC Takes $4.22 Million Position in Owens Corning Inc $OC - MarketBeat",
+      "Great Lakes Advisors LLC Buys Shares of 181,829 Owens Corning Inc $OC - MarketBeat",
+      "Foster & Motley Inc. Takes Position in Owens Corning Inc $OC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-22 無玻璃產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 27,
+  "gate2_fail": 19,
+  "passed": 21,
+  "gate2_samples": [
+    "Nairobi Water warns Tata Magadi shutdown could upset operations - Business Daily",
+    "123,188 Shares in Owens Corning Inc $OC Purchased by Mitsubishi UFJ Asset Management Co. Ltd. - Mark",
+    "Great Lakes Advisors LLC Takes $4.22 Million Position in Owens Corning Inc $OC - MarketBeat",
+    "Great Lakes Advisors LLC Buys Shares of 181,829 Owens Corning Inc $OC - MarketBeat",
+    "Foster & Motley Inc. Takes Position in Owens Corning Inc $OC - MarketBeat"
+  ]
+}
