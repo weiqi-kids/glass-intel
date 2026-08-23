@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 27,
+  "gate2_fail": 23,
+  "passed": 12,
+  "gate2_samples": [
+    "Tata Chemicals raises Rs 1,500 cr through NCDs - News18",
+    "Nairobi Water warns Tata Magadi shutdown could upset operations - Business Daily",
+    "Great Lakes Advisors LLC Takes $4.22 Million Position in Owens Corning Inc $OC - MarketBeat",
+    "130,000 Shares in Owens Corning Inc $OC Purchased by Edmond DE Rothschild Holding S.A. - MarketBeat",
+    "123,188 Shares in Owens Corning Inc $OC Purchased by Mitsubishi UFJ Asset Management Co. Ltd. - Mark"
+  ]
+}

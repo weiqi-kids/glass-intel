@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:36:17.583002Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-08-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is First Solar (FSLR) Undervalued On Class Action Claims Over Tariff Risk? - simplywall.st",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZXE1UWtQekFHcHpVb2pzdEpWWHJGNk9SMUpPT2ZKLU5seXpDR04xc2FWcmVybjAzSzJOQjhRaXFYWjlmS2pMa3RWUG1WYU1BMk03YnJqS1pWZTZHZGo1UHBwZjRNTzg0NXRySV9BQk5XWjVlVm9fUk1CRVkyV2pEMFRSbVFqUTRqT3R3dmxaaTBwY2M5eURRdG9SUER4Sm1Sc2VwNWFXTUpoeGZXc3cwYnVfRFBNQlMyRGlUNzR6akJkaXFNZmJmZzZwMDE4YkJY0gHWAUFVX3lxTE5PTVY3OGdMWGVBdnNZc0ZkYlp4dVJHRi12a3hreUxjYl94Skw0WmlqMFpuOWpJSF9rakMxclVpQl9VWEVDaXF5WV9IOUdSNlhabE9aYmNxekFLUjRNNDVFN2J0Zjl5YTJQdGwwS1dvSndpSEhiZTIydlJBZ0gyaUswV0xoZUItY1B2Z19xUXZ0WklzRmpZaXdpMllKQmlRVkkzTnhmYjJ3SkN4eFJsRnZuaHBkQ0NYd0NaRGNFNnhvY1dZVFhzREVJSG5fUG4yeVNnRlVtRUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-08-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Clear Harbor Asset Management LLC Invests $2.03 Million in First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1hzR3ZteGZtWE56NElScmR1Tmt1Tmh3VWw3VzFjM1V0ejFLbmpmVzd4Ykt2S016amlERi00TTd2OXhPZzM3dzlGU1UyYnJvbWFLbkg4c1BiNlR6QXNEdjFtNFlqTEY0bUtQTEVtejlGOVEyZ3k3bVdqdENVTVNtXzlnS2FZSG1JSmVGd2RXdUluVmdDMlVXM3hnUU41TTZuNWN0OVN3SDlfSjdVWXRqN1FRVXBCNnNZUzd1bTRXT2ZJX2xjSDdKaVNqa0N0RFJzcG5XVw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 200,
+    "too_old": 174,
+    "gate1_blocked": 27,
+    "gate2_blocked": 23,
+    "passed": 12,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Tata Chemicals raises Rs 1,500 cr through NCDs - News18",
+      "Nairobi Water warns Tata Magadi shutdown could upset operations - Business Daily",
+      "Great Lakes Advisors LLC Takes $4.22 Million Position in Owens Corning Inc $OC - MarketBeat",
+      "130,000 Shares in Owens Corning Inc $OC Purchased by Edmond DE Rothschild Holding S.A. - MarketBeat",
+      "123,188 Shares in Owens Corning Inc $OC Purchased by Mitsubishi UFJ Asset Management Co. Ltd. - Mark"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為First Solar相關動態：「Is First Solar (FSLR) Undervalued On Class Action Claims ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Is First Solar (FSLR) Undervalued On Class Action Claims Over Tariff Risk? - ...",
+        "level": "green"
+      },
+      {
+        "text": "Clear Harbor Asset Management LLC Invests $2.03 Million in First Solar, Inc. ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
