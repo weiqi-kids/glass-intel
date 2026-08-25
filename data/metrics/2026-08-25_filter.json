@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 28,
+  "gate2_fail": 23,
+  "passed": 15,
+  "gate2_samples": [
+    "Nairobi Water warns Tata Magadi shutdown could upset operations - Business Daily",
+    "Vise Technologies Inc. Invests $1.52 Million in Owens Corning Inc $OC - MarketBeat",
+    "Great Lakes Advisors LLC Takes $4.22 Million Position in Owens Corning Inc $OC - MarketBeat",
+    "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "AGC and Neusignal Therapeutics Collaborate on the Development of Alzheimer’s Disease Drug Candidate "
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:50:01.741121Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-08-25-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Saint-Gobain stock steadies after Latin America expansion move - Ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDQ5UkxmOGtXbmktUEtTNF90a0l0NVI3VU9sRGwzRnhDVDFhQkJWSlpGbU5qb2lHR1lpODMxSHBFeUlacnBlb1ZSaElsRUNWc0lLZm05bjZMMkc3SUota09ESDRfX3BScEMxYnBoU3MwRTJOU3BuOVFoUjhYRkVRcWhwMFQ2OThCWXVRbUxic3daRnY3VjhrWmZzMlRGdEVBUjRhTzBSMG1vOW5YV3FfWkYwRmVXODQyNktRNEVZSTROcW8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-08-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "California company unveils world's first solar roof system that can be installed on a Tesla or any other EV so you 'never have to stop at a charger again - supercarblondie.com",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vQVZLWHdTR1hFVDY2bS1TZjBEZXFQQlJQalJSalp2Ny1wUzB2MGJGMXI4OW4yQ1FQcE11YUdIWm4xeFBoMW94TUFUUWZWMGNhT3FPbWVJSVdoLWpKdW9vZGRzS0dQSWxHRDlOZWZEUzdUX0M3R0pEV093?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-08-25-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Bank of New York Mellon Corp Purchases Shares of 577,688 Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTks3RWJybGczVGF3Xzh6bHVGRks0SE01UmtCTmJzYmJfTFpUYWhrRGhGdGFwTktCUzliYTg3R09IU281a09EdUt0c2lfUE5RdzhVNl82a1ctY3lLQTBxb2FxNjU5WkZqUHEzaGVDeC1GUkwxbHBoS2tUc0w0XzBCcW5xQlA2MnhXUDc1M21qekxtaFd4RkM1NndTeUFiTDBnR25BWjZLRGRVU0poSHBGcUJ6TXBZWVF1TDJkNWlQSUtFbU5rVXh5aF9MVmlGX245bXU4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 194,
+    "too_old": 177,
+    "gate1_blocked": 28,
+    "gate2_blocked": 23,
+    "passed": 15,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Nairobi Water warns Tata Magadi shutdown could upset operations - Business Daily",
+      "Vise Technologies Inc. Invests $1.52 Million in Owens Corning Inc $OC - MarketBeat",
+      "Great Lakes Advisors LLC Takes $4.22 Million Position in Owens Corning Inc $OC - MarketBeat",
+      "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "AGC and Neusignal Therapeutics Collaborate on the Development of Alzheimer’s Disease Drug Candidate "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為康寧、Owens Corning、聖戈班相關動態：「Saint-Gobain stock steadies after Latin America expansion...」。主要關注主題為財報、產能、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Saint-Gobain stock steadies after Latin America expansion move - Ad-hoc-news.de（產能、財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "California company unveils world's first solar roof system that can be instal...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
