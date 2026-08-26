@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 29,
+  "gate2_fail": 23,
+  "passed": 24,
+  "gate2_samples": [
+    "Cibc World Market Inc. Acquires Shares of 28,798 Owens Corning Inc $OC - MarketBeat",
+    "Vise Technologies Inc. Invests $1.52 Million in Owens Corning Inc $OC - MarketBeat",
+    "Great Lakes Advisors LLC Takes $4.22 Million Position in Owens Corning Inc $OC - MarketBeat",
+    "123,188 Shares in Owens Corning Inc $OC Purchased by Mitsubishi UFJ Asset Management Co. Ltd. - Mark",
+    "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets"
+  ]
+}
