@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 27,
+  "gate2_fail": 27,
+  "passed": 24,
+  "gate2_samples": [
+    "Doylestown PA Roofing Company- Allied Roofing Solutions Earns 2026 Owens Corning Platinum Excellence",
+    "Are Investors Undervaluing Owens Corning (OC) Right Now? - Yahoo Finance",
+    "Sanctuary Advisors LLC Takes $2.86 Million Position in Owens Corning Inc $OC - MarketBeat",
+    "Cibc World Market Inc. Acquires Shares of 28,798 Owens Corning Inc $OC - MarketBeat",
+    "Vise Technologies Inc. Invests $1.52 Million in Owens Corning Inc $OC - MarketBeat"
+  ]
+}
