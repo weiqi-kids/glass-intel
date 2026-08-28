@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 185,
+  "gate1_fail": 28,
+  "gate2_fail": 28,
+  "passed": 24,
+  "gate2_samples": [
+    "Man Group plc Acquires New Holdings in Owens Corning Inc $OC - MarketBeat",
+    "Are Investors Undervaluing Owens Corning (OC) Right Now? - Yahoo Finance",
+    "Jackson County U.S. Army veteran receives new roof from Owens Corning - WYMT",
+    "Cibc World Market Inc. Acquires Shares of 28,798 Owens Corning Inc $OC - MarketBeat",
+    "Sanctuary Advisors LLC Takes $2.86 Million Position in Owens Corning Inc $OC - MarketBeat"
+  ]
+}

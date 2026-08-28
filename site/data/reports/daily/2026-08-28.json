@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T20:07:08.274769Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-08-28-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Back On Investors’ Radar With An Undervalued Narrative - simplywall.st",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakxJUkUxU1ZTZFNaRDI1UG5LazFFMVVWaHVUSkNXdmFtQ09ZMWdLMDgtdl9RWTdiZlVqY2JJMDktS0NYeWRJQ3h2bERYYnZjZFp4dVdmbk5NcVh3aWJJT2p2T2pZTmJ2bzY0eW1PX2xUcWZNOGdNd0FId25HLWluSi14TVEyRzhrVVQtbkFjRGo2enBlQ1NzNU02SGJ6bGpDLUplekRvNjA4UjV3Ql9GcndIeWxBX1I2SFU1YVhHSmhpRjdvVVdaSUlTRy1QU1pYbDlZ0gHTAUFVX3lxTE1qTElSRTFTVlNkU1pEMjVQbktrMUUxVVZodVRKQ1d2YW1DT1kxZ0swOC12X1FZN2JmVWpjYkkwOS1LQ1h5ZElDeHZsRFhidmNkWnh1V2ZuTk1xWHdpYklPanZPallOYnZvNjR5bU9fbFRxZk04Z013QUh3bkctaW5KLXhNUTJHOGtVVC1uQWNEajZ6cGVDU3M1TTZIYnpsakMtSmV6RG82MDhSNXdCX0Zyd0h5bEFfUjZIVTVhWEdKaGlGN29VV1pJSVNHLVBTWlhsOVk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "owens_corning-2026-08-28-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (NYSE: OC) officer to sell $129,663 in stock - Stock Titan",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2ZUTzREeWZsTENxWFh1S1c5YTVlVzJhSUtuSnBEUHk3WFBqemdJaWNrTlJFaDRZMTNYaEVXYmRWVjJzcGlCTDFESWVUdWw1Y0lScGJ1eHYyblg5ME4yMS0ybU45Q2dCTFJQQTdELUdEMWNpZVBkZHBiNmszcUtfcWZfQVUzUndaeG1BZUR2aEVGTVNJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "flat_glass-2026-08-28-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Flat Glass Group Co., Ltd. Just Missed Earnings With A Surprise Loss - Here Are Analysts Latest Forecasts - simplywall.st",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSHlGdE10cUhvc0dWb2dPa0hNSnF1U0NUampQT2VDWjVfZzJYeWd6cW1VZ3FyUVgxQXRuNVpqM284SWdJVFBVbVZzWHRQVUhReXhfcmN3a3JKUGVkWk5sN0ItNWRxVGFVRlFYQUV1bmNJUjBTTFhDQlR2MG1lb25iYTlzckRiNFF4Sjl1UkxoaUhHcEY2dEx1TUNTNU5mMEFob0dlakpWM0VXd09oWDcza3dSX0lERDEwZlNRMEszS0wzM2hWZC02MHhpMzlhT0ZmLUJJazVKYlNqR1l2Z3fSAeMBQVVfeXFMUFdKV2JibFA5S3d4enR3SU0ta3pqMlJfeFR3T1JQWlFFSVF4Sl9aNWlXd01ydGV6T3dLeTBFVUhDVWtyVGExV2ZseVp0U1UxMk5wd0tIbjZQRzJENy1XamFtcFpha1pka3ZuMHVxQ1ZqajZUcFlXZDUyeUNEdzVSVzM4Y3piYXpWUDNDQUpMUnUtX0F4Zko4cXFsU0VqeWNJbTVlbDIweDhCcFVObE1jazlSRHNLWDVkWVlacEpTNVFFU2plMWhKb1JyQzVsRERVVHctb25ZdzJuaGdXX3M0TWhrOFk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-28-015",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Renewables’ installed capacity to beat natural gas within a year – EIA data",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/08/28/renewables-installed-capacity-to-beat-natural-gas-within-a-year-eia-data/"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-08-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals acquires Rs 21.16 crore in North American soda ash contracts from SVM - scanx.trade",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTFZVUEJBRERrXzVTQUpaOVNKQ2VRVkh3eTB4VWVRV0lpcEZyTzZVZjE0M0dYeDAtYW90Q2VjX2xLLXptNU5TazNYT2xKdnB6c3l3cTJTQWdPWHBvRGp1ekhzNXBKOHI2NmFia2Q4eFhoX3cxcUx6cG1mdHMzbDdDVWhSV2xSbVBPRTBHdXgzRC1DeGpYb0JUN0VkSXF4YkVTanB1eklBekN2RlVqcHRoSE51V1BjZ1BidE80?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_glass_trends": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "owens_corning",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 3
+      },
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "construction_activity",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 170,
+    "too_old": 185,
+    "gate1_blocked": 28,
+    "gate2_blocked": 28,
+    "passed": 24,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Man Group plc Acquires New Holdings in Owens Corning Inc $OC - MarketBeat",
+      "Are Investors Undervaluing Owens Corning (OC) Right Now? - Yahoo Finance",
+      "Jackson County U.S. Army veteran receives new roof from Owens Corning - WYMT",
+      "Cibc World Market Inc. Acquires Shares of 28,798 Owens Corning Inc $OC - MarketBeat",
+      "Sanctuary Advisors LLC Takes $2.86 Million Position in Owens Corning Inc $OC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為聖戈班、Owens Corning、康寧相關動態：「Owens Corning (OC) Back On Investors’ Radar With An Under...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning (OC) Back On Investors’ Radar With An Undervalued Narrative - s...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Owens Corning (NYSE: OC) officer to sell $129,663 in stock - Stock Titan（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-28",
+  "date_range": {
+    "start": "2026-08-22",
+    "end": "2026-08-28"
+  },
+  "generated_at": "2026-08-28T20:07:08.359935Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-08-23-003",
+      "date": "2026-08-23",
+      "title": "Pinnbrook Capital Management LP Makes New Investment in Owens Corning Inc $OC - MarketBeat",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 34,
+      "last_week": 18,
+      "week_over_week_change": "+89%",
+      "sentiment_this_week": 0.01
+    },
+    "inventory": {
+      "this_week": 10,
+      "last_week": 3,
+      "week_over_week_change": "+233%",
+      "sentiment_this_week": -0.0
+    },
+    "capacity": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.38
+    },
+    "construction_activity": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "solar_glass_demand": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "auto_glass_trends": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "first_solar": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "owens_corning": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "corning": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "saint_gobain": {
+      "event_count": 9,
+      "sentiment_avg": 0.16,
+      "rank": 2
+    },
+    "tata_chemicals": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "oi_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "flat_glass": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 110,
+        "last": 134,
+        "change_pct": -17.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-22",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 16,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 20,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 14,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 18,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-22 ~ 2026-08-28）共 110 則事件，重點為「Pinnbrook Capital Management LP Makes New Inves...」。福萊特情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "福萊特",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Owens Corning",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
