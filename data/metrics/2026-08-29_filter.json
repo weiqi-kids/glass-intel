@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 29,
+  "gate2_fail": 24,
+  "passed": 16,
+  "gate2_samples": [
+    "Enterprise value to EBIT forward of SCR-Sibelco N.V. – LS:A0D835 - TradingView",
+    "Kimelman & Baird LLC Buys Shares of 195,925 Owens Corning Inc $OC - MarketBeat",
+    "Are Investors Undervaluing Owens Corning (OC) Right Now? - qz.com",
+    "Jackson County U.S. Army veteran receives new roof from Owens Corning - WYMT",
+    "Lombard Odier Asset Management Europe Ltd Purchases New Position in Owens Corning Inc $OC - MarketBe"
+  ]
+}
