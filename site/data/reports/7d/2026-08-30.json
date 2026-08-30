@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-30",
+  "date_range": {
+    "start": "2026-08-24",
+    "end": "2026-08-30"
+  },
+  "generated_at": "2026-08-30T13:42:39.906292Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-08-24-001",
+      "date": "2026-08-24",
+      "title": "Commerce Bank Acquires New Shares in Owens Corning Inc $OC - MarketBeat",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 50,
+      "last_week": 13,
+      "week_over_week_change": "+285%",
+      "sentiment_this_week": -0.01
+    },
+    "inventory": {
+      "this_week": 14,
+      "last_week": 3,
+      "week_over_week_change": "+367%",
+      "sentiment_this_week": -0.0
+    },
+    "capacity": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.38
+    },
+    "construction_activity": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "solar_glass_demand": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "auto_glass_trends": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "owens_corning": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "corning": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "saint_gobain": {
+      "event_count": 11,
+      "sentiment_avg": 0.13,
+      "rank": 4
+    },
+    "first_solar": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "tata_chemicals": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "oi_glass": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "flat_glass": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 8
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 120,
+        "last": 145,
+        "change_pct": -17.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-24",
+      "event_count": 16,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 22,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 14,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 22,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 17,
+      "sentiment_avg": -0.09
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 10,
+      "sentiment_avg": -0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-24 ~ 2026-08-30）共 120 則事件，重點為「Commerce Bank Acquires New Shares in Owens Corn...」。隆基綠能、福萊特情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "福萊特",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Owens Corning",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
