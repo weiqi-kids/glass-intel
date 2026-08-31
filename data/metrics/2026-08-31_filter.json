@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 26,
+  "gate2_fail": 23,
+  "passed": 33,
+  "gate2_samples": [
+    "Are Investors Undervaluing Owens Corning (OC) Right Now? - Yahoo Finance",
+    "Kimelman & Baird LLC Buys Shares of 195,925 Owens Corning Inc $OC - MarketBeat",
+    "Lombard Odier Asset Management Europe Ltd Purchases New Position in Owens Corning Inc $OC - MarketBe",
+    "Man Group plc Acquires New Holdings in Owens Corning Inc $OC - MarketBeat",
+    "AGC and Neusignal Therapeutics Collaborate on the Development of Alzheimer’s Disease Drug Candidate "
+  ]
+}
