@@ -1,0 +1,263 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:19:58.599336Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-09-01-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "LONGi Remains Pressured by Industry Overcapacity - morningstar.com",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0YyZGJXbkRHUU5tcktGYl9QOTE1TXNPWDlpbk5UeEFsVnVFbzZYVzNEZHpsMmdCOHNIYlMzREt4TUEzcnJNRmlJendHeV9fWWRDQlp0T2hvWDQ1UzNyaUE3TkRHS1FLakU1ZUoxNjRFREZHNDE1dUVpdU1tOFhSelEyNm5oZ0RtNEZnQkRabXRKS2RVSmt1RjBNY3VRRUp6c3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-09-01-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Stock Looks Undervalued After Its 59% Five Year Gain - Yahoo Finance",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmtYc28taW0zLWlOcXRUbllBUlVhQnpUdEhBQkc4bXd4V2NJM05vOVpkcG1penZ4MVpHT1k1ZkMwVEg3RHk2V3hCeGF1RG4zV3pFaVdvYjhxWTQ1YWV0UENiRDFMRm1uWDNIZUVTU1d2T0hLbDgtSENCVXVveU9NWGhWMWFwMjM1YjdDVjhuY1kxTHcwSEt2UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-09-01-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Corient Private Wealth LP Acquires New Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV2ZEaC03bHQ1N2d1enNRaTE3aEJXYUN6VGNCZ3hyb01vRzBjMGZlWXNyRnJMeGRDSW81STlJelU2NjFMT05EV0MzS01PMll4WFQ4cEYwMk02eVBYanN4QkZFd1RDOVFQRUhrLWo4WC0zcnU0a0dtR2VweVVDV1F2M3RVbWNHZ1FOMmcxWTltYndybTJpVkFkanhDaS1lcnhTX3ZhaDdDbko0STRtVmlEc1Rud3pHUXJrbEU0b1RsVmREMHFka1dHbEVuTjc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-09-01-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Is Owens Corning (OC) Undervalued As Its Portfolio Shift Targets Higher Margins? - Yahoo Finance",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWnFBUy1GNU5YRHBFczJPcG1UM2M5QmJQYTZ1RExKY0c0Z1ZxVXhnVVpTMnBBN1JRdk4xUE1SaXNPZXIyUU5OQWQ1d2RNUnlZckxGaXZKc2UxUmFKQUtwTkIyQTBaYnU3NDZ1enVRQl9BVUhOWFNJZnp6MEJvOThBcEZXUV9nOFpBSlZYdHZYYV9rWEh1SlNsTVRiekR2eURjangteHd3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-09-01-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain stock declines nearly 3% and remains below its key moving averages - Idéal Investisseur",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSG5GdXFHRllMTjNSbnhFNjFBNExfUXhiMjNrTWRTbTVNcmVpMTBzSGUxNEkzZHVMVlB6NHZ3WmZEV0FiNUQ4NFlqa05ScVQ1RlJGRkxPRkdSbjQ3ZW40VGpCcm5hUEZYdTFLMFdCQUNWc2pfX2d6SkRUeGM0UDdHcHRLa3lOWElzdWx1WlhmeGprNi1BYkg1d2RVVWRUa0JmaGF4bjhDRDhoT09JemFFWTNocmcxZHNQMFRwMEkxdUFkUmFvZ09ORHpzTThkWk4wVEZj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.16,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "inventory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 3
+      },
+      {
+        "id": "owens_corning",
+        "count": 3
+      },
+      {
+        "id": "first_solar",
+        "count": 3
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 179,
+    "too_old": 171,
+    "gate1_blocked": 30,
+    "gate2_blocked": 20,
+    "passed": 36,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "'Tunahangaika': Magadi residents hit by water crisis after suspension of Tata Chemicals operations -",
+      "Are Investors Undervaluing Owens Corning (OC) Right Now? - Yahoo Finance",
+      "Kimelman & Baird LLC Buys Shares of 195,925 Owens Corning Inc $OC - MarketBeat",
+      "Lombard Odier Asset Management Europe Ltd Purchases New Position in Owens Corning Inc $OC - MarketBe",
+      "Nippon Sheet Glass Co., Ltd. Enters into Loan Agreement Containing Financial Covenants - marketscree"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為康寧、Owens Corning、First Solar相關動態：「LONGi Remains Pressured by Industry Overcapacity - mornin...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LONGi Remains Pressured by Industry Overcapacity - morningstar.com（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Owens Corning (OC) Stock Looks Undervalued After Its 59% Five Year Gain - Yah...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
