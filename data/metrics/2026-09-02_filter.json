@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 30,
+  "gate2_fail": 17,
+  "passed": 25,
+  "gate2_samples": [
+    "Are Investors Undervaluing Owens Corning (OC) Right Now? - Yahoo Finance",
+    "Kimelman & Baird LLC Buys Shares of 195,925 Owens Corning Inc $OC - MarketBeat",
+    "Lombard Odier Asset Management Europe Ltd Purchases New Position in Owens Corning Inc $OC - MarketBe",
+    "Nippon Sheet Glass Co., Ltd. Enters into Loan Agreement Containing Financial Covenants - marketscree",
+    "Vermont well owners file federal class action against Saint-Gobain, 3M, and DuPont over contaminatio"
+  ]
+}

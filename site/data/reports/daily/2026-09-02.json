@@ -1,0 +1,220 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:40:38.326417Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-09-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals stock steady as investors watch latest earnings and market valuation - AD HOC NEWS",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2ktMlZqVDI3akRLeDFqNTB0NWR1ZGVNOG1RVkF0U0JsRm8yR3A1QUhqcDU4cjlETm1kX0toaV96cGY1UEU4OHJrR1FFZW9tNEpTV3doSHJsZkJ4bVdvbE1BSVZKVGJTU0d4bnM5VEdjcTZXYVdidXZZRlo3bUxJUTVGMnlFMzc5Y1NqV0JTNUtWbFp3Z0p1X0V1RHZxQzlhUXEyWmdxbTkwazIyaWtpQ1ZvX3liSjFRaGFuZUFoUl9OSkwzMUJRMFd3Y1Q?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Quanex (NX) Reports Q2: Everything You Need To Know Ahead Of Earnings - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1FoUWFVT3FGNXJnc0dnUFlHY09yS0ZCczJEME40MHc3MUdJbEtEZFJ0TUJpQTNJQ2pTRzNUMEIwZ3ZBb3ktazRuSGZ0eElkSF8ybzR6MXljNGFjOGRpcmQxQnlDNEdxMlV4bjliVTNtSUxXZUdJMHVGVEgwNkR2bWZDblBhc0J6d0hsVzdHaWplUURpOUlvMlh6TTRQU2gxQUI4ZklnT01tYWV0Z0tZT0dXbGFMblBwNVdFQVdtSWdFRnczYUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-09-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Solar stock holds steady as dividend payment approaches - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkhldU5QMks5bWdIZVpFVkk1cW9qeVRIRFg2eWo5Y0xCTXRCMzNGQ01DQTlDMHhTVHJjbkpwSk9OWDR4U2t6d1d1N0k3Z2g2VEJnM1lSVGYzVG94WFdMbl9RU2xGNVNHc1FBSS0yaXFKTDZjQjBfZG5ldVZrWE1tU1VfMElRZjViUnh0RmxHMzJYY3hiRnhQQ1NRVkhWTkYxaDQwZjNlMFlSYmh1WlFtZ3h2b0ZGYmlFd3doNw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-09-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Air Quality Index (AQI) and France Air Pollution | IQAir United Arab Emirates - IQAir",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTd2RkJReFVRODB5VDhqSDdkVVRTLTZSN0FPWmRnTVJvdFBISi0zYW9Nc19MdDg4UzRnaklkY3hiSkdQLTJHelI1SmR2YlZiV1VYekJZQ2dXSU9xY3I2MGw3Qml0aVB1b0h5amxuOVhOMXVBdnNGYU13bUg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O I Glass (OI) Invests In Muskogee Upgrade On A Fair Value Debate - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORE5zSExiVmFHY3pDOHRpRHVEU1VWcWxSOGN2ZWRaMVU5WlU4d2JiNW5ST05iUTI5NTJGNWtIZFlieDBjZ0UzTkVjZlBNcFdLVzhvdGsteEdlXzRhNmE3NlJxeGQ1V29jMFViWWtPd2ZpWjdyNGd5WWhSS01CYlo5RFZVSnEtSGpuN1FMcGNGSUJpaFpDMFRCOFpzUWJfNzBGaWdLSHFvUkR5RmQ5LU5GZDRQTTFyXzU3ZGduYm5uR0NBV0XSAcgBQVVfeXFMUHpERnRlWjFaWlF6aVBSTThQUHBiSkQyY21Cc1F3TDlObnJzNm9oMENnMHh5Q2hFRjNyVUJJREdKSXZVYTFZRDZhVmloTDhMck8zX0VYQTljcjJIelRyY0ZfVkRsLTBBQVRYOUNaaFkyME9FLVlfMHhTN2NIMFdVR3phLXU4THFPUzhEUW43bzVCNWhuTVJyN3dDWDJLOU9hRmZTYi1HMUQ3OFlMcHc4M1U4Q0E3a0ZRTS0tYng0cVNPZUlkVFV4Wnk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 182,
+    "too_old": 182,
+    "gate1_blocked": 30,
+    "gate2_blocked": 17,
+    "passed": 25,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Are Investors Undervaluing Owens Corning (OC) Right Now? - Yahoo Finance",
+      "Kimelman & Baird LLC Buys Shares of 195,925 Owens Corning Inc $OC - MarketBeat",
+      "Lombard Odier Asset Management Europe Ltd Purchases New Position in Owens Corning Inc $OC - MarketBe",
+      "Nippon Sheet Glass Co., Ltd. Enters into Loan Agreement Containing Financial Covenants - marketscree",
+      "Vermont well owners file federal class action against Saint-Gobain, 3M, and DuPont over contaminatio"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為塔塔化工、信義光能、聖戈班相關動態：「Tata Chemicals stock steady as investors watch latest ear...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tata Chemicals stock steady as investors watch latest earnings and market val...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Quanex (NX) Reports Q2: Everything You Need To Know Ahead Of Earnings - Tradi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
