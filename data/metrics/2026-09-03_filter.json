@@ -1,0 +1,14 @@
+{
+  "total_raw": 176,
+  "dup_title": 57,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 27,
+  "gate2_fail": 3,
+  "passed": 9,
+  "gate2_samples": [
+    "First Solar, Inc. $FSLR Shares Acquired by Cookson Peirce & Co. Inc. - MarketBeat",
+    "China now has more solar than coal to fuel its electric car boom",
+    "Virginia Tech coalition plans Reddit-like digital commons for builders"
+  ]
+}

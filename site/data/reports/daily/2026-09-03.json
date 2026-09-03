@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:43:36.634302Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-09-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continuum Advisory LLC Increases Holdings in First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmdlb0ZjUWxCajVabUdCX0drUXhHbkJLbzlDeldBTGxqTEF0djZScXZmejF1MUt4blA2OVZiUjdhYU45YTVXU0tOMnVKN05lNER5QWVVaVRnNGxCR2F4d1I4WnVCUnZpNllVV0wxdDRoZFZVYy1vV1NtaXNOc3FMRXJwMkhRdkgwRlVobUVNRUNEelJyRjY5OFRPM1ozN3g2MzhqSGxkNEU3Zk5QNExJbWxNT1dqdEhSeHlGRm9ramFsRmQ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-09-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar, Inc. $FSLR Shares Sold by Wellington Management Group LLP - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLU9zSXZ0ODZzeUJ0dURxc3Q1QzNVT2xUSjZaWFlIWUR0WXJLd2huTTZPbHgycU00NngwdDk4Z2NiQVN6ZzN0SUxJR0RSenJIN1VTY1lDd3Bxa201NVdienFURVg0T0JHUnU1M3VKbmhqbnJMOVNTSjJXRm9xT2V2VldSNHJpMEhDZGNBbkMtX3pKYTlNWWRhVTV5YmhfVWc3Zmx4bTlRN1BXMWttY1Y4YWltMTlDUi1LeXRETVYxM1gzcTRJTktj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 176,
+    "dup_title": 57,
+    "too_old": 80,
+    "gate1_blocked": 27,
+    "gate2_blocked": 3,
+    "passed": 9,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "First Solar, Inc. $FSLR Shares Acquired by Cookson Peirce & Co. Inc. - MarketBeat",
+      "China now has more solar than coal to fuel its electric car boom",
+      "Virginia Tech coalition plans Reddit-like digital commons for builders"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為First Solar相關動態：「Continuum Advisory LLC Increases Holdings in First Solar,...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Continuum Advisory LLC Increases Holdings in First Solar, Inc. $FSLR - Market...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "First Solar, Inc. $FSLR Shares Sold by Wellington Management Group LLP - Mark...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
