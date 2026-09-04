@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:37:45.193192Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-09-04-012",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Public Employees Retirement System of Ohio Takes Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnFqT3FlTFE5Vi1fQ1ozSTZRRV85aHNPTHBfNEhQUzhGOUhxblVaM2MyeWhwUWZKaTJ4N3Y5a2ZyQ1gtVUtveEFsb1QzVGRObkoyNVV1NmZ4S0h3MWdtWGZQQVlRQ3hKT09Zek11VzVhb0ZkQnVCb25yS2VoT21mYVFGQjNoSUF5SG1KQ1FnVTRydGc2VWpJREZFT1UzSVUzRWcyTmhZS0pHZ2pGQnFockM0RVBKQ1l6VHVSUU92SUI4dmVmTFRDb0I4elduOG90bHFMMWoxc2c4Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-09-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kenya's Ruto orders Indian company Tata Chemicals to leave the country - Ottumwa Courier",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUzFraGUwel9vSkZIR05fbF9fYVNzbFo5Q0FKeWFnYkltTVE0ZEJqekRBY2FoMGdKblpCaHVrMlZiQXhwQ2k0dFpXRVBNN1UwZ2NZSDUtNHN0eVlLU3JPdVZEanRJVFkwNER4TFJWcWNySmw5NnpwUzd6SzBUdkJraE1qR0lTRkh6X0RXTjg0OExJRlprMmlCaU5hYlY0OGxnZkQ4WVRuUi0zYW5nSE56UGFxWU5DLWl5a1hjbDVFR1BkVmRBckY3U0NPeE84QTZZQjdESkNIc1E3QUR6TExUUkhkcWxKbzJqaEJQMklMcUxCaTZ2clA0N21OS3RzQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-09-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals’ Kenya unit ordered to cease operation - The Hindu",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa3RHX1FvNjdTNElJaGRTXzZUejFhcU1CaTRzSG1YTXAxemk5Zkxid2YxcVVUS2FJU0R3ekNid1FBTzhhYmF0QkNabjZBbXBTa1JMcm1abXllN0g5VmxaUmtuX1k3VDVIM3VFQ0RpTVRjT3VKMGplTU8wd3ByYk5vOWJMSmZaZ2FoVWVEZFVnRkR0Q1NRWXZGbFBMSnBsUmRud0NSVlRNSHl3emRNbGo2ZmZ4WlBSQnh5blV1U0otTVUzRl9kUjUzSkFONkVaVmRr0gHXAUFVX3lxTE5UM0FxaGVHRGxWNk5CMEx0ckxmUGItMkhtNUYtS25GTHJpVjRPbnlsU2RaaGJiTzNsSVNNOE5yUWZXVlZoeDRHRTRqT00xVGkwOHdDWXVkUkdJbHBkbXMtN1NzQVE4VW5yWGI2ZmQ5YUgtZ3lrWWQxUldBYVRRS0ZkZ01JZDRSaExSejZuQXhCU2pNd2ZIWFlZdWt2dFo3ZFlyMGNzWmx3MlhGbHBYaWo3bHFmTjhib2huUER0emJkV1VxSEZfbkZtYlZGc1NETF9DV0h5VVpN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tata_chemicals-2026-09-04-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kenyan President orders Tata Chemicals out of the country - The Chemical Engineer",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0RyNEI0R2ZmUGFDOWFHZVlCQTROMnlhcjNZR2N6SUtnM2ptRzkwaXFIT0xXd2MzU0luZklSUk5SLW5IbUVONTNPSHRqQ19GT3dMMjgxazZ6VFVRdzFzSGQ4elRYLTVrWDRpdDM2Z19kMW1WVnlkcmRSTGdsR0laYk5GMnlfQU1TUzdMaG4xbkNfSGRoUW5wMXhlaGIteVRM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-09-04-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ruto tells Tata Chemicals to pack up and leave Kenya - Billionaires.Africa",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQlZGRlJYR2pCak1PVG1GSUZLWDRyNU90VW54YnQ4Rmdvb0NqQzRWMmQzektBNDJNRnNQdzlWSndKUlhvQkNUbVlCTE1nZ3E5R1ZQY1hHT05LdVFaNG5Ka2sxT0Q2WkRNYXRZc1dNTWpMSjFuQU5hQVh3M1FrQ1dkSzdTQ2h4TnVvOV9qc1FFWjNfRWVzSnVoMnNHczNsejlyUVF6TV9DSS1jVHBPam8tdXBBc0ZfdTlBT0NQZkNrYUdjOVdnM3Q4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 11
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 410,
+    "dup_title": 162,
+    "too_old": 159,
+    "gate1_blocked": 34,
+    "gate2_blocked": 19,
+    "passed": 36,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Kenya’s Ruto tells Tata Chemicals to leave - Semafor",
+      "'Didn't benefit country': Kenya ousts Tata Chemicals - The Times of India",
+      "Kenya Tata Chemicals - hjnews.com",
+      "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind",
+      "Tata Chemicals shares fall after reports suggest Kenya President asks for ceasing operations - CNBC "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為塔塔化工、聖戈班、Owens Corning相關動態：「Public Employees Retirement System of Ohio Takes Position...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Public Employees Retirement System of Ohio Takes Position in Owens Corning In...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Kenya's Ruto orders Indian company Tata Chemicals to leave the country - Ottu...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

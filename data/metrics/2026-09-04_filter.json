@@ -1,0 +1,16 @@
+{
+  "total_raw": 410,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 34,
+  "gate2_fail": 19,
+  "passed": 36,
+  "gate2_samples": [
+    "Kenya’s Ruto tells Tata Chemicals to leave - Semafor",
+    "'Didn't benefit country': Kenya ousts Tata Chemicals - The Times of India",
+    "Kenya Tata Chemicals - hjnews.com",
+    "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind",
+    "Tata Chemicals shares fall after reports suggest Kenya President asks for ceasing operations - CNBC "
+  ]
+}
