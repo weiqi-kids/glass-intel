@@ -1,0 +1,16 @@
+{
+  "total_raw": 430,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 34,
+  "gate2_fail": 16,
+  "passed": 33,
+  "gate2_samples": [
+    "'Didn't benefit country': Kenya ousts Tata Chemicals - The Times of India",
+    "Kenya's Ruto tells Tata Chemicals to leave - Yahoo",
+    "Why does Kenya want Tata Chemicals gone? Inside the escalating row over a 100-year-old soda ash busi",
+    "China Link Behind Tata Chemicals’ Kenya Exit? Ex-Deputy President Makes Explosive Claim | Exclusive ",
+    "Kenya Tata Chemicals - The Herald Journal"
+  ]
+}
