@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T12:03:56.498760Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-09-06-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Is Owens Corning (OC) Stock A Bargain Or Fairly Priced? - simplywall.st",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVno2VXRTLUp4am96UkswVHZ0WXhCZk5NS0xIb0x6SUJ5VlB3R2ZQRURiWmszenh1QmM1d3pqamUwTHpSOU1vSlMzNzVvUDlDb2R5TlM4M0xYNkV5bW1Jd1k3WmVNTFZrV3B5QXVRcDVZSVhTcHZnQWc1enFVQS01Q3FkdmcxbkF2WlQtOFhEdXQ3VnRVa1UxS2xiYzFBUWFlTF9yTUduN0oxVFdSYzU3RkQ3QlZlOWVwRHRoeTV4TEtZN2vSAcgBQVVfeXFMT1R0YTRnQXFITVl4eDZLbUE4aGpWMzJnQUhzc2VLYkRaeGJoQzhXYWhmTVpMbFgyaUV0VWpVLTdjRW01ZS1xUm9Zc2MwSEc1S0FhWTRJbDJvR0NaZWFYWmNtUU5reVVNX0FRX1ozM0ZzTnVBWXFwNHMwUGY5MXhSUVlyRlBuRDhyNkwxTE5IQXFpUUtQT3lINjdZZllPTTNFTWhtZzJuS2JNUm0xNHp6Ui1fNDcyal9qVkZodEZvcmhST1ZseEhCOHY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-09-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Alberta introduces the first solar panel recycling program in Canada - Yahoo News Canada",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2c2azllbk9Ec2Q4aVF1emk1RnFKWGZzTmdNQy00QjFOb3Z0U0ZvNTA1YmpYSkR4Y3A5UU1HRjVXOWd3WWcwUW5EYXpBejloQWhKWVlmQWtTaFJWNzZlc2NxSklGRXpvY2JWV2xnMVYtYkNRLWI2T2ZvMTV6aV9LN05zTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-09-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar stock holds near 52-week range after recent trading - AD HOC NEWS",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXdEd3B0c0ZfVkhRVHNBcEl6UGd3cTF6YWRueHMtWG02akRyUkJxUWY5WUZtNzNNZ1FGbXRUSzV0RkNodVBacFFDdkUxeURIa0xkdlR4QkY5ZHhZV2RHSEZSZVdLWXhnN2JrY0ZfaHNHeWUycE5DVHZfVnRCdnU0amlDLWdfaThuM3laYUlQSDV1bG8wd25mcVctZE5UOUFHLVZwZmtrVjlNZzNCdjNGZkJBQ0dOUXdFbVMtOGNGbVNsUkJ0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 197,
+    "too_old": 180,
+    "gate1_blocked": 30,
+    "gate2_blocked": 16,
+    "passed": 12,
+    "pass_rate": "5.0%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "'Didn't benefit country': Kenya ousts Tata Chemicals - The Times of India",
+      "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind",
+      "Kenya's Ruto tells Tata Chemicals to leave - Yahoo",
+      "Why Kenya President Wants Tata Chemicals Out: Inside The Magadi Dispute - NDTV",
+      "Gachagua links mineral riches to Tata Chemicals shutdown - People Daily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為First Solar、康寧、Owens Corning相關動態：「Is Owens Corning (OC) Stock A Bargain Or Fairly Priced? -...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Owens Corning (OC) Stock A Bargain Or Fairly Priced? - simplywall.st（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Alberta introduces the first solar panel recycling program in Canada - Yahoo ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

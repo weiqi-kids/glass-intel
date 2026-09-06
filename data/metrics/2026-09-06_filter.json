@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 30,
+  "gate2_fail": 16,
+  "passed": 12,
+  "gate2_samples": [
+    "'Didn't benefit country': Kenya ousts Tata Chemicals - The Times of India",
+    "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind",
+    "Kenya's Ruto tells Tata Chemicals to leave - Yahoo",
+    "Why Kenya President Wants Tata Chemicals Out: Inside The Magadi Dispute - NDTV",
+    "Gachagua links mineral riches to Tata Chemicals shutdown - People Daily"
+  ]
+}

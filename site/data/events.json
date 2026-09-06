@@ -1,5 +1,67 @@
 [
   {
+    "id": "corning-2026-09-06-001",
+    "date": "2026-09-06",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Is Owens Corning (OC) Stock A Bargain Or Fairly Priced? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVno2VXRTLUp4am96UkswVHZ0WXhCZk5NS0xIb0x6SUJ5VlB3R2ZQRURiWmszenh1QmM1d3pqamUwTHpSOU1vSlMzNzVvUDlDb2R5TlM4M0xYNkV5bW1Jd1k3WmVNTFZrV3B5QXVRcD",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVno2VXRTLUp4am96UkswVHZ0WXhCZk5NS0xIb0x6SUJ5VlB3R2ZQRURiWmszenh1QmM1d3pqamUwTHpSOU1vSlMzNzVvUDlDb2R5TlM4M0xYNkV5bW1Jd1k3WmVNTFZrV3B5QXVRcDVZSVhTcHZnQWc1enFVQS01Q3FkdmcxbkF2WlQtOFhEdXQ3VnRVa1UxS2xiYzFBUWFlTF9yTUduN0oxVFdSYzU3RkQ3QlZlOWVwRHRoeTV4TEtZN2vSAcgBQVVfeXFMT1R0YTRnQXFITVl4eDZLbUE4aGpWMzJnQUhzc2VLYkRaeGJoQzhXYWhmTVpMbFgyaUV0VWpVLTdjRW01ZS1xUm9Zc2MwSEc1S0FhWTRJbDJvR0NaZWFYWmNtUU5reVVNX0FRX1ozM0ZzTnVBWXFwNHMwUGY5MXhSUVlyRlBuRDhyNkwxTE5IQXFpUUtQT3lINjdZZllPTTNFTWhtZzJuS2JNUm0xNHp6Ui1fNDcyal9qVkZodEZvcmhST1ZseEhCOHY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-06-002",
+    "date": "2026-09-06",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar stock holds near 52-week range after recent trading - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXdEd3B0c0ZfVkhRVHNBcEl6UGd3cTF6YWRueHMtWG02akRyUkJxUWY5WUZtNzNNZ1FGbXRUSzV0RkNodVBacFFDdkUxeURIa0xkdlR4QkY5ZHhZV2RHSEZSZVdLWXhnN2JrY0ZfaH",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXdEd3B0c0ZfVkhRVHNBcEl6UGd3cTF6YWRueHMtWG02akRyUkJxUWY5WUZtNzNNZ1FGbXRUSzV0RkNodVBacFFDdkUxeURIa0xkdlR4QkY5ZHhZV2RHSEZSZVdLWXhnN2JrY0ZfaHNHeWUycE5DVHZfVnRCdnU0amlDLWdfaThuM3laYUlQSDV1bG8wd25mcVctZE5UOUFHLVZwZmtrVjlNZzNCdjNGZkJBQ0dOUXdFbVMtOGNGbVNsUkJ0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-06-003",
+    "date": "2026-09-06",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Alberta introduces the first solar panel recycling program in Canada - Yahoo News Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2c2azllbk9Ec2Q4aVF1emk1RnFKWGZzTmdNQy00QjFOb3Z0U0ZvNTA1YmpYSkR4Y3A5UU1HRjVXOWd3WWcwUW5EYXpBejloQWhKWVlmQWtTaFJWNzZlc2NxSklGRXpvY2JWV2xnMV",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2c2azllbk9Ec2Q4aVF1emk1RnFKWGZzTmdNQy00QjFOb3Z0U0ZvNTA1YmpYSkR4Y3A5UU1HRjVXOWd3WWcwUW5EYXpBejloQWhKWVlmQWtTaFJWNzZlc2NxSklGRXpvY2JWV2xnMVYtYkNRLWI2T2ZvMTV6aV9LN05zTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -133,6 +195,67 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUhoaUUyTE0zZUNtWXkwa3lSaWRxaVhHTEpCOF9aUFl0bFZYcTlmUWhGX0pQRndiaG9ubWk4c3lDLXVzS2hFZ1Z6dGExQy1vdWw5UEtzc29EUHBBNWN6c0NkNzdJNFFhOWVhX0UyUUhCaXdaSHhhOFF1Und3TmNYaXZicHNlUGJVajJ0SVV5WVFlQy1SN2hJd2duLXhnTGlSMjlaeEJjTTJCdVA1YkhBUHNudEFoakJvaTV3RNIBwgFBVV95cUxPQmhORDN5Nm04UlhYWGpCSXZ6NDVnNWplNnAtT2pSOUF6R3JoTDEzbkhOeGYzOVE3Yk1NenVoSm1sUGpOcVppYXRvS1RsOWlfOVZZVV9hMXNJSzdFTFNGMjFEZjBfVzZ3cUY3MkUzODhQRUpPb3BPSExqQ3JmLWY4dXRpOVFLT2xoeURDZWR6cDFkT0stR3haQzVHVnR4OHVHcGhYM1g2UFVtVGJWS3BOaFNZYkVaYTREM0dueE51RE1XUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-09-05-008",
+    "date": "2026-09-05",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Obayashi and AGC Establish Closed-Loop Recycling Flow to Recover Waste Window Glass from Demolition Sites as Raw Material for Float Glass - Circular Economy Hub",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdTJLSTdYQWtCTmY0ZTdxclJ2akhfbzVnZ083Q29YenZDQVFHMkN0Y0FDYm90enFUTlhTZzljV2lBWU8xUFFNT2tIc2RaYUxaZk85NTc3di0wZlgwdDduN0xJcjhJc3MyZE05N0xkRm",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdTJLSTdYQWtCTmY0ZTdxclJ2akhfbzVnZ083Q29YenZDQVFHMkN0Y0FDYm90enFUTlhTZzljV2lBWU8xUFFNT2tIc2RaYUxaZk85NTc3di0wZlgwdDduN0xJcjhJc3MyZE05N0xkRmk0N0REYjJ6Q01VQTlFbkY1LXBjZEZsSkduQ3luemhDMnhDS1VtdzY0V2M1TXByUUFaQklDRkRDNElWTW5nYkZVTkZKcHpGZ0Vad0NDZzhJRVA4RnFKVlUzQ2hFTzI3anl1U3A4RU1JcFBfV0hpXy14X1JkTnRYY3pvOTJ6cFV6NTAyV0JaRUw5T3hR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-05-009",
+    "date": "2026-09-05",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Why Is First Solar Stock Falling Premarket Today? - stocktwits.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0I1NWxnZTZ0WUp5ajJFYUstNzRvbW5tcWU4OUxvRWwzVDlZaVZNRW8ySXF5OEZFVE9DMFBicmFlOWJTV3dTcGVzR3dqaFFfZHVWZmYzTjlvSk4wZ19iV0FqVDhKV2o4V2tDSEtWbl",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0I1NWxnZTZ0WUp5ajJFYUstNzRvbW5tcWU4OUxvRWwzVDlZaVZNRW8ySXF5OEZFVE9DMFBicmFlOWJTV3dTcGVzR3dqaFFfZHVWZmYzTjlvSk4wZ19iV0FqVDhKV2o4V2tDSEtWblhxUE56UlBDTUthdmJBYjAwZWV6MTBFTVJ4ZFlJTEZ6SjdHMzlCN21FN25jWTNEREF5ZzJaZ2V5NDFneWFzMFdJX193?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-05-010",
+    "date": "2026-09-05",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar stock eases after strong earnings beat and policy worries - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1BfUHZBemFVeWUtdm5xUXRLUE16M3FqM0VZcjBMTlpwbXJOUjFYbzlwcE5Ha01BN21PRG9wUnBzZVJLdDYyWExaSjU1dURRVXcxbklyaUdoVmZtQk1qVlZZSE1GUzU4NFRZc0dsN1",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1BfUHZBemFVeWUtdm5xUXRLUE16M3FqM0VZcjBMTlpwbXJOUjFYbzlwcE5Ha01BN21PRG9wUnBzZVJLdDYyWExaSjU1dURRVXcxbklyaUdoVmZtQk1qVlZZSE1GUzU4NFRZc0dsN1NXLUp0cHFVNHpHVUZNcGhMV3NFXy1RTjlDMVJrd00ySnBIM0FxSUl6a1J2OFJ3clhPWklfTm5iZEwyNEtfSDljZm9rYUs5Y01WM3NBSzhjLUtOTHVzRWg0?oc=5",
         "type": "rss"
       }
     ]
@@ -662,6 +785,68 @@
     ]
   },
   {
+    "id": "tata_chemicals-2026-09-04-028",
+    "date": "2026-09-04",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kenyan President orders Tata Chemicals out of the country - thechemicalengineer.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0RyNEI0R2ZmUGFDOWFHZVlCQTROMnlhcjNZR2N6SUtnM2ptRzkwaXFIT0xXd2MzU0luZklSUk5SLW5IbUVONTNPSHRqQ19GT3dMMjgxazZ6VFVRdzFzSGQ4elRYLTVrWDRpdDM2Z1",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0RyNEI0R2ZmUGFDOWFHZVlCQTROMnlhcjNZR2N6SUtnM2ptRzkwaXFIT0xXd2MzU0luZklSUk5SLW5IbUVONTNPSHRqQ19GT3dMMjgxazZ6VFVRdzFzSGQ4elRYLTVrWDRpdDM2Z19kMW1WVnlkcmRSTGdsR0laYk5GMnlfQU1TUzdMaG4xbkNfSGRoUW5wMXhlaGIteVRM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_glass-2026-09-04-029",
+    "date": "2026-09-04",
+    "companies": [
+      "xinyi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Insider Buys Additional CN¥17m In Xinyi Glass Holdings Stock - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlM2QmZYRHhSY2lHXzI3Sklxd29OVTA3RkhvZHV2bmsyd2VQYkIxOTlUVWxPU0xrcjQ3WlhfdktCdGMyR3NJTDFLTXlPSU43NTg0MTlBWkprdjk2cFA4WHRnc2xGR3kzbnFjVVRlOX",
+    "sources": [
+      {
+        "name": "xinyi_glass",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlM2QmZYRHhSY2lHXzI3Sklxd29OVTA3RkhvZHV2bmsyd2VQYkIxOTlUVWxPU0xrcjQ3WlhfdktCdGMyR3NJTDFLTXlPSU43NTg0MTlBWkprdjk2cFA4WHRnc2xGR3kzbnFjVVRlOXZsa3NWVmcwdzZSaDdLQUkzYzh6bVVNLWdZUjdZNFRKODBJYVd5eTYzeXdzbGRoMTBaNDZWQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-04-030",
+    "date": "2026-09-04",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONHBvaHFqb1B2WkM3N202S2dPX0d6WDVhOW5aXzRiY0ZjSUVxajJSdU82VVBULTl6NXhLYmRzNTRMbHFITnlWcVoySTVPZlRKN19lNzc3eGxFeDJSem1BV2hIWWpUWDRjWWRNQTQ4ZG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONHBvaHFqb1B2WkM3N202S2dPX0d6WDVhOW5aXzRiY0ZjSUVxajJSdU82VVBULTl6NXhLYmRzNTRMbHFITnlWcVoySTVPZlRKN19lNzc3eGxFeDJSem1BV2hIWWpUWDRjWWRNQTQ4ZGNWQ1RQYmR1dmxwa2FndjFIR0hQQmRCN1lJZWNkazYzT3huQlpwRnh6VFZqMGNBekZONFB3MVQtNk1GaU1LTllzSFFyZHFjaGxDSTYtWG1HSzIwajhJN2RpbW9NVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "first_solar-2026-09-03-001",
     "date": "2026-09-03",
     "companies": [
@@ -1129,6 +1314,24 @@
     ]
   },
   {
+    "id": "longi-2026-09-03-025",
+    "date": "2026-09-03",
+    "companies": [
+      "longi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LONGi’s H1 2026 Module Shipments Drop As BC Sales Rise - taiyangnews.info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBXN0VhS016akQ0OVRRcFBvOTlQYnVnVG9VX1FfMkxvbVJYck13YUxsRjVGQkhuZFJMQi1TVjBRVEE5VUEyYkZ1dktFYU9QeXRmR050WUVJdDd0bFp3N25qQTFtWmF2ZWthQjRDbFB5UF",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXN0VhS016akQ0OVRRcFBvOTlQYnVnVG9VX1FfMkxvbVJYck13YUxsRjVGQkhuZFJMQi1TVjBRVEE5VUEyYkZ1dktFYU9QeXRmR050WUVJdDd0bFp3N25qQTFtWmF2ZWthQjRDbFB5UFJGbXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [
@@ -1494,6 +1697,27 @@
       {
         "name": "google_solar_glass",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX3NGQTlFeUFvYk5wQlN0S0ljLTZLb0hlWXZVU25QN2pORjZFb0xDd1JpUU5EMWJSMFMzbzhKWjJjaVdpS3BFV0I2czVRcHdjWFVEVVJRY0FycHYzOXd2d19JbHR3UnVTZWlpcEQtWG9YcTk2a2FncjFlSDAzV3FsQWNCRllXTUhYRWRGNDVmemJFMmlZLTZxWUE2Z1N1ZGNzVEN1VXBYOFk2QmM3OFpkQTR0Yy02cVFQTEZ3blhrN1VjWng0d0t1U3lidktaLUwy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-02-020",
+    "date": "2026-09-02",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (OC): Buy, Sell, or Hold Post Q2 Earnings? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjBVamxqbmJFOUYtUkRMaDdVV2IwREdZZmhYb3g3RlNwUXJESzRfQUpYTHVLNFViVXBhckxjUXJGUV94azIyNEtTVXd2YWVhWV8zUk9PbzIyOWNWcWcyS05FUW9mRVZfZzVDVUZ3UX",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjBVamxqbmJFOUYtUkRMaDdVV2IwREdZZmhYb3g3RlNwUXJESzRfQUpYTHVLNFViVXBhckxjUXJGUV94azIyNEtTVXd2YWVhWV8zUk9PbzIyOWNWcWcyS05FUW9mRVZfZzVDVUZ3UXBIbGNZVVhKNG1IMnhDUVdOdHVjLUM5Mm9DeV9GOEd1aTRmc01SOEo0UmVn?oc=5",
         "type": "rss"
       }
     ]
@@ -2065,6 +2289,26 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHE3NWtWdVMwUVpVZHR5NmtJR09fZ1NJTlIyTXoyakFSOU5SN3Iya0JGYk0zVUdxSkFrMEFHVUxrZGI5bDBlZFBhTmNxS0ZaWmVzWDNMV2RKcVBPYWFyWTE3OGlGU2xkcG9iQmk4WkRZcG5UaDdLNU5jaGFqNk0yN09uWG9rY0Uxb0lMeXhJWHlsRWtIeEJ1d2ktQXRrc1MwZzFucWktSG1VVlE0c0g3d3c3VnNvS1VDOE5DMmN3NnZHRU1ReVc3QlNpMVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-01-030",
+    "date": "2026-09-01",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain: Helped by a technical support level - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDVycUVOUzlkWExqZnNYMWFYXzFyRk1hN2NCQzEzOHVadkEtSFVyNHA1bTJkQmdpOFlWOVNwUUlnU0RDZW5VakVOUjBsS1dQQ1d3SXZNYnBfNU5jZzY2c3Z5bl9Nd1RLNmlDU3YtSD",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDVycUVOUzlkWExqZnNYMWFYXzFyRk1hN2NCQzEzOHVadkEtSFVyNHA1bTJkQmdpOFlWOVNwUUlnU0RDZW5VakVOUjBsS1dQQ1d3SXZNYnBfNU5jZzY2c3Z5bl9Nd1RLNmlDU3YtSDdJNGktMHh3NlZJcDd4VW9ibDNyTDFlUC1tOTZ3eDBGWHNGZw?oc=5",
         "type": "rss"
       }
     ]
