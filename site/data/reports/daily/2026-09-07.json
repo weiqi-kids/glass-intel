@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T14:07:43.113364Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-09-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Kenya’s President has asked Tata Chemicals to pack up and leave | Explained - thehindu.com",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNWwzNElxM3BMVzNtSWk5ZkRfcDE3N1dIVTY2Tklhc0NJdDZ4dXZkN3doSjBvSzMwZkNkQkJEc1pGMm8tYXhSUEVHanVtemlHRTNPbGpzWkF3c1BsRmt0OVpxbUVmb2xhQ1ZkU0Q1Yzc4VDRLTjhKdnVVT2M4eFJxYl9PVWhSSDh0N3RjVWV6c0k3LVBPM0thSjJWMGY3WXVOWTRjR1gyTkZtajhLeXVJV0RvNWUwNVphcTFqa3p2TkxzaVhJRGFZNDAxclVmdVY0UER4c3lR0gHcAUFVX3lxTFBmTzlMblFDY0dBZ2J0NlRGRlFqREM2M1JjQkhfclE1dlZCMTJRN2YwNDFHcDlwQkpacFFkZ3ZWLWJSaDRjZEZJa1dBbWI0SU1rd3p1ZHJVY0ZEaW9MNlZrUjJVX3ZMU0s3VDM3dnAtSGhId3hSb0hCdHc5OGpCdjU0ZjQwejNGLXFBVjVzejNQSlk0NkpkcDV5RXdvMWpwUG9tam1UbkFjcnQ4SE1Oc0hneV9OX0ttczdYVnhwaUcyU3Q2MElfN0U2Z0dDZjFTZFdnTHpRVnJITFg0V2I?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China is set to get solar-powered cars with new glass-based technology but there's some important caveats - supercarblondie.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92TS1VLVVVQ2MyamUyYlVFakcyZlQzZ1B4enhBMnZ3bkJYQlJvQlEyWGZqdnZ3dW9INnJYbTk4TjgwOXBndmxsS0czcjhKNUdMMUQ5T2JqVEZOb1BRSXBTbHFtVS1CZTBlOEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-09-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain appoints Annica Hagen as Chief Artificial Intelligence Officer and accelerates AI deployment - Saint-Gobain",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGpBU2p0YjJqbDJmZ1ZNVS1FT2xiQ1hBQjEzTGlBakFsbmVBaW15OGltd01sVmdHUExZNEozTWxUTElLekY3ZXJaMTNHOTBEZ1BrS29KOExQR3hkUlZOSlJEWDhUc1RPMWpEM19oTFVwWW9qZkdwdm1KTDltbGlLd0RCZkxQTkgwdEtFc2RYeVdfTzEtZmNWQXdGSzFjSzVGanVKaUF4NlFUWC1JMHFzOUF1Ym9KYmlRaEF6cDlpeTJVWG9PNjNn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-09-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock edges higher after AI leadership appointment - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnBDMzI1aFFEYno1QjZMNEpFMDVTVy14RExDb29RWmNYTUNlOVQ3QUhIN001bExPMGl5N0pLTGdyMzMzV01FOUdTWS1VVUJ0YWtlTDM0TmhnTHBDM2tkOHhDM2QwaE9tMWVZcW1HMVUwR0pQRnZKQzBNSWJPUm5fQzA2T0liUnNfZzdlVlBRYjB6YUp4RmJuMC1XZnhCQkRBQ1VwUXlFcl9wczJBR205bDJzOExZaTJQdFA1YkY5eVFyV2ps?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-09-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock heads into the open after a flat EUR 94.00 close - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHBpME5fMUVjTm01TGswS0gzQmNoNEVoS1NHX0VjSmhQcjJ6Z3dieVN6Z29YbmZXYnh1M2hXbnEzMG15WmZwdlZwdGFPZkt1UFFnNmtoRmEwT0QzbU1kUHhWcHdrWlNFbmRMUlZFRTdUVE9XTTdHYWRVS3ZURldBTFlEbW13eFZVVmlwbnVGdm5qNE5NYTJfUWdfOWtBVE5DZXlUbHhZMFA0aEZGLWcxY1Q1SUw5a0YybE5Uc0xQUWVNc2NzZU5tQXlR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 188,
+    "too_old": 173,
+    "gate1_blocked": 33,
+    "gate2_blocked": 16,
+    "passed": 25,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "'Didn't benefit country': Kenya ousts Tata Chemicals - timesofindia.indiatimes.com",
+      "Kenya’s Ruto tells Tata Chemicals to leave - Semafor",
+      "Why Kenya President Wants Tata Chemicals Out: Inside The Magadi Dispute - NDTV",
+      "Why does Kenya want Tata Chemicals gone? Inside the escalating row over a 100-year-old soda ash busi",
+      "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為聖戈班、塔塔化工、First Solar相關動態：「Why Kenya’s President has asked Tata Chemicals to pack up...」。主要關注主題為財報、庫存、建築活動，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Kenya’s President has asked Tata Chemicals to pack up and leave | Explain...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "China is set to get solar-powered cars with new glass-based technology but th...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
