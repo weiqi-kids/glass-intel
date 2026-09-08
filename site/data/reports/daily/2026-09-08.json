@@ -1,0 +1,248 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:46:31.439089Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-09-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain : Berenberg reaffirms its Buy rating - marketscreener.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQam1HZnhSR0NSXzlkN19abjhVY18wN1puLUVEaVhGQVg2OUNjUTlGbDlSTEZEVkYzTFRiVEFLMUQ2NGpFOWc0MGx6a1Ntd0E3VDNNaFlTbVkybDMxNjRyQ09kM1YtVjBaU3pya29rTVVkZExINGp2NnlMU3ZCUlJEaks3OTFWUGdGNzFWWW9vNmhvQ2pJOUdycktKMmxqN29ZLUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Alberta bans solar panels from landfills, launches first recycling program - constructconnect.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ0J3X3FLaDM4bFJrSThfQXRxd1M5elNLSjRXZWlmUVFZLWcxMFdKNjdPOGswQ1BGaU9uRThMdktiQmZWaVVKVXVFb2w2S1JyWlZRU3NEeUxQRW5HX1drWlI5UHhMLUVHUzNfdTJuSUhJY1R5Z2IzQzdiRU10VW5FSG5pWldEeldiSERaTU5aZE1aQ3lJZWYtLWNpSkVpa3VNY3A3VXQ2Wi1hbjJFdDk3QVJUNl81ZkdNZ2ljQkFJa2RobnRPWHJldWZMeElob3Vr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-08-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-09-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saint-Gobain stock heads into the open after a 1.45 percent drop - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnZtWFA0YUdMWnZBV3pMNjdmZXJUcTl6VzRNekNEb1lMWW5GcG9HREF2THNvZzdMRHZtZHY5LWRUbWROS1V0UWF4TXB1MlVKWWNTU2hwU3gzay1PZGdhWVhINFN3WnRTVUwzWVBaU3R4allwbDVGSU9XMXM0ZTcxZldMVEw2MWRPd0gzenlZcURoZXBiOWZFWm1LaG1JLWFNYlh5akp0eWxuMTR2NjE4c2RzZDJWaEtPck9VcFFlYVYxT2NIMmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-09-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amundi Lowers Stock Position in First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0IzRjRMdlh0OTdGS25OQXJERVFkN2lWSmxCbkt0OEJYdmhXX1ctdmVibThjMkMzV3pZaUtyNkM4OGd4eGZldTRmQS11NHY5SnJIcUxncXY3d2JOSlh0VC1QR2FyMnlGM1dJanhHODBCbDR6QVNMODVYOVZTQWNDbTRVRlYwWVdjcHRwQndEZzViVENaWG4zNll6cGo2bVB5cDE1WVhINkVsNUYxWk9SWVZGQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_glass_trends": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "auto_glass_trends",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 189,
+    "too_old": 182,
+    "gate1_blocked": 29,
+    "gate2_blocked": 16,
+    "passed": 19,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Kenya’s Ruto tells Tata Chemicals to leave - Semafor",
+      "'Didn't benefit country': Kenya ousts Tata Chemicals - The Times of India",
+      "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind",
+      "Why Kenya President Wants Tata Chemicals Out: Inside The Magadi Dispute - NDTV",
+      "Why does Kenya want Tata Chemicals gone? Inside the escalating row over a 100-year-old soda ash busi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為聖戈班、First Solar相關動態：「Saint-Gobain : Berenberg reaffirms its Buy rating - marke...」。主要關注主題為財報、庫存、建築活動，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Saint-Gobain : Berenberg reaffirms its Buy rating - marketscreener.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Alberta bans solar panels from landfills, launches first recycling program - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

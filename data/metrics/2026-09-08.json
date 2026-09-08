@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-08",
+  "total_events": 8,
+  "by_company": {
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "auto_glass_trends": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
