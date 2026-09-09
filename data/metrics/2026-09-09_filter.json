@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 29,
+  "gate2_fail": 19,
+  "passed": 21,
+  "gate2_samples": [
+    "Kenya’s Ruto tells Tata Chemicals to leave - semafor.com",
+    "'Didn't benefit country': Kenya ousts Tata Chemicals - The Times of India",
+    "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind",
+    "Why Kenya President Wants Tata Chemicals Out: Inside The Magadi Dispute - NDTV",
+    "Kenya to set up high-level panel to resolve issues with Tata Chemicals unit - The Hindu"
+  ]
+}
