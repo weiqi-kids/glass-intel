@@ -1,5 +1,148 @@
 [
   {
+    "id": "unknown-2026-09-11-001",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vallejo veteran latest to get Rebuilding Together assistance as 9/11 project - Daily Republic",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc0prZkgwaGpMQ2pLLVNQNGhFR215WFBIXzFZLUJoUlFuNDN5dnJJU2I0UG5WVHo3dXJYQUhGWTlpXzFVU1U0bnF0TllKZEVVNkVKQVBxcG1zTUdwdWJWbXJQVFVuRkhUSlR6V2pPeU",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc0prZkgwaGpMQ2pLLVNQNGhFR215WFBIXzFZLUJoUlFuNDN5dnJJU2I0UG5WVHo3dXJYQUhGWTlpXzFVU1U0bnF0TllKZEVVNkVKQVBxcG1zTUdwdWJWbXJQVFVuRkhUSlR6V2pPeUpEa0toOExzOFVvOXB0SERpZGNLMVJkQk0xcGh4VEJfaEI0V084WDJXOUN4cEZrS2VDSVVjYmd5aWVNemN0VkR6VUd3V2pBVHFIeHNyd2FCLXo4ZmlfU0toY3lCMUlaV1p2VFhNVGQ1U1VZeU96VkZpUklPdTROWmgxY1B6NmJfU3VBOEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-09-11-002",
+    "date": "2026-09-11",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hsbc Holdings PLC Sells 7,858 Shares of Owens Corning Inc $OC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcy1TenRwSlpBYnMyUXJhOW42QkJuYzhUVXVTRVhQUE5UN0VZbkxaektoRWNVM3pUbFN2N2hId3NQRmVESzFxb0l4bUw4c2lFUVVwQ1lVcFVWN3lENE5EeHBBZkZwYWZEWTBiWHAzMj",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcy1TenRwSlpBYnMyUXJhOW42QkJuYzhUVXVTRVhQUE5UN0VZbkxaektoRWNVM3pUbFN2N2hId3NQRmVESzFxb0l4bUw4c2lFUVVwQ1lVcFVWN3lENE5EeHBBZkZwYWZEWTBiWHAzMjNJU3drbDhzRFJRbUNQc0pKZDBKZThzNDJ3RkNHbHh5SWtNODNwbWYzenhRYnYyZUI0djd1akNBOHRjNnZjQkhQM2p4RVF2RWljTlFGZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-11-003",
+    "date": "2026-09-11",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock heads into the open after a 3.9 percent drop. - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQby1JT25xV1B2b1E3Nnk2c2hrSnpZUWZycGxIdWFKb0xWV1YtSTk3OU1TNVY2MWgyNWN0bDVvS2ZhWEVkWWFkWlZRdEZKeFQwV3ZmWWFVN1dFMFlNd0xyX3Q4cE1BQzlTZzlaM25PdU",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQby1JT25xV1B2b1E3Nnk2c2hrSnpZUWZycGxIdWFKb0xWV1YtSTk3OU1TNVY2MWgyNWN0bDVvS2ZhWEVkWWFkWlZRdEZKeFQwV3ZmWWFVN1dFMFlNd0xyX3Q4cE1BQzlTZzlaM25PdUFhczRGVzEta0RSZHlzQWFDVk14dnBkMXVZbDdxd0ZQcUhmc3huSnFVYVJNUTdESlhDMnNaV0dPWnZyYmFUbzBRSUV6Y2tGWnFleGk0cGp5eHZTdktB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-11-004",
+    "date": "2026-09-11",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock holds near EUR 71 as Jefferies reiterates Buy after solid H1 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1Z4ZV9WZGJwZ3hUanc4VjRTRWhBNlMyWTU2YnZiREFCUGxzVlVKWHB0bmFRaDRwMkgwOTBWVktFeHhIYTFvdzJsdEJpNWo2dE5DM29yZXE0TjN1NzcyMHdTUlVoMFg1M1Y5bGFwSk",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1Z4ZV9WZGJwZ3hUanc4VjRTRWhBNlMyWTU2YnZiREFCUGxzVlVKWHB0bmFRaDRwMkgwOTBWVktFeHhIYTFvdzJsdEJpNWo2dE5DM29yZXE0TjN1NzcyMHdTUlVoMFg1M1Y5bGFwSkFCVmEyQTl1X0VpOFRxX2k2NFVRMzV1dE1aTDN5ai1ycTVfaGU0OWFNN0lUMS1vS1I5Zld5VFpvQndIU0ZpWEYxaE9jUWd3T1k3RU5aaFgtYk95WElVczBoWC1xNmJ5UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-11-005",
+    "date": "2026-09-11",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock holds steady as investors weigh mid-year results and recycling push - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3dyQUZtWGFfNXpvc2JTVXl3SDNzZHc4NnFEa29LTU0zbTRNdU1zRlNNd2dreG5yYkN5eFhNSE9DVjBPQ1N6emVOODEwZXpaczc5VThnSHl5bkl2QTAxVzM5UjhDOEI0dE1oYTZtZ1",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3dyQUZtWGFfNXpvc2JTVXl3SDNzZHc4NnFEa29LTU0zbTRNdU1zRlNNd2dreG5yYkN5eFhNSE9DVjBPQ1N6emVOODEwZXpaczc5VThnSHl5bkl2QTAxVzM5UjhDOEI0dE1oYTZtZ1lMNjVtUklGRGdwckJiOURWeTdaVlJER09xUkFEaWtSRzQ5NV9GSnpzSWlHOFIwdEhSWUN3OGdSbkpFZDFpcXYwSUhiOWZmSGRuQTIzdVFITHlpdkhlOEJaSW1vZWF0dEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-11-006",
+    "date": "2026-09-11",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock heads into the open after a modest gain - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3BmSk4ycGFndlZhZ2xQbW9OSWlyQmtlREc0TXNVazZaWlFIOGo4TUlkUDJCSXhKSFN3YnNfNEVQUk1sMmMtZkYxQWozM0ZOWFRFelBRd0w0dmwyWmpJaVhhSTV3R1NJdXAydmpmLU",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3BmSk4ycGFndlZhZ2xQbW9OSWlyQmtlREc0TXNVazZaWlFIOGo4TUlkUDJCSXhKSFN3YnNfNEVQUk1sMmMtZkYxQWozM0ZOWFRFelBRd0w0dmwyWmpJaVhhSTV3R1NJdXAydmpmLU1SU0Z0SEdwWVZ2NjVPMnY4R09IcDFIZTViOTZDaVhvcVFud0lEUGtGang5dFQ5My1CWmJMVVdxajBack9sMVdQMG82N09mZHplMGZjdElR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-11-007",
+    "date": "2026-09-11",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Tidal Investments LLC Boosts Stock Position in First Solar, Inc. $FSLR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDJNTVR2RzVrTVppODFsdmFxZVlRbElQTkhaeXFhaDdvMmZaMEl6WmxROEtKM1I4MEh1bThXVk8yQjVLakU5UTAwbm5hUHlEMktNRXJ3aUR4NjBEUWljYUdoVG9NVmpfaXVLS3dOSm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDJNTVR2RzVrTVppODFsdmFxZVlRbElQTkhaeXFhaDdvMmZaMEl6WmxROEtKM1I4MEh1bThXVk8yQjVLakU5UTAwbm5hUHlEMktNRXJ3aUR4NjBEUWljYUdoVG9NVmpfaXVLS3dOSmRsVVlPSlM3SllTYzZvMDdBTGl3OFpBQ1pncXNpN0NUajFIV3J6cldGcW5lOGJQUkRzOXhGUWJHTkU0MkM2WVNJTXBKak1zM2k1TzI0dG4zZFFfRm05dXdV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-09-10-001",
     "date": "2026-09-10",
     "companies": [
@@ -93,6 +236,213 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmlKNnIyMHBmQ2JFSUR6UFBBWVVoX1BrcEY3NHBMMUcxaUdxR0JFVXhBUUxUd0ZaQzhnUHJnek5EaXdVb3k3TGI2OGpsNG5ad2VFZm1VM0lKUk1kM090aDczX1RWazZheHdZM3BJbWdhR0FFbE1DSzRUOGZQZk5ncA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-09-10-006",
+    "date": "2026-09-10",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Roof Geeks Highlights Owens Corning Certification and 50-Year War - The National Law Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQclV0OEhteWplV3hXYWRvcmREeTZhbzFWOGtDaVBKWGFRNlZQOWN5WVBaRGFBc0wwRGlOX05ndzJqamZfbWI4RlRxQmY0ZHpmQ1VGS25ZYUV0eG5PbXJJMXJmODhnZEN5SUhGM0FmeT",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclV0OEhteWplV3hXYWRvcmREeTZhbzFWOGtDaVBKWGFRNlZQOWN5WVBaRGFBc0wwRGlOX05ndzJqamZfbWI4RlRxQmY0ZHpmQ1VGS25ZYUV0eG5PbXJJMXJmODhnZEN5SUhGM0FmeTdOdDZXOGltbGFWVXB3dWtrb3VkeGllOFRuM2NmZXRTdXlUZzdyaTFRbmwtTUhhTGxnSzJ1T0t3b0dRR2VJODIw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-10-007",
+    "date": "2026-09-10",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "CertainTeed Recycle: Saint-Gobain Canada Expands Gypsum Recycling Efforts to Divert Thousands of Tonnes of Waste From Landfills - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQYnRydDREZ21WWmpYbkRDbmxRdlBjcmNITlpMT3UzampSbHZ1cHFvaHJhZ1Y4cWdRd1FQSXlNNjZOUnZvbWIxMGQ1UHpuLTg2V194WHhTSURONDZwZ2VHTUx2MGhzcGJzcEJtQnpZcn",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYnRydDREZ21WWmpYbkRDbmxRdlBjcmNITlpMT3UzampSbHZ1cHFvaHJhZ1Y4cWdRd1FQSXlNNjZOUnZvbWIxMGQ1UHpuLTg2V194WHhTSURONDZwZ2VHTUx2MGhzcGJzcEJtQnpZcnRKZVFaZUJUMUJmR1JyTHluX0JJc0NlZXdpMXlGWjBRS2V1UXBjeVVGaU9nVUFkYmd1YlhQcW53ZnBPZ0xWRmZmLXl6bXdCOGJ5UFBMa3BHSDJGM1lYSHI1dGFwTjc1bkZSWTFZMFRMclU4RzNlWlJrVkp1aU8xUE5UNnduMUI2WmctOWwtYmhGck42czNJbnl4Q3NkalM0OUpYYlA5Vm8xaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-10-008",
+    "date": "2026-09-10",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain : Jefferies remains its Buy rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3Z3Mm1jVWhmN3VYbVZ2OFhUamtqZXRtRkotSXVYUF9tT3J4SHVZQlFMWmlZNEpuUjNNVzVzc1U1UjBIb3BacjFiYWE1cHRRcFkybkpRQ2UwT1doU29KQnlSZmdvYUVxSjFhSXctem",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3Z3Mm1jVWhmN3VYbVZ2OFhUamtqZXRtRkotSXVYUF9tT3J4SHVZQlFMWmlZNEpuUjNNVzVzc1U1UjBIb3BacjFiYWE1cHRRcFkybkpRQ2UwT1doU29KQnlSZmdvYUVxSjFhSXctemc4aDhZbml1UFo1bFptaF9XbERhQTg2SDJMVEJQcnJNc1VLVzZNMEhVVTk1eHB3Y1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-009",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Flat Glass to Inject 95 Million Yuan Capital Into Subsidiary - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVVraFdxOHVrYjlhbUI0WDRUWENwU2p4cGxSNzRWQ1NNUmJ3anJ5ZlZnek1oR05LMkg0cjNkY3Y5a2JMTXQtejVpYVVrZXpMVlp2SV9vWFlaYnQ0cWtxZDNuOW1JVUhhelVrRmlYbX",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVVraFdxOHVrYjlhbUI0WDRUWENwU2p4cGxSNzRWQ1NNUmJ3anJ5ZlZnek1oR05LMkg0cjNkY3Y5a2JMTXQtejVpYVVrZXpMVlp2SV9vWFlaYnQ0cWtxZDNuOW1JVUhhelVrRmlYbXE0dFg0MWEyOTJpLWJqWEZQbmdabjFPY1NhZWUwZjczLTY3UjhHdjE5ZXI3a01rbWtqU3FFaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-010",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Flat Glass to Inject 95 Million Yuan Capital Into Subsidiary - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVpkTHhxem5JN1kwZkVjNWozWkpVNFQwNFEtc0tEdVQ3ZkNvVV9tWWczdzlxd05DdHFsN2hQZ2JiWVdIUjF3LUlrTWExQzF1bkZRd1htZWpuWXlCdHBVS284cnpUVG03WWhCd1NKTn",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVpkTHhxem5JN1kwZkVjNWozWkpVNFQwNFEtc0tEdVQ3ZkNvVV9tWWczdzlxd05DdHFsN2hQZ2JiWVdIUjF3LUlrTWExQzF1bkZRd1htZWpuWXlCdHBVS284cnpUVG03WWhCd1NKTnFmWnNIamxHS1NTVk9WMDk5TzBGeG9oUERnNERWMWRhVUk0TS13OEJaOTBkc242UWJrMGh4V2pUaV80a3h4TmRaejBvSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-011",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LuxWall lands federal support for Detroit glass factory​ - Crain's Detroit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEtPdUxaUVFncWg0UjRpVjJ0RU9Wd0dZd0JzalV4bHFmYTI4THVZYlhoVVgxVG01eGlRT00ySmdsYld6dy1qRVZUS1Uzb2NoQ2xROEh3T095S0xlU2F2MFF2aUx0V2Z6dDVoLU1aM3",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEtPdUxaUVFncWg0UjRpVjJ0RU9Wd0dZd0JzalV4bHFmYTI4THVZYlhoVVgxVG01eGlRT00ySmdsYld6dy1qRVZUS1Uzb2NoQ2xROEh3T095S0xlU2F2MFF2aUx0V2Z6dDVoLU1aM3piVHRVY20xN0pybDJhRFhSM2lJaWpnb0tTRWRJbGpmZUFPR19ydFpnNERPeHV3ek50N2JkN3V3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-012",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Air Products will donate $100 for each visitor to its event, up to $15,000. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlJXcC0yTFM0WW1YeGRnUWVDNmJDYkluRnBSNFc1UHVyTzNkXy1uYlFZYnR2d2pIaW52bUt1b2E3Mm9RdUVGZTZMLWdlbFQtUzZtWG9lellMejZTV3VzMjZLTUp5LXNTTXV2dDU4bz",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlJXcC0yTFM0WW1YeGRnUWVDNmJDYkluRnBSNFc1UHVyTzNkXy1uYlFZYnR2d2pIaW52bUt1b2E3Mm9RdUVGZTZMLWdlbFQtUzZtWG9lellMejZTV3VzMjZLTUp5LXNTTXV2dDU4bzlDVTJlc0NiRDZWSHV3ekRxb0ZlM3M0blp0Z1YySzF5cGs0WTVrZW4yY3NtVjlTQXVFS1A5RVg4dkNUTWNQcXE4NENKVVZEdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-013",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Mirror Glass Cullet Market Forecast to 2035: Recycled Content Mandates Drive Expansion - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGFwWjJnU1doTTZWZFctUjVqajZGSnhnOUtlY1YwTWtpZ2ZmUGxoS2pNYmlZdC1CcHFOTWI2UHVaY0pKZkxURTVtLURvUFpEOU5jNTI5OG42SWUtYlJFRWg5M2piSHI5VmV3Z01yWG",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGFwWjJnU1doTTZWZFctUjVqajZGSnhnOUtlY1YwTWtpZ2ZmUGxoS2pNYmlZdC1CcHFOTWI2UHVaY0pKZkxURTVtLURvUFpEOU5jNTI5OG42SWUtYlJFRWg5M2piSHI5VmV3Z01yWGFFbjh5aW9EM0x5RFJyZjF4T3djNkoyc1VvNW1qdS10LWhCOUx0YkljbGxKUkVNQm9FTU9uSS05aXhrcW4xdV9KV1ZDbXM3MjF1M3h0VmdjZW8zc1NkRVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-014",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Air Products to donate up to $15,000 to support innovation in ceramic and glass industries at Toledo conference. - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFQxMVlMYXd2TE1yRHZVNG5IVkZXQ21Xang3U0pacE1JUXRlRGZzZFlxT3dJUHBIZ3JTZG1SVVBab2V3NDV6R2RkUkg5U0ZYQkoyUkgzSjFWc1pEWF9NcVdnU2RHM0JtcVNtNUJHYk",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFQxMVlMYXd2TE1yRHZVNG5IVkZXQ21Xang3U0pacE1JUXRlRGZzZFlxT3dJUHBIZ3JTZG1SVVBab2V3NDV6R2RkUkg5U0ZYQkoyUkgzSjFWc1pEWF9NcVdnU2RHM0JtcVNtNUJHYkdaMEZIOE1tbGYzZGd0M0hCZHZ0aWtralIyWjFRd0dtLXl4UnRZSXFkX01OZFNPT3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-015",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "solar_glass_demand",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Silica Sand Glass-Grade Market to Accelerate on Solar Glass Boom, Reaching 2035 Expansion - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVctelBhQm4ta0hJN3FTazd3d1BEZVRPVEhvNFFNZGlEVlF4MUZpVXRsTzBCb096NC12UksxN09xNVBxbHlyNDNPakdqa2h0UXlvcTh2T042S0ViZnk0WmRxemExaWdIMXV5WXlCaX",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVctelBhQm4ta0hJN3FTazd3d1BEZVRPVEhvNFFNZGlEVlF4MUZpVXRsTzBCb096NC12UksxN09xNVBxbHlyNDNPakdqa2h0UXlvcTh2T042S0ViZnk0WmRxemExaWdIMXV5WXlCaXBVWGkzLVFTMVEwTWZ6TEU3QVlNRTVOa3BVeXg1bnVLN0tqSHVyaDlEdzVGNjNYVGZVYW5wR0JuaTVyYzlvLW9UOGFnb3VOc3g5emc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-016",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Rebuilding after 9/11 a ‘Herculean effort,’ AECOM Tishman execs say",
+    "summary": "<p>Twenty-five years after the terrorist attacks, three construction veterans from the firm discussed the gargantuan undertaking of rebuilding, along with the impact of restoring New York City&rsquo;s",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/aecom-tishman-rebuild-9-11-world-trade-center-construction/830063/",
         "type": "rss"
       }
     ]
@@ -423,6 +773,26 @@
     ]
   },
   {
+    "id": "tata_chemicals-2026-09-09-018",
+    "date": "2026-09-09",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tata Chemicals North America Acquires Soda Ash Contracts Worth Over $110 Million - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxEcF93NDlseldzd0VDTU1YSlZQNm1lUFBaaGJzUE14SURmWFZsR3dpTmV5bFR2Wk13X0JpZ0VVRTZEcEpYQ2Vhd3lQZHNpTG9ZVG9yd0RlZ1lXSUM5MzhOemNDcjBmY3IxZ091cm",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxEcF93NDlseldzd0VDTU1YSlZQNm1lUFBaaGJzUE14SURmWFZsR3dpTmV5bFR2Wk13X0JpZ0VVRTZEcEpYQ2Vhd3lQZHNpTG9ZVG9yd0RlZ1lXSUM5MzhOemNDcjBmY3IxZ091cmliSVlJMnNBYTFUWlo2eEFuUjN6NWo0OUtqaGtPeFJwbXBwTGJhZjg5V2VGQWpQZmVXdk8xVlVkejh3dFpaOFRsMmM2MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-09-08-001",
     "date": "2026-09-08",
     "companies": [
@@ -736,6 +1106,43 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVd2a0h2QzZIeXd4bUNIU1VtQnlSeHM5TWhHZG5RWGxpRV9TbzV2Y2c3bkFDRFRPVDdlWTMyNk5jQnVfNWRjelp4UU1Oakl4a19taHhWaS1EM1NEQ1c3ZV80a0RCdXVqSWtsYjVBYkVveEQ0em5zT1NKUUVHYURaS3ZlVzBKd2M3X1dNQkZ6eWg4Z2FaYW5LakhyU2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-018",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "3 Value Stocks Walking a Fine Line - stockstory.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0JRNFFxc00xU1RzaFNEZkM3VnRWcWE1Zm1jalMtN3ZKdXRwaVhELVR0SG1IX1hlSkNqRnZiaFI0bk1nMk9iLXpoRUhJSS1oQVVWZGhSMkEtS2NCajNRbnF0dVFBaHlESkRKWTNFMm",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0JRNFFxc00xU1RzaFNEZkM3VnRWcWE1Zm1jalMtN3ZKdXRwaVhELVR0SG1IX1hlSkNqRnZiaFI0bk1nMk9iLXpoRUhJSS1oQVVWZGhSMkEtS2NCajNRbnF0dVFBaHlESkRKWTNFMm4zNW9BckVkeWg1TmVDb0tzMlFtYkl1ZjQ2ajVDRG1PQU9rbHlfbURv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-08-019",
+    "date": "2026-09-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Verizon signs optical fiber deal with Corning to expand broadband, support AI growth - WTVB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFBseEJiTndxNm1OVnBZVkhWakZqbURqazFFRzRCaDZYam1yRk1mZmZjajBZaVZkclA4d3Ytd0dPSGFWVFpGX3daZUFyTVJXNTNIdndyQUUya2xCem9PWjB3blJzY3NhOGpQaEg0aG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFBseEJiTndxNm1OVnBZVkhWakZqbURqazFFRzRCaDZYam1yRk1mZmZjajBZaVZkclA4d3Ytd0dPSGFWVFpGX3daZUFyTVJXNTNIdndyQUUya2xCem9PWjB3blJzY3NhOGpQaEg0aGJBME94V2RpcnplM3l6X3hEdVlBR0ZrWDNidmVVOUpGclBEUmRUcEgtNjRUWmxRd3ZfQnowUTU2WmxpYnZTSDlHVjNHRTg?oc=5",
         "type": "rss"
       }
     ]
@@ -1590,6 +1997,26 @@
       {
         "name": "tata_chemicals",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdElDZ19RYThPR29sdjVCWHd2MmhaZ0JRVUZDdXgyYUVoX3lGZzJNdDVGbnpPSXcxYkNodXc1cnZwTGFhRWkxNlF2bnZmejM1X2FSTy1senFwZDl5NXY4LTM5NFZ3MlQ2czRYVm1Kb05tY3NQWmFYTTNLMDlFa1BPQk5yUy1PdklkNjZZWF9sdjMyUy1ac3FydGRrUHNwVU1YNm0xQ0VOdkg5Mml2TVBSTmdOZ1JMMWh1a0k1QWVfeER5bnFudjlHRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-09-05-016",
+    "date": "2026-09-05",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Obayashi and AGC Establish Closed-Loop Recycling Flow to Recover Waste Window Glass from Demolition Sites as Raw Material for Float Glass - cehub.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdTJLSTdYQWtCTmY0ZTdxclJ2akhfbzVnZ083Q29YenZDQVFHMkN0Y0FDYm90enFUTlhTZzljV2lBWU8xUFFNT2tIc2RaYUxaZk85NTc3di0wZlgwdDduN0xJcjhJc3MyZE05N0xkRm",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdTJLSTdYQWtCTmY0ZTdxclJ2akhfbzVnZ083Q29YenZDQVFHMkN0Y0FDYm90enFUTlhTZzljV2lBWU8xUFFNT2tIc2RaYUxaZk85NTc3di0wZlgwdDduN0xJcjhJc3MyZE05N0xkRmk0N0REYjJ6Q01VQTlFbkY1LXBjZEZsSkduQ3luemhDMnhDS1VtdzY0V2M1TXByUUFaQklDRkRDNElWTW5nYkZVTkZKcHpGZ0Vad0NDZzhJRVA4RnFKVlUzQ2hFTzI3anl1U3A4RU1JcFBfV0hpXy14X1JkTnRYY3pvOTJ6cFV6NTAyV0JaRUw5T3hR?oc=5",
         "type": "rss"
       }
     ]

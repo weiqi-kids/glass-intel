@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:44:39.871576Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-09-11-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hsbc Holdings PLC Sells 7,858 Shares of Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcy1TenRwSlpBYnMyUXJhOW42QkJuYzhUVXVTRVhQUE5UN0VZbkxaektoRWNVM3pUbFN2N2hId3NQRmVESzFxb0l4bUw4c2lFUVVwQ1lVcFVWN3lENE5EeHBBZkZwYWZEWTBiWHAzMjNJU3drbDhzRFJRbUNQc0pKZDBKZThzNDJ3RkNHbHh5SWtNODNwbWYzenhRYnYyZUI0djd1akNBOHRjNnZjQkhQM2p4RVF2RWljTlFGZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vallejo veteran latest to get Rebuilding Together assistance as 9/11 project - Daily Republic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc0prZkgwaGpMQ2pLLVNQNGhFR215WFBIXzFZLUJoUlFuNDN5dnJJU2I0UG5WVHo3dXJYQUhGWTlpXzFVU1U0bnF0TllKZEVVNkVKQVBxcG1zTUdwdWJWbXJQVFVuRkhUSlR6V2pPeUpEa0toOExzOFVvOXB0SERpZGNLMVJkQk0xcGh4VEJfaEI0V084WDJXOUN4cEZrS2VDSVVjYmd5aWVNemN0VkR6VUd3V2pBVHFIeHNyd2FCLXo4ZmlfU0toY3lCMUlaV1p2VFhNVGQ1U1VZeU96VkZpUklPdTROWmgxY1B6NmJfU3VBOEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-09-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock heads into the open after a 3.9 percent drop. - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQby1JT25xV1B2b1E3Nnk2c2hrSnpZUWZycGxIdWFKb0xWV1YtSTk3OU1TNVY2MWgyNWN0bDVvS2ZhWEVkWWFkWlZRdEZKeFQwV3ZmWWFVN1dFMFlNd0xyX3Q4cE1BQzlTZzlaM25PdUFhczRGVzEta0RSZHlzQWFDVk14dnBkMXVZbDdxd0ZQcUhmc3huSnFVYVJNUTdESlhDMnNaV0dPWnZyYmFUbzBRSUV6Y2tGWnFleGk0cGp5eHZTdktB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-09-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock holds steady as investors weigh mid-year results and recycling push - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3dyQUZtWGFfNXpvc2JTVXl3SDNzZHc4NnFEa29LTU0zbTRNdU1zRlNNd2dreG5yYkN5eFhNSE9DVjBPQ1N6emVOODEwZXpaczc5VThnSHl5bkl2QTAxVzM5UjhDOEI0dE1oYTZtZ1lMNjVtUklGRGdwckJiOURWeTdaVlJER09xUkFEaWtSRzQ5NV9GSnpzSWlHOFIwdEhSWUN3OGdSbkpFZDFpcXYwSUhiOWZmSGRuQTIzdVFITHlpdkhlOEJaSW1vZWF0dEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-09-11-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tidal Investments LLC Boosts Stock Position in First Solar, Inc. $FSLR - MarketBeat",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDJNTVR2RzVrTVppODFsdmFxZVlRbElQTkhaeXFhaDdvMmZaMEl6WmxROEtKM1I4MEh1bThXVk8yQjVLakU5UTAwbm5hUHlEMktNRXJ3aUR4NjBEUWljYUdoVG9NVmpfaXVLS3dOSmRsVVlPSlM3SllTYzZvMDdBTGl3OFpBQ1pncXNpN0NUajFIV3J6cldGcW5lOGJQUkRzOXhGUWJHTkU0MkM2WVNJTXBKak1zM2k1TzI0dG4zZFFfRm05dXdV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 174,
+    "too_old": 182,
+    "gate1_blocked": 26,
+    "gate2_blocked": 28,
+    "passed": 22,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Why Kenya President Wants Tata Chemicals Out: Inside The Magadi Dispute - NDTV",
+      "Kenya’s Ruto tells Tata Chemicals to leave - Semafor",
+      "Expert explains: Why is Kenyan President William Ruto targeting Indian companies? - indianexpress.co",
+      "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind",
+      "13,300 Shares in Owens Corning Inc $OC Bought by VIRGINIA RETIREMENT SYSTEMS ET Al - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為聖戈班、Owens Corning、康寧相關動態：「Hsbc Holdings PLC Sells 7,858 Shares of Owens Corning Inc...」。主要關注主題為財報、庫存、建築活動，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hsbc Holdings PLC Sells 7,858 Shares of Owens Corning Inc $OC - MarketBeat（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Vallejo veteran latest to get Rebuilding Together assistance as 9/11 project ...（建築活動、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

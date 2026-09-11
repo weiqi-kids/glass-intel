@@ -1,0 +1,16 @@
+{
+  "total_raw": 432,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 26,
+  "gate2_fail": 28,
+  "passed": 22,
+  "gate2_samples": [
+    "Why Kenya President Wants Tata Chemicals Out: Inside The Magadi Dispute - NDTV",
+    "Kenya’s Ruto tells Tata Chemicals to leave - Semafor",
+    "Expert explains: Why is Kenyan President William Ruto targeting Indian companies? - indianexpress.co",
+    "‘Are we slaves?’ Why Kenya wants Tata Chemicals to ‘pack and go’ after 100 years | World News - Hind",
+    "13,300 Shares in Owens Corning Inc $OC Bought by VIRGINIA RETIREMENT SYSTEMS ET Al - MarketBeat"
+  ]
+}
