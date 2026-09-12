@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 201,
+  "gate1_fail": 27,
+  "gate2_fail": 21,
+  "passed": 20,
+  "gate2_samples": [
+    "What will Kenya lose if Tata Chemicals Magadi is closed? - Daily Nation",
+    "Expert explains: Why is Kenyan President William Ruto targeting Indian companies? - indianexpress.co",
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - finance.yaho",
+    "Owens-Corning Inc (OC) Shares Surge 3.5% -- What GF Score of 85 Tells Investors - GuruFocus",
+    "Amundi Sells 18,384 Shares of Owens Corning Inc $OC - MarketBeat"
+  ]
+}

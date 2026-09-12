@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:44:35.754347Z",
+  "updated_at": "2026-09-12T12:04:45.755059Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "福萊特",
       "ticker": "6865.HK",
       "currency": "HKD",
-      "ar": 2428708501,
-      "ar_prev": 2279611564,
-      "ar_qoq": "+7%",
+      "ar": 2968757968,
+      "ar_prev": 2428708501,
+      "ar_qoq": "+22%",
       "ar_period": "QoQ",
-      "inventory": 1735135213,
-      "inv_prev": 1957829297,
-      "inv_qoq": "-11%",
+      "inventory": 1779747481,
+      "inv_prev": 1735135213,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "fuyao",
