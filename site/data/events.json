@@ -1,5 +1,44 @@
 [
   {
+    "id": "saint_gobain-2026-09-13-001",
+    "date": "2026-09-13",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock trades steady as investors digest latest results - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVWJad0Y1VVBJRi1vdUlQcWF1bFpkUnc1ckgtRmRIZ2Y2YUFYQmplNWpteGt5eXlmVWlhbkdlNWNscnFkOUM5QjNzRTBJOG82ZFZpTFBCMDFWeWhsR1d0VE5GazViRXotdzVfOUU4N3",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVWJad0Y1VVBJRi1vdUlQcWF1bFpkUnc1ckgtRmRIZ2Y2YUFYQmplNWpteGt5eXlmVWlhbkdlNWNscnFkOUM5QjNzRTBJOG82ZFZpTFBCMDFWeWhsR1d0VE5GazViRXotdzVfOUU4N3B2dU1SZmJnRXl5dTlodmtIUDhWTkYxLUNFZTY5T0lrSDZtaHg4TVdWUEZfek9XZk1SZm9EUFdRV2FvbkJrempRd2hGSm1IUjBsU0E2MldtTThCcnVRMXk2NWVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-002",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "solar_glass_demand",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Photovoltaic Glass Interlayers - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjIyQVI1aF83ekR1bHBBZDVqZmJoZmo3enE3SUlhX0tLRUtDMklxcWdQakREMTNZU0M0aUJPckZXXzdvZjJuOFdrcVdVMVpNbzFsWVp5eE1TYUNWdjV1S1RHNGY3NG0xRjdfX0R2T2",
+    "sources": [
+      {
+        "name": "google_solar_glass",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjIyQVI1aF83ekR1bHBBZDVqZmJoZmo3enE3SUlhX0tLRUtDMklxcWdQakREMTNZU0M0aUJPckZXXzdvZjJuOFdrcVdVMVpNbzFsWVp5eE1TYUNWdjV1S1RHNGY3NG0xRjdfX0R2T2VLeVJoM1pTeW5RbFB3cDBsNmRRVjRDSlVTT2kwckY5el9jOVY5aUtfcXhIcWZEVGhEQjU0Z2ZWcm55RmJWazBxdTVIeWZQTTU2RXNwR1RHWkt6T3Q0cWZ2Mmt6RXJFb1FTRUg3UmRkNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-09-12-001",
     "date": "2026-09-12",
     "companies": [
@@ -155,6 +194,43 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEN4OVJJWlFqcHVfYkZYRGEzTFllQUtKRjkxZG85R2FlUXQ1RUVjQnJkSkswUXdHZVk5UFpQUEs2bHN2Snh0LUkyVlBjTmZEVzNscUtCcGFJRFZaOTl6ZFRNdFFJVnUyMGlGdU0zSVY5cEhCeTE4T3BIVzFGcUhZLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-009",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "XNYIF Stock Price and Chart — OTC:XNYIF - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE54clVReGlYNUJoR21oYVVMVktwZkhuVWc3TmYzRzdwRDVIaWNFeUNQbXZDQ2FuNUJJbWhsbzBRZVI2eW4tMmkwd3J2eWo2QXNOQm1sLVdSVnQxam12ek5pTXc4LUxEeHlBSlNhWjdNY2",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54clVReGlYNUJoR21oYVVMVktwZkhuVWc3TmYzRzdwRDVIaWNFeUNQbXZDQ2FuNUJJbWhsbzBRZVI2eW4tMmkwd3J2eWo2QXNOQm1sLVdSVnQxam12ek5pTXc4LUxEeHlBSlNhWjdNY21ISDNTZ2hfYklB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-010",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Soda Feldspar Market To 2035: Ceramic Tile Demand Drives 4.2% CAGR Growth - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTlvdmtWTmtHMlFlcW5kUDY3bVFXWkMyWlBWcm5DTXFTbktqRTJBR1o4OUZFUlBYS2VpNTVKWG1QRTdZVVNhUGNMRmRGeTlTRG1zYVpnUXlISUVMUTZya3hCUHJjOU5jVTE4a3JfcE",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTlvdmtWTmtHMlFlcW5kUDY3bVFXWkMyWlBWcm5DTXFTbktqRTJBR1o4OUZFUlBYS2VpNTVKWG1QRTdZVVNhUGNMRmRGeTlTRG1zYVpnUXlISUVMUTZya3hCUHJjOU5jVTE4a3JfcEtkcXJoMU1JNHdHX1lwTGo1ZWFfeDNyajZxTEhYT0RLWnBuOXZhemVPQ3c0akUxSVVpZFRkWk96RkE4X3FoSkh0UWIxOA?oc=5",
         "type": "rss"
       }
     ]
@@ -433,6 +509,26 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/crowne-plaza-manhattan-times-square-opens-after-renovation/830145/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-11-015",
+    "date": "2026-09-11",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "First Solar (FSLR) Gets Bullish Coverage Despite Recent Stock Weakness - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQckVHdWFuSEdheXZQeTBRRUhKMHpzX2lBUlk3SEUyR0lMdU54WnFWMGI3TW9ZUlhkaVNXaUxxb2FFLUV1RXhoOHBWcDRpb2xaUGVXTGJISkNGY2VIWHVrRExSNWp6SVB6aXd0ck5lNm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQckVHdWFuSEdheXZQeTBRRUhKMHpzX2lBUlk3SEUyR0lMdU54WnFWMGI3TW9ZUlhkaVNXaUxxb2FFLUV1RXhoOHBWcDRpb2xaUGVXTGJISkNGY2VIWHVrRExSNWp6SVB6aXd0ck5lNmM3elFESXdjOTNwX19oSkJMYXNrZEMyeDN5UWhQcnV3TWx5VG8teFBSY05R?oc=5",
         "type": "rss"
       }
     ]
@@ -792,6 +888,24 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlRGNS0zbU5DNXd1SDl6TzVXNkRwSUthdzNMa2JmWlJCdTlQaTA1bFNiVWlvMTVCUW9rS3QtNnktUlYtWk1jN01wY1FJczlDV0dFYTF5ZmhDOElYeko4T184bXlsLVBEQ3lsZ0xsbkY4MjZXTnJMODVPdzFyak96MDllZlhkVU0yTTVLZzZZb3docklKcVViazR5UkdzeU9wSGR3eldKOEZtTmpsbTFMeEV5T1FXRzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-020",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LuxWall lands federal support for Detroit glass factory​ - crainsdetroit.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEtPdUxaUVFncWg0UjRpVjJ0RU9Wd0dZd0JzalV4bHFmYTI4THVZYlhoVVgxVG01eGlRT00ySmdsYld6dy1qRVZUS1Uzb2NoQ2xROEh3T095S0xlU2F2MFF2aUx0V2Z6dDVoLU1aM3",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEtPdUxaUVFncWg0UjRpVjJ0RU9Wd0dZd0JzalV4bHFmYTI4THVZYlhoVVgxVG01eGlRT00ySmdsYld6dy1qRVZUS1Uzb2NoQ2xROEh3T095S0xlU2F2MFF2aUx0V2Z6dDVoLU1aM3piVHRVY20xN0pybDJhRFhSM2lJaWpnb0tTRWRJbGpmZUFPR19ydFpnNERPeHV3ek50N2JkN3V3?oc=5",
         "type": "rss"
       }
     ]
@@ -1530,6 +1644,27 @@
       {
         "name": "flat_glass",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGdQYzBpZ29TS2F3Ukd2TzdfMkhPWU5HUDJvLW1jZDJ3RE5oSG4zNnhoQURNeUptbzU1aDNTdWZoRDlsY29qajFabXoyNGh0Wnc4aHlILUNUVDBxbl9mMEdFRnRJblQzZElKRTdINWtOMl8xRGFSc0VOSTVlWXpPOXRGVE5pU01DU2ZDdV8tcWswNW92ZHpYM2xWN1V0blNXMXhBbTdnUVliTi1EUl9pMU1UUG1zUk9ibHhwYXRsSURuYW5mdERheC1qZTNEUEw3R1BadHVkTnotU2tSeFpxb28xaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-08-022",
+    "date": "2026-09-08",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc. stock underperforms Tuesday when compared to competitors despite daily gains - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUl2QUhkdlcycm1FQUxzeFcxak9SMUNFZHBHdTcxaXJyZXM0YVAtcXhBaUVoT1dZVFFuMmxhMk0yLWJKVUhCYU9naVFjQThzemFrLVpKZ0pNRG55SGthMnhMSkJZMkZOYXRveHNIeG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUl2QUhkdlcycm1FQUxzeFcxak9SMUNFZHBHdTcxaXJyZXM0YVAtcXhBaUVoT1dZVFFuMmxhMk0yLWJKVUhCYU9naVFjQThzemFrLVpKZ0pNRG55SGthMnhMSkJZMkZOYXRveHNIeGd1azgxZ2JhZnRjcTlmcUtldUpOdUtQN2J2R2M5Mlh5YU4xTHBTRThHbE1PQ3Z5SThfVnlIdmpUUWZyTUFETHQxOF92Uzl1Z0E0a3RZa3htODNkdjhVM2lVeWhYdnAwcXoxUFplZkdfR2NOb2R2NVgyMldXeHcwMG1zVEk0V21QQklpbWlqYmpmYy1PM3FDbVk?oc=5",
         "type": "rss"
       }
     ]
