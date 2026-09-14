@@ -1,0 +1,16 @@
+{
+  "total_raw": 430,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 32,
+  "gate2_fail": 14,
+  "passed": 19,
+  "gate2_samples": [
+    "Owens-Corning Inc (OC) Shares Surge 3.5% -- What GF Score of 85 Tells Investors - GuruFocus",
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Amundi Sells 18,384 Shares of Owens Corning Inc $OC - MarketBeat",
+    "13,300 Shares in Owens Corning Inc $OC Bought by VIRGINIA RETIREMENT SYSTEMS ET Al - MarketBeat",
+    "Last Week In Event SPACE: Nippon Sheet Glass, Guotai Junan, Resonac, Skyworth, Fosun, Austal - Smart"
+  ]
+}
