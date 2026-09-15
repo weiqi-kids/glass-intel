@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:21:37.569519Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's Tata shares jump as RBI decision revives Tata Sons' listing prospects - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDhsSnFMRkwxbHpXc29OUG1KMnF0cjVIenRmOVFtWW9ocFNzRjZpRFZVaWkwRzFFZ3FuRnZxdGY0Ri0xcUZVTk91NkZPZ2Z2S1VQcHZBTkZ3eDFUOHp3RmI5Y2tJaF9oR0ZSbVZlNWhfWXV2NEx6c0FnbFFqNnpwY2kyOGtDbEtESlBOdFd3aUkxOTl5OHRuREJnQ1A3Vzc0UlBlMkctbGVvUHJx?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Group Stocks Rise on Optimism Over Holding Company IPO - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVVYlMydzVieGdfOUttSWZ3aTRmd2NKbGxycXEtVVRlVWI4ZjhKbElxdjJKd01zLWhFYURKdlVNbi0yaGljU21KeXItZE4yWHlPb3JyWW5WZzBzb0M1eGJ5VWhWWHN6RlhKcnlXUFVwQ1BDamdMVjdoUFA0a00xUF81T1NlaFpNNEt6ZmhwUnZTTngtb1V6UnpUc3FrSmt6cjVMQ0p2SjJ6NUZKRFhj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-09-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals lead Tata Group rally amid Tata Sons listing prospects - TradingView",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVERGaTdJaHZqSGtiRHZxb3djMXk1ZXhwSVl2N3lVTGkzZE9KWjRHOWNsMEpEX2gxYTdxQmNzLUhQZUhiNHE2LUtUdGtNTGN2VTh0WDg0dDlWR1h6NkJDNlp1NnNQbV9mZ3dqQUVjQ1ZuZEpEbnhtZTI2eTNYcUFPbzJsSUhYclRYY05sMUVsVHFuOGpmVk5MVkVBZlZ1NGJyM2hsRV9kYXNBZms4VzlwcWxBeXZNZVhpdGthQnp5c20zQkk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tata_chemicals-2026-09-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Sons Listing: HSBC lists four scenarios where Tata Chemicals can create up to 210% equity value - CNBC TV18 - LinkedIn",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWthSW9ORXRlTFpKLUVmeWhXMWlrQ2E4TVA3TWg5czJWQlBsMS1vYzRnNnE2OVRCdnRtSnBFTUE4RkNiQTFjRFlldUs2TXVSemM3TlU1MS1SSEtKZzBlTnd5blc2TmVVQXloWmZ3Q3lFNVBNb0Jtd0V4SDNkejJxQXEzZDVMTjZqb0lJLXVxNWhicmMteVBId2JUVk9oQjE3Z2pGNlNPYlRVSHQyVzM1b3oteEExQnV5MGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-09-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kenya: Can Ruto turn the Tata Chemicals row into votes in 2027? - The Africa Report",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGNPMnBJbDVhSy1uS25hd096ZWFvRjFXQVQ1c0tlUDk0OFNmVjVnYWd3a2RTNFhYMmI5dWZpLXFuSVZmc3p5SHc3WTloZHVUS05fYmg3bEZSZU9WRS13dDcyQ040SnlmcjBfZy1HTVdVWHRfZ0lJdHhkVWNKbmR4V0VSdGdHcUVPc0lTSFU1Ny01NlR6WjhJa082QW00Z2Q3UVZv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 8
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 182,
+    "too_old": 176,
+    "gate1_blocked": 30,
+    "gate2_blocked": 16,
+    "passed": 28,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Tata Chemicals shares hit 20% upper circuit as Tata Sons likely to go for public listing: Here's why",
+      "Tata Chemicals shares jump 20% on Tata Sons listing developments; Here's how others are faring - CNB",
+      "▶️ Owens Corning 30 sec spot - IMDb",
+      "Amundi Sells 18,384 Shares of Owens Corning Inc $OC - MarketBeat",
+      "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為塔塔化工、聖戈班、First Solar相關動態：「India's Tata shares jump as RBI decision revives Tata Son...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India's Tata shares jump as RBI decision revives Tata Sons' listing prospects...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tata Group Stocks Rise on Optimism Over Holding Company IPO - Bloomberg.com（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
