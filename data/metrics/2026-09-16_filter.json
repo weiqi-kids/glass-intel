@@ -1,0 +1,16 @@
+{
+  "total_raw": 429,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 30,
+  "gate2_fail": 16,
+  "passed": 23,
+  "gate2_samples": [
+    "Tata Chemicals shares hit 20% upper circuit as Tata Sons likely to go for public listing: Here's why",
+    "Volumes soar at Tata Chemicals Ltd counter - Business Standard",
+    "Volumes soar at Tata Chemicals Ltd counter - Business Standard",
+    "Amundi Sells 18,384 Shares of Owens Corning Inc $OC - MarketBeat",
+    "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-16",
+  "total_events": 15,
+  "by_company": {
+    "tata_chemicals": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "auto_glass_trends": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
