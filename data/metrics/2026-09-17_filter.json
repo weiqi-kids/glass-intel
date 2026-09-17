@@ -1,0 +1,16 @@
+{
+  "total_raw": 429,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 195,
+  "gate1_fail": 27,
+  "gate2_fail": 14,
+  "passed": 42,
+  "gate2_samples": [
+    "Tata Chemicals shares hit 20% upper circuit as Tata Sons likely to go for public listing: Here's why",
+    "Owens Corning (NYSE:OC) Upgraded by Zacks Research to \"Strong-Buy\" Rating - MarketBeat",
+    "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+    "Last Week In Event SPACE: Nippon Sheet Glass, Guotai Junan, Resonac, Skyworth, Fosun, Austal - Smart",
+    "[Japan M&A] Nippon Sheet Glass (5202) Done, Dusted, Arb for Money - Smartkarma"
+  ]
+}
