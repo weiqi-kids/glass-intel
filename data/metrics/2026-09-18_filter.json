@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 31,
+  "gate2_fail": 10,
+  "passed": 41,
+  "gate2_samples": [
+    "Tata Chemicals shares crash 7.5% amid Tata Sons listing row; TMPV, TCS down 2%: Here's why - Moneyco",
+    "Owens Corning Adds Independent Director to Strengthen Governance - The Globe and Mail",
+    "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+    "Last Week In Event SPACE: Nippon Sheet Glass, Guotai Junan, Resonac, Skyworth, Fosun, Austal - Smart",
+    "Saint-Gobain : Jefferies reiterates its Buy rating - marketscreener.com"
+  ]
+}

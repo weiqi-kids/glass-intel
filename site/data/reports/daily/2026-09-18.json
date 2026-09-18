@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:51:30.565927Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-09-18-010",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Nykredit A S Makes New Investment in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0pFT0ZXSEpHOW13U2gxc0sxQW1NazRmUk92N1dTeVZ4UktmQnlIOENfdkhOVmlVeUV1eTlmN1VOSER0NjdFZHNzTVZGdnJOVDRDMVRCVjVvdV9jQkY2NDg5ZWVSVnVYTUdQeHlKbVpzd1ZZc1BSSVpqbmtJSDlaTDJUNTU2eTh1U2ppUzRFam50cTJabDF5cFVvNThCOGZMQXBOcFJxLVJjX0RUdm1oaGVfQ3J2WUItT1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-09-18-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Bank of America Corp DE Buys New Position in Owens Corning Inc $OC - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXpxT2ZqaUFFd1M5dUVZRjctT1BjZjdmZWtPTFRWTGN0dmtmSktVbmtFSkNGb1hwaTdRNjQ5Q3pYWnZOYkI3MjZzWW0wY3hZRWxTZW9uSU91Skd4Nndtd0Vqb1RORzlSV0V5WS1WOG5ackFYS3VGR0pHQlpKT0tFajVVLUQzTl9tM1VDMDhqcUpBUTBja2RQWnhtQjlTZjZOM0JKS1laN1hfN25KMTFHNUZ3NlZJUDFPZzVrWm15TlRYMmN0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-09-18-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tata Stocks Today: Tata Chemicals Plunges 8%, TCS, Tata Tech, Tata Investment Fall as Tata Sons Crisis Deepens - India Infoline",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHIzRkp1a2E0UXZHeFJkSk1Obko2bVVTOU1XUmdINVNfY1ltcHRrTDhtVTlUaDkweFlvWDZHZGloOU5WX200WXJOOTZtMFdQQ0pMWUNwdjhvOHdUQWhSRklYdTlGc08tVVdNdVpjS01OaW84MEVIX2dod2VJWnQ1ZWZtTkhDcFJoN1lqcXc2Q2gtQjRoM3VWRE5hSjRpV0tWMTRxQkw3UDJYTkxHc08xZG9PUUhCOUJxa1FldUdNb09YUm5wZEJxNnl0Vk5ZcVdqUmY3Qmk5MzFjTkM3UUNUNWdSWjQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-09-18-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain stock heads into the open after a 1.2% decline - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYU52dGlPeEVxNXhRVEdNVTlpenh0alRCdFhsOVVOWUxvWnhVRGZrM3FIOW42SWFtcnF4MS1hcW9mTTd0Yl8tcHkzQkV1TTJYUlVaNW9MbzlHQ08xLTYtNHIwaGhTeGc2NkY4azNQMjltYkJ5NXZoQ1lLc3FlNzRHdmxaYWd6cDduVzhHRjlHV1htTTZSd1Nyd1lWaThxRjk4UEtPT09KTERCVFFUY0RnUXFyT2VKUjRRVTM2djB1MEg5b3VON0w2UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-09-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Beyond Tata Sons listing boost, Tata Chemicals investors face earnings pressure - TradingView",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkJKMHBhckNiclNUTlpFNkNyU1dVNVlRbHlWaENqNkpFckRNQUp5cENRWlZ2ZFlRa0M2WU1XMnFJcnZrWDBRdlBtVE54ZE55RDY5bzE1QkZtbFFVNWx0N0ZLbHc4ekM5Z2VfX0FsdkpXOW1OZHU0ZEtkdFhTTl9QRVNWU21ucTF2T2FkcWE3OWxwa0ZjYWJUVm9vUVgxWWUwb1VaNWppb05CcVdxWW9sVEwyZDRFTXBqNjFZZThIWHY3RE92NmZrd28tbmZKREND?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.29,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 6
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "inventory",
+        "count": 7
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 172,
+    "too_old": 174,
+    "gate1_blocked": 31,
+    "gate2_blocked": 10,
+    "passed": 41,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Tata Chemicals shares crash 7.5% amid Tata Sons listing row; TMPV, TCS down 2%: Here's why - Moneyco",
+      "Owens Corning Adds Independent Director to Strengthen Governance - The Globe and Mail",
+      "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+      "Last Week In Event SPACE: Nippon Sheet Glass, Guotai Junan, Resonac, Skyworth, Fosun, Austal - Smart",
+      "Saint-Gobain : Jefferies reiterates its Buy rating - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為塔塔化工、康寧、Owens Corning相關動態：「Nykredit A S Makes New Investment in Owens Corning Inc $O...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nykredit A S Makes New Investment in Owens Corning Inc $OC - MarketBeat（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Bank of America Corp DE Buys New Position in Owens Corning Inc $OC - MarketBeat（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
