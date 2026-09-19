@@ -1,0 +1,16 @@
+{
+  "total_raw": 430,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 185,
+  "gate1_fail": 31,
+  "gate2_fail": 14,
+  "passed": 18,
+  "gate2_samples": [
+    "Tata Chemicals shares crash 11.5% amid Tata Sons listing row; TMPV, TCS down 3.5%: Here's why - Mone",
+    "Tata Chemicals shares hit 20% upper circuit as Tata Sons likely to go for public listing: Here's why",
+    "Owens Corning Elects Michael DeVito to Board of Directors - Red Book Lumber Data",
+    "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+    "Last Week In Event SPACE: Nippon Sheet Glass, Guotai Junan, Resonac, Skyworth, Fosun, Austal - Smart"
+  ]
+}

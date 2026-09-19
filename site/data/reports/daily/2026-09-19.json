@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T12:24:44.502415Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fuyao-2026-09-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fuyao Glass stock edges lower as profit pressure from first-half results weighs on sentiment - AD HOC NEWS",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLW5xNXgxOUE1Tkc5R2p5SVpMM2xaaVZKNmVENm95TmRFVXR4Z3RpQV9yNEdwbFBjd2JPV3FwSmluenZsUEhBV3puTlFENXpEUmpkQ0Y1LTFyUkN1enFjRFROX243OXlXTDZuQnhpQlVRajBUd0pMUzJFcmJHaXZPN2txdzlkZkxuRjE0TlluXzV0WU93MmpEUTM5SV9uQkdST3QwQWItYTM4ajN2QmExN0NOcFFoNUVXRnQ3YTJfV240TE11TWFXNzlaYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-09-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock extends September slide as shares trade well below 52-week high - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3pIVmF2MXAxYWYtYloxZUZReUhVdE8tWDhnVno5UDM0b3R2bmppZ0h5WVRvbUFidjZsOWtsZWJCdlNwZXJWU051NTN4eTZqa0VfejRkMHhZd2RXV0UwbVEzTjNuUGFRRmNLcDhtaXJoeEJsZzV3MEVmdUQ3bzZieURaeU1nUklSanBXTkR5Rkt3OHRhUXF6c3NQdU9hUnNwSF9SRVhNVjktTGFKcE5OcUdtWXhsSWk1WDBfbDA2MS16OWVHNGNPQ2cxNTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Stocks To Watch If Governance News Reshapes Indian Blue Chip Values - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb202Nzkxend6QWliZ0Vad01xNGNGYWVjSlJXbE12RzNfcHVYd1h0RzU3VEFZd0dzWjZBa3RKbVpPaDdENHZZaXRVVHBuSWZDYTNVYjJpR0xWbjJrYVowaFRGeVZWLW5RY2RRaU1BX0piV2o5Q09UWUxteWVZQXp4V0ZuOVJpSE5pRW94elJhLVBLTmJ1Mm90Si14eFdORDRiVGhTcFlEdUw4QUZMcXQtMXc1MzlpUm1oY2FUZ2VTUXU2TmFxUlEteTJyUGVIeWhweFNHcDJ2NNIB3AFBVV95cUxOWmJTalRFQmF4NDBpanBrRnhsMVRqVjUtZGJhbVJHWEtOaURjUTBscHQyLTc0bmNkZHVjSkc4V3kzaGtmbFZLMDFlNTRyY1c3Sm9rbFlheWJYTjZlRjhLYUczdjFWQnRJdjk1OGxEZTdlSjVTYUVBQnpyd2NBTVBrc19QUW9tSWpWQ211VmVKdWttSFU0OUxlcUtGa3o4ZTlfUTZ1dGJ2YkRlcnBJN3BYdUpIbWRjOFhoOWt5UXY5ZkVMRUNzWlR0Y2h4ZjFJbUlZX21rdUhHckNxY29z?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-09-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar (FSLR) Stock Still Looks Below Fair Value Following Its 115% Run - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNW1LcHBwRTlSNmp2bW5zSnJSSmVaWWJPN1BFRWlobFZ5dlc1Y1FfRzgtdkVzM21yLUpMLXVCVmtveUxHWkxWZFdpOHAwRzZUc01EX0VMZzVpU2FKd1VzdTJBSzUwdlB4bjZBTFUwc3lGUUlidFpDeExQUUpROXNfVEs4UmRzRnAwNjd1MkVldVRuUnhfY3J6VA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "fuyao",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 430,
+    "dup_title": 182,
+    "too_old": 185,
+    "gate1_blocked": 31,
+    "gate2_blocked": 14,
+    "passed": 18,
+    "pass_rate": "7.3%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Tata Chemicals shares crash 11.5% amid Tata Sons listing row; TMPV, TCS down 3.5%: Here's why - Mone",
+      "Tata Chemicals shares hit 20% upper circuit as Tata Sons likely to go for public listing: Here's why",
+      "Owens Corning Elects Michael DeVito to Board of Directors - Red Book Lumber Data",
+      "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+      "Last Week In Event SPACE: Nippon Sheet Glass, Guotai Junan, Resonac, Skyworth, Fosun, Austal - Smart"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為福耀玻璃、聖戈班、First Solar相關動態：「Fuyao Glass stock edges lower as profit pressure from fir...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Fuyao Glass stock edges lower as profit pressure from first-half results weig...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Saint-Gobain stock extends September slide as shares trade well below 52-week...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
