@@ -1,0 +1,16 @@
+{
+  "total_raw": 431,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 28,
+  "gate2_fail": 14,
+  "passed": 16,
+  "gate2_samples": [
+    "Tata Chemicals shares crash 11.5% amid Tata Sons listing row; TMPV, TCS down 3.5%: Here's why - Mone",
+    "Owens Corning Elects Michael DeVito to Board of Directors - Red Book Lumber Data",
+    "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+    "Last Week In Event SPACE: Nippon Sheet Glass, Guotai Junan, Resonac, Skyworth, Fosun, Austal - Smart",
+    "Saint-Gobain : Jefferies reiterates its Buy rating - marketscreener.com"
+  ]
+}

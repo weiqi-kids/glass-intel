@@ -19,8 +19,8 @@
   },
   "taiwan_glass": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6643,
+    "latest": "2026-09-20",
+    "count": 6644,
     "history_complete": true
   },
   "agc": {
@@ -91,14 +91,14 @@
   },
   "au_optronics": {
     "earliest": "2000-09-11",
-    "latest": "2026-09-18",
-    "count": 6464,
+    "latest": "2026-09-20",
+    "count": 6465,
     "history_complete": true
   },
   "innolux": {
     "earliest": "2006-10-24",
-    "latest": "2026-09-18",
-    "count": 4880,
+    "latest": "2026-09-20",
+    "count": 4881,
     "history_complete": true
   },
   "etf_mxi": {
