@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-21",
+  "total_events": 20,
+  "by_company": {
+    "tata_chemicals": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "au_optronics": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "glass_fiber_electronics": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": 0.04
+    },
+    "inventory": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "solar_glass_demand": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "construction_activity": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
