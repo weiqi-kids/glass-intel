@@ -1,5 +1,198 @@
 [
   {
+    "id": "unknown-2026-09-22-001",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint Gobain : Reporting on share buyback transactions carried out between September 14 and September 18, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTY2YzBOaHIwOHg2bHNaMklseHpkTVBuUkJRS3dOaGtlNkJRZUh3a3A1dFQ0b3kzeldOZk90MWU5aTJoNTV5OHpDSUU1OC12RFRVQkRVWVF2QUdhN19CQnJPUEpLbWhvSnZuN1lBUT",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTY2YzBOaHIwOHg2bHNaMklseHpkTVBuUkJRS3dOaGtlNkJRZUh3a3A1dFQ0b3kzeldOZk90MWU5aTJoNTV5OHpDSUU1OC12RFRVQkRVWVF2QUdhN19CQnJPUEpLbWhvSnZuN1lBUTNsRTNkVXluWW1sMTFDYkNzbGVXcXU2aFQ4WEc2Y2VZZXNoTzQ4QkRtUlRCb3FGaWFUc3ZrMlllSURqdDQtay1XSGJ0eU9UQ0x4eFhZbUYwaDl1aTh3OWxTbGd3ZzQ1MnFyQW96TmY4UzAtdC1XV296Szg5bm9fdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-22-002",
+    "date": "2026-09-22",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock closes at EUR 70.24 below its yearly high - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTJwQ3Y2Slh3TldLRnBqNFI5ZHNvT0RTSEV3UjNiTF94MTR1ang3SHpwa0Z0dkpTeXcwajZ6M0UwYkhRd2wtZ2Rla3FXNU95MkkyTUFmQWRHTlBnVDczM29KTlRxMExFWkFpN2h6U0",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTJwQ3Y2Slh3TldLRnBqNFI5ZHNvT0RTSEV3UjNiTF94MTR1ang3SHpwa0Z0dkpTeXcwajZ6M0UwYkhRd2wtZ2Rla3FXNU95MkkyTUFmQWRHTlBnVDczM29KTlRxMExFWkFpN2h6U05qcldKNS16WVkyUVlKZy1zSFZLNkZqNzBvT21GNEdpUFZyUEx3SDFpVlJJcFYxZFFIZnJtbDg0X2dRaHM0a3hCSW9zeXdaSlBsRW1CRENfeFA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-22-003",
+    "date": "2026-09-22",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock gains 1.42 percent as targets stay above EUR 97 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDI2cXB0Sk40dk5FdnU3ZWc0X0F0OXdWRGFob3loZW43QUp4UU5EVFlBdjZ6N2VvSmlyU3RBai1wWEY3OWNzbGxVaG1VYlMzVHUyaU5IVVF0TkJxVExnbjM1X0pONnZSeXVzQnNHeT",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDI2cXB0Sk40dk5FdnU3ZWc0X0F0OXdWRGFob3loZW43QUp4UU5EVFlBdjZ6N2VvSmlyU3RBai1wWEY3OWNzbGxVaG1VYlMzVHUyaU5IVVF0TkJxVExnbjM1X0pONnZSeXVzQnNHeTRsZ2E1VGRwQlFlSk9fUmxUdlROX3FuT28wb3ZyeGR6dlF3eVI3blllWGRwMGJuWHZyZ1Fuelh1UUJUT0ktanBRN2gwSkJoNEFMU3RvaXhBSFBpU1lwQXdfdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-22-004",
+    "date": "2026-09-22",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock slips 2.09 percent ahead of the open - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOLWVoYzZVSkFRMF9TNTl6MEJwNUNEUmJXZXVjaWNVNW9HQThReEl4UWoyUzItZVFNWXhHb3ZuVGYtaHpjVmhMRG1zRVRUbkdxTjZNbDN3TlpRNEdWSU1YN2dRWW1RR0JTY3Y0RlhDeE",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLWVoYzZVSkFRMF9TNTl6MEJwNUNEUmJXZXVjaWNVNW9HQThReEl4UWoyUzItZVFNWXhHb3ZuVGYtaHpjVmhMRG1zRVRUbkdxTjZNbDN3TlpRNEdWSU1YN2dRWW1RR0JTY3Y0RlhDeEJJLUxQX0VyeWpzLXFaRGFMVWJneUNhZzNQSHB2NzdMUEN6QWhJRTRQWUpIdWc4dTI3by1DY25wbl9aZHZfMFN0aUZySTI5TEZmYlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-09-22-005",
+    "date": "2026-09-22",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass (NYSE:OI) Hits New 1-Year Low - Here's Why - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1Q4X2x1aTVVMGhkMm1HQWZ6YWpJb2dtd1kyelQyMDJtTjJPVGppZXhoelMxbXBXam0zWEt2bFBRT2RIQkpITkstVUtWaHpHdXR1X2xQVF9RVV8yZkxIUlo4elpoOTFac0NROG9wVk",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1Q4X2x1aTVVMGhkMm1HQWZ6YWpJb2dtd1kyelQyMDJtTjJPVGppZXhoelMxbXBXam0zWEt2bFBRT2RIQkpITkstVUtWaHpHdXR1X2xQVF9RVV8yZkxIUlo4elpoOTFac0NROG9wVklUNzJiR09LeDIzRGpLUEl5UWNJaGJBMktORUpId21xcTYzTWRSSFp2TG5QTDZmQ1FYQkVVMENOb2N1WHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-006",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PureSky Energy Launches First Community Solar Farm in - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxPekt3R3JQU25KMXhBX01jaTJraHFaTzk1bTBlR0tjeG1IUHU0WUFIUEpIZzEwT1NKcVlMV09KQ3JYQVpkVWtlVENyQ0pRdUpHUmY5U2JwR3ZHTWlhYUloMXF0c2VvOHNQMzRtNHpmX3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPekt3R3JQU25KMXhBX01jaTJraHFaTzk1bTBlR0tjeG1IUHU0WUFIUEpIZzEwT1NKcVlMV09KQ3JYQVpkVWtlVENyQ0pRdUpHUmY5U2JwR3ZHTWlhYUloMXF0c2VvOHNQMzRtNHpmX3c2a3RvbUZ6dEtqSmlOc2lDbDd3T0lNUzFNNFlwSTR0OHRvMGdtUGdsZldtbEd1cmlQUmdaS0NWNDNjOFdScW13emJwYk9ZTGN2aV82RnItbVl2bXRwMEY5TFNNR3lZeXIyMzFOU0xRMWcyV3VSY3lkbk9KSDlwXzNvdl9DMlRTSl94b2hVbGx5MGlNNndhWXJIWW5UUldSbXd4eUQzMFhBTEV3cG9TdG9IWk01VTFQYm55Yno0TXJEM1JqTFp0Q2h3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-22-007",
+    "date": "2026-09-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amazfit T-Rex Dual Solar brings first solar AMOLED, charges front and back - Gadgets & Wearables",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzhvVGx0VHJ0T1c3QWJYdWJGWEgzV2N0S0lOR2JvZzhDMWtKRS1neWlJcVdtR1U4ckhGV3QzQ3FmNWRKaDA5bjdyM1lhbk9jSmIxSFIxMkpQQV9paU12QUR4YTB0M21xT3NHS2plMT",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzhvVGx0VHJ0T1c3QWJYdWJGWEgzV2N0S0lOR2JvZzhDMWtKRS1neWlJcVdtR1U4ckhGV3QzQ3FmNWRKaDA5bjdyM1lhbk9jSmIxSFIxMkpQQV9paU12QUR4YTB0M21xT3NHS2plMTExTGNZQk5xYVFLMzlvN0hTYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-22-008",
+    "date": "2026-09-22",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Baird Adjusts Price Target on First Solar to $290 From $318, Maintains Outperform Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeWJENkI3a2JjOG84d0VzNUM0blVsNDZOZEw4bmJtV2tJeUJVellPcXJOR3VGV19JdlJadDhaOHUzZnFCRmxtWW11LWVkRzZlOGY3R2ZSYzlBRk43RlV1VE9wY2x1MmhrcVdNT25hZG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeWJENkI3a2JjOG84d0VzNUM0blVsNDZOZEw4bmJtV2tJeUJVellPcXJOR3VGV19JdlJadDhaOHUzZnFCRmxtWW11LWVkRzZlOGY3R2ZSYzlBRk43RlV1VE9wY2x1MmhrcVdNT25hZGRyb3pvaWpmNkktOW9wTjN6cDFsaVlpa0lfa1dCdW9pZHBfNmhyMk1QeFVkQ1FPRFpvWXlFVEtBWDVCbzhIdHhlUTczM0NMdkRIS3I1V0ZaN0lvTXNWTDh3MXFFcVRpdEF6TGg4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-009",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intel's Micro LED Patent Points to New AI Packaging Strategy as AUO Talks Emerge - konsulteer.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGJycUlqaUJqTlBHTnRacDQxWlJ5OU5wQzZMNWZBMElwQU83eElELUl0N3pDcURhVml3ZWZuLVRYd2x2TGw1M0ZvMVBobTJOcDRnN21lYlcyYTl1a09rdW1iTDhFdW13dWtiRUQzNE",
+    "sources": [
+      {
+        "name": "au_optronics",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGJycUlqaUJqTlBHTnRacDQxWlJ5OU5wQzZMNWZBMElwQU83eElELUl0N3pDcURhVml3ZWZuLVRYd2x2TGw1M0ZvMVBobTJOcDRnN21lYlcyYTl1a09rdW1iTDhFdW13dWtiRUQzNEIzbUZPRUs2cGc5bjJQWVk3dURvSmNsckhUcm5TaUJqTEMtV2NlUkQ2M2tEMzBqWlNsSk1OaGVCRDZibHl4d0sxVnZPZ01qdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-010",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "solar_glass_demand"
+    ],
+    "impact": "neutral",
+    "title": "Star Wars-inspired art museum from George Lucas is covered in solar glass - Solar Power World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUYzOHFmdkxrb0MxWEwyZFpmelhhc0c2TEpSM0VQWDN1c00tbTZLbHpZOTdvZWdqcU5ldWU2cnJmZldqQ0ZZaTZ4MW91cjdvd2hTTFVUZmtZVXRUUkU3VUtUVmE5TVBKVTBXaWdDV0",
+    "sources": [
+      {
+        "name": "google_solar_glass",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUYzOHFmdkxrb0MxWEwyZFpmelhhc0c2TEpSM0VQWDN1c00tbTZLbHpZOTdvZWdqcU5ldWU2cnJmZldqQ0ZZaTZ4MW91cjdvd2hTTFVUZmtZVXRUUkU3VUtUVmE5TVBKVTBXaWdDV0Y4Y2dqdy1pU1gxRTRtXzFNcmlpTGlWaWItajhEUWhrSnVNNlE1RFdCc2xVZFR4UEEtcks3RE5oNmlwdUpFOGJGMWotSEc0UGNSQzFrdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-09-21-001",
     "date": "2026-09-21",
     "companies": [
@@ -391,6 +584,79 @@
     ]
   },
   {
+    "id": "fuyao-2026-09-21-021",
+    "date": "2026-09-21",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "FUYAO GLASS INDUSTRY GROUP CO. LTD. To Go Ex-Dividend On September 22nd, 2026 With 0.14736 USD Dividend Per Share - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWUtekFYQTNrakw5ck03QkNsZE8yWUc4OXk1MDYtT2JpNk9STzdRYl9PZEJ6ZjU0N19qSzJKdUZFVl90UDExQVhFTVVoN1lGYWZneE1iZ01DRzkyOFNmZ1k0VlBXemFoWlllTkFaMn",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWUtekFYQTNrakw5ck03QkNsZE8yWUc4OXk1MDYtT2JpNk9STzdRYl9PZEJ6ZjU0N19qSzJKdUZFVl90UDExQVhFTVVoN1lGYWZneE1iZ01DRzkyOFNmZ1k0VlBXemFoWlllTkFaMnRsODBPMzFFdkJuMUl1bkhrSE55aWMweGRJS1lfcHVRYXd6by1vNXZPdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-09-21-022",
+    "date": "2026-09-21",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Global panel makers' semiconductor packaging strategies: BOE and Innolux show clear roadmaps, Samsung Display and LG Display stay cautious - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5CSEhRTjJqSTRpeEFZX3FLXzNrRUhzc0l1ZnZ6blQ0aXZlVVhpV3JOcks2dmxEemZ2dDdLeUFzYmROYWxNczdhWHgwWWlJVV9LOXloaXpoX3RkRWUxYlRGU3EtY05ERWUzcDNzcml0SW",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CSEhRTjJqSTRpeEFZX3FLXzNrRUhzc0l1ZnZ6blQ0aXZlVVhpV3JOcks2dmxEemZ2dDdLeUFzYmROYWxNczdhWHgwWWlJVV9LOXloaXpoX3RkRWUxYlRGU3EtY05ERWUzcDNzcml0SWszbGJFMWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-023",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Construction groundbreakings tumbled 25%, megaproject starts slowed",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GBSbh9jAMy7vr7b4d9YiahLZjnfvZKb2W26Ql6vpO0M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcmthbnNhcy1BUksxLURhdGEtQ2VudGVyLUNh",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-groundbreakings-plunge-August-2026/830940/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-024",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "FAA greenlights $1.1B for airport upgrades",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/E6wqgphhFO01nBZYBC8Al6rjTmMxiKs0P_2KEanZIgs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzE2MDQ2ODM2X0FScmZ0",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/faa-greenlights-airport-upgrades/830861/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-09-20-001",
     "date": "2026-09-20",
     "companies": [
@@ -458,6 +724,25 @@
     ],
     "impact": "neutral",
     "title": "Analysis: Why Photovoltaic Glass Manufacturers Trust Jeffoptics Patterned Glass Stress Inspection - Issuewire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlE4RDg2TUpGRHkxdGdCUVd2RHYtdnBTTVBFdS1NQmFfUDRFenVFU0tuZkdNcnFtUnROVUd5NlRDY0l6UndTY1dxaVRkSHdMZmxCTzUtMkhEd0NZUVVlc182eGhsUjE4X1hrbXFodU",
+    "sources": [
+      {
+        "name": "google_solar_glass",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlE4RDg2TUpGRHkxdGdCUVd2RHYtdnBTTVBFdS1NQmFfUDRFenVFU0tuZkdNcnFtUnROVUd5NlRDY0l6UndTY1dxaVRkSHdMZmxCTzUtMkhEd0NZUVVlc182eGhsUjE4X1hrbXFodURYRW1uM0NIY0x1MVJWMjA2RXNYNHJGbVhhN1VoSDl5WURCSGZpc2JNLUszQ1k4NHJFQ1lrdXN5NUItMER0bnhwbjVnS0kybTRZdmp2eTFBNVdORDM3WDdkampmWlpiMUNZOS1nVTZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-005",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "solar_glass_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Analysis: Why Photovoltaic Glass Manufacturers Trust Jeffoptics Patterned Glass Stress Inspection - Issuewire.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlE4RDg2TUpGRHkxdGdCUVd2RHYtdnBTTVBFdS1NQmFfUDRFenVFU0tuZkdNcnFtUnROVUd5NlRDY0l6UndTY1dxaVRkSHdMZmxCTzUtMkhEd0NZUVVlc182eGhsUjE4X1hrbXFodU",
     "sources": [
       {
@@ -1302,6 +1587,27 @@
     ]
   },
   {
+    "id": "tata_chemicals-2026-09-18-034",
+    "date": "2026-09-18",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "TCS, Tata Chemicals, other Tata stocks tumble up to 8% as Tata Trusts calls Chandrasekaran’s tenure extens - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNT2FNTkJ0b1VMOHc1ZWFyaEhrZld0WU1jVUpHaWxWd2JiWUZyeUJtMExYUTlKaWxSQlI4RVNHYVFsenBtaFBOeXgzclNyQkZqeDdGZEp6aXB6UnhwWmZUM2lJbm1EYzYwNzA2djlUd1",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNT2FNTkJ0b1VMOHc1ZWFyaEhrZld0WU1jVUpHaWxWd2JiWUZyeUJtMExYUTlKaWxSQlI4RVNHYVFsenBtaFBOeXgzclNyQkZqeDdGZEp6aXB6UnhwWmZUM2lJbm1EYzYwNzA2djlUd1lNWWZqUzE4eVdQRExYTlViM0dNc0k2X0JMcUNYM1VBSlAtSVV1bG44Ry1RZFhTYk8xYmoxanJ5em9vZV9PaTNoZkRobk8xdEljVkRyRjhMNjlTLUEtWFBFSEhGU1VrN1ZhbUlwbVhtcThNN0tIS2NDV1NudUlZQ19UVVVKQm1vVlZqMmZlbVBWbWhYdmo1cFE0VGfSAYcCQVVfeXFMTV85dklOaGJXeHRubGI3WDdUQk1sRmVab0ZOV2ZfNzQ4Y3BoMmR5eEsxRjhWdzVYa2w4aFFCNzRkM0M4bF81SEhhdDdUeEdqWkR1Z1J1RTdCbDRsR1VnaXB3cEdNTFYyUjhCVVFYcDc3cHpRUGhTY09jOEkwaUNKQ0dwRkMwV3VUSlNuWlA4OVcyMUZrTUpEVi0ya1F4SmRudWFsQnEwbXdYN0MtWXpsb21ja2Vxa0hRWF9aMko4b2tYVzFXQ25fU1BCandOXzcwYW9NcjNFVmhnMlFodUFzTS1lTGRlajA4Z1NZVUQ2T2pxNk9kSjNicV9SSm9ZN2hQbk81NkZBdTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-17-001",
     "date": "2026-09-17",
     "companies": [],
@@ -2025,6 +2331,26 @@
       {
         "name": "au_optronics",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zdEhQQXk5WldaTVpjdno5RHNybmtXeXZCS0xJdkJKdG03Z0Rybk1yaUlyRmgyUTNaMFB6MlB0Mk9mMmJoMW45TmR6QWwwSEtGdERSXzM1YlJ1SXRhTkRQek9pX2g2b2Z5cHdPUWcwOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-17-037",
+    "date": "2026-09-17",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar drops TOPCon patent complaint - pv-magazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYndLVmVYRkNkRDZ0VWRpbEZISmdUaWxkX1B3b2xfWVJhdWNockczZUE0MjROTVJTcGFzWVhEMEE2Z3hJR0l0bURYeU95Q2lwRDllVVZBV0c4djR4Z1AyUWR3cjRsY1pWSW5CazRQYn",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYndLVmVYRkNkRDZ0VWRpbEZISmdUaWxkX1B3b2xfWVJhdWNockczZUE0MjROTVJTcGFzWVhEMEE2Z3hJR0l0bURYeU95Q2lwRDllVVZBV0c4djR4Z1AyUWR3cjRsY1pWSW5CazRQYnZ6LUVRc1RqWFREN3Y4bTROY1ZEU3dwU1N1?oc=5",
         "type": "rss"
       }
     ]
@@ -2858,6 +3184,24 @@
       {
         "name": "owens_corning",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDBXcUYtdDRWdEhxQW5yRHNKUVdUblczaUd3NFNHTC1STGlqQXctZ2l5d19EeHJhcUxSb0ZTODFTSTM4OHRtd1JJSmd5V2dFNTZNYS10b09MUEtGckh4dF9kTGxjQnBDY2J3R0NyVkUyV09SYTlpVVFyaFI3bXdoYzNoaDBCNnN0akV5SEE1UEJlbkJyd2V5UWswR2I5UzJ4RVM3TTUyT2tCd1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-16-044",
+    "date": "2026-09-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "‘Back British-made Glass Charter’ launched to promote domestic glass manufacturing - packagingnews.co.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaUVGUFJ5TjN4YWYxWTRRWVRIdEJjS2xJSTlnaHVJNmdPOXdONl9Wd0tGX21KMWJ4cGhHa003bUMzMXBTQkFNOU1CZnQ3amF6ZGlxQndkUWRwTW53YUtfSDgtUFI5YkdqWjlaeDdFek",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaUVGUFJ5TjN4YWYxWTRRWVRIdEJjS2xJSTlnaHVJNmdPOXdONl9Wd0tGX21KMWJ4cGhHa003bUMzMXBTQkFNOU1CZnQ3amF6ZGlxQndkUWRwTW53YUtfSDgtUFI5YkdqWjlaeDdFekdzNkJ2WDRMdEkwdkx6RjdqWEtWNGlfWkd5OUtBeWREeEpsVGlCU05HaHJ3OXVEZ0hUUjJzeG0wU0MzMjE5d3lRbW5NVUhEUHBvQUFkOFc4WGZCZzg5Y1FQSTAydFVCMFhMWWJ4bjNwWXdKNDdYTUdVSmxTcmY?oc=5",
         "type": "rss"
       }
     ]

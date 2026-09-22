@@ -1,0 +1,16 @@
+{
+  "total_raw": 431,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 34,
+  "gate2_fail": 12,
+  "passed": 18,
+  "gate2_samples": [
+    "Tata Chemicals shares crash 11.5% amid Tata Sons listing row; TMPV, TCS down 3.5%: Here's why - Mone",
+    "Tata Chemicals Mithapur Bags Two Platinum Awards - Chemical Industry Digest",
+    "Owens Corning Elects Michael DeVito to Board of Directors - Red Book Lumber Data",
+    "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ",
+    "Compagnie de Saint Gobain (ENXTPA:SGO) Could Be 28% Undervalued Following AI Leadership Change - sim"
+  ]
+}
