@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:31:33.641674Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-23-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "UToledo To Celebrate Expansion of Health Science Campus Solar Array - UToledo News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOG1RLS1PSVg3TTJGUWt4WDF1X2wxT2R6WFdxc3pHcEZzTHItTnZ3dWR4cjFob05FVS1lT2VvWXh4QnI2bGFuQmZwWmNQc0JUNFNubFV6RHd2SFd1Vkd3Z0Zsa21DNDRyYTI2ejdjSENic0xOWkdvTldPdGZ6eW1WQ3BpdGdCT2tmelQzeDZvR2JMTHNVNVRNX2xZdTZZQlk1R0xLV2QwV0tQVjNkS0VmQjh4aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-23-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "The $21 billion capex bill: analyzing the cost of the U.S. 100 GW module production milestone - pv magazine USA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM09rajQ4eVdIWWg0amh4bXFmSWFWclZlbHozUVBNcjE3aHNhOHU1OWlhN1BNUndIdUNwbTlBMXQ0bHNobk9xNkwyckVrVG0ySW1jT1RSeUc5NVg2TDJXM0ZhbmRIQkh3RlhodnRuSEZNeTVyNTJGQ05NdzRaY3l4NWZRUHl1eEZnWUk3U2psdF9DVDF5NEdjYmRqbGpETGJBTFNRakFzS19XWXFFeGZpY1RJT1JwQ1VWaU4wTndVWVRISmRfWXEzYURn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-09-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Solar stock holds at HKD 1.975 as buyback begins - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFRtNnBhcHNBTDUyY2VSRllEeGtpUnd6TU9SUFVlQWN4Mlp0aW83TkhXbVJ5TVJsUVJNVjl6Q3M2REpoNm1mRmdydl85RGVYdi1qYWVoT0FOM0l2emM3WV9SQWZqNTVoWGgxcmpzX1E5R3dITDc3Y2g2YU1LekE2UFJ1cUQ4QzU3Z254TFhRZVIxR2Fpa0l1UlJGTUZLUDUyYTUyd3R4Q01ia05acFNsSUp1Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_solar-2026-09-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Solar stock starts a buyback as shares trade at HKD 1.975 - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEVnLTFjTXZXR2RndlhYRk5hNXFlMmpjTzluekNGSlpwcFFpVVF5WWRtSGowWE9JTU5FbUxlNWVvTUlNT01tb1hkU1A5WjRNQ3BSZUU0SUhxb2U5ZDB0Z2NMb1FLdTI3SmFxX2E2ZnRQNTNIWTNBMk10WnZlMm5jU21Jdm1BOHQ1VUducldQZGxicTBHM3A2R1YtSmZxSFoyM1hMSzFBQm13OVZNTWFjc0dlMFo1aHVmVlhuVU5WWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fuyao-2026-09-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fuyao Glass Industry Group Co Ltd's Dividend Analysis - Yahoo Finance",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUkRTRnR6eTJPWXg4X28xaFgyemxUMkVjLUV3cXRtQ3NtNGJORG1CUWc2UzhGS295a2JQMEpXWEZfNDZTYlFNWmJNQmQ5TzdFYjFlcklkeVZpcnJZeW9aRXR4OTctNnU4VkwtTVRIUlpiaGYxdUJNa1VkcWhsckhKeDJiZTBXWjVaaGtUc2xUNG5NaWxXTWpJamRB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 2
+      },
+      {
+        "id": "fuyao",
+        "count": 2
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 8
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 430,
+    "dup_title": 183,
+    "too_old": 172,
+    "gate1_blocked": 29,
+    "gate2_blocked": 15,
+    "passed": 31,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Tata Chemicals shares crash 11.5% amid Tata Sons listing row; TMPV, TCS down 3.5%: Here's why - Mone",
+      "Owens-Corning Inc (OC) Shares Surge 4.2% -- What GF Score of 85 Tells Investors - GuruFocus",
+      "Saint-Gobain Appoints Annica Hagen Chief Artificial Intelligence Officer - CDO Magazine",
+      "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ",
+      "Saint-Gobain invests $300,000 in QCC advanced manufacturing center - The Worcester Guardian"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為聖戈班、信義光能、福耀玻璃相關動態：「UToledo To Celebrate Expansion of Health Science Campus S...」。主要關注主題為財報、庫存、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "UToledo To Celebrate Expansion of Health Science Campus Solar Array - UToledo...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "The $21 billion capex bill: analyzing the cost of the U.S. 100 GW module prod...（財報、資本支出）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

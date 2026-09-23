@@ -1,0 +1,16 @@
+{
+  "total_raw": 430,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 29,
+  "gate2_fail": 15,
+  "passed": 31,
+  "gate2_samples": [
+    "Tata Chemicals shares crash 11.5% amid Tata Sons listing row; TMPV, TCS down 3.5%: Here's why - Mone",
+    "Owens-Corning Inc (OC) Shares Surge 4.2% -- What GF Score of 85 Tells Investors - GuruFocus",
+    "Saint-Gobain Appoints Annica Hagen Chief Artificial Intelligence Officer - CDO Magazine",
+    "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ",
+    "Saint-Gobain invests $300,000 in QCC advanced manufacturing center - The Worcester Guardian"
+  ]
+}
