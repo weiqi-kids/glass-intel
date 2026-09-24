@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 27,
+  "gate2_fail": 17,
+  "passed": 25,
+  "gate2_samples": [
+    "Tata Chemicals shares crash 11.5% amid Tata Sons listing row; TMPV, TCS down 3.5%: Here's why - Mone",
+    "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+    "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+    "Owens-Corning Inc (OC) Shares Surge 4.2% -- What GF Score of 85 Tells Investors - GuruFocus",
+    "Flen Health Chooses AGC Biologics to Manufacture Recombinant Enzymes for Next-Generation Wound Treat"
+  ]
+}
