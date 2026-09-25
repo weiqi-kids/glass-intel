@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:29:41.961464Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-09-25-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Stock Could Be 32% Below Fair Value On Cash Flow - simplywall.st",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSzAtRU1MSnMxNFpyYzlmU1FOMlNmQWFsRUJ6YXhkWlYtNUY0cEZxSjM1V3dSMmk2MHpUdTBMX3loUE1zQ3lwNGZfYWt3dlNnbEdzdktBYU1qMjgzMVVwRWdRcHJzclBqb05SNkt4dEREVExQQXJPbjB3QTN5QjQxNUt0MHlFYW1IQWJsQkg4TWJEOHNuVzlDU3RUeG5jbUdBX3Q3dUVGU2tkUFppUU5qblpvcVliNlJiV01yWEVnVU9qWXZCUWtrMHotazNFSlVRaFHSAdIBQVVfeXFMTkswLUVNTEpzMTRacmM5ZlNRTjJTZkFhbEVCemF4ZFpWLTVGNHBGcUozNVd3UjJpNjB6VHUwTF95aFBNc0N5cDRmX2Frd3ZTZ2xHc3ZLQWFNajI4MzFVcEVnUXByc3JQam9OUjZLeHRERFRMUEFyT24wd0EzeUI0MTVLdDB5RWFtSEFibEJIOE1iRDhzblc5Q1N0VHhuY21HQV90N3VFRlNrZFBaaVFOam5ab3FZYjZSYldNclhFZ1VPall2QlFrazB6LWszRUpVUWhR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "agc-2026-09-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AGC Tightens Chemicals Leadership With Executive Officer Reassignments - The Globe and Mail",
+      "companies": [
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT2gtNjNnUUp2THdtSTB0SFVka1M5NENPT1NWT29DUzI3WVNINURERU9qY2EyLXVwQnR2cnhySmllM3ktc2dWQ3g5SC13MkpCUmNVM01WM3U2U1llcGFfY1U2MFVMaUNPcmZrMkpOdFlBNmgzYjBoQUxqWjB6VmRPaWt1V3pUVXFKWjNmOWIwVVhCcDdjN1pmbl8ycWNaWDVDR0JPck0wclV5VVk4RGwzMmZsVFdhLW03UVNKa0xyazEtS1NHV0RQbFRQR2Z4RDE0YV85UGpMSWdpSGtBMl9XM0NUcjJldw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-09-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "This Week’s Leadership Moves: Marriott International, FINRA, and Saint-Gobain - CDO Magazine",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlBKT01zQ2ZCZ2MxR1pDQmN6TjIyRUFlV2dCSjlMSWdsbUh0OUdnaGZ5OV9DTm9teXZGVHNTdGhJM0dyaVlNNkU2OTktODJDUzVjY0dlczRZSGNzUkkycm5IT3hHNWhmTmNFQnlUWHVvTFJWYUxHN3hOSFNvTlVFbndJb0NHc1BWck9yWjhhTk53T1JsazdsNEJyVWR1Yjl5a3h3VUZHX0E3RnhKRkpOOWxfaVNNcmZ6SmRJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint Gobain (ENXTPA:SGO) Stock Looks Below Fair Value As 39% Return Holds - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNnBpU2xGekhWMW5aU0JPZEFaV3ZiUVRFQ1lINGMtVlpMTnRRSFRDWjJCeHUzUDltQ2NxR3ZfRzB1WnBBNHljanU2clo1Vm0xRVlnalJLTjhaODF0ZUpiVE1OR0hnelFUWjRJZDUxbmhtLWNQSDhoV052SEx2a3lwQ0IyU0s3SE5uVGFTUXZZUEpfNUJTNEZKSHh2a1BKREVBWGxrRWhRMUI3djRvemF5SFYwaGtjbkw5a1ZUR29sVjMzVU1SUVZXaEtuckFrejFQOXlSUGpIUG9kZU9zSE14dXB3cldlX1nSAewBQVVfeXFMUHZiaWtiQ3QwMDh3VmdHNngtX3ctbS1KWE1jQWs1WE1VRVFZZzV3cGhQang2UFZrcXE2akwtRV9IZFBndGdBclJXc1VrUlEwcFQ2dXJWYVBSTmFsaTg3MG9kdUhYT3JKQ0ZURjBVb0t1MGwyOUkyWGl2VUwwWjBhLWpHYW1CRnpNUS1LaklHcjZ4NzJGMzdNbVkzLUMxaWRYVDZQM0RtZlcyTDBXX1NjcTctbmZSaGdMMUcybDhNSGhaQXAtNENucW10aWJ0TVdCSFNFTUFGODBLUF9YMlNIWkFsRm9ObWdtTEVtQ3M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-09-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades at EUR 70.36 as targets diverge - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelJ3TFEyVWN1QjI2b3JaV1N0U0I3OV92QnR6aEkyU2YyX3RQWEw4RjhaNUd6VDJiR0dKYzJ3WHhzS3R4bkZTYVpVMWxlQWdWSlpnaEQxanVWaU5vQnItckxLWE1hdmxGRG1hUGtRbGkzQ1JhTzRlUXBXZTBVbmFpNlB4elMyd3lMU0hTeWN0OFU0b1ZvblJyTkF6azhqSUZ6YUNzY1MzazdnOG1ZaXNhZ1hNNjdCQTJRTXc1NA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "agc",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 186,
+    "too_old": 172,
+    "gate1_blocked": 26,
+    "gate2_blocked": 18,
+    "passed": 31,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Tata Chemicals shares crash 11.5% amid Tata Sons listing row; TMPV, TCS down 3.5%: Here's why - Mone",
+      "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+      "Flen Health Chooses AGC Biologics to Manufacture Recombinant Enzymes for Next-Generation Wound Treat",
+      "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為聖戈班、康寧、Owens Corning相關動態：「Owens Corning (OC) Stock Could Be 32% Below Fair Value On...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning (OC) Stock Could Be 32% Below Fair Value On Cash Flow - simplyw...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "AGC Tightens Chemicals Leadership With Executive Officer Reassignments - The ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

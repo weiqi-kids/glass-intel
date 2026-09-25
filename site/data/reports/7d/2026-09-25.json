@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-25",
+  "date_range": {
+    "start": "2026-09-19",
+    "end": "2026-09-25"
+  },
+  "generated_at": "2026-09-25T13:29:42.111153Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "corning-2026-09-25-001",
+      "date": "2026-09-25",
+      "title": "Owens Corning (OC) Stock Could Be 32% Below Fair Value On Cash Flow - simplywall.st",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 31,
+      "last_week": 32,
+      "week_over_week_change": "-3%",
+      "sentiment_this_week": -0.03
+    },
+    "earnings": {
+      "this_week": 41,
+      "last_week": 66,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.02
+    },
+    "glass_fiber_electronics": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "solar_glass_demand": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "construction_activity": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -0.5
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fuyao": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 4
+    },
+    "saint_gobain": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "first_solar": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "tata_chemicals": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "au_optronics": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "oi_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "owens_corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "agc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 128,
+        "last": 190,
+        "change_pct": -32.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-19",
+      "event_count": 9,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 27,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 32,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 21,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 26,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 8,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-19 ~ 2026-09-25）共 128 則事件，重點為「Owens Corning (OC) Stock Could Be 32% Below Fai...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "福耀玻璃",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
