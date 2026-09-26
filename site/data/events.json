@@ -1,5 +1,23 @@
 [
   {
+    "id": "tata_chemicals-2026-09-26-001",
+    "date": "2026-09-26",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tata Chemicals replaces KPMG with KNAV as auditor for UK subsidiaries - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEZ1MDZkTEdOa3JfajFYTkY1WGZvaUplNTdVTkU0cFBjdG9oVXdjWjBiX1NtM29lcVdfMkt6WFhOSmNVWG5nOHRabXByMGhIenJfN0R0MjJ3aFE4S3B3V0VVZVJXZDVHN1d2X2RFa2",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEZ1MDZkTEdOa3JfajFYTkY1WGZvaUplNTdVTkU0cFBjdG9oVXdjWjBiX1NtM29lcVdfMkt6WFhOSmNVWG5nOHRabXByMGhIenJfN0R0MjJ3aFE4S3B3V0VVZVJXZDVHN1d2X2RFa2VWSk9sdjY0WURiX0phQUdPWjYyNDdWZTJmTklkamZYMmxxLVlydTZMcUQwMzQxTlhKZk1OcW5TYldnbmtON3EtVHZmQmo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-09-25-001",
     "date": "2026-09-25",
     "companies": [
@@ -156,6 +174,104 @@
       {
         "name": "longi",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBndlNuYTcyUDZyNldJUzhFRk40ZEZGZGhyakJ6by1PNkM4Z1lkTFpLX2cxRDE2aGlNa2Y0Qy1xbVRFakw3bVAtX1IzYWJ1Si16WGxlNG92QTJGdFBXT3R3clZvaVVQdU16MnhxRUpQWHBfbnQyU1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solvay-2026-09-25-009",
+    "date": "2026-09-25",
+    "companies": [
+      "solvay"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solvay SA (SVYSF) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Fd0hmVjJNVEVENy02a0NicFFyTGJkbUxtZF9MOTFmdFRLdmRaVDJRcnBtWDBjNjl2YmoxMk5hS0pnODBmQUFFVXJQZlhzZmR3SG04?oc=5\" target=\"_blank\">Solvay SA (SVYS",
+    "sources": [
+      {
+        "name": "solvay",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Fd0hmVjJNVEVENy02a0NicFFyTGJkbUxtZF9MOTFmdFRLdmRaVDJRcnBtWDBjNjl2YmoxMk5hS0pnODBmQUFFVXJQZlhzZmR3SG04?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-25-010",
+    "date": "2026-09-25",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Owens Corning (OC) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3JjdXd1YXN4bTNUUEQzOG1aT0VKODB6MDNVeThDUVdSWmVqbkpYMDNaRHFQLUYzUmxaUDRUVF85a2c5cTJVTElZUVlXeGxLTGRUTFc3S3B1WjhGM1g4OXR1YzVFS29wbE40VnRLYn",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3JjdXd1YXN4bTNUUEQzOG1aT0VKODB6MDNVeThDUVdSWmVqbkpYMDNaRHFQLUYzUmxaUDRUVF85a2c5cTJVTElZUVlXeGxLTGRUTFc3S3B1WjhGM1g4OXR1YzVFS29wbE40VnRLYnlnWHFGUHFNczl6NjFFLVFlYktRS3VjWDc4TVlyZkdGNnUxWnVzNGF2V2VmbGFldjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_glass-2026-09-25-011",
+    "date": "2026-09-25",
+    "companies": [
+      "xinyi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Glass Holdings Stock Slides 1.2% in Hong Kong - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUktPSG1wRU1aWUwtbFgxcHVIMUpZQ25BdDYtUXJFb0ZrYUNtVmc1U09BeVVOTEZiMUpUYnVXNFM1Z3ZZUmFzUWJEQzljR2w4eGl3V1Y3Sm1iUDl1TXdRUjFLZkU1TDNJdTVrQ2owTW",
+    "sources": [
+      {
+        "name": "xinyi_glass",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUktPSG1wRU1aWUwtbFgxcHVIMUpZQ25BdDYtUXJFb0ZrYUNtVmc1U09BeVVOTEZiMUpUYnVXNFM1Z3ZZUmFzUWJEQzljR2w4eGl3V1Y3Sm1iUDl1TXdRUjFLZkU1TDNJdTVrQ2owTWtISXZqZ01DbFdoem9SREVWSXZ1Qk5LSEVpa3VCblVnZnNyb1dtNXFyTUpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-012",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "FSLR Stock Heads For Its Worst Week In Over A Month — Roth Says US Polysilicon Crackdown Could Provide A Tailwind - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlN1SzB0bi1tdUx5bjRqaUVEbjZkenFNWllRRHMtUmJHUWxTa0gzaFVndnc0c0N6cDU0czJrb2pub0x6LWJkQ2ZJRURmOTRJRFlnczNTQmxzT0Jvb0xic0ZtZ2ZHdVdTeEVyUElWMl",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlN1SzB0bi1tdUx5bjRqaUVEbjZkenFNWllRRHMtUmJHUWxTa0gzaFVndnc0c0N6cDU0czJrb2pub0x6LWJkQ2ZJRURmOTRJRFlnczNTQmxzT0Jvb0xic0ZtZ2ZHdVdTeEVyUElWMl9XMnBDTzJlRS1RYU11bTR1RlB0RVFiZEJVb0szTzRxeXQ0VndhcV9J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-013",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500\" /></div><p class=\"wp-block-paragraph\">Tesla is now building several hundred",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/",
         "type": "rss"
       }
     ]
@@ -672,6 +788,126 @@
     ]
   },
   {
+    "id": "agc-2026-09-24-027",
+    "date": "2026-09-24",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Flen Health Chooses AGC Biologics to Manufacture Recombinant Enzymes for Next-Generation Wound Treatment - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOd19pbVREOWZVYkRqUlBWZGQ3eGE5VHZfd25CS0hVLVJWdUk0bEVmMWFJU3NndDUxRWNkMmdxNmlFLWEyM3hpLWRsVFZ6VFY0WEU3VU42cDB0Ty1uM0YwUFRkM1VMcmdFOGJ0Q0NTZG",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd19pbVREOWZVYkRqUlBWZGQ3eGE5VHZfd25CS0hVLVJWdUk0bEVmMWFJU3NndDUxRWNkMmdxNmlFLWEyM3hpLWRsVFZ6VFY0WEU3VU42cDB0Ty1uM0YwUFRkM1VMcmdFOGJ0Q0NTZGRGbnNxdF80dUJhRkM1X1prZ2Nqcm43MFNEbENHdmlPb0EtMHVVSnR3Qk11YjNqM2l4ZzJqOUpRd0JHNWhLYVZjVURlS2xSUU1ibUxtSTY4UWZkVmZRUDNwZURFdXRmaHJLMjg1WTRSTHpIUUV2SVlXVEhieHhSa3FuejJ2MDR4QndZeWdUT2MwQzlYVWNWOTFiUHNNQURoUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-09-24-028",
+    "date": "2026-09-24",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Compagnie de Saint-Gobain S.A. (SGO.PA) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE42dC11N0xEODNhT083bE5DckpCRlNQeDRKc2w1MWNTV2xLV2NVTnZvSkRJNGNJcHphTDlySWV2SU5qejRLMFlPdG1qM3RqaUR5TUFrRw?oc=5\" target=\"_blank\">Compagnie de ",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42dC11N0xEODNhT083bE5DckpCRlNQeDRKc2w1MWNTV2xLV2NVTnZvSkRJNGNJcHphTDlySWV2SU5qejRLMFlPdG1qM3RqaUR5TUFrRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-24-029",
+    "date": "2026-09-24",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4% - 247wallst.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNY1V1VzVLdkJVdTJjMkN6ZU5uZTZUNkx0WHhwaGFwXzZnN29UTHZESmlfbTJXTGZfNW95ODFjWTY0alhabXUwSVR1dmhqR3hBS1ZTUzM4ZkUtSTF5OG1CUWl1QVZYWTZ5WTFEZVItMT",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNY1V1VzVLdkJVdTJjMkN6ZU5uZTZUNkx0WHhwaGFwXzZnN29UTHZESmlfbTJXTGZfNW95ODFjWTY0alhabXUwSVR1dmhqR3hBS1ZTUzM4ZkUtSTF5OG1CUWl1QVZYWTZ5WTFEZVItMTByTTF2NUVQazhwN0RVbkpaVTFicDd6ejZ5Qzl0b2xwNXZfOWRFMVlRa0t2LTVYbmwxSThQbkJmVDB5ZUt0VU9wQkpiRTFnRWNjWHBYZkQ3ZmxGMlpxNGV3Q3FWcENHMXhSdmQzVksxN3dTTjV4RDVsU3UzNnlXNng4RE5FTXFVV3REemF2UVVoREtXSVVIODlfc3liUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-24-030",
+    "date": "2026-09-24",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Solar Falls as Investors Weigh Patent-Case Shift and a Lower Price Target - quiverquant.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXYtZVdNdDl1UG5ibGNtVHNuSWNxeV9KWjdHczBvWF9VNlFXTjRWY01YOW5IQVo1a1FPdjFOZ0dTdEYwczN1WHlocjdXRl9TTGhoZVZHckgzT0hBT0l2Sy03VnlQUlZEbVU5MWt6YW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXYtZVdNdDl1UG5ibGNtVHNuSWNxeV9KWjdHczBvWF9VNlFXTjRWY01YOW5IQVo1a1FPdjFOZ0dTdEYwczN1WHlocjdXRl9TTGhoZVZHckgzT0hBT0l2Sy03VnlQUlZEbVU5MWt6YWNkMDJBckRCaVM2UU9EdHVFV04yM21yNVU1Z2hPZlBqMU1CUU1wckxIazZ3WV9vc1dnNUVKZVJ6ak00Z0UxeG9JSHNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-24-031",
+    "date": "2026-09-24",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Stock Hits Fresh 52-Week Low: What's Happening? - benzinga.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXZ3bTA1dGgtdzZGLVRSNjYzaldldXlHMGVZZG5JYXlJRXBlTHZIVEhDbTVpeGRGVHFFZGZ2TWx5ZXFneHc5enZPVUJYbzljcE9xNDVWMEJiZjRIb0wtXzM0S1dsb0J0TkVGRDhtQk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXZ3bTA1dGgtdzZGLVRSNjYzaldldXlHMGVZZG5JYXlJRXBlTHZIVEhDbTVpeGRGVHFFZGZ2TWx5ZXFneHc5enZPVUJYbzljcE9xNDVWMEJiZjRIb0wtXzM0S1dsb0J0TkVGRDhtQk1jT3EybnNXRkQ0ZHA5S1pmSkZBN2Y0Mk9IWWczVndkUjc5dTJEOU84dUItZ0VuQ1ZXLW1JNzNSZTcxcU5rQklnTlVfZTBZV3dW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-09-24-032",
+    "date": "2026-09-24",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc Stock (FSLR) Moved Down by 7.12% on Sep 24: Facts Behind the Movement - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFdGa0NrWERldG5PZ1dZRU9UUmkycll2VVlsWjhvaVZ0akdkLWgyVWJMMlVQUUdWaUl4YlV6ekxwUzhvMWZDbnVNMFdSMEdUNnlScU5fOFAydDNLRWlwclhtT2w0V2NjRDFvMVFVbW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFdGa0NrWERldG5PZ1dZRU9UUmkycll2VVlsWjhvaVZ0akdkLWgyVWJMMlVQUUdWaUl4YlV6ekxwUzhvMWZDbnVNMFdSMEdUNnlScU5fOFAydDNLRWlwclhtT2w0V2NjRDFvMVFVbWd6RUFVbUZiNnJCdmpMc3NSX29BcHVqZXVoa2lJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_solar-2026-09-23-001",
     "date": "2026-09-23",
     "companies": [
@@ -1078,6 +1314,26 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/mortenson-mass-timber-western-washington-case-study/831168/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-09-23-022",
+    "date": "2026-09-23",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fuyao Glass Industry Group Co Ltd's Dividend Analysis - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmJTZEZUWk5UemJJU2l6dmJSOHF4emk0WUZUMk9RMFFrZVpKLWNTRm5xemo4cFFXcEtYR3o4Q2xyenJaaXBpQ0hYYTlUYVRJNXlqbUZ2QncwVHBQZ0xmOTU5WjRpbTE3emxYbG9ucG",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmJTZEZUWk5UemJJU2l6dmJSOHF4emk0WUZUMk9RMFFrZVpKLWNTRm5xemo4cFFXcEtYR3o4Q2xyenJaaXBpQ0hYYTlUYVRJNXlqbUZ2QncwVHBQZ0xmOTU5WjRpbTE3emxYbG9ucG14NTUyZ0ZiV05vd29oSjdTdVVVd2ljQnlGZ3VBVmpCVFdpVHNCZ3c?oc=5",
         "type": "rss"
       }
     ]

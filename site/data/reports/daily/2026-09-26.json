@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:52:40.020131Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tata Chemicals replaces KPMG with KNAV as auditor for UK subsidiaries - scanx.trade",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEZ1MDZkTEdOa3JfajFYTkY1WGZvaUplNTdVTkU0cFBjdG9oVXdjWjBiX1NtM29lcVdfMkt6WFhOSmNVWG5nOHRabXByMGhIenJfN0R0MjJ3aFE4S3B3V0VVZVJXZDVHN1d2X2RFa2VWSk9sdjY0WURiX0phQUdPWjYyNDdWZTJmTklkamZYMmxxLVlydTZMcUQwMzQxTlhKZk1OcW5TYldnbmtON3EtVHZmQmo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 200,
+    "too_old": 177,
+    "gate1_blocked": 25,
+    "gate2_blocked": 18,
+    "passed": 13,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Owens Corning (OC) Appoints Michael DeVito To Board With Housing Finance Expertise - Yahoo Finance",
+      "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+      "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ",
+      "Saint-Gobain QCC - theworcesterguardian.org"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為塔塔化工相關動態：「Tata Chemicals replaces KPMG with KNAV as auditor for UK ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Tata Chemicals replaces KPMG with KNAV as auditor for UK subsidiaries - scanx...",
+        "level": "green"
+      },
+      {
+        "text": "塔塔化工為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
