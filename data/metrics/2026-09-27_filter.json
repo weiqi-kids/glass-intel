@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 25,
+  "gate2_fail": 15,
+  "passed": 10,
+  "gate2_samples": [
+    "Owens Corning (OC) Appoints Michael DeVito To Board With Housing Finance Expertise - Yahoo Finance",
+    "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+    "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+    "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ",
+    "Saint-Gobain QCC - The Worcester Guardian"
+  ]
+}

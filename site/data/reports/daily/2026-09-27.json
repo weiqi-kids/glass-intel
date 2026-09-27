@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:45:17.366539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-09-27-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Does Strong Buy Rating Change The Bull Case For Owens Corning Stock? - simplywall.st",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVdRNnZzMDVZWGNzYkpKY0FNMnFPYnllRm5heDRlcmpJNExPa2JQTm42RzBCd3hRSnNTbmN0bDlSZGhSUWJlbjdWdk9QQU9uZGxZcGd3VEtSRHpnWWVDSWpvZDJ4dGQ2dWZyZTZSc195V3FvekFZRVgwdHJtanpuWkllLWxJNEdlZlk2RlowUXlIblNtOTNDbDRhQXBYeTRwdTBjbk1LZG54V19MdlE3elp6bjRCRVJlSFI3QWF3ZlNRVjh2X3JpMVZsakE3QdIB0wFBVV95cUxNWU9RcDNFa0Flakw2c3ZSeFJyNWhtNU1SVHA3d21JWmR5eVhnZ1FiZ2x2NGNHNkU4d3pTQ1JWaS1KMUlwUHowZVhIZlpjRFY4eHQ2ZFVMUWFRcFlxc0lTemNweTBUMzI2MnZCZmgtS2tpZk9VVkV2MTI0N0VWWlVGN1JYNkt0VmlyUGwzU1NSVGZBZDhsLU5EcnVUbXFHNEdRMkQtOGI3bmRYTi0taEpYaDg0eDVzX1RTLVNVRFZiX09YcUZKZGtLZzBrU280bnRzQzZz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-09-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Court blocks Kajiado government bid to join Tata Chemicals case - Daily Nation",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnhWamFSWlZLU2VQX29ENEFmRnhvTGEwSFdYY09CMll5YzFQcVBhNjN0ckd5YmM4WktrWVhVQ1RSWnUyQ0pBZ2RDR2MyX0xfMzgxZDJMNFg2V2lYZGppQlo3a3Q3dkwzNzJXOXNRanhuY0RyMVpYcEswZl9qSzhIY0tsSGV2VmRBUmQ3T1RqRzFJd3FIR2o0a2MzQlNKRkpLMXlmQUxOb0JrSVBSVF9OenNBX1JtQTg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Energy's possible fund spin-off offering in Shenzhen Stock Exchange accepted by authorities - The Standard (HK)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc185WlZ5MUZxaUM0MGZtOUYzdWFGSnFoMllkUXVfX1FuU3R1Y3llbkpRcnptckZnUnV4c2xCU0VraUxKajg4MkphNnIyVHdfUG5QckNleGZoMi1Qa3R0amd5QlNHdTExc0J1M0hJVUc1YnFZUjVuVk1BaDJFZ0IwRVM4dmlyVUdxQ2h5WjZwcElScE5VUzJWX1p3aDI2RThGc0JmblpjVjFsRERoREJITGdmQ18xcWlPWDg1WlVXZHh6OW9lRi04MzNTQ2ZVZ3Y3ZjBGbEhGck5lQW5HM2gwaWxDN0c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saint Gobain (ENXTPA:SGO) Stock May Trade At A 21% Discount To Cash Flow - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkt4NkYyLWlhVHo5dFJVSllEY3d6eVJjYjhRZURvYVp2dWVZakJUak9aNGJETUJVQ0hGd0JVcXg2QVJwLWVmblJaWVVRLWZURnZNYTdFS0s3N0dJVnBTTEQzdmZHZWdzZklkLUJxNTA1SXZxRHZtRXNmWjNVWGFTNVo3aTRSc3dEUGZXeG1jM3NkaHVWLWliT19R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 212,
+    "too_old": 174,
+    "gate1_blocked": 25,
+    "gate2_blocked": 15,
+    "passed": 10,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Owens Corning (OC) Appoints Michael DeVito To Board With Housing Finance Expertise - Yahoo Finance",
+      "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+      "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ",
+      "Saint-Gobain QCC - The Worcester Guardian"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為塔塔化工、康寧、Owens Corning相關動態：「Does Strong Buy Rating Change The Bull Case For Owens Cor...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Does Strong Buy Rating Change The Bull Case For Owens Corning Stock? - simply...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Court blocks Kajiado government bid to join Tata Chemicals case - Daily Nation（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
