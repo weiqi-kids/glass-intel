@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:39:40.289253Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-09-28-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stock Markets, Week 39/26: RENIXX Slides Below 1,200 Points as Grenergy and First Solar Post Double-Digit Losses, Bloom Energy and EDP Renováveis Lead Gains - renewable-energy-industry.com",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNbjJlcEdpc3dPTzVkU1hxU0VuYkVQeTg5WHNEMG1PWklTSnVwNnpodElJZlUwSlRoY0ZwXzdWUWl1bHd4WUQzdVlqQlI4V3FxaEJzT1hJNjJzUUUtSHN2eS1UcmdWZ2pVdDVuRmE0UkdwbTlHN2hJTm1rWHVVaXQybTlrNHRfZ1dzUDdra0gyVl9MZXYtSjRfdUUybExmeGUxWEI0TEQ3MlQ4eElodHJFQ1JJR3hjU25LZFEyc29CVW5PRFlxa2c4ZFhvZldpbTBmX2NJRE4xVXplclhlaThaUURnT2s5My1iUi1ySjEzM1RhQXFScXk1bGMzZVlPS3l6UWlkZGtXc0wySGdVY0RrWmpHamcyNjlQVGhfMXFyQ3hmUkd2NmtVZzF0US1abTlzM0VjQ2VYYXlzNm1CSHZV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-09-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Energy, Xinyi Solar Advance Proposed Shenzhen REIT Spin-Off - marketscreener.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQXdBVjVLck1tZlN1bmNwei0wb3lnelhhNk5sVlctTjgxX1E2TmZiX0VGcDN3dE40VUJ2U2hHcTVqYjgyZzFXSkJudHJpdTU3d1o4NndlMDV6eldDdDZDTkNDbWxmbkR3dktPd3phX0hKa2Z6MnpUUVYyaF9OcDk2WmdwTTRISlg1Y1FVT2dhYlR2dksyRnplengtOWlRbzNULTMxMUEyNHJlbGxpR0cxSVkxSGQ2TGFG?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-09-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain signs renewable electricity purchase agreement with Total Energies - TGS | 4C Offshore",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeXdzRk1iRHNicVprN0xVaU9JSGhxQ2lBLTJNRl9pZjJ3ODBDRjhDcnBVUjY2SHJvVVgxWWRwanhOUy1oWEVTa0FkMnhtWFcxMS11VEZoeUVLMmlsVTNDV3U2TC1sakZUa20zWFk3dnNGaXRXalZCQmxlM1JISVZWQXlYX0VIUXE3Y0lCSktXd1RycVo1bzhIYW5INkVTQU1zMHlmeGVaME9HQTNmNFJNZkdLb3Y4UFN3NzhKXw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-09-28-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain et TotalEnergies signent un accord d'achat d'electricité renouvelable en GB - TradingView",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KVWtMVThZc24xN3ZsV0R3OGI2N3RhNVFqWFZDWjR6R0k4cWNQeUNtRnVXY2JabmhlUU41T0VsdFpTNmhOM1FKZUpaTDdEcjZjWjZ1cmpSaW1Eek5mLXdDWDcwQ1h3MTlxRDBQSjRad2FKeVB3NjZYeg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-09-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TotalEnergies to Supply 60 GWh of Clean Power to Saint-Gobain in the UK - energynews.pro",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXNoVkdYR3BWT3dVR0FXOW9jdUpieDBWMm9qamtyRTAyMTlodlZkQ3hFTHJnb3hYTy1adkJlNGVkSG5VS2Q0N3pZV1pBZ0d1RFA4RDlPcUN0SF9uQjJ1YW80THEyMHFrM3VUcjU2RTlhRnBjVThVaWdFOWdqX2ItdlAxZjZCSWh2enNyXzMwdmNVVnRBNmMtOVlyajQ3dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 8
+      },
+      {
+        "id": "first_solar",
+        "count": 8
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 165,
+    "too_old": 194,
+    "gate1_blocked": 27,
+    "gate2_blocked": 12,
+    "passed": 38,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Owens Corning (OC) Appoints Michael DeVito To Board With Housing Finance Expertise - finance.yahoo.c",
+      "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+      "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - finance.yahoo.com",
+      "Report on Change in Shareholding Nippon Sheet Glass (9.07% → 2.46%) Japan Industrial So - Moomoo",
+      "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為聖戈班、First Solar、Owens Corning相關動態：「Stock Markets, Week 39/26: RENIXX Slides Below 1,200 Poin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Stock Markets, Week 39/26: RENIXX Slides Below 1,200 Points as Grenergy and F...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Xinyi Energy, Xinyi Solar Advance Proposed Shenzhen REIT Spin-Off - marketscr...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

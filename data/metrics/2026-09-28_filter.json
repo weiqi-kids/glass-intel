@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 27,
+  "gate2_fail": 12,
+  "passed": 38,
+  "gate2_samples": [
+    "Owens Corning (OC) Appoints Michael DeVito To Board With Housing Finance Expertise - finance.yahoo.c",
+    "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+    "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - finance.yahoo.com",
+    "Report on Change in Shareholding Nippon Sheet Glass (9.07% → 2.46%) Japan Industrial So - Moomoo",
+    "Asbestos Claimants Take Saint-Gobain’s ‘Texas Two-Step’ to Supreme Court - WSJ"
+  ]
+}
