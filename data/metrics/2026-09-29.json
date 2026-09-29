@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-29",
+  "total_events": 18,
+  "by_company": {
+    "tata_chemicals": {
+      "count": 5,
+      "sentiment_avg": -0.3
+    },
+    "nsg": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "first_solar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 8,
+      "sentiment_avg": -0.31
+    },
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": -0.25
+    },
+    "construction_activity": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

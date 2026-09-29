@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:45:54.835709Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-09-29-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stock Market Today: Sensex, Nifty Decline Amid High Oil Prices; Tata Chemicals Down 4.5% - APAC Media",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzJsdnF0SDkzMmFPNTNaZ05vaGU2STJGWFdWNEprdEJSWV9JeUZpaW1XTWs3eGJsVGJUTVctVlFLOHpScGZEaF9wWkxEWms0TG1aOHdKY0F2Q2hmSXlMMS1XOTNtX2lLQmVFTlN1ZzFOVzhMemtQV0NJMExuR3ZObDZadHhUOUxkeTQ4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-09-29-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "LONGi stock gains 1.02 percent as H1 losses deepen - AD HOC NEWS",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUl81dm5hUWs4cjRnbEtPUWZXVDgwa0VjTHM2WDNUZ1RFdDhOMWw0WGpNQ0h3QUVyT3dna0plMUhFSmZjS09fb2Jjc2ZPeTFfcWRYM3RUQV9IRmR4dG5lV0xWemlpMTNxcTEwQ1I2WHBUR1A0aXlfTVlaaUxxblE0WWVDZG1LMDlubVdoUEtFUUF1dFpFLUNPeWFuLXZBb1JjRHZJa0otbTFLX2lVRFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-09-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Group Stocks Fall Up To 3%: Why Tata Motors, Tata Chemicals, Tata Power Are Under Pressure Today - News18",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ0I3MnZYc0V0UnRvVmRhUGpqVlc5dmRMMDNBZzhUX1RySTB5d2VQd0lZd3hsRExoczBDZE1YVWw0ZW91aXc2WWZrQmZmY0F5UUZYTU5GdEV4WEVXUi1UQmozc0hHQmtUTkN6YkcxLW5DWUNhTGhDWVZ3cmxzX3labWp0UURzeWZINzZ5b1NsYXVTWnlKSzFvd2ZwWGRudGIya1Ezb2Q5S1BEbkVIQnQyaVpORVkwaTVuNW0wajFmTnc1QUluNjczTUxVcjRWM3lSN2JVSHhLR1JjUmdYbHVEMGIxNkwwQdIB6wFBVV95cUxOelQxM2JjeEctd01Cb2Z5Q2RhTjJlMkZaTDVfRlM3NDdDdkwtQjV6VGd4QS16dFBRMjk0WjJVbjF0SHR1WkJCcHp2aV9SWmo0WHZqaEpJMHlUYW5ISWtDM2drRjhwYkd3VXBmQ1RHSGdvUGV6TUVkcFU5QlRUb01waWluVGtycFZYRnNKWHZrY0ZxWEFTTFJqOEpqa2tDQjZSdnIxbU5xUXNDLWNSNzNEMDRWeEV2YWpSSzRYbnF4Y3Y0Nk94S3A1cFJWMklJVEZ5R1REQks4VS1zMU5kbVJTZmdQRDFha0lLcVZv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tata_chemicals-2026-09-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals Mithapur Launches Suraksha Gurukul for Workplace Safety - Chemical Industry Digest",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX05WTm15N3VwQkl3a0FINGhBbVNuWmVaVElicXlWNENnSUUwaWttQ0dUbFBDVDRhcmFqb19tdE5TQnRiU3NNbVlSYXQ3VEF5Y182NkVqRTVYN3E2Yk1hUktSaVpmNHpJaHdxYS05OHFPZ3JrMUoyMm5BZlFKT1QwLXdqdjNOTmNKcDBibUNPcEl4TGFKVXphX0FyVXU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Group stocks fall after latest proposal from Tata Trusts on Tata Sons listing - CNBC TV18",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVGFjekIwZV9xSEpLRGFNVGZsaVQ2XzZMUlNIcnp6RWQ3RlBtUWtMeUE1MjVTMEg4NEFEVE1KY2NsVUFpdjBDN19LOTliU2hqSUgwNWJybURwbEg2U19Sd2p2aVJNQ1FFZmFMTER3MU94M2dRUDdIdDBUR1A0cVVpLWJLb1oxNnR3QV9zVjFOQkwxVUN2Z3lqdl9CaWdLb2U3WmtNYU1HXzJfZDFmV1FQeFd6QWFnM0R0UXFjSmxFT01UbFlobG4yaUQ2U1JJRjNNZThPOFdVSG9KLVFlNFEzT19SUXF6ai1xSWdXMXN5NNIB9AFBVV95cUxQWDNIcjRlQW1ISzBYRlgzU1NEM1lyQlFXR0xCY0hkRFFvbWpwREktVjJlNVBpQUQ0bDlscDdNb25EdXZRSjdfdTJfZkt0V3dzZm4tUGlEZ1cwRjBWM09uVm5LdVNIdFEtWVNFWDBQaWxTY1ZTc2ZqY2w2SGhwQ3Q0aXNvQ3Q5RzZmaEZBdkd6czhvcFBRcjV4NFZ2Mkw0OTBDa1lUelN6R0FPTXhmTERJU3F2ajZaWFc2aVI1UEdkVnBLS0lNYjlkRGRsaUFzbEs1NlJhRWJrQ2REMWJfczlLVy1GMDRNNEhNWFBxb0RWLXBueUFG?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.31,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 5
+      },
+      {
+        "id": "first_solar",
+        "count": 3
+      },
+      {
+        "id": "nsg",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "inventory",
+        "count": 8
+      },
+      {
+        "id": "construction_activity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 195,
+    "too_old": 172,
+    "gate1_blocked": 25,
+    "gate2_blocked": 14,
+    "passed": 29,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Tata Chemicals, TMPV shares fall up to 3% after Trusts' proposal dims Tata Sons' listing hopes - Mon",
+      "Tata Chemicals opens new safety training centre - manufacturingtodayindia.com",
+      "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+      "Report on Change in Shareholding Nippon Sheet Glass (9.07% → 2.46%) Japan Industrial So - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為塔塔化工、First Solar、日本板硝子相關動態：「Stock Market Today: Sensex, Nifty Decline Amid High Oil P...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Stock Market Today: Sensex, Nifty Decline Amid High Oil Prices; Tata Chemical...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "LONGi stock gains 1.02 percent as H1 losses deepen - AD HOC NEWS（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

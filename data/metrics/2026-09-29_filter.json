@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 25,
+  "gate2_fail": 14,
+  "passed": 29,
+  "gate2_samples": [
+    "Tata Chemicals, TMPV shares fall up to 3% after Trusts' proposal dims Tata Sons' listing hopes - Mon",
+    "Tata Chemicals opens new safety training centre - manufacturingtodayindia.com",
+    "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+    "What Is Driving Attention Around Owens Corning (OC) Now? - simplywall.st",
+    "Report on Change in Shareholding Nippon Sheet Glass (9.07% → 2.46%) Japan Industrial So - Moomoo"
+  ]
+}
