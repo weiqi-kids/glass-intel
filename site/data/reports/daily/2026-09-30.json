@@ -1,0 +1,265 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:47:19.423262Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-09-30-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Inc (NYSE:OC) Stock Has Consensus Target Price of $164.15 According to Analysts - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOF9jMUZEMWJGSkcyYWtOb3RBNHJKdVBJdkk2QmtJM1BweFAwRVdqcGFEOENGcThkZE5DN2FGZWxXRENMSHhiMXA4TFZ1aVdWZE80SXN0ZjQzMXR1eDh3Vi13RmZwWXd2ejFJaVJENWM3MjNfNXotUmc2cWJOc253LXdyMTQyZ19KZTl2N29xaDhubTl4NUYyVjQtdVNsWVBmeE9Bd2FHLTZLSllSWUxxTGVLWjh2TGwyWm9UdWprU1d3bTFsb1RCTVRDUzlzc1JnT3RLUTdleEtabWdDeURLeWRiODdXRTQ4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-09-30-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Tip Top Roofing Service Confirms Up to 30-Year Warranties, BBB A Rating, and Owens Corning Preferred Contractor Status - einnews.com",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmNwWkhpYUdVQ3E3RndYcjZjbDZGUlZnek1OM1duajJ6RmxoMWF3X04tOFhHRUY2eDYzQ0FPMUhPMWxydXFxbG9YYWs0elNQUkhZZVFIbXVHTm1yQ252Vmw4RXpIc3N2a2RfbXF6dEhhZmVac1VrQ2hNVUdoWDVtZUl2T2xNUGpvWS1GR0pZelE2RzBFREFsWFhxSTh6Qm03VlBRSldZSWVHMkIyb1dRb25MZ1o4OVAzbVFvX0tRNFR3WnRNYzdJQjlKVXo0THBqb0dlZ3RVM1otd25JckZkZTY4MkV1cmxKR2xmcHoxSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Motors Denies Negotiation Knowledge After Proposal Triggers Up To 3% Share Drop - Sahi",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXpWTHdJekRETGZMUjducThORkU4a1dHQW1yc09vaWR2cXE2V2I3WWt6OE8yZ3pvbHRFUmZhdV9vSFR3d2FfT1JvVkdwODBISGNRX0NOUXc0a1pyYTdFWU1uTDlXM0NBZDBHdVQ2Y0IxbWxSSGVoWjFKMjVJeU5td0c4bWxULTlOZUwyNnM2Y0RYVHFzUWVtbzJPYjcwdXQ0WHc5WjdsWjI0LTN0SXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata stocks remain under pressure as Trusts' merger plan clouds Tata Sons listing hopes - Fortune India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRUQtS2o3MVljWmpsUndYOUExX3JOVnhXQU1yYmRJVG1rbXlZZFJGSGtUckF2YTZNQXN6QXF1Qmh2a1I3MUV2VXRFem1qOU1OUXNaNUFOcFlCaHRHSTU0Z2V2clZFSURZekhMQ3ZxN3d2MFp4SjNFRmtZOUFYTDlmclNEY040djZQbF9HQ1lQUGtrWjE1eFdtMi1QemlZUTZ0T2luZkpLdlVqbnczMjNkSTRsc1I0c0kyb2tONkZlbEp4OUpQYVYtblJR0gHXAUFVX3lxTE84VFJia1VBa2F1cnhla2JhekQyT25PYTVEdWhoUnRFOTlySzRsXzRXMjhmU1ZtWVEwT0tyN1JOeHRsenJGT2Y1aG0yMWV3YVVRaGFDWHZ4R3V0OGdabGFPWWZnQXYtNnJCVG5NWVZXVm5wZ285b3oySERQX3ZhRmp3eFBZQVRvQlBFWWd2M0NkS1B2b2RYTGg4a2N4S25RQXg4NUVNOFRfVlRUMDJPYzJSaUdKSnNzaFgxTmVPbVdzbDZOM21icExQUEl3UkVNQUw5SVhqVDlZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-30-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Chinese factory activity expands in September amid AI boom - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2hBclpDSnZBY0I0SjlMLVdOb3psd0dpV3NpNERFTTB5TkE1eXEzNm43TXVHV1BqMGZIZXYyZXJ3WVFBa0lXYXc4aWxsbXItUGtkQUdzUVMzQ2lMQmtxNTJRYUROYlBZbGlPVGJJclI0YlpMcEdJVXpWakRjU3QzeFM5Sm4tNnh5VVd4MnREbHN0VkIxOG51bjNnUUI5aHJGQmdLLXZnYnBld0N1Ym84?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "nsg",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 183,
+    "too_old": 164,
+    "gate1_blocked": 29,
+    "gate2_blocked": 18,
+    "passed": 42,
+    "pass_rate": "16.6%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Tata Chemicals opens safety training centre for employees and partners - hrkatha.com",
+      "Tata Chemicals, TMPV shares fall up to 3% after Trusts' proposal dims Tata Sons' listing hopes - Mon",
+      "Non-operating income (total) of Owens Corning – HAN:O5Q - TradingView",
+      "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "Discontinued operations of Nippon Sheet Glass Company, Limited – HAN:NI9 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為康寧、Owens Corning、日本板硝子相關動態：「Owens Corning Inc (NYSE:OC) Stock Has Consensus Target Pr...」。主要關注主題為財報、庫存、建築活動，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Owens Corning Inc (NYSE:OC) Stock Has Consensus Target Price of $164.15 Accor...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Tip Top Roofing Service Confirms Up to 30-Year Warranties, BBB A Rating, and ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

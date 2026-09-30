@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 29,
+  "gate2_fail": 18,
+  "passed": 42,
+  "gate2_samples": [
+    "Tata Chemicals opens safety training centre for employees and partners - hrkatha.com",
+    "Tata Chemicals, TMPV shares fall up to 3% after Trusts' proposal dims Tata Sons' listing hopes - Mon",
+    "Non-operating income (total) of Owens Corning – HAN:O5Q - TradingView",
+    "Owens Corning (OC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+    "Discontinued operations of Nippon Sheet Glass Company, Limited – HAN:NI9 - TradingView"
+  ]
+}
