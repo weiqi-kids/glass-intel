@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T15:17:16.232149Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-10-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CSI 100 Index Earning Revision (Sep): CHINA VANKE, COSCO SHIPPING, Longi Green, POWERCHINA - Smartkarma",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVVSTGlLOFA0MkVMTnZUQTNPSlVZd2hwQ0VfRHZxQ0ZiSk1qLXJPT3dackNHNEkzYnVfN1ZiRTJmdDhkRjQzUkM0SWh6Q3RZejB0RjZSNlZZX2N3cFRhTWh0NGNPYW1BOXVxZko3OGtiWGczMWFCOWFRdzB1VlpPVVVRYUJEWUpjazY2VlNNdmZLOFFOWlZXOU9icEtBeFhWUjFPVklOVmJaY2hMUWd1RzBGcDBUUWpITHREMQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ireland energizes first SRESS solar farm, opening new revenue opportunities for farmers and landowners - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ2lodk0zcjhvXzBuX1hBUi0xa0ZCZGFIcVJscmg5Y3FsT3dRdGc0TjU1R3o5cUM2MWM3MUJDU0M3Z1V4RC1yTVR3ZHc3X1hoZTNmeG1DNWIxNWEzWkQ4ZVBYU0VESnNRX24waHdoMnBqY3IwOEs2YkNEbzBUZDdCLXlXVjRPWGJob1Z6Z1dEUm15blJUWld2ejFGUGV5RFF5S2FjRXVmZ25HQkEzQ1BXQkdnX3RJcnV5X1V0MXJNQnM0T3pwZy1YR1NRWHNnVHNLTVpZbGwzaVM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ørsted has announced Blackwater Solar construction in New Mexico - solarbytes.info",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmNrdk1EeW1aTTB2STFHS1JzRzVWM1Z6UERQQ1EtNUpiZ21ISHBNb1c1cWlXb1NwMXJKY01jSGdqbXlfbm01Y2lwNzRBTVBtRVlUQzQyVUN4bkduMmZOWDh4c1doREFiNEZ4TlBlV1pzeG1jU3NaQ3dxa21Rdm1WZGs0MG0xbllleUZBcDVMMTFMaE5RZDlzTUtsUlQtRV84eS1BTE4zZUVRUkdxdzNfM2laZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NIO (NIO) Q3 deliveries rise 25%, but September growth slows to 7.7%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://electrek.co/2026/09/30/nio-q3-2026-deliveries-september-growth-slows-onvo/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glass for Europe launches #MoreThanYouSee campaign - glassonweb.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDd3aUt4bGJkcktMVUlxajVpb2ZLdzR2aXhKdUFMdWFPT3pFdXFBM00wNVdNYUNKc3lvMHdMZ1BTWnprYnZfd3FScWdPMXZBQ1FYamRodGxWSFFuNjdzMFFHcEpFbGlsbXJxd1ZPYjdkcnFrUlZMQ1JtLWliVnBDeXlrYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 199,
+    "too_old": 165,
+    "gate1_blocked": 31,
+    "gate2_blocked": 14,
+    "passed": 29,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Tata Chemicals, TMPV shares fall up to 3% after Trusts' proposal dims Tata Sons' listing hopes - Mon",
+      "Quick ratio of Owens Corning – HAN:O5Q - TradingView",
+      "Nippon Sheet Glass Company, Limited Financial Disclosures & Filings - TradingView",
+      "Discontinued operations of Nippon Sheet Glass Company, Limited – HAN:NI9 - TradingView",
+      "Nippon Sheet Glass Company, Limited Financial Statements – HAN:NI9 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為聖戈班、隆基綠能、First Solar相關動態：「CSI 100 Index Earning Revision (Sep): CHINA VANKE, COSCO ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CSI 100 Index Earning Revision (Sep): CHINA VANKE, COSCO SHIPPING, Longi Gree...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ireland energizes first SRESS solar farm, opening new revenue opportunities f...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

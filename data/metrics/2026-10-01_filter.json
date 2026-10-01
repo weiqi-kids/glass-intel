@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 31,
+  "gate2_fail": 14,
+  "passed": 29,
+  "gate2_samples": [
+    "Tata Chemicals, TMPV shares fall up to 3% after Trusts' proposal dims Tata Sons' listing hopes - Mon",
+    "Quick ratio of Owens Corning – HAN:O5Q - TradingView",
+    "Nippon Sheet Glass Company, Limited Financial Disclosures & Filings - TradingView",
+    "Discontinued operations of Nippon Sheet Glass Company, Limited – HAN:NI9 - TradingView",
+    "Nippon Sheet Glass Company, Limited Financial Statements – HAN:NI9 - TradingView"
+  ]
+}
