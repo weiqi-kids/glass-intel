@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 24,
+  "gate2_fail": 11,
+  "passed": 34,
+  "gate2_samples": [
+    "Cash flow from financing activities of Owens Corning – HAN:O5Q - TradingView",
+    "BofA Securities Maintains Owens-Corning(OC.US) With Buy Rating - Moomoo",
+    "Discontinued operations of Nippon Sheet Glass Company, Limited – HAN:NI9 - TradingView",
+    "Nippon Sheet Glass Company, Limited Financial Disclosures & Filings - TradingView",
+    "Nippon Sheet Glass Company, Limited Financial Statements – HAN:NI9 - TradingView"
+  ]
+}
