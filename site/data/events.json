@@ -1,5 +1,66 @@
 [
   {
+    "id": "saint_gobain-2026-10-03-001",
+    "date": "2026-10-03",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain finalizes Xypex deal as Saint-Gobain stock trades flat at EUR 67.79 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHN5ckVYa3R6MmxVZ1pSZ2IxZU5jNFNwY1RnbDdvSUg0MTNDck1kQ0pGa2owTDhpWXEtdzJNdndIcF9pTVRTbXZxNTBETFFPRzZCWUN2Z1pqc091aWtzSE9zb19CT3ozeXlzcmF1eX",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHN5ckVYa3R6MmxVZ1pSZ2IxZU5jNFNwY1RnbDdvSUg0MTNDck1kQ0pGa2owTDhpWXEtdzJNdndIcF9pTVRTbXZxNTBETFFPRzZCWUN2Z1pqc091aWtzSE9zb19CT3ozeXlzcmF1eXBaZjlnOEN3cFV1ZVhYSjhxbmx3Nm55THhnaWpQR3Y0Z1g2S0tuM0ZfS1pLTl9OOU01eDRtdTdmMVo1VjN5RG4wVkFyUktxSDRfREd4MnV3Y0JwcS1FRnljRnFGSjh4LXlncjlV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-03-002",
+    "date": "2026-10-03",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain reports a buyback of Saint-Gobain stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVpMTFJkc1A5dHZZZGpiZ0VLTVhELWVLMmtXLVZGSU1obHhyNC1NQXlQdUoyb01MX2wwbXVSVURHb0xVbjZBQ1V3SVpVdkQtMnpBc1l6WFNMa09heVU5dGZYekRDQnNQT1VMRFFRQW",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVpMTFJkc1A5dHZZZGpiZ0VLTVhELWVLMmtXLVZGSU1obHhyNC1NQXlQdUoyb01MX2wwbXVSVURHb0xVbjZBQ1V3SVpVdkQtMnpBc1l6WFNMa09heVU5dGZYekRDQnNQT1VMRFFRQWRrNUowbmVpWkc1U1FjaDVnYXI5VE9rQ2QwZHQtaTl4RGtDX21QMG43VkUxM1VVd2YxTF9pTWNsTWVKZ3I4M3kyTEI2U2FEdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-03-003",
+    "date": "2026-10-03",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Could Be 34% Below Fair Value As Earnings Near - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlNhbTFMRHFlOS1qMVlOVnRjVTFzSk1sdWNEUk0yWE1sMl8ySXlmY3RwRFdaa0JueUt3WjVpTDdUcHRuTXg0Tl9lM0wzUXhnYkE4Uzk3eGNMbXV1TnVHWGZjLVB0Ujh2WUZIT19DTz",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlNhbTFMRHFlOS1qMVlOVnRjVTFzSk1sdWNEUk0yWE1sMl8ySXlmY3RwRFdaa0JueUt3WjVpTDdUcHRuTXg0Tl9lM0wzUXhnYkE4Uzk3eGNMbXV1TnVHWGZjLVB0Ujh2WUZIT19DTzNmQlduUDd5Sk5CQ2wtTTJRck5Hb0xPci02TzltYnd0NlB0UlM5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-10-02-001",
     "date": "2026-10-02",
     "companies": [
@@ -242,6 +303,288 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/data-center-construction-spending-august/831954/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-02-014",
+    "date": "2026-10-02",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (OC) Laps the Stock Market: Here's Why - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZhTTQySFY4Z0h6ODRyYXhFOXBQQnFfRGxycW5rcVBuZEdfSVlpOWFGR29lbU1EaFlROWlqeWNtUnIzOVBwcFh2MndNc1VjSzZCcDVpdWF5cnRhNk5mUF9kMzU5V3NsTkhfZlE1R1",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZhTTQySFY4Z0h6ODRyYXhFOXBQQnFfRGxycW5rcVBuZEdfSVlpOWFGR29lbU1EaFlROWlqeWNtUnIzOVBwcFh2MndNc1VjSzZCcDVpdWF5cnRhNk5mUF9kMzU5V3NsTkhfZlE1R193dDZ2cS1tUHFxdU0wZkxHVl93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-10-02-015",
+    "date": "2026-10-02",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Belron Acquires AGC’s Vehicle Glass Businesses in Poland and Czech Republic - CollisionWeek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU25tb0YzQ3RLMENIbVZhWS1UQy1aUl8wc2hxRFQzMnE2dzVBSlVYeDcwbVpjSHJta1hKNFJDNFdteEI5UU1ESHM0Ukxncll5azBTZDExUDgyOUNCdmVEd3NoMGYzMC1Vd181VS1qVV",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU25tb0YzQ3RLMENIbVZhWS1UQy1aUl8wc2hxRFQzMnE2dzVBSlVYeDcwbVpjSHJta1hKNFJDNFdteEI5UU1ESHM0Ukxncll5azBTZDExUDgyOUNCdmVEd3NoMGYzMC1Vd181VS1qVVhzVTJNSmR3ODF0SWNuakR2cENXbVAtVF9vSmJmT3NMMGs3ODA5RmNENUtPODB5S2V3TmhoNndBMEo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-10-02-016",
+    "date": "2026-10-02",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Global Penny Stocks Spotlight: Xinyi Solar Holdings And 2 Promising Picks - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPQzNsYm5SWUdnM3NlVnFDRHJRSWNZdy03aVo3aU0xUVlBbTI4QzFISjdRVzIzU3B2bWlvMkd4Wjdkak5Sd2RnU1pLX2drYnFaemRCQTZpLU53Q3RjWXJjOUJ3WFJkelFRYnZPZFhxTk",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQzNsYm5SWUdnM3NlVnFDRHJRSWNZdy03aVo3aU0xUVlBbTI4QzFISjdRVzIzU3B2bWlvMkd4Wjdkak5Sd2RnU1pLX2drYnFaemRCQTZpLU53Q3RjWXJjOUJ3WFJkelFRYnZPZFhxTkgtaVhYamNkeTJiNkJCNFNLOGdYWkw2TXh6YVhuQXUxNlR0WGc1Qi0tdVhzWG5lbTdZMmFPQ3c1amVhX3FQb2VFcU5hTXMzOHhNSDVEZGY3QTJ6aDE3dDc1NzctNjRNN0lubDVwYWhzZ2lDX2FPWnRYbTVNZDkzTmhlOEkwNnhrM0taQkY2NnJ0WFFscmFYQTdRSXZpUXJYaXBtamVVNlpEUnZzZU4yNHl1bDZ6SWtDZ9IBpAJBVV95cUxNYzEtX2Nmay1fdTN5QmFqeENmaDZSMFNVOXRDMVBIOFdTQTY3am5PVzNWSGZZV1d4UGNIX28xSzFrbU1tLVJOUWM1M2ZsOHB4V0JFTE1nWnl0MlpJVFVycVRYdEVMOGNIZUI5bFNEbHNMcXpZUUJSWHFrTTZfaUl2bFJJSTV2YlhOdmwtSGdtQkhTSXZjRnBBMEhDTksxX09WbFZuZHFQSDcyYi05clhhd21JWlVrQXRCc24tOWl0czgyTDN1eTI1cVNiUGtMMFpuRVhRaDVwX3RTbzU2YnlOYXhsbi1IMXEtUFVSTDI3dWhDcEVIczBBZUJCTkpraEtfUUs4TE1DY1ZCQTI2NGVDMXlXYjhrYjNYNWVhdk85VmE5ckhQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-017",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar",
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Solar Sues Corning Subsidiary, Chinese Rival Over Patent Infringement - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODUzRF9PZ05DQTJOM01nSkdTNHhLTjRqMkhjdW5iVkVrOVdZSUowTWl2MzBkRjRaM3JBWUlydTVfU0tBR0gwdm84RF82dnJIWUtYR0tJZldqeXk4Y01ZUkdrTWw1aEpIaEtvTWp2Zm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODUzRF9PZ05DQTJOM01nSkdTNHhLTjRqMkhjdW5iVkVrOVdZSUowTWl2MzBkRjRaM3JBWUlydTVfU0tBR0gwdm84RF82dnJIWUtYR0tJZldqeXk4Y01ZUkdrTWw1aEpIaEtvTWp2ZmFzZS1IUU55MGZHRXRxUWJONU9ON3JHdjZNX0JN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-018",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUXpITzctWjZwNDBxaWFCOHNEOEN6UUdLN1R2eWJzNmx6MWVTbUp1VEVOSHlEUWtwMG02T3I1V0FQVHZLWkczUDFtS0p2M25neEFtNmliQ2JfbGlPaHhwcjlvWUI1N0xydWNBVjlHMH",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUXpITzctWjZwNDBxaWFCOHNEOEN6UUdLN1R2eWJzNmx6MWVTbUp1VEVOSHlEUWtwMG02T3I1V0FQVHZLWkczUDFtS0p2M25neEFtNmliQ2JfbGlPaHhwcjlvWUI1N0xydWNBVjlHMHFfNlMwMWdTdzRxUDNBRXRsZ2J0SnFSamJkZW1oU015a3Q0MnU5TzlDdmFqdmladG1POTh6S3ZJMTc5WUZmYlRkNzBQbWNpS3BMazVOX3RkdmhmNnA4bXhrbVVWVkt1Z1BhX3ZsNXotOTdnRE1XZlA2dWtGemdPZXJLZmJ0UnI4YVRlQTJLZkVmOW50c2RyUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-019",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Quarterly director compensation gives Paul H. Stebbins 300 shares of First Solar (FSLR). - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUhTZFJaMVBxNFY3VnhhYUN3UTJYQldlcGtxck83VHVqcm9OelZKeWJWZW1DenUwcXBWbExVcXhQaS1ZZndmUjJCZk1kYTVoX2txZGw2cFZjWGVyejR5Wks3VW9YMkdGdkROU010RW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUhTZFJaMVBxNFY3VnhhYUN3UTJYQldlcGtxck83VHVqcm9OelZKeWJWZW1DenUwcXBWbExVcXhQaS1ZZndmUjJCZk1kYTVoX2txZGw2cFZjWGVyejR5Wks3VW9YMkdGdkROU010RWJaZHE5djVIdW1nbDFEc2RicWtPWTBSdFhqNnI5a2YxeXZmdUNhLWhnUjhJa2FNZkx2UlB0UVhXZGdDeDVodHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-020",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (NASDAQ:FSLR) Stock: Insider Markus Gloeckler Sells 800 Shares - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPalo2bkJDSlFhdk56UHJHWnpIVU9Sd2wxZU1mY3ZCejhPTU1aV1pLbzRicUVGSTZxbm4zcjZaNkI5UHpJQlE3VEVjN212ckN5S183dl9jMEM2eGxqY2R2X25MY28zYW4tVG5PRE5Lbm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalo2bkJDSlFhdk56UHJHWnpIVU9Sd2wxZU1mY3ZCejhPTU1aV1pLbzRicUVGSTZxbm4zcjZaNkI5UHpJQlE3VEVjN212ckN5S183dl9jMEM2eGxqY2R2X25MY28zYW4tVG5PRE5LbmZtSlhHMDU4U2x0R3lNLUN1QmdRNG9IRHVtNG9OWWlGN3lTd3FBeTBLQURvLS02X2prXzU4TTFJazAzSFREWFZvdUdNb3lTLVZtWUxNclVTM01KZm43SGxpZUs0ZGFxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-021",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "How Investors Are Reacting To First Solar (FSLR) Inventory Glut, New Tariffs And Slower Project Starts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOREhWM284Q3RXdm1wemliTFF5d1RRZUNBcGI0T2V1azRHbHZJbnExMGhLbzRJN3duOWUxZTVQYlZJZk9KcXpyRlM3RHpDSm5DM2J5Y01ITFdIUEU5RjZobWN4UDBGVHFzZllVQWhNNE",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOREhWM284Q3RXdm1wemliTFF5d1RRZUNBcGI0T2V1azRHbHZJbnExMGhLbzRJN3duOWUxZTVQYlZJZk9KcXpyRlM3RHpDSm5DM2J5Y01ITFdIUEU5RjZobWN4UDBGVHFzZllVQWhNNElEa2F0NUFWUFhNZ0JsSnpGaWVPV3ZLeWZzQktvTFExMmVDdVJ0UzBVSDVpYnJ6ZzY2OUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-022",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Quarterly stock pay gives director Michael J. Ahearn 422 shares in First Solar (FSLR). - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTExlN1pWTGxSYnNFUEJlajBYWThQeENaRGlBSG90ellrQU1tS3NHeU9zaFVGamRiaDR4SnF0dWpJY1ZSMUZSY0ZZVy00TEx3ajRaQ3FLUjQzM0dYcV9wRUtwaGZmaDkzWDkyRGN5Qj",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTExlN1pWTGxSYnNFUEJlajBYWThQeENaRGlBSG90ellrQU1tS3NHeU9zaFVGamRiaDR4SnF0dWpJY1ZSMUZSY0ZZVy00TEx3ajRaQ3FLUjQzM0dYcV9wRUtwaGZmaDkzWDkyRGN5QjIySkVCalFZYWpDVHVvbHQ4VWpPaVVEUS1HTHpYZk5SeWZ3eHk3cEdpb0phWVB5LUpFMW1TT0xWWU5hWWw1WlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-023",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "A 300-share grant brings the Post Family Trust to 27,685 First Solar (FSLR) shares. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNW93MEt4d1RHV1VYLTQtQW9CZWdVVGFpU2pQVzByY3JUVzVFczRPWG5uTmNFMEdFREN6R0pCZy0yOV9RUllJaUV6UmJhc0dpb1NxTXpob2xZUEMxeXFLMEt4b1hpSmNoSHJ4MWkwcE",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNW93MEt4d1RHV1VYLTQtQW9CZWdVVGFpU2pQVzByY3JUVzVFczRPWG5uTmNFMEdFREN6R0pCZy0yOV9RUllJaUV6UmJhc0dpb1NxTXpob2xZUEMxeXFLMEt4b1hpSmNoSHJ4MWkwcENkZlFRQ0t2QUNTLWlxREt6dXMtc3huWjk3VjZ4eDRHVm9hLVRXdzJJVkxhZDNZOER6UFdKbmxSOUVPVnRYMHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-024",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "A 300-share award brings Renduchintala’s directly held First Solar (FSLR) stake to 2,433 shares. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZlZuY2xsT1pZOUVCOU5EZHlNajJhbUdGWmhoSkF0UUxoMWZadTVZMnNBV1NjTl9Wa2xzNjBLV1diYjlYLWVDTGQ2TU43Nk12a0JWU0RKamVpNWZReVpvazU5Y25MWEk5YlQtZTlXRn",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZlZuY2xsT1pZOUVCOU5EZHlNajJhbUdGWmhoSkF0UUxoMWZadTVZMnNBV1NjTl9Wa2xzNjBLV1diYjlYLWVDTGQ2TU43Nk12a0JWU0RKamVpNWZReVpvazU5Y25MWEk5YlQtZTlXRno3WGN2eGtBN3BacWc0UUFfU1VlZTJiNUhUNk9VQWVPRkhXcUpJZWVySXU4MHdhZ2FBZVlockQwQVFSSTR0Z0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-025",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Quarterly stock compensation gives First Solar (FSLR) director Lisa A. Kro 300 shares. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNem1aV3pvak5rcl9KNXZrUHZSX3ZQMnhncC11RkktU2lhdU5keXBmYXFLZmFEa3owR21lclU5Uy1kNzNUUHlVRTAzVzVnUFEwRXN3cG1EQmtXWTRvcHZmNmpHSTJHQlJ6SDJud0F5dm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNem1aV3pvak5rcl9KNXZrUHZSX3ZQMnhncC11RkktU2lhdU5keXBmYXFLZmFEa3owR21lclU5Uy1kNzNUUHlVRTAzVzVnUFEwRXN3cG1EQmtXWTRvcHZmNmpHSTJHQlJ6SDJud0F5dmdlVlNhNnpKcm1yQ2psdndUTEppa1lnekliS2NGLTJpODl1cmlERWh5UVFXcUFVVFJkTEdHdlN2NmRYaUJwdkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-026",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ford’s Fathom pickup couldn’t come soon enough as EV sales drop 80% in Q3",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Ford-Fathom-closer-look-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">The",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/10/02/fords-fathom-pickup-couldnt-come-soon-after-ev-sales-drop-80/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-027",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "3 contractors tout military project wins in September",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I0WGSmK0R4U6roGy8DHf9z7eb-sfEsvZxuzWxHhvggM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1NjEwNjUwX0dMUlhX",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/3-contractors-military-construction-september-2026/831968/",
         "type": "rss"
       }
     ]
@@ -723,6 +1066,65 @@
     ],
     "impact": "neutral",
     "title": "Gilbane, Marvel complete $128M sustainable NYC job",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Pf4XgZN6fgGeUmB9So21qDSYYTwnoPWZwhPvtHmcCVA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50ZXJfRXh0ZXJpb3IuanBn.webp\"/></di",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/gilbane-marvel-complete-sustainable-nyc-job-design-build/831943/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-01-026",
+    "date": "2026-10-01",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "A 5,420-share cash-linked award brings an O-I Glass (OI) director's balance to 15,966 share equivalents. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFdNcUJQR1ZfRHdzXzAyTWRkaHVIalVBd2ZiWFhwdkdZVjBqanpCc29Vb1o2X3hmcHhxSWxtZTROTGRKRGZYdTdoMHNqWlhJWTNqelpmUFdnZ3lCVG50RnFWdnVzUlNkQnZicHVGRl",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFdNcUJQR1ZfRHdzXzAyTWRkaHVIalVBd2ZiWFhwdkdZVjBqanpCc29Vb1o2X3hmcHhxSWxtZTROTGRKRGZYdTdoMHNqWlhJWTNqelpmUFdnZ3lCVG50RnFWdnVzUlNkQnZicHVGRl9fZkNZVjI4YnR2UWlDdGlDekdLRUxndlZaR1ZoX29KTGpOOHlmOVNXZ21nbXhHVEpZaTNpVmdMU2h3ano0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-01-027",
+    "date": "2026-10-01",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass, Inc. (OI) Stock Forecasts - ca.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQb0JXUml3TlBYTUtVNnNxM213NjhDNXJrS3FMMmROSXlSaEpuY0FUN1JuYV9ESDNmOXlmRjNDSjBsRkE4N3pRd2RFNnRKc1k3MTZNRDktU3dZd2Y4YzJHYU56ZGVUbk5hZjA4MTlXam",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb0JXUml3TlBYTUtVNnNxM213NjhDNXJrS3FMMmROSXlSaEpuY0FUN1JuYV9ESDNmOXlmRjNDSjBsRkE4N3pRd2RFNnRKc1k3MTZNRDktU3dZd2Y4YzJHYU56ZGVUbk5hZjA4MTlXamRBeGF6dGNmVWhXZDl0S0xEdUNvZElEbGtDMWR1UHZEVFJjUlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-028",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Gilbane, Marvel complete $128M sustainable NYC community build",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Pf4XgZN6fgGeUmB9So21qDSYYTwnoPWZwhPvtHmcCVA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50ZXJfRXh0ZXJpb3IuanBn.webp\"/></di",
     "sources": [
       {
