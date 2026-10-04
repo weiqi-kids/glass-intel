@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:51:07.147812Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-10-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals and 7 Other Stocks With Management Expectations of Strong Q2 Growth to Look Out For - Trade Brains",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNllic21LZFpDZnUyQjJCa0xYc3VjQ21YT29aUFEtdTVPN21TcGRadWFzRjRfaVkwNXFHUnZtM0hPdkVSbTlDYUJGajJiTkxBYjJzVlB3WmE1Zk82SUpjR0ZrQTNCbTZ1dTh1R3k5OGxKbnBRSFVpSjhXRk1IZlE4OVJIVDBtaVBSSTNPZXE5M2ZjRE5HUlVpSTNtcGVFRF9ILXlCQzhXeTN2NHhxckwyVHdoSEVIM3FQZkFaOTFSY2lfeFRDTXRhQkpwU2d0SWpCTVh6Q1A2MnNKQnRmN3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-10-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock gained 1.18 percent after Xypex deal - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWplYmFfUXdkeTBaQ0x5Y0R4ZThSMlhWSWQ3OE1qY21qYUlYTUctcVlWSnZGWHZreHlROU5ZQ1FydElvTHhaT1F2Sk1GY3lpZFh4bllUVU1wclgwTzNybWw2cHhockpNUkZscGgzc01FalhKajJCM2xaQ0dNZk5CM0VVOVNIU2l6M1VkY2ZIRzROQWU2LXdPTThFamlCOEZzRWthY3E1aVQwT0d0dGYtWVFBWnFUcURsS0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-10-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "North Carolina food bank gets first solar microgrid, keeping freezers on when the grid fails - Yahoo",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGhqV0R1NDBWMV9hdnJYdGViUEQ5TVdvUWdTOS1BOTJuVUx5VFA4VkRHbWQzVGtZTkZPY3dqemxwdUg4OE8zend2em5HdE1hQ3FWQWUtbksxWTFZd2U1UVZUSXVJQ0ZzM1FPVTBQMFI3WEg0ODNpNWZ6a0tpazRQeVhxVDhmZmtzUURZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 212,
+    "too_old": 173,
+    "gate1_blocked": 23,
+    "gate2_blocked": 17,
+    "passed": 10,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Tata Chemicals, TMPV shares fall up to 3% after Trusts' proposal dims Tata Sons' listing hopes - Mon",
+      "Owens Corning Actuals & Estimates (HAN:O5Q) - TradingView",
+      "Cash flow from financing activities of Owens Corning – HAN:O5Q - TradingView",
+      "Discontinued operations of Nippon Sheet Glass Company, Limited – HAN:NI9 - TradingView",
+      "Nippon Sheet Glass Company, Limited Financial Disclosures & Filings - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為塔塔化工、聖戈班、First Solar相關動態：「Tata Chemicals and 7 Other Stocks With Management Expecta...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tata Chemicals and 7 Other Stocks With Management Expectations of Strong Q2 G...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Saint-Gobain stock gained 1.18 percent after Xypex deal - AD HOC NEWS（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

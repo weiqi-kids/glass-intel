@@ -1,5 +1,67 @@
 [
   {
+    "id": "tata_chemicals-2026-10-04-001",
+    "date": "2026-10-04",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Tata Chemicals and 7 Other Stocks With Management Expectations of Strong Q2 Growth to Look Out For - Trade Brains",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNllic21LZFpDZnUyQjJCa0xYc3VjQ21YT29aUFEtdTVPN21TcGRadWFzRjRfaVkwNXFHUnZtM0hPdkVSbTlDYUJGajJiTkxBYjJzVlB3WmE1Zk82SUpjR0ZrQTNCbTZ1dTh1R3k5OG",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNllic21LZFpDZnUyQjJCa0xYc3VjQ21YT29aUFEtdTVPN21TcGRadWFzRjRfaVkwNXFHUnZtM0hPdkVSbTlDYUJGajJiTkxBYjJzVlB3WmE1Zk82SUpjR0ZrQTNCbTZ1dTh1R3k5OGxKbnBRSFVpSjhXRk1IZlE4OVJIVDBtaVBSSTNPZXE5M2ZjRE5HUlVpSTNtcGVFRF9ILXlCQzhXeTN2NHhxckwyVHdoSEVIM3FQZkFaOTFSY2lfeFRDTXRhQkpwU2d0SWpCTVh6Q1A2MnNKQnRmN3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-04-002",
+    "date": "2026-10-04",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock gained 1.18 percent after Xypex deal - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWplYmFfUXdkeTBaQ0x5Y0R4ZThSMlhWSWQ3OE1qY21qYUlYTUctcVlWSnZGWHZreHlROU5ZQ1FydElvTHhaT1F2Sk1GY3lpZFh4bllUVU1wclgwTzNybWw2cHhockpNUkZscGgzc0",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWplYmFfUXdkeTBaQ0x5Y0R4ZThSMlhWSWQ3OE1qY21qYUlYTUctcVlWSnZGWHZreHlROU5ZQ1FydElvTHhaT1F2Sk1GY3lpZFh4bllUVU1wclgwTzNybWw2cHhockpNUkZscGgzc01FalhKajJCM2xaQ0dNZk5CM0VVOVNIU2l6M1VkY2ZIRzROQWU2LXdPTThFamlCOEZzRWthY3E1aVQwT0d0dGYtWVFBWnFUcURsS0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-04-003",
+    "date": "2026-10-04",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "North Carolina food bank gets first solar microgrid, keeping freezers on when the grid fails - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGhqV0R1NDBWMV9hdnJYdGViUEQ5TVdvUWdTOS1BOTJuVUx5VFA4VkRHbWQzVGtZTkZPY3dqemxwdUg4OE8zend2em5HdE1hQ3FWQWUtbksxWTFZd2U1UVZUSXVJQ0ZzM1FPVTBQMF",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGhqV0R1NDBWMV9hdnJYdGViUEQ5TVdvUWdTOS1BOTJuVUx5VFA4VkRHbWQzVGtZTkZPY3dqemxwdUg4OE8zend2em5HdE1hQ3FWQWUtbksxWTFZd2U1UVZUSXVJQ0ZzM1FPVTBQMFI3WEg0ODNpNWZ6a0tpazRQeVhxVDhmZmtzUURZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-10-03-001",
     "date": "2026-10-03",
     "companies": [
@@ -56,6 +118,24 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlNhbTFMRHFlOS1qMVlOVnRjVTFzSk1sdWNEUk0yWE1sMl8ySXlmY3RwRFdaa0JueUt3WjVpTDdUcHRuTXg0Tl9lM0wzUXhnYkE4Uzk3eGNMbXV1TnVHWGZjLVB0Ujh2WUZIT19DTzNmQlduUDd5Sk5CQ2wtTTJRck5Hb0xPci02TzltYnd0NlB0UlM5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-004",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Did The Market Misjudge About Compagnie De Saint Gobain? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOERkUGM4Y3RRdnU3M0l6UkFSb3JqZDJ0c3EtTmh6MFB6REJYUHFwVmpEYWpCNV9BNGdKQ2hVRDdiSTVXRW5qcUxUSzE4alB2bTlPQjc3TjJDRWZQZW91VVZXMjZHZ1V6WFAta1BIND",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOERkUGM4Y3RRdnU3M0l6UkFSb3JqZDJ0c3EtTmh6MFB6REJYUHFwVmpEYWpCNV9BNGdKQ2hVRDdiSTVXRW5qcUxUSzE4alB2bTlPQjc3TjJDRWZQZW91VVZXMjZHZ1V6WFAta1BINDdyTmlNNVB5VkRfVWkzSmxZRGdCZnNiUVllLXpOaUx4eWd4eFdqYzEyaFFCaFFTeFloQWZVQjZMS295QXowNDVyVEZ0VU8xTFpIdzhpNE5hem9LM2pQZE5OTVg2YnFSdjU3QVJFR05aVHFzajlFSmtJTnZhR0RpQjjSAewBQVVfeXFMUE44bHptbjM0RnRLWGxiallQck9CZDhSMEcxVi1fTko1VG4zdXczbVhvNFVJa2JMUXE5c1NfNUJHdXd6Zkd0VERFa3FvZTZGeDM5UGhCS2pJdFRkTDRYaXk3Zll2YjJtRXkxbk5uVUJWTmtXeGhIRmdISDZ0VVlGX0VXbEs1c1hfZGVRZ0VLWTJUU0Z1SURsV0dTdE1qZXNnMl91MXZrVUFNYXdZenZobWMzVkI0WFBfQzFocTlhakxQM1JPMEt6TlB2TGYtMTVuTzdFRlRFSWQ0UnZNZG1USmZqM0pKcXhJOXVlcjA?oc=5",
         "type": "rss"
       }
     ]
@@ -585,6 +665,27 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/3-contractors-military-construction-september-2026/831968/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-10-02-028",
+    "date": "2026-10-02",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (OC) Laps the Stock Market: Here's Why - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3QySjFKNnpvMWV6aDNMSmZBdEFacFp5OTdYX0RrNnpFdUd5WGVPbUNxMjdHUTRBclJ3aVYteXJZT1djMXJNU2MxSndLWjN1cnA2SzNyamw4WURuS1pFMnQ0N0RqY1dEMExCREtCVT",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3QySjFKNnpvMWV6aDNMSmZBdEFacFp5OTdYX0RrNnpFdUd5WGVPbUNxMjdHUTRBclJ3aVYteXJZT1djMXJNU2MxSndLWjN1cnA2SzNyamw4WURuS1pFMnQ0N0RqY1dEMExCREtCVTRuMXhDaXdEcldCLUQtOV96VFBR?oc=5",
         "type": "rss"
       }
     ]
@@ -1130,6 +1231,47 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/gilbane-marvel-complete-sustainable-nyc-job-design-build/831943/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-10-01-029",
+    "date": "2026-10-01",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: Owens Corning (OC), Nordex (OtherNRDXF) and Surf Air Mobility, Inc. (SRFM) - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxOSTB2VG9sUkk3aWVuUnh6TDNEbXZmYWwwRWpPX28wN2o4TFFtS2dHU2MwOGQycGs3eVFzYktLRGpJVnpIMUF3YjRQR2xXLXhQdmlMNVRESFpOQ1kxcTh3UVdCSkRwUldHcWdTSmNybE",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOSTB2VG9sUkk3aWVuUnh6TDNEbXZmYWwwRWpPX28wN2o4TFFtS2dHU2MwOGQycGs3eVFzYktLRGpJVnpIMUF3YjRQR2xXLXhQdmlMNVRESFpOQ1kxcTh3UVdCSkRwUldHcWdTSmNybE9BQ1hzNV9GTFlla2sycHJmTHlBVXZwYWpPTVdadkZ0Y1FsaDVuN0p6NmI1TEJ0MkFPekoyUHdCaDgydE9ITF9LSVlFLVZ2TG1sZlI1dnc1MU1rYkpMcTZPSF9lMjljQ1psRFROeUpQVTRJSU5UNVdfdmtkN2d5eFBaLTlHSzlVTHcyQjVkbGZTS01tX3RxX3UtQm9PRWwzOE9VcXFJZ3VuR2FPS3VILUdpWDRUa0E1Si1TUVJkWURGZTkyYTFKeVRjTTV4bVZRRTIxQVhmZmFFb0xBWDlYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-01-030",
+    "date": "2026-10-01",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "glass_fiber_electronics"
+    ],
+    "impact": "neutral",
+    "title": "Several Insiders Invested In O-I Glass Flagging Positive News - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmF5UHdfWkdmLVpCbVJlZENUSmk4NG56VDk2YUFlbzVIMWlzS3E1Q0w4THRWMVBfMzAyNGJ3SnVGMWk5ZUdSTG5aNnV2Rl9fMFJhUkhLOS1Fa1JVdHBUdUd1cjZ3RXo3N1cwRU1rVj",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmF5UHdfWkdmLVpCbVJlZENUSmk4NG56VDk2YUFlbzVIMWlzS3E1Q0w4THRWMVBfMzAyNGJ3SnVGMWk5ZUdSTG5aNnV2Rl9fMFJhUkhLOS1Fa1JVdHBUdUd1cjZ3RXo3N1cwRU1rVjV2Z0kxUm9CdF93MXNRUEVvY2ozeVNEdWhKUjZleGVHNEVQNF9JakFfUDNxWjhxZlllUWNzM1pmZDk?oc=5",
         "type": "rss"
       }
     ]
@@ -1819,6 +1961,24 @@
       {
         "name": "saint_gobain",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbE9Jc0VDT1BpTUZmSVZLc0RmTXgzTHVtaHJCMnBsUHN4UFk3OFQyRkF5QzVjanF6elNBWVlYSmhlM3NFWlBXZTBWLWRieUFXSHU0UUJEMXFEdW5hR2ZOcXZVTHp1MUpsVHdvQVlHV0ltQXNNVFc1NTFIM203eUhqZG1kdEpRaVZWRzl5MEI2NHQwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nsg-2026-09-30-037",
+    "date": "2026-09-30",
+    "companies": [
+      "nsg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apollo completes acquisition of Nippon Sheet Glass By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdG5vZGR3ODNwVkFyQkJyeHZHV01MS0ZvLVJQbVBVR2MxUUxNbGtsOWZDYUc0WmR2M1R1aHdTRWpTcHhVb3pIemlPa21jWWY4TklXM2JYVmszblZieWMxay00QTVNSmhYWjZMUlJpa3",
+    "sources": [
+      {
+        "name": "nsg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdG5vZGR3ODNwVkFyQkJyeHZHV01MS0ZvLVJQbVBVR2MxUUxNbGtsOWZDYUc0WmR2M1R1aHdTRWpTcHhVb3pIemlPa21jWWY4TklXM2JYVmszblZieWMxay00QTVNSmhYWjZMUlJpa3ZQTGxzb2hlUmhQTXlaZ3FuR045T3VqdHF3TzMta2Rkak9ZbXZTS1RPWlE2LU9TQmh6NjA0WF82QkFMNDEzQ08wcg?oc=5",
         "type": "rss"
       }
     ]
@@ -2537,6 +2697,25 @@
       {
         "name": "google_solar_glass",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTFhRV8yY084T2RmMVlTaUpYcjVTdFZKMWhKLUdhTkVZRUc3MEx2U05BZzQ1UVJKMjB6UjN5bTlobjVqQ1pkOUhrWTY4bDBNbEZyWUtEbzlKdXB2SW03bnJaRWdveVdCSFdLSHJQMWZOWjZETXU1R0dnWXhteWN4S0NkYmtfT1M3dXNxN2xiYTNHUnZGVm5RYTJXYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-038",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Tata Group Stocks Fall Amid Tata Sons Restructuring Plan - Rediff MoneyWiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTNfUWdVZ1dXVUlNUkVkVHBYM1JqT2ZzN0tUT2xnNWFjMVFCNm9vRC1wbG45SlUyemxxQ2RmZVN6U3g3dlpqSTVTdVZ5enNDOE5WZll3VWRzd3E2VTdTaHA1ODY3YUl5U3I4c3J3Nj",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTNfUWdVZ1dXVUlNUkVkVHBYM1JqT2ZzN0tUT2xnNWFjMVFCNm9vRC1wbG45SlUyemxxQ2RmZVN6U3g3dlpqSTVTdVZ5enNDOE5WZll3VWRzd3E2VTdTaHA1ODY3YUl5U3I4c3J3NjBkczZFVS13RC1SU1NYbUFyUHJxSFd2R2RrOVBBRXdBS2VQXzNNTUROcWh6MzlmbW1QdjdkcTh1d2FKQ2440gGyAUFVX3lxTE1iazZNTzVpaU1DWUdsRkRscFJZcjN3VmxBMFM3Y1hjSXRfSG9KV1lhdXcyb2FSZDRnZjV5UzhHVU1ZekEyNy10TW03VnpVcnQ0R2I1OGxQQ09wZElUeDJEcHhaV3djNHFaT2pLNVpDOXl0V3lVaUlhYjB6dGh2Z2E4c0Y4YkFDX2MzR216NkdWdG1CWXZaSjVBYUxoZVVmUGNsRUx2aFRUbkdZcjJiSVo0OFE?oc=5",
         "type": "rss"
       }
     ]
@@ -3585,6 +3764,25 @@
       {
         "name": "owens_corning",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVdRNnZzMDVZWGNzYkpKY0FNMnFPYnllRm5heDRlcmpJNExPa2JQTm42RzBCd3hRSnNTbmN0bDlSZGhSUWJlbjdWdk9QQU9uZGxZcGd3VEtSRHpnWWVDSWpvZDJ4dGQ2dWZyZTZSc195V3FvekFZRVgwdHJtanpuWkllLWxJNEdlZlk2RlowUXlIblNtOTNDbDRhQXBYeTRwdTBjbk1LZG54V19MdlE3elp6bjRCRVJlSFI3QWF3ZlNRVjh2X3JpMVZsakE3QdIB0wFBVV95cUxNWU9RcDNFa0Flakw2c3ZSeFJyNWhtNU1SVHA3d21JWmR5eVhnZ1FiZ2x2NGNHNkU4d3pTQ1JWaS1KMUlwUHowZVhIZlpjRFY4eHQ2ZFVMUWFRcFlxc0lTemNweTBUMzI2MnZCZmgtS2tpZk9VVkV2MTI0N0VWWlVGN1JYNkt0VmlyUGwzU1NSVGZBZDhsLU5EcnVUbXFHNEdRMkQtOGI3bmRYTi0taEpYaDg0eDVzX1RTLVNVRFZiX09YcUZKZGtLZzBrU280bnRzQzZz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-27-010",
+    "date": "2026-09-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Energy's possible fund spin-off offering in Shenzhen Stock Exchange accepted by authorities - thestandard.com.hk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc185WlZ5MUZxaUM0MGZtOUYzdWFGSnFoMllkUXVfX1FuU3R1Y3llbkpRcnptckZnUnV4c2xCU0VraUxKajg4MkphNnIyVHdfUG5QckNleGZoMi1Qa3R0amd5QlNHdTExc0J1M0hJVU",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc185WlZ5MUZxaUM0MGZtOUYzdWFGSnFoMllkUXVfX1FuU3R1Y3llbkpRcnptckZnUnV4c2xCU0VraUxKajg4MkphNnIyVHdfUG5QckNleGZoMi1Qa3R0amd5QlNHdTExc0J1M0hJVUc1YnFZUjVuVk1BaDJFZ0IwRVM4dmlyVUdxQ2h5WjZwcElScE5VUzJWX1p3aDI2RThGc0JmblpjVjFsRERoREJITGdmQ18xcWlPWDg1WlVXZHh6OW9lRi04MzNTQ2ZVZ3Y3ZjBGbEhGck5lQW5HM2gwaWxDN0c?oc=5",
         "type": "rss"
       }
     ]
