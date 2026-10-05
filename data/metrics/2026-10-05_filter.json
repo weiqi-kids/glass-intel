@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 26,
+  "gate2_fail": 17,
+  "passed": 18,
+  "gate2_samples": [
+    "SC shields Tata Chemicals from coercive action over alleged Gulf of Kutch marine damage - Telegraph ",
+    "SC stays coercive action against Tata Chemicals in marine sanctuary case - Pioneer Daily",
+    "SC stays coercive action against Tata Chemicals over environment damage to marine sanctuary - The Ec",
+    "Owens Corning Actuals & Estimates (HAN:O5Q) - TradingView",
+    "Cash flow from financing activities of Owens Corning – HAN:O5Q - TradingView"
+  ]
+}
