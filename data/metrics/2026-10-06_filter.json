@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 26,
+  "gate2_fail": 14,
+  "passed": 36,
+  "gate2_samples": [
+    "SC stays coercive action against Tata Chemicals over marine sanctuary environment case - Pioneer Dai",
+    "Cash flow from financing activities of Owens Corning – HAN:O5Q - TradingView",
+    "Nippon Sheet Glass Company, Limited Financial Disclosures & Filings - TradingView",
+    "Discontinued operations of Nippon Sheet Glass Company, Limited – HAN:NI9 - TradingView",
+    "Nippon Sheet Glass Company, Limited Financial Statements – HAN:NI9 - TradingView"
+  ]
+}

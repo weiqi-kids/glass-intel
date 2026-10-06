@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:57:51.109824Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-10-06-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning stock tracks a USD 164.15 consensus target - AD HOC NEWS",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQME9kWHpKRlkzQ1E1T1dOSjN3cHM1eVptY2NDT2RnTWJPMVdJdWdqZmc0S2ZxRGVnX1NyR3lIcE9Qa2xyRlM5Z2RCaGF0cmdxbk5wVXhVUnpSNnhWWVJITk1QekI2V25SaG52cTFtMjRad3dfaDZlQXZNVnJGN1hVZlRoVWJaRGI0WmZpOS1ET1hhcGd5YnJJVk1kcmVTb3E0TWFXeXFPZ2FNWkhqYllaN3Z4YkRQT09lMlBF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-10-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals recovers from day’s low after supreme court stay - BusinessLine",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS280b2VNTHdTUXMzc2FFb1Ffal91RWhXOWVuV2t6c0g3QmxLeU80ZGQwSlM0VmFuVXU4bFdobl9uYUxSSkdKLUY3Q2hlZmprVW1TQUNDZFB6eXA2cWVGa1dVQjh5UUVXbkxQQUtweEtCcTJMNDRmR01hNUlkUnRIVzl1ZFNuUjgtMFFmZnVFOV9BWWQzbDFnb0dNRjBxWHIyZ0MxMGhuQXNHb0xEM3dodHdVeGtMS25fbE1XODhqOUdtZ2tlTm90REFFSdIB0gFBVV95cUxPXy1PQzRZR256T2RKV05GenVWT1hYWmdkRU5SVlhPOEpxeUl3cUUxbHlIUTctd09CRklmVE5sTk1DUHZOQUtQM2RnNVFxZkxnb0s0QWd3WTRTQ2tuV19DYkJMRk14V1ZvdWE2NXQ4VTRrY2hDdFkxQnBpc2FHX3B0Q1Nkb2FRdUtucDlXY1NPbkhuRFRCSnlMVG92VDlndHB1QzJXblFhQVVQcDYyVXNDYV8yMVdmVFUyd0l4N2JGckg2T19MbFRaNG5oMzd4aXREZXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-10-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SC orders no coercive action against Tata Chemicals in Mithapur land case - scanx.trade",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUTRQLVpwVU5GRWpiRHJPcHZ4YnItRENIWjlBR1ZkWER6TUwyTmMzNXBtZ0t3NnJHRTE2eUtxUFdQRmVFWWhUeENOUHczMGRMYjJRRGdSMWRFR3NaLUVkLVUyQU16Q1k5T0FybjVqUXozM19fR0xkdG80VUpLWERQMWx6LWpaa1hvMjNuSm5vbC1uaVFXc1F0MkxJa2JzUmJNeFBLTGFBSFRQWVBHbjFxeVRtc0cyQTRrZlM3NlV2Rkc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nsg-2026-10-06-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Apollo Funds Announce Completion of Acquisition of Nippon Sheet Glass, Marking New Chapter of Growth - glassonweb.com",
+      "companies": [
+        "nsg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGFvdEJkT2o1VDdyVUh6ajhJTVdKeTJEaHhTeVE5R2thbEQxTl9uUlpNR3FFY3JiUXJQSFp2Q1lMempwWlNVSll0djRtVHJWNUczMi01WjRCN25rMkhsSkI5V01QN0dXXzkxMmYyMVgyblpSSGMtZEtDcHM1eXNJNFZHX3lrM3U3SVRoeVNxNVY5Zm8xbHZUdzcxSGVZenNWVHJFbGpOdjlxREFLWUsxem5nVjU0RXRLUmNwdVdIcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-06-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint Gobain (SGO FP) is reportedly considering the sale of its Nordic distribution unit, Bloomberg reports - Newsquawk",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMkQyNUxpdEdZeTJsQVVVTDhQSlJsQmJLYzhIWjhOMFlSY1lkVUVudGp1MnRJcHM1U3lPVnpOdXg4SUQ4WFJ0N0pxQVJQY1V2b25kUHhMczVpVVhsV21zX0F4RnRlTi1hTVJQdENpdmd0LXFYNjIwV2NBRWo2V183anlxRVMtWUdqbWVOWmFsZmszQUJGeTZqVHNpWDJNaWxCelBXSEZfaHVXQlIySlZJaFNyMjZsa2U2Uk5rWXBOaUZNbW55OFg5V0l5ZVktUF9XMGZTTTU2WQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "inventory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 6
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 3
+      },
+      {
+        "id": "owens_corning",
+        "count": 3
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 183,
+    "too_old": 175,
+    "gate1_blocked": 26,
+    "gate2_blocked": 14,
+    "passed": 36,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "SC stays coercive action against Tata Chemicals over marine sanctuary environment case - Pioneer Dai",
+      "Cash flow from financing activities of Owens Corning – HAN:O5Q - TradingView",
+      "Nippon Sheet Glass Company, Limited Financial Disclosures & Filings - TradingView",
+      "Discontinued operations of Nippon Sheet Glass Company, Limited – HAN:NI9 - TradingView",
+      "Nippon Sheet Glass Company, Limited Financial Statements – HAN:NI9 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為First Solar、塔塔化工、康寧相關動態：「Owens Corning stock tracks a USD 164.15 consensus target ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning stock tracks a USD 164.15 consensus target - AD HOC NEWS（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Tata Chemicals recovers from day’s low after supreme court stay - BusinessLine（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
