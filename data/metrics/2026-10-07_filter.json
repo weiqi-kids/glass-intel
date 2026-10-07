@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 29,
+  "gate2_fail": 13,
+  "passed": 30,
+  "gate2_samples": [
+    "Supreme Court shields Tata Chemicals from action in Gujarat sanctuary dispute - Indiatimes",
+    "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know - Yahoo Finance UK",
+    "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+    "Nippon Sheet Glass Company, Limited Financial Disclosures & Filings - TradingView",
+    "Xinyi Solar Holdings Ltd. Advanced Charts | 968 - Barron's"
+  ]
+}
