@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 27,
+  "gate2_fail": 13,
+  "passed": 30,
+  "gate2_samples": [
+    "Supreme Court shields Tata Chemicals from action in Gujarat sanctuary dispute - Indiatimes",
+    "A Look at Owens-Corning Inc (OC) After 4.3% Decline -- GF Value $157.07 vs Price $114.68 - GuruFocus",
+    "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know - Yahoo Finance UK",
+    "Owens Corning Shares Fall After Vertical Research Downgrade - marketscreener.com",
+    "MI, Saint-Gobain Kick Off MFG Day 2026 in Georgia - National Association of Manufacturers - NAM"
+  ]
+}

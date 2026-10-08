@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:25:47.618935Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-10-08-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (OC) Tests The Growth Story Following Its Pullback Is The Stock A Bargain - Simply Wall Street",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHJ5UmdaZG9PVnc0aDUzc0lqM3lHbVNlcWJXcUhpV0pDdlI2TW9Hd2U4WTdXS2VadVZNeDhTSHBTa2E3QXowdkpDcFlOVnZYNG14SjNjLXNRSk1RUWtmNGZrNTZkR2VzTkN5NDVmc1pNRVlMLTduR2dPTDFreFZJOWMwYkdLVXZ0c3FzV2ZpX3ByQ3N3Qk05a1lHWlZLeWloMFMzeHJtZ0lIWUlobjZkcjZ6Q0JwSUlNRkgyT0R0ekxMNEt3Z3JwQmpVeEltY1NBZG1Z0gHTAUFVX3lxTE9QcnlSZ1pkb09WdzRoNTNzSWozeUdtU2VxYldxSGlXSkN2UjZNb0d3ZThZN1dLZVp1Vk14OFNIcFNrYTdBejB2SkNwWU5Wdlg0bXhKM2Mtc1FKTVFRa2Y0Zms1NmRHZXNOQ3k0NWZzWk1FWUwtN25HZ09MMWt4Vkk5YzBiR0tVdnRzcXNXZmlfcHJDc3dCTTlrWUdaVkt5aWgwUzN4cm1nSUhZSWhuNmRyNnpDQnBJSU1GSDJPRHR6TEw0S3dncnBCalV4SW1jU0FkbVk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-10-08-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ruff Roofing Expands Texas Operations With Owens Corning Platinum Preferred Contractor Status - TechBullion",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzRFazViZ1FENVhHN0J6SFl3WnQ2bDdvTS14Uk9QZHREVGpCUThHYTlMb3lRaEpaVUMzRE1kZWttWEE0R3ZRZHpyVWsxaFJwcDJLLXZTeHRMV0Jpb3lFZnlucGNjNDRlMm4wMExSQjE0N0ZLMWFuREdyQ1hiWFpNcVpJOVE3LUhKQ20xVzFHaWl5THpoanhhQTZFaGlEUTY5M2JSOHJHQWp4MU9IeE5wY3RKM2U2VFZNLWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-10-08-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Truist Cuts Price Target on Owens Corning to $115 From $140, Keeps Hold Rating - marketscreener.com",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaDQ4TmtSRzhDLW81WnJ6cm9WUXFLNWVuUUZqaHJGeWgzRml0VHFOdnpFNU1nNlA5VTB0N0N4Ny03SmpHWnlOaVgtOWJVcTAxSUJqVnZnVUNsSllicnNpdnRpTWl0STJ6T194cVpFRHhsckU1N0F6RVZoMTZiUUpLRDZDUWFkeFZJWXBlLVkzeTFlZkRJTnRxbDhPbDl4SXlLcnlZQ3dIZW4yN0lBV1A3cG12VXhTS0VJMXRmZ1cyZVlVY3ZidEhz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "longi-2026-10-08-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "LONGi reports a CNY 1.76 billion loss: what it means for LONGi stock - AD HOC NEWS",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTdXQmVXRnpkY3FUd3VDd1ctM1E1QUZPQ0NHYmlBR3gtQ211Q19WMlJmVEdVX3J0YzRwTE5YMm5IRENEdV9RMi1tUnlKRzdjVDdfZW5WZ0FFOWpUaU1QY29zbF9lMDJ2bzQzUDVHcG9RbnBjRG1VSXN6U0hKWHZ6OEExS0k3eHVkVmtsak1xOGpVc1lLOFlxTG9tVU1OWDFDUkZNbnhSTUdEeDNncFNCR2JBSnNWRHVBRGRzMHVHV0JDZFBacHFmV0hR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corning-2026-10-08-005",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Owens Corning Cut to Sector Perform From Outperform by RBC Capital - Moomoo",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0I3SVMzbGlILWlBTFdnMzNkakp1TDVMbGszMjk4SlhKc0lIbk1vSldZWjBIcElUNnBEbndxaEZhYllpUi00TFNybGRJVW1lWkdDX0tSREZNNVZLYWpzdWNuXzdSU0ctSW96ZThNWjNGdHN0MldoWUNvZmxWbjhZOVRITXM4WXlhTUVHYkN6Ry1lMG93MDdMcVlvakFGa1JzRjdjZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 6
+      },
+      {
+        "id": "owens_corning",
+        "count": 5
+      },
+      {
+        "id": "first_solar",
+        "count": 5
+      },
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "agc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 8
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 199,
+    "too_old": 165,
+    "gate1_blocked": 27,
+    "gate2_blocked": 13,
+    "passed": 30,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "Supreme Court shields Tata Chemicals from action in Gujarat sanctuary dispute - Indiatimes",
+      "A Look at Owens-Corning Inc (OC) After 4.3% Decline -- GF Value $157.07 vs Price $114.68 - GuruFocus",
+      "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know - Yahoo Finance UK",
+      "Owens Corning Shares Fall After Vertical Research Downgrade - marketscreener.com",
+      "MI, Saint-Gobain Kick Off MFG Day 2026 in Georgia - National Association of Manufacturers - NAM"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為康寧、Owens Corning、First Solar相關動態：「Owens Corning (OC) Tests The Growth Story Following Its P...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning (OC) Tests The Growth Story Following Its Pullback Is The Stock...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Ruff Roofing Expands Texas Operations With Owens Corning Platinum Preferred C...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
