@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 27,
+  "gate2_fail": 21,
+  "passed": 23,
+  "gate2_samples": [
+    "Supreme Court shields Tata Chemicals from action in Gujarat sanctuary dispute - ET Chemicals",
+    "Owens Corning Price Target Cut to $115.00/Share From $140.00 by Truist Securities - Moomoo",
+    "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+    "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+    "Owens Corning Shares Fall After Vertical Research Downgrade - marketscreener.com"
+  ]
+}

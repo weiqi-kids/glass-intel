@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:08:30.535144Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-10-09-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Why Did Analysts Cut First Solar (NASDAQ:FSLR), Sunrun (NASDAQ:RUN), Builders FirstSource (NYSE:BLDR) and Owens Corning (NYSE:OC)? - Kalkine",
+      "companies": [
+        "corning",
+        "owens_corning",
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaW1LRU9EZU1vdWR5LXFyUEl0ZmJ6MGZHU2kzYzhseUFzdms2V2dvLUtFUTJ2Ukc0bjBPNW1qd2ZuVHZfUVJPMklibWxGY0I5VjRxbzJCUEFfbnNKTkl4QTdWdlF2YjVVUDJfRlZmNEVmamdWUzFkRS05Y1ZZSm9nUHZkbjJMOWFyZEpyMWJ3dlpUcXJiendsbm93aURaS0VPaml3TDgxNmRSdmsydnNyQ19XdGZuN01XT2lDMi1oSkI5ckduWXdBbjFTV194ZFhZeG9oMmtiZGphRWVUckhYNFZ2d2IwcEZyTEl0Z3Vzbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sibelco-2026-10-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to EBITDA forward of SCR-Sibelco N.V. – LSX:A0D835 - TradingView",
+      "companies": [
+        "sibelco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnQtRVFVdXptWlBTZlB5MDBGRHRNeEtPS1U5eERRRDJxeEZrQ1draDVIamQ3a0hIU2l5UjFfX3c2V0hRY2RacFJFcTZ1U3Nyck53Y3ZoekNOdW5SUG56TjJZQmZ0a0g2emdzTTdvYnJEdjNJUlVYTlA5aEFkMTRKbVo3M3NGSmhVc1E0QXVoZlp4T09JRzVhUXRfOThGZjhLSGFoOXphMHc1UkYt?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "‘Expect deaths at this factory’: Former employees describe hazardous conditions at Chinese-owned Ohio plant - Fox News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHpNSTZ1MmlMV0ZwTUhwb0FjUlRrY0YyeHF1RVpsYWdlaHB2dzdCX0JYQkU1ZFR4NEd1MF9leEk1a1I5MDlOZ0RLLWdoTnBPbC1NMUJWVG0xbnhsSnVYWDRYWUxiN0VKWnB0LVZQYUVRUkk3NzFGWXZSWXBZUzRFMWQ1NXNGRktYOUh5ajd2OUtxRmdkNnRsVk5oa2k0N3JzZ3pRZjF6Um9vZ3RWZGJ3WW9RMi1BVk9CWTVBNUYwWGhXZV9C0gHKAUFVX3lxTE1sVUJ0VVIwTkd0eFhHWjFVR0JNbnFEQksyQUt0V1J1ZEVXdWpabzNfTVNHdUNtYmFWZS1sb3oyZFNiUjFtcEVCYnFIUWRSX2NCcWU0TU12X2ZQR0V2ZUQzemtTcFV0ak9BNlRGVzVWQVZKSGxwX3RyX05BczQ4NE1QM1l5SmdrLVBjYlptdUY2MzVkWWhPTG1EX0Q5MWRXbFBnRDhSVndSaHpTd1J0VzNjMHdNWkRpN3JfWHdORG02c1h1QlFPV0ZZVmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-10-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RBC Capital Markets Downgrades Saint-Gobain to Sector Perform, Cuts PT - www.marketscreener.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmllLWRqanhoa2FfMkJJeGNOemgyXzBtejFPOC1yVzRrMlZiQ29XVjZ1c09NaTZ0Y2lrNjkyNE1nZlBBUXFuUFAwN1NRSVhXU0ZwTG1yRURSOVZZOWpwbnpfbVBuOTBXVmY1U045emc0aGZWTjMtRVA5cUt4dnFjUFBkdUo4eFFUX2w0VGtGWVpjSU11X3VOZUFqcTBxTGxNOVNTbGZkMGhBZm9sd2IxXzlMRGF2d3ZvcW84T1h6MA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-10-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades at EUR 65.18 with volume 63.6 percent below average - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWWk1YjVjQ2paMTJpZnZtcUs5VnFCalhxN3JmSC1aci1oWC1sRkZEQ3RwaDFsWWFycVRoczVJVG1NRGd6N1FScDVMT3NVOHFNMG1XemVMYkdoVmg2NjlsMVJwTF9tQUxYRUNUbExabWkyOThDYTZPUEdMNU5ETHNFSnJZVE16Y3RrUjZTbkp4Y0hxSTJGNGtLMmRhdmNBLVR1Yk1kbTk2cWx0dEp1YW9jSkRpcWw1M3RqeTY0U1FubmlDMXF2TFY5RVIyTmQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "inventory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "sibelco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 199,
+    "too_old": 163,
+    "gate1_blocked": 27,
+    "gate2_blocked": 21,
+    "passed": 23,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Supreme Court shields Tata Chemicals from action in Gujarat sanctuary dispute - ET Chemicals",
+      "Owens Corning Price Target Cut to $115.00/Share From $140.00 by Truist Securities - Moomoo",
+      "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+      "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+      "Owens Corning Shares Fall After Vertical Research Downgrade - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為康寧、Owens Corning、First Solar相關動態：「Why Did Analysts Cut First Solar (NASDAQ:FSLR), Sunrun (N...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Why Did Analysts Cut First Solar (NASDAQ:FSLR), Sunrun (NASDAQ:RUN), Builders...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Enterprise value to EBITDA forward of SCR-Sibelco N.V. – LSX:A0D835 - Trading...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
