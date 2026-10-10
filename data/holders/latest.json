@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T15:08:29.856264+00:00",
+  "updated_at": "2026-10-10T14:22:21.599249+00:00",
   "companies": {
     "solvay": {
       "name": "Solvay",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 156672,
           "pct_held": 0.15,
-          "value": 3941867
+          "value": 3913666
         }
       ]
     },
@@ -23,61 +23,61 @@
           "holder": "Blackrock Inc.",
           "shares": 8814550,
           "pct_held": 11.15,
-          "value": 1002390636
+          "value": 1006269060
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 5468670,
           "pct_held": 6.92,
-          "value": 621897159
+          "value": 624303387
         },
         {
           "holder": "AQR Capital Management, LLC",
           "shares": 3679060,
           "pct_held": 4.65,
-          "value": 418382707
+          "value": 420001503
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 3630191,
           "pct_held": 4.59,
-          "value": 412825324
+          "value": 414422617
         },
         {
           "holder": "State Street Corporation",
           "shares": 3097509,
           "pct_held": 3.92,
-          "value": 352248727
+          "value": 353611638
         },
         {
           "holder": "Dimensional Fund Advisors LP",
           "shares": 2951985,
           "pct_held": 3.73,
-          "value": 335699737
+          "value": 336998618
         },
         {
           "holder": "First Trust Advisors LP",
           "shares": 2899702,
           "pct_held": 3.67,
-          "value": 329754114
+          "value": 331029990
         },
         {
           "holder": "American Century Companies Inc",
           "shares": 2255518,
           "pct_held": 2.85,
-          "value": 256497509
+          "value": 257489943
         },
         {
           "holder": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
           "shares": 2218358,
           "pct_held": 2.81,
-          "value": 252271674
+          "value": 253247757
         },
         {
           "holder": "Davis Selected Advisers",
           "shares": 2081213,
           "pct_held": 2.63,
-          "value": 236675544
+          "value": 237591283
         }
       ]
     },
@@ -141,61 +141,61 @@
           "holder": "Blackrock Inc.",
           "shares": 65765574,
           "pct_held": 7.63,
-          "value": 10193993118
+          "value": 10304149652
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 50831214,
           "pct_held": 5.9,
-          "value": 7879092574
+          "value": 7964234237
         },
         {
           "holder": "State Street Corporation",
           "shares": 41108384,
           "pct_held": 4.77,
-          "value": 6372005262
+          "value": 6440861304
         },
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 36016393,
           "pct_held": 4.18,
-          "value": 5582721172
+          "value": 5643048191
         },
         {
           "holder": "Capital Research Global Investors",
           "shares": 24698700,
           "pct_held": 2.87,
-          "value": 3828422114
+          "value": 3869792135
         },
         {
           "holder": "FMR, LLC",
           "shares": 24027884,
           "pct_held": 2.79,
-          "value": 3724442276
+          "value": 3764688689
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 18920070,
           "pct_held": 2.2,
-          "value": 2932705542
+          "value": 2964396429
         },
         {
           "holder": "Bank of America Corporation",
           "shares": 18730616,
           "pct_held": 2.17,
-          "value": 2903339224
+          "value": 2934712777
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 18363394,
           "pct_held": 2.13,
-          "value": 2846417976
+          "value": 2877176437
         },
         {
           "holder": "Morgan Stanley",
           "shares": 15134070,
           "pct_held": 1.76,
-          "value": 2345856594
+          "value": 2371205976
         }
       ]
     },
@@ -208,61 +208,61 @@
           "holder": "Blackrock Inc.",
           "shares": 23439932,
           "pct_held": 23.55,
-          "value": 142866380
+          "value": 142514784
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 10407703,
           "pct_held": 10.46,
-          "value": 63434947
+          "value": 63278833
         },
         {
           "holder": "Alliancebernstein L.P.",
           "shares": 9613720,
           "pct_held": 9.66,
-          "value": 58595621
+          "value": 58451416
         },
         {
           "holder": "Dimensional Fund Advisors LP",
           "shares": 8139889,
           "pct_held": 8.18,
-          "value": 49612621
+          "value": 49490524
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 6600884,
           "pct_held": 6.63,
-          "value": 40232386
+          "value": 40133374
         },
         {
           "holder": "State Street Corporation",
           "shares": 6273570,
           "pct_held": 6.3,
-          "value": 38237407
+          "value": 38143305
         },
         {
           "holder": "Cooper Creek Partners Management LLC",
           "shares": 6271717,
           "pct_held": 6.3,
-          "value": 38226113
+          "value": 38132038
         },
         {
           "holder": "UBS Group AG",
           "shares": 4574114,
           "pct_held": 4.6,
-          "value": 27879223
+          "value": 27810612
         },
         {
           "holder": "Arrowstreet Capital, Limited Partnership",
           "shares": 4329775,
           "pct_held": 4.35,
-          "value": 26389977
+          "value": 26325031
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 4085631,
           "pct_held": 4.1,
-          "value": 24901920
+          "value": 24840636
         }
       ]
     },
@@ -275,61 +275,61 @@
           "holder": "Blackrock Inc.",
           "shares": 14029065,
           "pct_held": 13.06,
-          "value": 2481690993
+          "value": 2494648441
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 6836941,
           "pct_held": 6.36,
-          "value": 1209430200
+          "value": 1215744898
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 5638446,
           "pct_held": 5.25,
-          "value": 997420758
+          "value": 1002628509
         },
         {
           "holder": "State Street Corporation",
           "shares": 5576026,
           "pct_held": 5.19,
-          "value": 986378885
+          "value": 991528984
         },
         {
           "holder": "Capital World Investors",
           "shares": 4114639,
           "pct_held": 3.83,
-          "value": 727864796
+          "value": 731665137
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 3109602,
           "pct_held": 2.89,
-          "value": 550077376
+          "value": 552949450
         },
         {
           "holder": "Hill City Capital, Lp",
           "shares": 2628130,
           "pct_held": 2.45,
-          "value": 464906716
+          "value": 467334095
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 2599470,
           "pct_held": 2.42,
-          "value": 459836866
+          "value": 462237774
         },
         {
           "holder": "FMR, LLC",
           "shares": 2179215,
           "pct_held": 2.03,
-          "value": 385495272
+          "value": 387508027
         },
         {
           "holder": "Morgan Stanley",
           "shares": 1790509,
           "pct_held": 1.67,
-          "value": 316734583
+          "value": 318388323
         }
       ]
     }

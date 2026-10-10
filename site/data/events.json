@@ -1,5 +1,45 @@
 [
   {
+    "id": "owens_corning-2026-10-10-001",
+    "date": "2026-10-10",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning (NYSE:OC) Stock Gets Downgrade from Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkpTQVhjOU95TTMyZHFvZ09KNTZmVURlTXdRTnhHTERXQjhGaV9rRG5rbURjdGNvbk11dHg0LU9idGt0eTVLYTBQOW55bUo2X1hxVGFVd2JWWS1HS0dUdG8zYUdDaEp2VE9YV2NvYW",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkpTQVhjOU95TTMyZHFvZ09KNTZmVURlTXdRTnhHTERXQjhGaV9rRG5rbURjdGNvbk11dHg0LU9idGt0eTVLYTBQOW55bUo2X1hxVGFVd2JWWS1HS0dUdG8zYUdDaEp2VE9YV2NvYWU4N1dCUlJfMEltUWMwaDJpaF9iU3JDQ3V6cXFrVTJoeGpRRERPRWRnbWN6TnBSNk1PREc0SGVkQkExbEFjUmc2WDlWZXh4WUotangyb0d5ZmlSVmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-10-002",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/byd-battery-truck.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">The BYD Q3 b",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sibelco-2026-10-09-001",
     "date": "2026-10-09",
     "companies": [
@@ -247,6 +287,125 @@
       {
         "name": "google_solar_glass",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlRUUUpSMXNDVWpVQ2Q0d3BrT1QydWwzQkZ1RmNjUGtIcGlJN2E2c19NdzVTVzY5OTI4LVFZbzk0YWpnclVDS3pZNlN1NG5HT0ZEc05sYVZ1emRseHlsUVN0MVE1NHJrVnNhM1FYQ2RUbEJPRURYaDR1WEZGQ0ZfUmZzOUVXREpXWGtFZkF5VGZ6MTkyU21rWkZQbVFlVFZmRVY2Nm1rRDZCeTJOWGswd3JtUlg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-10-09-014",
+    "date": "2026-10-09",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Owens Corning (OC) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG1ic1MzYm1POVotWG42SGNhZmJ1UTM2QlhKdk1Jd2RjRlFLdThsSldWQjlJcno3MWozbWJPa3BPdUhjYnd2S05uVDhlV05LSjIyc2g5SUVMU2E0d2xzLUdiZ19ndFZFSmpabDdVTX",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG1ic1MzYm1POVotWG42SGNhZmJ1UTM2QlhKdk1Jd2RjRlFLdThsSldWQjlJcno3MWozbWJPa3BPdUhjYnd2S05uVDhlV05LSjIyc2g5SUVMU2E0d2xzLUdiZ19ndFZFSmpabDdVTXp2QU9Wckh0aU9Bbi1zaEZYZzFDS1FWak0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-10-09-015",
+    "date": "2026-10-09",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Q3 2026 Earnings Date and Estimates - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE40V1FmYmc3amYwMmdFeE15QjREemp6Yy10eF9UOXRVektVSmdtT0lDOGdxVFo2cERMNHd1YUlCeUkzV0hmTEk0WlRHQjV4TlJaZ3ppT3c2YTdhTmd4ZkVmNl9OLXJ2MkxCYTFkNFExVT",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40V1FmYmc3amYwMmdFeE15QjREemp6Yy10eF9UOXRVektVSmdtT0lDOGdxVFo2cERMNHd1YUlCeUkzV0hmTEk0WlRHQjV4TlJaZ3ppT3c2YTdhTmd4ZkVmNl9OLXJ2MkxCYTFkNFExVTNIZXdWSHRDeTRNUzVwaG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-09-016",
+    "date": "2026-10-09",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Should Qualcomm Stock Holders Look At First Solar Instead? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUFSdFNRYUMxUV9iTnNhRllnWFA1YUNLTWlCekwzLW9GZVdyTTl2UFpWc1RSek0wZTE5SzN0WWE0aTQwTzB3Tk4xV2JZTEN6VVkyYmVTN1p0Y3NKb1NMMmYxT0d4UW1JTmVpMjEwd0",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUFSdFNRYUMxUV9iTnNhRllnWFA1YUNLTWlCekwzLW9GZVdyTTl2UFpWc1RSek0wZTE5SzN0WWE0aTQwTzB3Tk4xV2JZTEN6VVkyYmVTN1p0Y3NKb1NMMmYxT0d4UW1JTmVpMjEwd0ZLUEtNMXhkV1N4MWNkejVFX0ltaXlILXRoTHlHUl9LSzZXQ0xKazZjTTZDbzZvNUF2MnNRZXFpNG9BUmVkUmFjaHY5eEpHaGhJdVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-09-017",
+    "date": "2026-10-09",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Casino Stocks: MGM, Wynn On Record Losing Streaks - First Solar (NASDAQ:FSLR), Newmont (NYSE:NEM) - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1doRWU0MHQyYU9XY1dwSUxyU0xXUDZacVRoekxEM2ZWNmJTWGZlZklqVU5TX1BHSGZnMmhkODVjcDUzU01oY1pqRXZNM0lhMVBhQnB3b3B5WWMxcWtOdzRRX3JHRTdKRkRmSnJ4VS",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1doRWU0MHQyYU9XY1dwSUxyU0xXUDZacVRoekxEM2ZWNmJTWGZlZklqVU5TX1BHSGZnMmhkODVjcDUzU01oY1pqRXZNM0lhMVBhQnB3b3B5WWMxcWtOdzRRX3JHRTdKRkRmSnJ4VS1qQTBmN2w1VHBNcnVZRW1yVXQ0SUk5NWJBSkJySnk4cjJzd0xhVERudWFhVlM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-018",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "glass_fiber_electronics",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glass Fiber Reinforced Polymer (GFRP) Manufacturing Plant Setup in India - IMARC Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0lYdmlMVGJUZ3diLW45b1RFdGJnT0RIZVBsc2tGUUR0THFmQjV3Y3FNQnI0TFpjeVV2U015VUowcHItQ0x4WFlPblJ6SENuRjY3MFNMOWxqNVJJaVUzbTVyeHBXUUV5YkJzT0NBQm",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0lYdmlMVGJUZ3diLW45b1RFdGJnT0RIZVBsc2tGUUR0THFmQjV3Y3FNQnI0TFpjeVV2U015VUowcHItQ0x4WFlPblJ6SENuRjY3MFNMOWxqNVJJaVUzbTVyeHBXUUV5YkJzT0NBQmNIQTlGSGtWdVBKRzR0aHBZSGhsanhBVHNFTjNINmNVMEVMUmh6a2tnQmRMUWQ1VURpY2lCYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-019",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fisk Electric wins $24M modular contract for Houston data center",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/iwJP6wpN1jsc3g0_PBYzqdOdURUdeIBVeVgjLnNnSi4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQyODU1MzY2LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/fisk-electric-tutor-perini-data-center-modular/832658/",
         "type": "rss"
       }
     ]
@@ -2530,6 +2689,25 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXg5WXJhQ29jY2xtUGRWdndidTNUdFlCRi16c201RGpyM0VwdHZvNGN4Y2l0el9ubmxnc0x5dWtmd2JRR01GRHRjSFNuMk9aeXYtYzNvTDR6MW1HWUtNT3E4ZEpZT1lXMW4zT00xRG9UbGI4OHNNbkdUMjFzdHdBWmNKUWhzUWpabDhSMXg5ckZkWVFTRWE5SkVBclA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-10-05-030",
+    "date": "2026-10-05",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Ruff Roofing Expands Texas Operations With Owens Corning Platinum Preferred Contractor Status - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzJmaHdpa1lfMlIydHBiVXBSdEFFSHR2LVo1LTN3aUhKNzlRUTJGVGhZWG1HSHoxa1JZdHU4TlhwenZYY21xcnRVN3VSUGhXNndyQkdSdGYzR3lPQk9nV0tLUzRpN01JWG1XVjJqVz",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzJmaHdpa1lfMlIydHBiVXBSdEFFSHR2LVo1LTN3aUhKNzlRUTJGVGhZWG1HSHoxa1JZdHU4TlhwenZYY21xcnRVN3VSUGhXNndyQkdSdGYzR3lPQk9nV0tLUzRpN01JWG1XVjJqVzl0QVhiTk5lbTRwUXhJQml0M0tpSEFvWGZNVDdvaGZWM1g1MHpQNHVsLUgxQUxobWlERkREVw?oc=5",
         "type": "rss"
       }
     ]

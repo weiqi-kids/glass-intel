@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 26,
+  "gate2_fail": 16,
+  "passed": 9,
+  "gate2_samples": [
+    "Supreme Court shields Tata Chemicals from action in Gujarat sanctuary dispute - Indiatimes",
+    "Owens Corning Is Maintained at Hold by Truist Securities - Moomoo",
+    "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+    "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+    "Saint-Gobain : RBC lowers his opinion and switches to Neutral - www.marketscreener.com"
+  ]
+}

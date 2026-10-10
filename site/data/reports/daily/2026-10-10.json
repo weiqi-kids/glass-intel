@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:22:22.334517Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-10-10-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (NYSE:OC) Stock Gets Downgrade from Wall Street Zen - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkpTQVhjOU95TTMyZHFvZ09KNTZmVURlTXdRTnhHTERXQjhGaV9rRG5rbURjdGNvbk11dHg0LU9idGt0eTVLYTBQOW55bUo2X1hxVGFVd2JWWS1HS0dUdG8zYUdDaEp2VE9YV2NvYWU4N1dCUlJfMEltUWMwaDJpaF9iU3JDQ3V6cXFrVTJoeGpRRERPRWRnbWN6TnBSNk1PREc0SGVkQkExbEFjUmc2WDlWZXh4WUotangyb0d5ZmlSVmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 214,
+    "too_old": 169,
+    "gate1_blocked": 26,
+    "gate2_blocked": 16,
+    "passed": 9,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Supreme Court shields Tata Chemicals from action in Gujarat sanctuary dispute - Indiatimes",
+      "Owens Corning Is Maintained at Hold by Truist Securities - Moomoo",
+      "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+      "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+      "Saint-Gobain : RBC lowers his opinion and switches to Neutral - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Owens Corning、康寧相關動態：「Owens Corning (NYSE:OC) Stock Gets Downgrade from Wall St...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Owens Corning (NYSE:OC) Stock Gets Downgrade from Wall Street Zen - MarketBeat（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
