@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:48:50.005664Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 220,
+    "too_old": 166,
+    "gate1_blocked": 27,
+    "gate2_blocked": 13,
+    "passed": 6,
+    "pass_rate": "2.8%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+      "Owens Corning Is Maintained at Hold by Truist Securities - Moomoo",
+      "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+      "O-I Glass (NYSE:OI) Shares Up 5.8% - Should You Buy? - MarketBeat",
+      "O-I Glass (NYSE:OI) Hits New 1-Year Low - Time to Sell? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-10-11 無玻璃產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

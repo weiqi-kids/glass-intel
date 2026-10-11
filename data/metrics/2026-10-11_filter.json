@@ -1,0 +1,16 @@
+{
+  "total_raw": 432,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 27,
+  "gate2_fail": 13,
+  "passed": 6,
+  "gate2_samples": [
+    "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+    "Owens Corning Is Maintained at Hold by Truist Securities - Moomoo",
+    "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+    "O-I Glass (NYSE:OI) Shares Up 5.8% - Should You Buy? - MarketBeat",
+    "O-I Glass (NYSE:OI) Hits New 1-Year Low - Time to Sell? - MarketBeat"
+  ]
+}
