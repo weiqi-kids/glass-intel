@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:37:22.670585Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-10-12-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "LONGi set a 28.29 percent cell record: what it means for LONGi stock - ad-hoc-news.de",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDlTaTNCZmJwQlJUbUVMb1MtRDhsazY2RjVGWkYtekNjb3dIS0dYLTd1a05jYmVWTnpXUUN4WTNXbUNmcFNESXJqQU1BVzdhUF9kenNzaG1BTGhfd0pRWndNcWk1UkxGLVZwTjY0Y25fNVk0NU5ZQUE3SXZYaHRsaGoyZ2RjYXk3ajJ3ekg5Z3NmMXV5S2QxbFl0Y1VMWWhzT1hlQ3NlVkZCNWhwaF84blByRUNJTmx4UW5jcWJGTkd2YzJwT3ZpdWd3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-12-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "This electric motorcycle company just hit 10 million battery swaps – and it’s profitable",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/10/12/this-electric-motorcycle-company-just-hit-10-million-battery-swaps-and-its-profitable/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India Battery Storage Boom Puts HEG Advanced Materials Stock In Focus - Simply Wall Street",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRUxYN1FVU2xBaUNEaTh3dTAwYkdkbThMVjUyWldPQjBLNWFQTU5JY3REWXc1eGVyaWNvanZSNk1HRmJiNGxpVmc1LVVtVFdmMXh6X0hyTjdsM0hsdW94MEh4OUEwWG5Renc0aUtlTVotakNyTVhMYVlKVWhNNnMwUmh5cUtXRzMzQjBLRXg5WFB0ODRRaWRZdHJ6UnY5QzY2eG4xYU9udzBQTmkwYUR2SnQzdExTQlZ6MnMtcm9fUVFXczA5S2tWOUtMeFBBVEVxc2VhdDdWeWpfdG5hODJza1hRam41d9IB6wFBVV95cUxNY1l1R1JuYmh2c3BuZGpmTGpmRFZnVzUwb2podGhGdkZVdnhRYUlIYVE3NVNrQ2N2bzdYNkg1YTEzT19yRFNPRmo5aXJySzZBanQyTTlXVlZ4QVZ2dDJINWpheU9LMVVwYl9lcjQ5Xy12S3VrTGJZOE9VczJqVmtVU2JZMFZ3U0RHVXhObndJVWE1S3lzOHFMX3NfVmdIUjhJY2J3aEk5OVpPMEM3Nl80cDhRaTc3djktV1NmR201OFJqMmdpanZ2czVFd3pmZjQwekgtZTRIUmZBSGp4WnA0bHNsdWdFOEdwT3VV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_glass-2026-10-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taxes of Xinyi Glass Holdings Limited – HAN:XI9 - TradingView",
+      "companies": [
+        "xinyi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjVPNG1nVkdsbWlYTHVVUkhQclVGUWNLb3dNOXFrTVdWMTBGQ3BTeW5UeWJpWG5Edkh0OTJhaS1nV0NiZjJZSS1oRFRhek1xdTFFVm1mSi1PZkxIRm4zeVpSUVRDVnc4N1hnTTVSZ2JUSndLLVhpZUJhbmVZdElYWHhUSndmQ3ZINFBN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-10-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Former Saint-Gobain sales director loses unfair dismissal claim - https://www.facilitiesmanagement-now.com/",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbjdZNjZaaUVEVVRMcVNyLWFYVzYtX0VYMmM2QVpUM2t0dWlnRHFIb3ZpejQ0ZGRQRU5IeFdMd2dSNzlmOWp4ZmVielZoa0pVQkQ2MHFtZEVwbVVZVExmZzY1aDBfenBwc21HRTFzRW5JQzNWOURWMVY2Tkx2Z0VkejRsT3JqSEtlNVVMVl9VVHhSTC16bHBRNEhfeVdUNVBRRk5SeVkxMEl0cExZTXZqdU1aN2YzeXJIWWwwVktfMlNPd2R4MVp5bFBsOGg3R1RnQ1p3OWQtZF94QnJ5TkVUTmF6V3pjRzVQVDVEM0lMYlpJWXRiWjBWNWFlREs0TzJrWS0zbVg5MER2M1RPZ1dFdWw5akNKU0xuVE0wUHBYQ3NWWVVDdWVvbXhRRDlIdGpIREFFSjlaVV9wc1YtU25LQmZnTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 25,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 11
+      },
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "xinyi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "inventory",
+        "count": 15
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 200,
+    "too_old": 166,
+    "gate1_blocked": 25,
+    "gate2_blocked": 13,
+    "passed": 32,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "Tata Chemicals warns of 500 job losses as legal battle over Magadi mine shutdown intensifies - Citiz",
+      "Owens Corning Is Maintained at Hold by Truist Securities - Moomoo",
+      "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+      "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+      "O-I Glass (NYSE:OI) Shares Up 5.8% - Should You Buy? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為First Solar、聖戈班、O-I Glass相關動態：「LONGi set a 28.29 percent cell record: what it means for ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LONGi set a 28.29 percent cell record: what it means for LONGi stock - ad-hoc...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "This electric motorcycle company just hit 10 million battery swaps – and it’s...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 15 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

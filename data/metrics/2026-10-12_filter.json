@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 25,
+  "gate2_fail": 13,
+  "passed": 32,
+  "gate2_samples": [
+    "Tata Chemicals warns of 500 job losses as legal battle over Magadi mine shutdown intensifies - Citiz",
+    "Owens Corning Is Maintained at Hold by Truist Securities - Moomoo",
+    "Vertical Research Downgrades Owens Corning to Sell From Hold, $106 Price Target - marketscreener.com",
+    "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+    "O-I Glass (NYSE:OI) Shares Up 5.8% - Should You Buy? - MarketBeat"
+  ]
+}
