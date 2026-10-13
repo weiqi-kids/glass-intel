@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 25,
+  "gate2_fail": 15,
+  "passed": 26,
+  "gate2_samples": [
+    "Kajiado West residents travel 45km for water after Tata Chemicals closure - Daily Nation",
+    "Tata Chemicals warns of 1,000 jobs at risk in Kajiado rates row - People Daily",
+    "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+    "Truist Cuts Price Target on Owens Corning to $115 From $140, Keeps Hold Rating - Yahoo Finance",
+    "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know - Yahoo Finance UK"
+  ]
+}

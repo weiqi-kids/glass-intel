@@ -1,32 +1,32 @@
 {
   "tata_chemicals": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-12",
-    "count": 6680,
+    "latest": "2026-10-13",
+    "count": 6681,
     "history_complete": true
   },
   "solvay": {
     "earliest": "2001-06-18",
-    "latest": "2026-10-12",
-    "count": 6502,
+    "latest": "2026-10-13",
+    "count": 6503,
     "history_complete": true
   },
   "owens_corning": {
     "earliest": "2006-11-01",
-    "latest": "2026-10-12",
-    "count": 5016,
+    "latest": "2026-10-13",
+    "count": 5017,
     "history_complete": true
   },
   "taiwan_glass": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-12",
-    "count": 6657,
+    "latest": "2026-10-13",
+    "count": 6658,
     "history_complete": true
   },
   "agc": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-09",
-    "count": 6678,
+    "latest": "2026-10-13",
+    "count": 6679,
     "history_complete": true
   },
   "nsg": {
@@ -37,80 +37,80 @@
   },
   "xinyi_glass": {
     "earliest": "2005-02-03",
-    "latest": "2026-10-12",
-    "count": 5346,
+    "latest": "2026-10-13",
+    "count": 5347,
     "history_complete": true
   },
   "xinyi_solar": {
     "earliest": "2013-12-12",
-    "latest": "2026-10-12",
-    "count": 3159,
+    "latest": "2026-10-13",
+    "count": 3160,
     "history_complete": true
   },
   "fuyao": {
     "earliest": "2015-03-31",
-    "latest": "2026-10-12",
-    "count": 2840,
+    "latest": "2026-10-13",
+    "count": 2841,
     "history_complete": true
   },
   "saint_gobain": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-12",
-    "count": 6880,
+    "latest": "2026-10-13",
+    "count": 6881,
     "history_complete": true
   },
   "corning": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-12",
-    "count": 6734,
+    "latest": "2026-10-13",
+    "count": 6735,
     "history_complete": true
   },
   "oi_glass": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-12",
-    "count": 6734,
+    "latest": "2026-10-13",
+    "count": 6735,
     "history_complete": true
   },
   "flat_glass": {
     "earliest": "2015-11-26",
-    "latest": "2026-10-12",
-    "count": 2678,
+    "latest": "2026-10-13",
+    "count": 2679,
     "history_complete": true
   },
   "longi": {
     "earliest": "2012-04-11",
-    "latest": "2026-10-12",
-    "count": 3520,
+    "latest": "2026-10-13",
+    "count": 3521,
     "history_complete": true
   },
   "first_solar": {
     "earliest": "2006-11-17",
-    "latest": "2026-10-12",
-    "count": 5004,
+    "latest": "2026-10-13",
+    "count": 5005,
     "history_complete": true
   },
   "au_optronics": {
     "earliest": "2000-09-11",
-    "latest": "2026-10-12",
-    "count": 6478,
+    "latest": "2026-10-13",
+    "count": 6479,
     "history_complete": true
   },
   "innolux": {
     "earliest": "2006-10-24",
-    "latest": "2026-10-12",
-    "count": 4894,
+    "latest": "2026-10-13",
+    "count": 4895,
     "history_complete": true
   },
   "etf_mxi": {
     "earliest": "2006-09-22",
-    "latest": "2026-10-12",
-    "count": 5044,
+    "latest": "2026-10-13",
+    "count": 5045,
     "history_complete": true
   },
   "etf_tan": {
     "earliest": "2008-04-15",
-    "latest": "2026-10-12",
-    "count": 4653,
+    "latest": "2026-10-13",
+    "count": 4654,
     "history_complete": true
   }
 }
