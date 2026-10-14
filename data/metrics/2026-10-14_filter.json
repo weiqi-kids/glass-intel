@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 26,
+  "gate2_fail": 14,
+  "passed": 21,
+  "gate2_samples": [
+    "Owens Corning (NYSE:OC) Cut to \"Strong Sell\" at Zacks Research - MarketBeat",
+    "Hydrocarbon Engineering Spotlight with Owens Corning - Hydrocarbon Engineering",
+    "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+    "Truist Cuts Price Target on Owens Corning to $115 From $140, Keeps Hold Rating - Yahoo Finance",
+    "O-I Glass (NYSE:OI) Shares Up 5.8% - Should You Buy? - MarketBeat"
+  ]
+}

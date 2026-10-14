@@ -1,5 +1,122 @@
 [
   {
+    "id": "owens_corning-2026-10-14-001",
+    "date": "2026-10-14",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Owens Corning to Announce Third-Quarter Financial Results on November 4 - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFF1OEc2NjNic085TThvSHE1OVpTOVZvc1gwTnlWTWt1N080QWJnc2RNbXpiWUpFWEJ2WWw2RjlOaVRiV0hLdWJaTktGU1c5a0ZJZkhJcHgwQmdkbEYzSmhuYnVKdlBGZlN6eFJBSG",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFF1OEc2NjNic085TThvSHE1OVpTOVZvc1gwTnlWTWt1N080QWJnc2RNbXpiWUpFWEJ2WWw2RjlOaVRiV0hLdWJaTktGU1c5a0ZJZkhJcHgwQmdkbEYzSmhuYnVKdlBGZlN6eFJBSGdVY2UzZ2ZocmtYMWhHRG0zR2RDOXFqNkp1dndNVjVlTnBCdW94NUdmR0pKN3NhZ2FJWlprTWdvTy1LNFJyZ3BiaDFwbU1FNkNMWEtmVnBKdllIRVgzMVJJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-002",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Energy reports lower profit: what it means for Xinyi Energy stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVlVhMWdWQ29YRmJ1Y3RYamU3TWhkN0hzdnlVMFpTS0dLdU1HM05RV3lxY0V1eHlVV2pmNlp5YmNheUw5ME9aSFZUcEhyVTFrNGdOa3FiQ0l3NW83dzFHQlFvS0VmeGpQNjROcXFQaG",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVlVhMWdWQ29YRmJ1Y3RYamU3TWhkN0hzdnlVMFpTS0dLdU1HM05RV3lxY0V1eHlVV2pmNlp5YmNheUw5ME9aSFZUcEhyVTFrNGdOa3FiQ0l3NW83dzFHQlFvS0VmeGpQNjROcXFQaGtHc0w0WXBRcFluZ3RFMno3MURDOXRfWElKR2NUcHdRT3NMeXF5OXFYRHE0eEFmeWdTWUZjNTR2d3JVTGRVRC1ybUxzeXJ0Z01BMUlTZk1ybzZLNF9nOHpMWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-14-003",
+    "date": "2026-10-14",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Glasstec 2026: Saint-Gobain showcases its innovations for sustainable buildings - Saint-Gobain",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEJtMEFpVXB2QUJ6a25mQzRmQnNuanpHWGF5YzBXbWdaZk91Sm9HQXhESXp3UnVIVzR6U2s4eDdjRWlfSzdncVVpUVNMTHhRWHdCNU5pOWV3U3QzcUE1NFJzT25JSzJJb2FkR1cxNl",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEJtMEFpVXB2QUJ6a25mQzRmQnNuanpHWGF5YzBXbWdaZk91Sm9HQXhESXp3UnVIVzR6U2s4eDdjRWlfSzdncVVpUVNMTHhRWHdCNU5pOWV3U3QzcUE1NFJzT25JSzJJb2FkR1cxNld5X2QyemxXUHgwQjB3SjFrZ2VWcmZHalpNM0pldTFyandiNVhKb3duNWlhSE9pMmJXUU91MzliTkNQaTZ4Z2hSRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-14-004",
+    "date": "2026-10-14",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Despite Some Troubles, O-I Glass Is Ridiculously Cheap (NYSE:OI) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNllSSlVway15bDZrNHE2amkwOGxrTnhHZUVkQnJHdzkyUXk1TlFRLWFHM1o1Smc1ZWkzZEhXOHZ3ZlY5dklhS2gzVUJKZzV5eVlzMk92RjQ2Qk1nZEpoN2pRR3QyMjZINTZlTWMxU1",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNllSSlVway15bDZrNHE2amkwOGxrTnhHZUVkQnJHdzkyUXk1TlFRLWFHM1o1Smc1ZWkzZEhXOHZ3ZlY5dklhS2gzVUJKZzV5eVlzMk92RjQ2Qk1nZEpoN2pRR3QyMjZINTZlTWMxU1N0NVoyLXZVcGNXc1BjY0IxQlJZM0hDM1lpLUNabDJGTllYR3lxcldxdVZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-10-14-005",
+    "date": "2026-10-14",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "LONGi results are due October 29 as LONGi stock sits 53.84 percent below its high - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVVSQUx6VjR2alVYYUxWcF9GS3hFWUhDbXRncUtMYVZUMmZOUHBOZVBaeXlpZnJEWXNqcDFET2xSR01reEYyai1wSjU0b25LYnJXcjBZWUYzZUU1VVhOM18yeDVlVnlTMmVwMEx6dV",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVVSQUx6VjR2alVYYUxWcF9GS3hFWUhDbXRncUtMYVZUMmZOUHBOZVBaeXlpZnJEWXNqcDFET2xSR01reEYyai1wSjU0b25LYnJXcjBZWUYzZUU1VVhOM18yeDVlVnlTMmVwMEx6dVhuTGpLeUVCT0RxOXJ4ZGIxaWdudmN2Vkg0YkpLOTF2YjktVlFEM3U2Qk5ZS2lrN0d3VVZzQ0hKc0Y4TUpJV1EyLXdNVGZldm1KQ1YzV3pNZXE4RnNyZ05COURkV3hReURi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-006",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "‘I’ve lived it’: How HITT’s CEO brings trade experience to her role",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/wg5iGCvbuLfc9FwQ-wJOjzYOxBroEGDxYGUiAfwexAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMDU1MTg2LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/hitt-contracting-ceo-kim-roy-data-centers-labor/832938/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-10-13-001",
     "date": "2026-10-13",
     "companies": [
@@ -382,6 +499,263 @@
     ],
     "impact": "negative",
     "title": "Construction’s winners and losers drift further apart",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/exLPyqkTi81Jxd1Rawc7IJO11FNIIziisKOXO_k3vRU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk5MTEzODczLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/constructions-winners-losers-drift-farther-apart/832780/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tata_chemicals-2026-10-13-021",
+    "date": "2026-10-13",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Tata Chemicals launched safety center: what it means for Tata Chemicals stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUEREVWhoZWtacG1JV3EyRHlrYmJ4bkdINDRIc2VfMkRacUEwaU5SUDdkR2pDRkxJbEZYN21MamNUeHZkeWJTWmI5clNqam02bGJ1TGFqUHNITFpBbDEzUEhJR1dLVk1pTXRVNUtQeG",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUEREVWhoZWtacG1JV3EyRHlrYmJ4bkdINDRIc2VfMkRacUEwaU5SUDdkR2pDRkxJbEZYN21MamNUeHZkeWJTWmI5clNqam02bGJ1TGFqUHNITFpBbDEzUEhJR1dLVk1pTXRVNUtQeGdUV0gydVdvODhSaU56X3gyYmh4ZkRMRjJPSllBM2dGRlhsRGtuSXNvb3Q5MlJNQ1RfRzhkYmVXbVJWa1RjSlFMMDVkQ2hCdE1EaUIzeFVtejVzZEk1NFhFVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-10-13-022",
+    "date": "2026-10-13",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Students learn from the pros to prepare for the trades during 'Owens Corning Day' - WTOL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeExQcUpGemZfc1VjTEx2YVI5bXpPc2w4RTRPTjdGbzlaTnFSWGtVZ0xzNEV0cmp0amtFbHNGQWMyR0Q4bXNadHFpaFZEZ09QU1pxOEJLTFJjSFlEbkI2YkVfS1Z4RXNYd1BjNUVoWW",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeExQcUpGemZfc1VjTEx2YVI5bXpPc2w4RTRPTjdGbzlaTnFSWGtVZ0xzNEV0cmp0amtFbHNGQWMyR0Q4bXNadHFpaFZEZ09QU1pxOEJLTFJjSFlEbkI2YkVfS1Z4RXNYd1BjNUVoWWtjaGl3ZGMzd2FUc0pkQkhtb1RkWmwyTVdtT0ZiR01yLXM5T2dzbENtdHJka2RfNFF1VmJqM28wT3drZ1NGaXFEYmVnZ1kxZVFtdmtDUXFadTlEQ3FVLUh0MmxISDRmSHVPeXk5WUVvOS01OGVvdFBoZUZaX3g5bklHZkZjX1Y3djJ1MDcy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-023",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CPG innovator: Matt Fitzpatrick of Saint Gobain Helped to Build a Packaging Specification Database - Packaging World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWEtZU3BIbExPb0FKbkpQZlQwLW9fT2xtSnFMVHFuZ3k2YV9EMXFFenR0V0xvei11YWFPMi1ydEVjR2RXenhCVngwSWJ0dE16bkQ1cDIyclNGekFFdEd2SzMxekNGS3lUeGVlZnZPUE",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWEtZU3BIbExPb0FKbkpQZlQwLW9fT2xtSnFMVHFuZ3k2YV9EMXFFenR0V0xvei11YWFPMi1ydEVjR2RXenhCVngwSWJ0dE16bkQ1cDIyclNGekFFdEd2SzMxekNGS3lUeGVlZnZPUEt5VS1pYndzc3ZtY0UtUmhZR0FsVEhFWnJ6U2UwQk1GVVVkVE00MS1VTi1wd0RBdEpDOFFic0QwbkFFQnBKUlpfT2tjV0h4SkdfQmFDRjROcDFfWHR4Rl9fTFliWUlTeDkzRC1nSG9iM2NxUE56d3Z6UlFiQndSYVFyRDZ4bUoyTnlJWldrTmdGbDF3RWZUbVJ1UFlVdmVnMkNKdlUycXlwMFF2YlE0MmtZc0dFU1VOeXlYUmdEdExWOVp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-13-024",
+    "date": "2026-10-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Climbs 4% as Truist Buy Call and December Tariff Floor Reset Panel Pricing Outlook; Enphase Energy and Sunrun Hold Flat - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzlSVUVFYUN6bU5aZGVZMk1xQXRUZEVFZE9KUU12bHU0WEwzMXhmRGE4QTBzeWU0VWk0ZEo3anJOMEkwZkNiT2FpVHN1Q0NvOU13SHpuUmNGclY1UnJPcmYtUkRIQW1rdk81WTdmcX",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzlSVUVFYUN6bU5aZGVZMk1xQXRUZEVFZE9KUU12bHU0WEwzMXhmRGE4QTBzeWU0VWk0ZEo3anJOMEkwZkNiT2FpVHN1Q0NvOU13SHpuUmNGclY1UnJPcmYtUkRIQW1rdk81WTdmcXY4a3Jmc0FCOTNybGdnRmJNTlRBcGQzaU5maEpIOHNnM3dvQ0FsWm53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-13-025",
+    "date": "2026-10-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: What to Expect From First Solar's Report - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkhaX0xqbWgwb0xYTVEwZ3dDczZnTDhfc1hRVE51d0lzOFdyMmhMbmxwd3VMb3FpR3JKYWREbzVHb1NBZnM3ZFkweUdZNHZ3TFZnNnJkWW5GRkUzdEs5UHZVaTZ6MFl2bkR5RmZCa1",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkhaX0xqbWgwb0xYTVEwZ3dDczZnTDhfc1hRVE51d0lzOFdyMmhMbmxwd3VMb3FpR3JKYWREbzVHb1NBZnM3ZFkweUdZNHZ3TFZnNnJkWW5GRkUzdEs5UHZVaTZ6MFl2bkR5RmZCa19yeDVabEk3bDdNX3k3NzBQd2J1azEyTlZ4WG5teVVSSDFJU2FGUGVOdk9GVTBTWjNjejhN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-13-026",
+    "date": "2026-10-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Climbs 4% as Truist Buy Call and December Tariff Floor Reset Panel Pricing Outlook; Enphase Energy and Sunrun Hold Flat - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNYjk2R2VfQWMzUGNva0JnUnoybHQ3V05JUG82Z20wUy1lMGFhWTdEMW1jUnpHbHBOejlfTEU0ZEhwUURfNk0zRHZBYklGNUR2Z2YxNkpYTkZGbEV2dWxzOTc2dkRBV1ZPWk1ERlpoTU",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYjk2R2VfQWMzUGNva0JnUnoybHQ3V05JUG82Z20wUy1lMGFhWTdEMW1jUnpHbHBOejlfTEU0ZEhwUURfNk0zRHZBYklGNUR2Z2YxNkpYTkZGbEV2dWxzOTc2dkRBV1ZPWk1ERlpoTU5zeHlWd2t5NTFXaGtHYUtuSFpRM1pFQ21uRHpvby1BLUdSSE10ZjlZTU1wUTQ4RlBUMlpWN0gwSlh1ZDUyYjVlaFV2Mk5uRFVGUjVtbXBfYkxrR0gwa2Zqdmc0Q1J1LUdVU0JpRXEtLWkzd1dSNGU4cGxWQTNmdXFSTVRud2lGOVdvajdJZ2xNM0hXRVowMEJfVXJJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-13-027",
+    "date": "2026-10-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "This Analyst Just Upgraded First Solar Stock. Here's Why. - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVm9yb3F2RU5PT0s0UWZoUkQ1ZkdaTFFScUtCRjNrS0U0QkNWVzAxWE5jR2w3bFgybHdkMU5Selptc2hWYW9IQWhUWGg5dGNzYnB2TFNUUkNXTHc2b1EtU3NyRTU5THBPYTB4ZkpsLT",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVm9yb3F2RU5PT0s0UWZoUkQ1ZkdaTFFScUtCRjNrS0U0QkNWVzAxWE5jR2w3bFgybHdkMU5Selptc2hWYW9IQWhUWGg5dGNzYnB2TFNUUkNXTHc2b1EtU3NyRTU5THBPYTB4ZkpsLTlWb3RfUjEwWGpqQk5RanQtSTNFd2dmcVdBQXk2dW40b2tfeDAxS25ucmhOZjRnZnJw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-13-028",
+    "date": "2026-10-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Gets A Truist Upgrade, Is It 32% Undervalued? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmo2bkFFQ2NaaFNYd2RjMDVxTF9ZUDUwdzFIZmhOYVpXdVVKZWJHTlF1TWZqUHVxMEJfb3NBWmo5cXFmWkQ2aHk5bGFERmtkcUtOYlhrOThMb3lXM3cwaG5zUkItR283Q2dqNFFJUE",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmo2bkFFQ2NaaFNYd2RjMDVxTF9ZUDUwdzFIZmhOYVpXdVVKZWJHTlF1TWZqUHVxMEJfb3NBWmo5cXFmWkQ2aHk5bGFERmtkcUtOYlhrOThMb3lXM3cwaG5zUkItR283Q2dqNFFJUEhVQzktUU5fb0NCVHBRVmp0TGFIN2Q4NzNXU181VEs3S1M0c2R1cnh0TlV6SWphUXowdXZWNlRIZlBLZUUzVVc0RERydkN1QWZKY2dxa1VOaEZyV0pvNEVEOW0xeFNwVGJM0gHWAUFVX3lxTE5XQnNvbE00RHprU21BT1o2bC0tU1E5amVWczZYeDZaX2s5OGh1aWVtQTJ4RUtZS3RUZGUzSWRGM0x0TlVQbmdtQWZVRkJZNDlHdE52anlER2tMbXNwVGZ5Nko4NzhUSXA1eDE4SUxQNTQ2eXhEbE5yZEF6bTJaU0tCdnBvZHo0WkdCY3dpZ0t2MDdUWHVfeGMxNnVGQ3l4OUJhc3p5akVfOXlBVzg4a3lmTW1Fd0NNclpUTVRxQ045YkR5cFZIQlJpX2l5dmxjQTlsaFVZWkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-13-029",
+    "date": "2026-10-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Why is First Solar stock gaining 3.5% today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWF3d2VYZFZ0aHJuQzF4NzB2U2NZSEI0cnNoRk83SnFId2hGMUE2NHFkUmtWREFzQ1BEVFhxaXQ3cFE4Um1TYXBfNXNoV3VvNDNRajJZRkVBbktKelFUTTRSMkVSdDRwTmNpSktXaG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWF3d2VYZFZ0aHJuQzF4NzB2U2NZSEI0cnNoRk83SnFId2hGMUE2NHFkUmtWREFzQ1BEVFhxaXQ3cFE4Um1TYXBfNXNoV3VvNDNRajJZRkVBbktKelFUTTRSMkVSdDRwTmNpSktXaGhfNEx2dXl6ZWI4N1F5VFNHVi1fTWQxTzNjZWdPR1kxand3Sng3S3pHRjRUdTVXUDZoY3AtSzRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-13-030",
+    "date": "2026-10-13",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "11,926 First Solar, Inc. $FSLR Shares Purchased by Courier Capital LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUtrYzlidXRqYXQtMG50RWozRUFSUFBUTVFJWnJZQlZhb3lSdFhZUnUtNjZUcmRWZVQxYjVTNnUwZE9CU0U2RTIzN1JGdzA1bExjOTdqN0NhdUxLUHZzU1RWN2thUWlkdlh0cHd2bm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUtrYzlidXRqYXQtMG50RWozRUFSUFBUTVFJWnJZQlZhb3lSdFhZUnUtNjZUcmRWZVQxYjVTNnUwZE9CU0U2RTIzN1JGdzA1bExjOTdqN0NhdUxLUHZzU1RWN2thUWlkdlh0cHd2bm5hNi1vTkEyOE5vUGlyTWwtRkZuNDZYZTlZVl9nblpWNWk4eUVOVDhvdDFiTlhfLTlBaFdCNlgzZlV1RDVHd0lESE9NQjRCc3ZQOXVnWXFEM3lLRl92ZXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-031",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-Q1-2025-factory.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Doug Fi",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-032",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "DOT moves ahead on effort to tie new construction funds to marriage, birth rates",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/St8GXMReOY1mKgeHL4YQDQUqfSM62Q453CUcQQFNjLw/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMj",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/dot-funding-construction-marriage-birth-rates/832874/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-033",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "negative",
+    "title": "3 economic factors determining construction’s winners and losers: ABC",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/exLPyqkTi81Jxd1Rawc7IJO11FNIIziisKOXO_k3vRU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk5MTEzODczLmpwZw==",
     "sources": [
       {
@@ -1040,6 +1414,26 @@
       {
         "name": "electrek",
         "url": "https://electrek.co/2026/10/12/top-10-best-selling-evs-us-through-q3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-12-034",
+    "date": "2026-10-12",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Truist Cuts Price Target on O-I Glass to $8 From $10, Keeps Buy Rating - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3Z2TDRRX3JsTTIydFRzeHFCeWpxbDFNZ2szSVRBT0pEM1gzUm02cXVjRWFWazJuZ2JKU0F0MHZuTmQ4WmhIZ0VzaVZJdXZQMGxXeTJrZi1fallGbnJLMDU1V0xqdnZfTzJLbHVqM3",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3Z2TDRRX3JsTTIydFRzeHFCeWpxbDFNZ2szSVRBT0pEM1gzUm02cXVjRWFWazJuZ2JKU0F0MHZuTmQ4WmhIZ0VzaVZJdXZQMGxXeTJrZi1fallGbnJLMDU1V0xqdnZfTzJLbHVqM3JtMUw0ZWd1RTAzV1Jkd1NtdFBhYV9salRIYjFicTNYOGRwbE9oU1E?oc=5",
         "type": "rss"
       }
     ]
@@ -2818,6 +3212,26 @@
       {
         "name": "fuyao",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjJtYjdOWWFxV2owOThIVUJWODgzbmZxRHZoMlJsZDd4V1N3Vnc3Ui1RR0wwYzYzUE5Od0NtaWV5aGFZRDk4cFpoMW5nczdnWEtaLVVyeWlGMWIyZk1iV09wZzFVTzZRbE5uSWtqR3JCZDFXM0RJUUhRSWpzMmdZVmowWUYyckhvX0pINEZsUUxDam9JSHh0NUZ0d21KWmlIVnpNbkE5bzBoTG9iYjNlc3gtSXllUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-10-07-031",
+    "date": "2026-10-07",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Fintel raises target for Xinyi Solar stock to HKD 3.42 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUtHUjliN2NvcVFDMld4b0FJYTVyZzhkM1JKYmF5TGh4eUZwdGR1T3FabGFrYWZyZnE2WU8wZ1pHY3ozMzd3aXJsWTBnbXJ4cmpYRllNMmdVdUl3ajUyWTdjRkpIQWhLdC13cUhIVj",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUtHUjliN2NvcVFDMld4b0FJYTVyZzhkM1JKYmF5TGh4eUZwdGR1T3FabGFrYWZyZnE2WU8wZ1pHY3ozMzd3aXJsWTBnbXJ4cmpYRllNMmdVdUl3ajUyWTdjRkpIQWhLdC13cUhIVjFuU19LN0U5QzY4ZVViZnV6RUM0U3hhUE1LeUFlTXNrZTNEOXVaVmpZNk9FeG5fTVJjN25fRmQwMVA0ZW1CNVYxZXo5UQ?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:28:56.508183Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Energy reports lower profit: what it means for Xinyi Energy stock - ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVlVhMWdWQ29YRmJ1Y3RYamU3TWhkN0hzdnlVMFpTS0dLdU1HM05RV3lxY0V1eHlVV2pmNlp5YmNheUw5ME9aSFZUcEhyVTFrNGdOa3FiQ0l3NW83dzFHQlFvS0VmeGpQNjROcXFQaGtHc0w0WXBRcFluZ3RFMno3MURDOXRfWElKR2NUcHdRT3NMeXF5OXFYRHE0eEFmeWdTWUZjNTR2d3JVTGRVRC1ybUxzeXJ0Z01BMUlTZk1ybzZLNF9nOHpMWg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oi_glass-2026-10-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Despite Some Troubles, O-I Glass Is Ridiculously Cheap (NYSE:OI) - Seeking Alpha",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNllSSlVway15bDZrNHE2amkwOGxrTnhHZUVkQnJHdzkyUXk1TlFRLWFHM1o1Smc1ZWkzZEhXOHZ3ZlY5dklhS2gzVUJKZzV5eVlzMk92RjQ2Qk1nZEpoN2pRR3QyMjZINTZlTWMxU1N0NVoyLXZVcGNXc1BjY0IxQlJZM0hDM1lpLUNabDJGTllYR3lxcldxdVZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-10-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LONGi results are due October 29 as LONGi stock sits 53.84 percent below its high - ad-hoc-news.de",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVVSQUx6VjR2alVYYUxWcF9GS3hFWUhDbXRncUtMYVZUMmZOUHBOZVBaeXlpZnJEWXNqcDFET2xSR01reEYyai1wSjU0b25LYnJXcjBZWUYzZUU1VVhOM18yeDVlVnlTMmVwMEx6dVhuTGpLeUVCT0RxOXJ4ZGIxaWdudmN2Vkg0YkpLOTF2YjktVlFEM3U2Qk5ZS2lrN0d3VVZzQ0hKc0Y4TUpJV1EyLXdNVGZldm1KQ1YzV3pNZXE4RnNyZ05COURkV3hReURi?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "owens_corning-2026-10-14-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Owens Corning to Announce Third-Quarter Financial Results on November 4 - Business Wire",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFF1OEc2NjNic085TThvSHE1OVpTOVZvc1gwTnlWTWt1N080QWJnc2RNbXpiWUpFWEJ2WWw2RjlOaVRiV0hLdWJaTktGU1c5a0ZJZkhJcHgwQmdkbEYzSmhuYnVKdlBGZlN6eFJBSGdVY2UzZ2ZocmtYMWhHRG0zR2RDOXFqNkp1dndNVjVlTnBCdW94NUdmR0pKN3NhZ2FJWlprTWdvTy1LNFJyZ3BiaDFwbU1FNkNMWEtmVnBKdllIRVgzMVJJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-10-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glasstec 2026: Saint-Gobain showcases its innovations for sustainable buildings - Saint-Gobain",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEJtMEFpVXB2QUJ6a25mQzRmQnNuanpHWGF5YzBXbWdaZk91Sm9HQXhESXp3UnVIVzR6U2s4eDdjRWlfSzdncVVpUVNMTHhRWHdCNU5pOWV3U3QzcUE1NFJzT25JSzJJb2FkR1cxNld5X2QyemxXUHgwQjB3SjFrZ2VWcmZHalpNM0pldTFyandiNVhKb3duNWlhSE9pMmJXUU91MzliTkNQaTZ4Z2hSRg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 201,
+    "too_old": 173,
+    "gate1_blocked": 26,
+    "gate2_blocked": 14,
+    "passed": 21,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Owens Corning (NYSE:OC) Cut to \"Strong Sell\" at Zacks Research - MarketBeat",
+      "Hydrocarbon Engineering Spotlight with Owens Corning - Hydrocarbon Engineering",
+      "Owens Corning Shares Fall After Vertical Research Downgrade - Yahoo Finance",
+      "Truist Cuts Price Target on Owens Corning to $115 From $140, Keeps Hold Rating - Yahoo Finance",
+      "O-I Glass (NYSE:OI) Shares Up 5.8% - Should You Buy? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Owens Corning、康寧、聖戈班相關動態：「Xinyi Energy reports lower profit: what it means for Xiny...」。主要關注主題為財報、庫存、建築活動，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Xinyi Energy reports lower profit: what it means for Xinyi Energy stock - ad-...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Despite Some Troubles, O-I Glass Is Ridiculously Cheap (NYSE:OI) - Seeking Alpha（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
