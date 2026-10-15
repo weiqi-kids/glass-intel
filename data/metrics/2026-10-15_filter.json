@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 27,
+  "gate2_fail": 13,
+  "passed": 24,
+  "gate2_samples": [
+    "Owens Corning (New) R (O5Q.HM) income statement - Yahoo Finance Australia",
+    "Hydrocarbon Engineering Spotlight with Owens Corning - Hydrocarbon Engineering",
+    "Owens Corning (NYSE:OC) Cut to \"Strong Sell\" at Zacks Research - MarketBeat",
+    "Gibraltar to Sell Infrastructure Business to Saint-Gobain for $208 Million - Yahoo Finance",
+    "Saint-Gobain acquires D.S. Brown Company in the United States - www.marketscreener.com"
+  ]
+}
