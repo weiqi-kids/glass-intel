@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 26,
+  "gate2_fail": 17,
+  "passed": 32,
+  "gate2_samples": [
+    "Tata Chemicals gets relief in ₹908 crore arbitration case, directed to pay ₹1 crore plus interest - ",
+    "Hydrocarbon Engineering Spotlight with Owens Corning - Hydrocarbon Engineering",
+    "Owens Corning (NYSE:OC) Cut to \"Strong Sell\" at Zacks Research - MarketBeat",
+    "Owens Corning (New) R (O5Q.HM) Recent Insider Transactions - Yahoo Finance - Yahoo! Finance Canada",
+    "Owens Corning (New) R (O5Q.HM) Balance Sheet - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}
