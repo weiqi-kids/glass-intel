@@ -1,5 +1,84 @@
 [
   {
+    "id": "corning-2026-10-17-001",
+    "date": "2026-10-17",
+    "companies": [
+      "corning",
+      "owens_corning"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Owens Corning Inc $OC Stock Sold by Banque Pictet & Cie SA - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnYyQVdYMUdSRDY2ZHFhRWRRYlZUd2hJT3dMWXpsUU1Ta3p1RjV0dXdwX0FaRkJSZDI1bmpwX0NKd1JRSWxSR3IyZXJ2T3RNWkJnMWI2YW9iT0tPTWxJTDY1LWVqTFdvY2dHR25IY3",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnYyQVdYMUdSRDY2ZHFhRWRRYlZUd2hJT3dMWXpsUU1Ta3p1RjV0dXdwX0FaRkJSZDI1bmpwX0NKd1JRSWxSR3IyZXJ2T3RNWkJnMWI2YW9iT0tPTWxJTDY1LWVqTFdvY2dHR25IY3ZsR1JoODFTTUxLdW5SdGV2UU1YckxUcW5RWVZoNFhqNWh1QXhVRi1haWNYSThucXc0ck9VYk1iVlZMZHBqeFNmNlI0ZFlySGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-17-002",
+    "date": "2026-10-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain announces D.S. Brown deal: what it means for Saint-Gobain stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZFJlU09JRE91MlhfYkozYnpJbElNZ2hzRTZKNE9rZmpGb0pnQ2RndjFBN2sycnN1UkJ1Wm1JbWhKQl9LNEVxTFlOQXRlNHlDM1lCRGxxRUFMR2NQWW02b0pGR3FWLUJ3cEY5TWd3SH",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZFJlU09JRE91MlhfYkozYnpJbElNZ2hzRTZKNE9rZmpGb0pnQ2RndjFBN2sycnN1UkJ1Wm1JbWhKQl9LNEVxTFlOQXRlNHlDM1lCRGxxRUFMR2NQWW02b0pGR3FWLUJ3cEY5TWd3SHh6Y0pSYWdhQlk2d0h1M0lGazZodE5yVTRiMGlxVnVwN0NzMkJtR3pIeUhUbUp6MFpHbGdqdzV5RnFQMC1PM25YVmtzWHVfRTM3R2JSa01VSGFBR0c1aGN1LUVYTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-17-003",
+    "date": "2026-10-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smart Dimming Technology Upgrade Unlocks the Next Decade of Opportunities for the Glass Industry - The Daily Tribune News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxOSHJQOWwyTFlMN0xCRkZ0YzA4N2RqOTU3clVidlRXeGJIMDY1Z2c2YkgtZzNqZWh3VkZGLThQS0kwU2dkcC1VTTR3Q3QzQzcydk0waks5VW5FdlVGTHJkRzE4UlhyenlQMXNCN0lYRV",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSHJQOWwyTFlMN0xCRkZ0YzA4N2RqOTU3clVidlRXeGJIMDY1Z2c2YkgtZzNqZWh3VkZGLThQS0kwU2dkcC1VTTR3Q3QzQzcydk0waks5VW5FdlVGTHJkRzE4UlhyenlQMXNCN0lYRVVZLVpuRlNBMEZrNGlRR2RIRW5JTGQ5Y0NnNmRyc2sxTjZrWFA2eGs0bFFadExHY3V5MlpsNy1lUEFlNk9GeVQ2SFVCLVBUWXRlcl93VXJVV2tQeFBiaGZScHRhcTdDZ2c2dlJmeHVsZ2RfZ3ItenBoRmVJam1RdVZCQVoyMWhaY2lJYlZ2QTVab2RTQk1jRmxEcTZWcUhqZnJ3c0xFbmFXamhaV2oxQWtWWnc4Q2xrMVoyaVVRUFdvbTlmbXIzSkFD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-17-004",
+    "date": "2026-10-17",
+    "companies": [],
+    "topics": [
+      "solar_glass_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Borosil Renewables gets ₹60 lakh customs penalty for solar glass imports - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUk5iMVlhUndCa2pVdGk2YTB6LTF4ajRfSTZLQ2hDOG4zSUpIdFlfemJzV3dySGlVakJweHBBOHVIVVlENHJRYXZ3dU56Z295WWh2Tmc2a1pha2dJNUstZFVmd3U1R0xaMm1ZUm1WeV",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUk5iMVlhUndCa2pVdGk2YTB6LTF4ajRfSTZLQ2hDOG4zSUpIdFlfemJzV3dySGlVakJweHBBOHVIVVlENHJRYXZ3dU56Z295WWh2Tmc2a1pha2dJNUstZFVmd3U1R0xaMm1ZUm1WeVJaMFhPcjliYnVSVE5jUktxTnpOWFpSRXhjTzlEdkVjdmVTTG1STFdaNmNBOGZ6em53NUtCLVdwd3MyVFNORGh2R0hQQkIyZXJFOWJiZFl3ZkhUdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-10-16-001",
     "date": "2026-10-16",
     "companies": [
@@ -152,6 +231,178 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb240aFR5SDgtS0laeEdheTNPVnlRNVNGa0I1SmZPWDFucG9FMEVPLVlhdko3RkxSWHRQWEpTZHVBQ29mUkc1YmJrUTE1MXAxc2VpZWtzQjM2bnpvRGZNcXRjT09Sa1JmaHdJZW5zMVdJRE5xbXdTZUFzUENoRU1GRWp4VnZLVnRiN25fZ1czc2NONEx4WjZfdUpKOEtSbHkxZjR3a1FIdjlrS3ZOTkYxNXItaDM0a0l0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-16-009",
+    "date": "2026-10-16",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Investors Are Reacting To First Solar (FSLR) Strong Fundamentals And Market Share Gains - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDRMSlFmak1iLTZjbmE2dkZLaTVhODZxUTd1UkZ6WVdjVElSalpjajNRZThEZHczbnhwcUNNRC01bG1WeGkzQ2NsMF9YQWJoeU9iOF8yRU5SMEp4SHRJa2VwZ3VRZ3UwNTQ2UXJBUk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDRMSlFmak1iLTZjbmE2dkZLaTVhODZxUTd1UkZ6WVdjVElSalpjajNRZThEZHczbnhwcUNNRC01bG1WeGkzQ2NsMF9YQWJoeU9iOF8yRU5SMEp4SHRJa2VwZ3VRZ3UwNTQ2UXJBUkctVHhFem8waTFqOEkwR2RCcUY4QUxxNVN1T0hyMnRkSmY2Rmh4YjNBZTVzTl9tUHg1REE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-16-010",
+    "date": "2026-10-16",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is First Solar Inc (FSLR) a Bargain After 3.5% Drop? GF Value Sa - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmFlSVB4c0JELXRVZmJJZnVWTTBPUF9qU1JxV0xnenNxZVJkU0dRLUxZYnBjV3dfOEl6NEgyb2k5Yl8yd0dRbThScDZ3WVY4ZnpHTVgxdWNtWWVjOHM3TEhUbXI1ZXNYOU8yZ1liZ3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmFlSVB4c0JELXRVZmJJZnVWTTBPUF9qU1JxV0xnenNxZVJkU0dRLUxZYnBjV3dfOEl6NEgyb2k5Yl8yd0dRbThScDZ3WVY4ZnpHTVgxdWNtWWVjOHM3TEhUbXI1ZXNYOU8yZ1liZ3pwUjRjTWxIdUxJTmpQWDd3RHBqZnRRSjY5cU5ZOWlQU1VlTGt5S0JQdUtTVHRQOGZ6b1NfUjFiWXhvQm1NbEo5U2Z3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-16-011",
+    "date": "2026-10-16",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies lowers First Solar stock price target to $199 on pricing view - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDdMRXlZSkdUdXdnMFpMSHptWHI5NHJ6NTZTMUxFTzNLeXprcUEtdE5aMnZOX3BpUGx6amhXTlUwX2YwZDdaRG9lR2FLSVpvM2FFWkFaWFRyTENxYTJGbEZjMjZwcGVLOEQzX2t0bT",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDdMRXlZSkdUdXdnMFpMSHptWHI5NHJ6NTZTMUxFTzNLeXprcUEtdE5aMnZOX3BpUGx6amhXTlUwX2YwZDdaRG9lR2FLSVpvM2FFWkFaWFRyTENxYTJGbEZjMjZwcGVLOEQzX2t0bTRkT2VVZnBKaURBaWU2MGt5QkxRVDhWaWx3MUY2UXJmbktkQjQyLWtTYkZsWlp0VnhFSm9KQlNtTEY4aW5iQ3VhU2xRVDlXSmhaV3BBX1NKdDV4TzZLYUJ2di1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-16-012",
+    "date": "2026-10-16",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2JsRjV5Q2hGaVhNVi1BV0FjWV9iZm9aYnozeE1YZ29Hd3lfUU9PUlVpOU50TmdIZEV5X1BWYlBtajZPdjRMSXpHYlJuQTBDUXBaZno2TXlUWlgxRm16MDBEM3NkRkxRT2dRSWtkNk",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2JsRjV5Q2hGaVhNVi1BV0FjWV9iZm9aYnozeE1YZ29Hd3lfUU9PUlVpOU50TmdIZEV5X1BWYlBtajZPdjRMSXpHYlJuQTBDUXBaZno2TXlUWlgxRm16MDBEM3NkRkxRT2dRSWtkNk4tRVE4U3VDeFFZal9OOC1KQnl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-013",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Oldcastle BuildingEnvelope Strategically Aligns Glass Manufacturing Network - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFY2bmJJZU1CcGpJbmdnVXppSFNYQ3psMm9tSVFDc3cxOUEtR0lILUhGUHlvZTB6dm9sSXpRVThuZkg5UW5MbVlseEdFTnVJOGEtbEdfeUJwZzlMc1ozbWI0djk3WDJaVFZ2V3YzQm",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFY2bmJJZU1CcGpJbmdnVXppSFNYQ3psMm9tSVFDc3cxOUEtR0lILUhGUHlvZTB6dm9sSXpRVThuZkg5UW5MbVlseEdFTnVJOGEtbEdfeUJwZzlMc1ozbWI0djk3WDJaVFZ2V3YzQmF5MW5HVVotYXZ2TGlJZTBWbFNsMFFQOWlnQWItNkc1aGNBYnNaeW9NSzhsUDNzV2E3cTR1SGlXbEF4THNRSVFWODFBd3V3Ny0tWHRydXdETVNnbl9tTjJxeVdzbjBneDJx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-014",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Flintco-Mortenson JV begins concrete deck at $900M Oklahoma City NBA arena",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/O9f588CKMalv4jICJkl-rLDpfFd03zf24AeQ1WRN6GM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9va2Nfc3RhZGl1bS5qcGc=.webp\"/></div></",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/flintco-mortenson-jv-concrete-oklahoma-city-nba-arena/833271/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-015",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "13-year, $2B NYC bridge rehab completes 8th of 11 projects",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3el4pxHBn9S1ufI2kRfnoweZ0GTONJGy1fDFLaMQPUM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTU5MTc1NTQ2MF9mNjJiNmZmNTAyX28uanBn",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/nyc-george-washington-bridge-rehab-completes-8th-11-projects/833265/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-016",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Iran conflict pushes construction prices to near 4-year high",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EghMSZ311uivHyIAMiR_9ESCQ6k9GOtYrvfswm-hIxg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgyNjY2NjAyLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-prices-jumped-annually-september/833217/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-017",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/iNq4Y5GKugVxEwmlx5qnluGjpgDENdk0ZB5jrh5KALw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MTE2MDkyMy5qcGc=.web",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/plaza-hotel-nyc-closure-facade-restoration/833216/",
         "type": "rss"
       }
     ]
@@ -824,6 +1075,44 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/construction-inclusion-week-panel-recruiting-diversity-trades/833085/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-15-035",
+    "date": "2026-10-15",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DIMENSIONAL FUND ADVISORS LP Trims O-I Glass Inc (OI) Stake -- S - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNem85ejJONHVTbEh6NjFmY0cxbkdUb3lLM3Z2MFlEcHh5RktqQ2MyNjJGREIwMXZsZ0I5dVJWbVYwc1NVSGtEemRUZlFxUE9obTQ3VHFfYUtSaDFKbFpZbk1lTEFWMG1nbnJkUHlFZk",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNem85ejJONHVTbEh6NjFmY0cxbkdUb3lLM3Z2MFlEcHh5RktqQ2MyNjJGREIwMXZsZ0I5dVJWbVYwc1NVSGtEemRUZlFxUE9obTQ3VHFfYUtSaDFKbFpZbk1lTEFWMG1nbnJkUHlFZkRyMGdodGd0ODh5U0REWXhCZ29kRTh3OU5xQ05odjJoLVZsbUhydU1ydXJ5cFdZdzN4eGliMC1mNHFiOUJzWG91dUtkV3ZDSC1aaHJGYmxjVkVjSEZk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-15-036",
+    "date": "2026-10-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Australia to hit Chinese aluminium with big tariffs over dumping - AFR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFctTUx1T09Uc3VBNlRETW5XZWlnSm9lUVV5VEgxTTZtTGtQMkx3R2hhLXY3dlc4T2JEWnN1RWlLSVU5cDU0X055U0RsVXR4cERGdXZ6dXZ5MzN3ZTlud1NpSVV4cVNJcGpDaGdocG",
+    "sources": [
+      {
+        "name": "google_glass_industry",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFctTUx1T09Uc3VBNlRETW5XZWlnSm9lUVV5VEgxTTZtTGtQMkx3R2hhLXY3dlc4T2JEWnN1RWlLSVU5cDU0X055U0RsVXR4cERGdXZ6dXZ5MzN3ZTlud1NpSVV4cVNJcGpDaGdocGE0QktjYUkzYWQ2SFc2TVRXcURhNklWa1NJdmxpVjZZc0V0VTZlOWx3bVFTWTlOLXlEQmt1cVZQbmFHVS15bkhxbDV6OFdITWFKY0hIaDZqYWxGQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2545,6 +2834,26 @@
       {
         "name": "longi",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUFJqWENZT0xwaXRiYkpXSU5nMjZYdmhqVDc2Q0RzNk93UHk5V0wtNElVU0VhdjhHYWNGb1kyc2Z5bXNNZ0oyUlc1Uy1jendoMDJmT1NfRkFNN2hJeU5kRkh5aHFQSFdNb3Q1Q1NBX05pREZFM0hYVXhmb0lmdnJsRVZMaWp2c2QwemVsd01ZQUZRcW1rbV9PcG5qa3ZnMk51VE5qT0JLRlBKS1YwNzlKbk5Sal9aYWVtMjR3Zg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-12-036",
+    "date": "2026-10-12",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Truist sees 50% upside for First Solar as pricing supported into 2030s - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVZGUE5YaG83elRWa3pHY3NONXg2MHpncElLTDRWSjZnQ2dRS2FmMjNsMktJZ1lMcHlrTVo0VEU1OTNNUHo1RE1QWnFCcWpsUFpwRUUySnRwbWctVVZzdEdrRjdvT3VaYlFBNWczMW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVZGUE5YaG83elRWa3pHY3NONXg2MHpncElLTDRWSjZnQ2dRS2FmMjNsMktJZ1lMcHlrTVo0VEU1OTNNUHo1RE1QWnFCcWpsUFpwRUUySnRwbWctVVZzdEdrRjdvT3VaYlFBNWczMWowRVRORmJBWkYyUXd6RVdUS0VOOWVITVFKRU5YbXBaaHhLZGdGQU5B?oc=5",
         "type": "rss"
       }
     ]

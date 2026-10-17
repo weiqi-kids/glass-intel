@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T12:03:52.542353Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-10-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain announces D.S. Brown deal: what it means for Saint-Gobain stock - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZFJlU09JRE91MlhfYkozYnpJbElNZ2hzRTZKNE9rZmpGb0pnQ2RndjFBN2sycnN1UkJ1Wm1JbWhKQl9LNEVxTFlOQXRlNHlDM1lCRGxxRUFMR2NQWW02b0pGR3FWLUJ3cEY5TWd3SHh6Y0pSYWdhQlk2d0h1M0lGazZodE5yVTRiMGlxVnVwN0NzMkJtR3pIeUhUbUp6MFpHbGdqdzV5RnFQMC1PM25YVmtzWHVfRTM3R2JSa01VSGFBR0c1aGN1LUVYTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smart Dimming Technology Upgrade Unlocks the Next Decade of Opportunities for the Glass Industry - The Daily Tribune News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSHJQOWwyTFlMN0xCRkZ0YzA4N2RqOTU3clVidlRXeGJIMDY1Z2c2YkgtZzNqZWh3VkZGLThQS0kwU2dkcC1VTTR3Q3QzQzcydk0waks5VW5FdlVGTHJkRzE4UlhyenlQMXNCN0lYRVVZLVpuRlNBMEZrNGlRR2RIRW5JTGQ5Y0NnNmRyc2sxTjZrWFA2eGs0bFFadExHY3V5MlpsNy1lUEFlNk9GeVQ2SFVCLVBUWXRlcl93VXJVV2tQeFBiaGZScHRhcTdDZ2c2dlJmeHVsZ2RfZ3ItenBoRmVJam1RdVZCQVoyMWhaY2lJYlZ2QTVab2RTQk1jRmxEcTZWcUhqZnJ3c0xFbmFXamhaV2oxQWtWWnc4Q2xrMVoyaVVRUFdvbTlmbXIzSkFD?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Borosil Renewables gets ₹60 lakh customs penalty for solar glass imports - scanx.trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "solar_glass_demand",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUk5iMVlhUndCa2pVdGk2YTB6LTF4ajRfSTZLQ2hDOG4zSUpIdFlfemJzV3dySGlVakJweHBBOHVIVVlENHJRYXZ3dU56Z295WWh2Tmc2a1pha2dJNUstZFVmd3U1R0xaMm1ZUm1WeVJaMFhPcjliYnVSVE5jUktxTnpOWFpSRXhjTzlEdkVjdmVTTG1STFdaNmNBOGZ6em53NUtCLVdwd3MyVFNORGh2R0hQQkIyZXJFOWJiZFl3ZkhUdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-10-17-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Owens Corning Inc $OC Stock Sold by Banque Pictet & Cie SA - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnYyQVdYMUdSRDY2ZHFhRWRRYlZUd2hJT3dMWXpsUU1Ta3p1RjV0dXdwX0FaRkJSZDI1bmpwX0NKd1JRSWxSR3IyZXJ2T3RNWkJnMWI2YW9iT0tPTWxJTDY1LWVqTFdvY2dHR25IY3ZsR1JoODFTTUxLdW5SdGV2UU1YckxUcW5RWVZoNFhqNWh1QXhVRi1haWNYSThucXc0ck9VYk1iVlZMZHBqeFNmNlI0ZFlySGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 220,
+    "too_old": 157,
+    "gate1_blocked": 27,
+    "gate2_blocked": 15,
+    "passed": 16,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Tata Chemicals Gets Relief As Tribunal Rejects Rs 908 Cr Allied Silica Claim - BW Businessworld",
+      "Tata Chemicals gets relief in ₹908 crore arbitration case, directed to pay ₹1 crore plus interest - ",
+      "Hydrocarbon Engineering Spotlight with Owens Corning - Hydrocarbon Engineering",
+      "Owens Corning (NYSE:OC) Cut to \"Strong Sell\" at Zacks Research - MarketBeat",
+      "Owens Corning (New) R (O5Q.HM) Recent Insider Transactions - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為康寧、Owens Corning、聖戈班相關動態：「Saint-Gobain announces D.S. Brown deal: what it means for...」。主要關注主題為財報、庫存、光伏玻璃需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Saint-Gobain announces D.S. Brown deal: what it means for Saint-Gobain stock ...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Smart Dimming Technology Upgrade Unlocks the Next Decade of Opportunities for...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
