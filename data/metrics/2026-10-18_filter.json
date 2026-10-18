@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 26,
+  "gate2_fail": 18,
+  "passed": 15,
+  "gate2_samples": [
+    "Tata Chemicals gets relief in ₹908 crore arbitration case, directed to pay ₹1 crore plus interest - ",
+    "Hydrocarbon Engineering Spotlight with Owens Corning - Hydrocarbon Engineering",
+    "Owens Corning (New) R (O5Q.HM) Recent Insider Transactions - Yahoo Finance - Yahoo! Finance Canada",
+    "Owens Corning (New) R (O5Q.HM) Balance Sheet - Yahoo Finance - Yahoo! Finance Canada",
+    "Gibraltar to Sell Infrastructure Business to Saint-Gobain for $208 Million - Yahoo Finance"
+  ]
+}

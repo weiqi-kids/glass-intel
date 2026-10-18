@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:32:10.129921Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-10-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals wins arbitration relief as tribunal rejects Rs. 908 crore claim - Indian Chemical News",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTlNeXNXVzlZQkhCMHJjaXdBLVNmT3c4enBXV1lvN2tqbEg4VkJSdlZaMXBxTWlrVzlEUXRNVXU2aVdiTjZ5dlZabGdPQ3o1Z3ZFbHpyamlNMUI3eHg1OVo2aHFtYzNVeFV2THlzTW9CUUFHT1VfeXhscklfanZRWVYyWnE0dkxCNTlSaDJnQl84blFnaWptWVJIeTVqajNKeWM5QmdpemFjcXhDUjlaa0lfT3NVazYzY0d3VUZwVmJ3WDV60gHLAUFVX3lxTFBPdVVBWjhSOTJ1d3duc2g4a25Bb0IyZ0o3TWM1Qy0zUTJNVzJ4NDZQdDg2VGotU19pLXI3UV95enRreEpCMUhPWmFsU2VCc1I5WFhLN21yZm13eTR4RTVZbWt2WGRfVFJoVjVQWnBRcU9SVVZIWjJGUE9kVGE1Uzh4OFpLN0x6X2h4ZlZEVTYtMWp3Zk90QW1GTzFIZEgzbzNrRzFBVGZWQ25sWWtLMWdaMTZ2S1lpbXB6MGd4cHZPcjdrbzJvbnJVajlV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-10-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Did First Solar's Fall Catch You Out? What Investors Missed - Simply Wall Street",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGFTbHhldVpwRHRGNWpsMUx3TXhrRXZjQ3hibWtNeUxJM3YxU2Zwc3MyNWY5QmtTV1Ftcm5HSzZ3eVBaekMtcUhVTWRrQVpOMldNUC1maXJVemNWZ1ppUHl5Z1lkMWlIS1hCX3c2NjZvOHZBYmJoZW1ZNW5yX0EycWd6d0ZhOHhnX1c0R2tHZzJnMEk1bzY4WU1sQmpJSnRSWHpSYVFTTXVkT3ZsR25yZDg5NDc3QVEwOXFLTEl0TGlPRld3b3hlQVBTc054UdIB0wFBVV95cUxNMkhTNUxheEhRdGJJQnh3ai1PdW1Jd3lScGlvRDcwYjZnX1AzeHpHQ0NDZVR6MGd0S1RZd1l1Zk1Vd0dXdUdtbDFiWThXYURKZUxiRzd5RW9XQjhwM3M5dzRuQkpCYXd3RDRvblVUWGNJTXlWSnJ5RW1pUHI1bTdhSHdVWUU3TjJHSU5zY0hHTVNzLXpiRG4zMHpsQjFJRWNyWEo5NkF2U2FGV2tSeDU5SDY2VFBxaklGdk1xMExPbTdtV2VpWDkwUWxvZFFKMzdQUDh3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "owens_corning-2026-10-18-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "In Minnesota, neighbors say a shingle factory's smell 'hurts our lungs,' and sue Owens Corning - The Cool Down",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMTdEQ0RZTnA4N1FBYTlxc3JUOV9GalFxSnlLODA3U2xyTHhEM1dfVmk2RGdZQURWdElsV1I0RU9TOHVCVGRPS2FnLVYtbGRhSVJSTUdTWlJacnVfaHJaNkFUTktCNlZBNzhMQy1JYVdTOWc5LVlXbEJIZkpBRVozdHAxRElpdkVDN0tpQWxYa28?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 440,
+    "dup_title": 225,
+    "too_old": 156,
+    "gate1_blocked": 26,
+    "gate2_blocked": 18,
+    "passed": 15,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Tata Chemicals gets relief in ₹908 crore arbitration case, directed to pay ₹1 crore plus interest - ",
+      "Hydrocarbon Engineering Spotlight with Owens Corning - Hydrocarbon Engineering",
+      "Owens Corning (New) R (O5Q.HM) Recent Insider Transactions - Yahoo Finance - Yahoo! Finance Canada",
+      "Owens Corning (New) R (O5Q.HM) Balance Sheet - Yahoo Finance - Yahoo! Finance Canada",
+      "Gibraltar to Sell Infrastructure Business to Saint-Gobain for $208 Million - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為塔塔化工、Owens Corning、康寧相關動態：「Tata Chemicals wins arbitration relief as tribunal reject...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tata Chemicals wins arbitration relief as tribunal rejects Rs. 908 crore clai...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Did First Solar's Fall Catch You Out? What Investors Missed - Simply Wall Street（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
