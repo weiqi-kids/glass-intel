@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 32,
+  "gate2_fail": 12,
+  "passed": 20,
+  "gate2_samples": [
+    "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+    "Tata Chemicals gets relief in ₹908 crore arbitration case, directed to pay ₹1 crore plus interest - ",
+    "Owens Corning (New) R (O5Q.HM) Recent Insider Transactions - Yahoo Finance - Yahoo! Finance Canada",
+    "Owens Corning (New) R (O5Q.HM) Balance Sheet - Yahoo Finance - Yahoo! Finance Canada",
+    "Gibraltar to Sell Infrastructure Business to Saint-Gobain for $208 Million - Yahoo Finance"
+  ]
+}
