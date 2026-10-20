@@ -1,0 +1,16 @@
+{
+  "total_raw": 440,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 30,
+  "gate2_fail": 14,
+  "passed": 27,
+  "gate2_samples": [
+    "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+    "Wells Fargo Maintains Owens-Corning(OC.US) With Buy Rating, Cuts Target Price to $125 - Moomoo",
+    "Owens Corning (New) R (O5Q.HM) Recent Insider Transactions - Yahoo Finance - Yahoo! Finance Canada",
+    "A concrete vision: Saint-Gobain and Microsoft Discovery build for the future - Microsoft Source",
+    "Saint-Gobain pension strike over fair increases - industriall-union"
+  ]
+}

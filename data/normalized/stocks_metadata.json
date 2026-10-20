@@ -7,8 +7,8 @@
   },
   "solvay": {
     "earliest": "2001-06-18",
-    "latest": "2026-10-19",
-    "count": 6507,
+    "latest": "2026-10-20",
+    "count": 6508,
     "history_complete": true
   },
   "owens_corning": {
@@ -19,14 +19,14 @@
   },
   "taiwan_glass": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-19",
-    "count": 6662,
+    "latest": "2026-10-20",
+    "count": 6663,
     "history_complete": true
   },
   "agc": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-19",
-    "count": 6683,
+    "latest": "2026-10-20",
+    "count": 6684,
     "history_complete": true
   },
   "nsg": {
@@ -37,26 +37,26 @@
   },
   "xinyi_glass": {
     "earliest": "2005-02-03",
-    "latest": "2026-10-16",
-    "count": 5350,
+    "latest": "2026-10-20",
+    "count": 5351,
     "history_complete": true
   },
   "xinyi_solar": {
     "earliest": "2013-12-12",
-    "latest": "2026-10-16",
-    "count": 3163,
+    "latest": "2026-10-20",
+    "count": 3164,
     "history_complete": true
   },
   "fuyao": {
     "earliest": "2015-03-31",
-    "latest": "2026-10-16",
-    "count": 2844,
+    "latest": "2026-10-20",
+    "count": 2845,
     "history_complete": true
   },
   "saint_gobain": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-19",
-    "count": 6885,
+    "latest": "2026-10-20",
+    "count": 6886,
     "history_complete": true
   },
   "corning": {
@@ -73,14 +73,14 @@
   },
   "flat_glass": {
     "earliest": "2015-11-26",
-    "latest": "2026-10-16",
-    "count": 2682,
+    "latest": "2026-10-20",
+    "count": 2683,
     "history_complete": true
   },
   "longi": {
     "earliest": "2012-04-11",
-    "latest": "2026-10-19",
-    "count": 3525,
+    "latest": "2026-10-20",
+    "count": 3526,
     "history_complete": true
   },
   "first_solar": {
@@ -91,14 +91,14 @@
   },
   "au_optronics": {
     "earliest": "2000-09-11",
-    "latest": "2026-10-19",
-    "count": 6483,
+    "latest": "2026-10-20",
+    "count": 6484,
     "history_complete": true
   },
   "innolux": {
     "earliest": "2006-10-24",
-    "latest": "2026-10-19",
-    "count": 4899,
+    "latest": "2026-10-20",
+    "count": 4900,
     "history_complete": true
   },
   "etf_mxi": {
