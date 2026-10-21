@@ -1,0 +1,16 @@
+{
+  "total_raw": 429,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 24,
+  "gate2_fail": 17,
+  "passed": 30,
+  "gate2_samples": [
+    "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+    "Owens Corning (NYSE:OC) Cut to \"Strong Sell\" at Zacks Research - MarketBeat",
+    "BOC International Holdings Adjusts Fuyao Glass Industry Group's Price Target to HK$75 - www.marketsc",
+    "FUYAO GLASS INDUSTRY GROUP CO. LTD. UNSP ADR EACH REPR 0.25 ORD SHS(FYGGY.US) is scheduled to releas",
+    "A concrete vision: Saint-Gobain and Microsoft Discovery build for the future - Microsoft Source"
+  ]
+}

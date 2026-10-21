@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:37:04.535171Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fuyao-2026-10-21-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Profit Slides At Chinese Billionaire’s Fuyao Glass On Currency Loss - Forbes",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmF1WEJIVExUWVN1YXpwWEdSZ0NRS3Y2NEhjZm1Eb0tUM0RLVmVhRmpWRjNxUldXcGNzZGFieWV4dk5sVkQ0Z3lSZGk4S0xwdWRVQmRSN0RURG45Wkg2QnNEcm01UWh6Z2Y4T1lSY2J5VFc1a3ZQRHI0TW5PaV9yTExMcUgtUnR6a0RyaG1vSS0zUWsySmFsVFM4LTdObzlWc1RXY2hJcG4yQVZkaHFDV1VwcUl6WnhfMkotWHlqb0g?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fuyao-2026-10-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why is Fuyao Glass stock tumbling today? - Investing.com",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkZJQzAzN25uM0JIYVFOUXNQVDlaeUxkbzgtYkU5UFQ1TFpYZENVRVQ3Q2M4TmNISXVXZmhrc2ZaTk1KYkd0SmlCd0FLeUpTaWpPanZYMmhzR3M5eWZySVZ3ckVvS1pnNEF2ZGd1ZklQc1B2elhlM0lKOFZacXF3N2F5dHI2YnhGb2ZIMzZEcldsZ3EzQU1BNHZOQ3JLTnpMY21v?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-10-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank cuts target for Saint-Gobain stock to EUR 80 - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1BGM0U3bHNpcHVZd0xtYlM0UksxRmJqd2gyNTRHS0x2SmwybFp3TmlnRkcwM2NQeWF2eWlwRWdlanN5SzA2ZVh6WGVUWlRTZFNLRS1VUFd0V090QlByR0JpUGpMeUFvT0hfV2xrRUhfallzNTdiVXhsdWl2a3VveDJ0U2o2ZnVkamlNa2NUQl9seldmUWJ1WktTcGFRTHFoUFhxcHYwWGlhUXRwZXBKNVFKQmpnUVlYQ2xhMEpn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-10-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Transport giant buys Australia’s first solar-powered battery-electric refrigeration unit after 1,671 km freight trial - The Driven",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU2hOVjFsMkFPeVl0R1hKU0FTRGtYMkMzUEVDYUEyNV9iVU5pN0RIbWxnTlg2RGFCR2diZkR5RDJLNTczc2xTZjhLeU40UlhBdVNVbmVDM0hPMHhiMm9CMV9seU92RHBkZWFIQ182Zzd3TkJRT2YxV21OYk4wTkZYeTVKeERfOGxQLTdsQlZId1YtalAyRHJXeWlFWFkzejRJZUFacFhTc2JHdkJxd3pfdUNGQkxLZWhlZHM1R19DdjYzTEVwNU5XeEdPU3lLSTRZWUN5RVZJTXBGMzZZbmdhS1V3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-10-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar (FSLR) Draws Mixed Valuation Attention, Is It Still Below Fair Value? - Simply Wall Street",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbDBYbTRqVW11b21kdHlYVFdPeGxVWl93VmVYNzRGR202YWx1enh5UXRBcEF2OHFGcGI4eTAyemxHRjJ3Q3VaWUVCd0dzaUNlQzVWalozOENZOS01OEFVM3Q5a1VRQVREMElfcTVndlFpZDdzWERlRUxVQXRlc0Q2dmlZalJaZVVCX1pmX3VPVGxza0Q3ZmpNXzhOWW5NOE9HV3lfTG9SN0tZejdkVjZraFdwTEJxeDVfcVUzZlVtVHZtWGNLc2xNRUtYb2x6R0phbFHSAdcBQVVfeXFMTXRta3BkcXBrenlLeno3Y2JzaHZfbTRaSUE0MEZPRVNWTTZRcnByWUVINmJ4REFib3hSdGlFUGstLXBGMlpiNFMwNk1YZUdoUDBrRS1tWmt3VFVPUjVQZkFTbVBOTmlCY3hfdS0tMk9jRUVBN1BEUWg4ZzdvaDFWNnhQcm0zdGJUbzdnZHZXZ0FfalMzdmlWWnkxaXlIeGY5Ml9aSzFDeFBvTFN2dDZhWVI3X3c5STlVOFNiLWFLMU5MSzdVc3dWYi1jNEtLN0dKblROUFhZeU0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "fuyao",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "solar_glass_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 429,
+    "dup_title": 193,
+    "too_old": 165,
+    "gate1_blocked": 24,
+    "gate2_blocked": 17,
+    "passed": 30,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+      "Owens Corning (NYSE:OC) Cut to \"Strong Sell\" at Zacks Research - MarketBeat",
+      "BOC International Holdings Adjusts Fuyao Glass Industry Group's Price Target to HK$75 - www.marketsc",
+      "FUYAO GLASS INDUSTRY GROUP CO. LTD. UNSP ADR EACH REPR 0.25 ORD SHS(FYGGY.US) is scheduled to releas",
+      "A concrete vision: Saint-Gobain and Microsoft Discovery build for the future - Microsoft Source"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為福耀玻璃、First Solar、聖戈班相關動態：「Profit Slides At Chinese Billionaire’s Fuyao Glass On Cur...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Profit Slides At Chinese Billionaire’s Fuyao Glass On Currency Loss - Forbes（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Why is Fuyao Glass stock tumbling today? - Investing.com（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
