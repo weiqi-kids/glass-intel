@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 23,
+  "gate2_fail": 16,
+  "passed": 28,
+  "gate2_samples": [
+    "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+    "Tata Chemicals says Mumbai Centre for International Arbitration Tribunal directs co to pay 10 millio",
+    "Peak Roofing Holds Dual Owens Corning and GAF Certification for Glens Falls, NY Roofing Work - Democ",
+    "JPMorgan Adjusts Fuyao Glass Industry's Price Target to HK$50 - www.marketscreener.com",
+    "JP Morgan Adjusts Fuyao Glass Industry Group's Price Target to 50 Yuan - www.marketscreener.com"
+  ]
+}
