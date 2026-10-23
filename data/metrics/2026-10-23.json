@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-23",
+  "total_events": 6,
+  "by_company": {
+    "corning": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "owens_corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "xinyi_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:14:42.071170Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_glass-2026-10-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Citi Cuts Xinyi Glass Target Price to HK$8.1, Flags Natural Gas Cost Squeeze in Second Half - BigGo Finance",
+      "companies": [
+        "xinyi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wUEYyX091d2g3NmwtRlNaTVVHZGhxSlZIc1BmdU5rTmNvTXZIOEZxX3VqdTFneW5WSlRnWFpHOFAtQ3BTa0FuTDJUOFFOSktqMWw4Mk13MUc4X2RFaVVDQ29jak1nRl90dmE3bGZBeVgxd2hqcmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-10-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain accelerates its growth in Egypt with the opening of two new production capacities - glassonweb.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcEZmdURZV1lGaGNuSG40RU01azhUWTAxa3BWdHNhWTBOdUtHdS0xY0p3Qk1HSDFOWHNTTXY3YVhRNGVMdkVqdTlrNG5wVW5IREw0YUxJZ3RsdzRRUmx6bjlneUU4RTlEamg2bUdUenI1a1RqRTBnQ053cl9uZlhabnFZUUt2aUNVdEpXejhaTHlYNXctb25ybXUxQVBUZF9KQ2diZlhrT0gzUkVqZjE3U0ZqZ0p0Rm8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tesla Q4 numbers, more product delays, and some REAL EV charging innovation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://electrek.co/2026/10/22/tesla-q4-numbers-more-product-delays-and-some-real-ev-charging-innovation/"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-10-23-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Owens Corning stock: Wells Fargo cuts target for Owens Corning stock to USD 125.00 - AD HOC NEWS",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMFpkTWU1amU5a0dod2ZxNVlWRHk4VHdPU21oRjFVREt5V1F0eUZ5QjE5QW5wcVJhaFBCNXlIbDMyZ1dhSmlHTTFsaWxaVmhheHhHbVN2R1g4UzFiOUNod3BFcFBHNVZNVEhqU01lekx0YlpmWGpoRTlhTTRsWmc2UGFxZVF6dnFzNG5UX0RkRWVSQzVLWHM4SDI5S2NSQThWUUUzNTktOGxjSTUxRVBtOEN3RGE4TWljR0M0Wlk1eWkxdTFPYjNETWkwdk5kMkJlWDRtdEt1Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-10-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saint-Gobain India Names Chandrashekhar Chettiar As New CISO - APAC Media",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUFuZ1djZ01yRFdtU0U2YXVvci1pelRGc1BnZnp4eFRNNnFLZmZvaDZPa191a1pMdlhnYjdKSzZkejVZczFGdDFpdEdtOUZmYkJlaE1vcjRReHhRM3hBNkFpcWxndUFFYUtyS0M2VWd5cGE5ZGlaZVBPaGRjWkFKc2FfVGltMHpEenRLdmVqeXJYSEhiSG8wOExBR3BXQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "xinyi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 430,
+    "dup_title": 211,
+    "too_old": 157,
+    "gate1_blocked": 25,
+    "gate2_blocked": 21,
+    "passed": 16,
+    "pass_rate": "7.3%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "SCR- Sibelco NV - Reuters",
+      "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+      "JPMorgan Adjusts Fuyao Glass Industry's Price Target to HK$50 - www.marketscreener.com",
+      "JP Morgan Adjusts Fuyao Glass Industry Group's Price Target to 50 Yuan - www.marketscreener.com",
+      "BOC International Holdings Adjusts Fuyao Glass Industry Group's Price Target to HK$75 - www.marketsc"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為康寧、聖戈班、Owens Corning相關動態：「Citi Cuts Xinyi Glass Target Price to HK$8.1, Flags Natur...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Citi Cuts Xinyi Glass Target Price to HK$8.1, Flags Natural Gas Cost Squeeze ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Saint-Gobain accelerates its growth in Egypt with the opening of two new prod...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

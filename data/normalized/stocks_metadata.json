@@ -1,14 +1,14 @@
 {
   "tata_chemicals": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6687,
+    "latest": "2026-10-23",
+    "count": 6688,
     "history_complete": true
   },
   "solvay": {
     "earliest": "2001-06-18",
-    "latest": "2026-10-22",
-    "count": 6510,
+    "latest": "2026-10-23",
+    "count": 6511,
     "history_complete": true
   },
   "owens_corning": {
@@ -25,8 +25,8 @@
   },
   "agc": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-22",
-    "count": 6686,
+    "latest": "2026-10-23",
+    "count": 6687,
     "history_complete": true
   },
   "nsg": {
@@ -37,26 +37,26 @@
   },
   "xinyi_glass": {
     "earliest": "2005-02-03",
-    "latest": "2026-10-22",
-    "count": 5353,
+    "latest": "2026-10-23",
+    "count": 5354,
     "history_complete": true
   },
   "xinyi_solar": {
     "earliest": "2013-12-12",
-    "latest": "2026-10-22",
-    "count": 3166,
+    "latest": "2026-10-23",
+    "count": 3167,
     "history_complete": true
   },
   "fuyao": {
     "earliest": "2015-03-31",
-    "latest": "2026-10-22",
-    "count": 2847,
+    "latest": "2026-10-23",
+    "count": 2848,
     "history_complete": true
   },
   "saint_gobain": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6888,
+    "latest": "2026-10-23",
+    "count": 6889,
     "history_complete": true
   },
   "corning": {
@@ -73,14 +73,14 @@
   },
   "flat_glass": {
     "earliest": "2015-11-26",
-    "latest": "2026-10-22",
-    "count": 2685,
+    "latest": "2026-10-23",
+    "count": 2686,
     "history_complete": true
   },
   "longi": {
     "earliest": "2012-04-11",
-    "latest": "2026-10-22",
-    "count": 3528,
+    "latest": "2026-10-23",
+    "count": 3529,
     "history_complete": true
   },
   "first_solar": {

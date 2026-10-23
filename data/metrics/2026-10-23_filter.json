@@ -1,0 +1,16 @@
+{
+  "total_raw": 430,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 25,
+  "gate2_fail": 21,
+  "passed": 16,
+  "gate2_samples": [
+    "SCR- Sibelco NV - Reuters",
+    "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+    "JPMorgan Adjusts Fuyao Glass Industry's Price Target to HK$50 - www.marketscreener.com",
+    "JP Morgan Adjusts Fuyao Glass Industry Group's Price Target to 50 Yuan - www.marketscreener.com",
+    "BOC International Holdings Adjusts Fuyao Glass Industry Group's Price Target to HK$75 - www.marketsc"
+  ]
+}
