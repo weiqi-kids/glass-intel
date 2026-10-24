@@ -1,0 +1,16 @@
+{
+  "total_raw": 432,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 28,
+  "gate2_fail": 21,
+  "passed": 17,
+  "gate2_samples": [
+    "SCR- Sibelco NV - Reuters",
+    "Tata Chemicals says Kenya High Court has no jurisdiction over TCML dispute - The Economic Times",
+    "Tata Chemicals Weighs Legal Options After Kenya High Court Rules on Jurisdiction Dispute - CNBC TV18",
+    "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+    "Peak Roofing Holds Dual Owens Corning and GAF Certification for Glens Falls, NY Roofing Work - Democ"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:32:17.556275Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-10-24-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "How Investors May Respond To Owens Corning (OC) Weaker Earnings Outlook - Simply Wall Street",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV3p3UEozc3ZtRm1SSXpRSXZuZXVPT2pPbWpfVkExUGE4WlNnZWdFRHBOWmVNZ3c1MnJjS1RUZzZVR2Z6NlRXWHVvTWFJYWRSM21QSWo2WFFTaEJ3UkhUMWNOeW0tNC14LUdUX3RvcjJmSWxmdTdHSVdDbl9zekw5LVFhZ1lnSmMzTlZuV3BZSkV1QjNVTXJOWEVSYl80SGVRN3EzZ1o4UGxSdHpzYWJKdkJkRlliQnpJY0ZMTFlGSVZ0T2s0OXFFN043dklSd9IB0wFBVV95cUxOdTRWV3Y1VU8zVmhPYU1VNkxyei1oYjhiUUFBa2x6RzduQjJmRlQwckoxeWhvTjVsamJmYW93TzhNbGdSWDN1MXhsd3Q4VTZXTVZJcktnbW8tRncwLThKVkRCeG5xcHYxU2lXVUU3a01vQ25aYWY5dXY3MlU0UEZnb1BOMEp2X3JaaUM4N00wdnJkLW56LXRNWW13ek5JamlDRUJ1VEVoNExxWHhCTHZCTENrVVdoT1Y5QnkwNXJDSXBnUW9DS1owc2FSQnJxUmdYQjIw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-10-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals gets relief in Kenya dispute as High Court rules it lacks jurisdiction - Business Today",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnJ3NXZhSEJiem1WUE1IQzY4UWRQMEZ5cks5R3FSRmdVUTE4R0RjRlFvNkdPRVNxM0pEUzl3T0d0djN1bHcxOEdiSC1mZWZWSmltSU1VQmZ1ZVlJdWtJWnBGVWJxR2pIWnJVTmFnWlkxd3VwRC12cUVBak96WTc2UElYeFYyUDU0WHBhczJMVEZiZWYwT3dtemRGbU9lNFliaUtHMXc0LU9LdVI3blV0TVhCWEZpbm9SQ2JJT3AtaURHdWtpWGxySnhkek15ZEtqRmNEdXdLa3BaWFNsVzM4N0lHTDROUTFKQlgw0gHwAUFVX3lxTE1VN0R6cFlfWjFPTkc4RWYzSDlKWTEwRjlMWmZDeWdGbGFVNDlWUEpVRmpQT21yTE10dU1EeHJnd3JuU0tCakpNU0ltOEJkeW04WUVVbzg0VG5xWkRaYUNqLTNjWnF5VEJZQXdRcmttTVBmZzZqWmFzTUIzYVM3YWNGb0xfUS05WUd3SWVaUjYwVmctSVpza3h2UFpxLTNSTlNMSUVwQ1VfMHVPcEROV0plM0doS0VhcjNjLXFFVXAxVDF1RHg5ZEhhR1dqWDNYSGJoR1VrSEZnNVViejBiZTAtaF93czZGR016VXFTOWM1Vg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-10-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals says Kenya High Court lacks jurisdiction over TCML dispute amid Magadi operations row - Moneycontrol.com",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY0xVY0xZaTZuelpVTXc3ejlENjVYQ0pDcmpONS04ZjZKQ2tEX1Q2WEt5UDlEbEdGMVVBSmlmZWRhQ0xtZXI4RGxzZ1VzRnY5anRNZ2tMNkVwVm1NS0YyTGhSemNJSzY1cHQ1a29mUkZfbmp3VHhDV2FTRmxhc285SW1SWlRBOTU2eDRobW5HWG10a045dEFqME1CUW85MVlocGlDdTVwTk0xejZGdmYyUEdmN1FNUDVHeEEtQWI5MlctZ1F6MzZBUzVnMTFkQmlZZzVMcnZoZmZNUDhrYTFZMVdWVGhWLXRDSXdmd1BGM0VaZ2vSAfMBQVVfeXFMTWNMVWNMWWk2bnpaVU13N3o5RDY1WENKQ3JqTjUtOGY2SkNrRF9UNlhLeVA5RGxHRjFVQUppZmVkYUNMbWVyOERsc2dVc0Z2OWp0TWdrTDZFcFZtTUtGMkxoUnpjSUs2NXB0NWtvZlJGX25qd1R4Q1dhU0ZsYXNvOUltUlpUQTk1Nng0aG1uR1htdGtOOXRBajBNQlFvOTFZaHBpQ3U1cE5NMXo2RnZmMlBHZjdRTVA1R3hBLUFiOTJXLWdRejM2QVM1ZzExZEJpWWc1THJ2aGZmTVA4a2ExWTFXVlRoVi10Q0l3ZndQRjNFWmdr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_glass-2026-10-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Glass Holdings Limited Estimates – HKEX:868 - TradingView",
+      "companies": [
+        "xinyi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zTV9fVTYwYmQ4Z0VTMC0xZmdnZGtUaE12OS1DT0o0UFpZWHFlTmpwSTRrOHpXb0FQYkNBRWtfTkpUb1Bad05uUEZQS196cFpRR2ZtYlhVOVFuNUN1b3lVN1ZUZ05VRG43MjltRGdnNGRhbml0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "xinyi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 205,
+    "too_old": 161,
+    "gate1_blocked": 28,
+    "gate2_blocked": 21,
+    "passed": 17,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "SCR- Sibelco NV - Reuters",
+      "Tata Chemicals says Kenya High Court has no jurisdiction over TCML dispute - The Economic Times",
+      "Tata Chemicals Weighs Legal Options After Kenya High Court Rules on Jurisdiction Dispute - CNBC TV18",
+      "Tribunal tosses ₹908 crore claim against Tata Chemicals in arbitration ruling - Indiatimes",
+      "Peak Roofing Holds Dual Owens Corning and GAF Certification for Glens Falls, NY Roofing Work - Democ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為塔塔化工、Owens Corning、康寧相關動態：「How Investors May Respond To Owens Corning (OC) Weaker Ea...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "How Investors May Respond To Owens Corning (OC) Weaker Earnings Outlook - Sim...（財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "Tata Chemicals gets relief in Kenya dispute as High Court rules it lacks juri...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
