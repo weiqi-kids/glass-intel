@@ -1,0 +1,13 @@
+{
+  "total_raw": 43,
+  "dup_title": 11,
+  "no_date": 0,
+  "too_old": 6,
+  "gate1_fail": 24,
+  "gate2_fail": 2,
+  "passed": 0,
+  "gate2_samples": [
+    "Commercial groundbreakings plunged 18% in September",
+    "Data center sustainability presents an opportunity, USGBC official says"
+  ]
+}
