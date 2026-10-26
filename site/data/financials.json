@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T13:07:48.392964Z",
-  "quarter": "2026-03-31, 2026-06-30",
+  "updated_at": "2026-10-26T15:00:37.171337Z",
+  "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "agc",
@@ -92,17 +92,17 @@
       "name": "福耀玻璃",
       "ticker": "3606.HK",
       "currency": "HKD",
-      "ar": 7730312168,
-      "ar_prev": 6360195689,
-      "ar_qoq": "+22%",
+      "ar": 7617768223,
+      "ar_prev": 7730312168,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 7039887980,
-      "inv_prev": 6746154078,
-      "inv_qoq": "+4%",
+      "inventory": 7442016630,
+      "inv_prev": 7039887980,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "innolux",

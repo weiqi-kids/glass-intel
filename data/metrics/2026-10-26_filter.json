@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 29,
+  "gate2_fail": 20,
+  "passed": 28,
+  "gate2_samples": [
+    "SCR- Sibelco NV - Reuters",
+    "Peak Roofing Holds Dual Owens Corning and GAF Certification for Glens Falls, NY Roofing Work - Democ",
+    "AGC Inc. Estimates – TSE:5201 - TradingView",
+    "Nippon Sheet Glass Co., Ltd. Estimates – OTC:NPSGY - TradingView",
+    "Xinyi Solar Holdings Ltd Unsponsored ADR Estimates – GETTEX:13X0 - TradingView"
+  ]
+}

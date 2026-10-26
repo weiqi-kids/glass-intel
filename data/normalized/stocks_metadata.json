@@ -1,20 +1,20 @@
 {
   "tata_chemicals": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-23",
-    "count": 6688,
+    "latest": "2026-10-26",
+    "count": 6689,
     "history_complete": true
   },
   "solvay": {
     "earliest": "2001-06-18",
-    "latest": "2026-10-23",
-    "count": 6511,
+    "latest": "2026-10-26",
+    "count": 6512,
     "history_complete": true
   },
   "owens_corning": {
     "earliest": "2006-11-01",
-    "latest": "2026-10-23",
-    "count": 5025,
+    "latest": "2026-10-26",
+    "count": 5026,
     "history_complete": true
   },
   "taiwan_glass": {
@@ -37,56 +37,56 @@
   },
   "xinyi_glass": {
     "earliest": "2005-02-03",
-    "latest": "2026-10-23",
-    "count": 5354,
+    "latest": "2026-10-26",
+    "count": 5355,
     "history_complete": true
   },
   "xinyi_solar": {
     "earliest": "2013-12-12",
-    "latest": "2026-10-23",
-    "count": 3167,
+    "latest": "2026-10-26",
+    "count": 3168,
     "history_complete": true
   },
   "fuyao": {
     "earliest": "2015-03-31",
-    "latest": "2026-10-23",
-    "count": 2848,
+    "latest": "2026-10-26",
+    "count": 2849,
     "history_complete": true
   },
   "saint_gobain": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-23",
-    "count": 6889,
+    "latest": "2026-10-26",
+    "count": 6890,
     "history_complete": true
   },
   "corning": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-23",
-    "count": 6743,
+    "latest": "2026-10-26",
+    "count": 6744,
     "history_complete": true
   },
   "oi_glass": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-23",
-    "count": 6743,
+    "latest": "2026-10-26",
+    "count": 6744,
     "history_complete": true
   },
   "flat_glass": {
     "earliest": "2015-11-26",
-    "latest": "2026-10-23",
-    "count": 2686,
+    "latest": "2026-10-26",
+    "count": 2687,
     "history_complete": true
   },
   "longi": {
     "earliest": "2012-04-11",
-    "latest": "2026-10-23",
-    "count": 3529,
+    "latest": "2026-10-26",
+    "count": 3530,
     "history_complete": true
   },
   "first_solar": {
     "earliest": "2006-11-17",
-    "latest": "2026-10-23",
-    "count": 5013,
+    "latest": "2026-10-26",
+    "count": 5014,
     "history_complete": true
   },
   "au_optronics": {
@@ -103,14 +103,14 @@
   },
   "etf_mxi": {
     "earliest": "2006-09-22",
-    "latest": "2026-10-23",
-    "count": 5053,
+    "latest": "2026-10-26",
+    "count": 5054,
     "history_complete": true
   },
   "etf_tan": {
     "earliest": "2008-04-15",
-    "latest": "2026-10-23",
-    "count": 4662,
+    "latest": "2026-10-26",
+    "count": 4663,
     "history_complete": true
   }
 }
