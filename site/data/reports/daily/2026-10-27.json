@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:14:21.650701Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-27-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "High Court declines to hear suit on Tata Magadi permit suspension - Business Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHZ1cmw4Y2xLamVGMTNZeEQtaDZyS2JSLTQ5eXJJYkY2X0lnOWVoOTdvQmxrNmxJQ3BLQUpVbFp2cEQ1bUY3WlRXdlNaRFoxS083QThCeWkwd083OWZiWUhNc0NrV0JVaGdaTWxQODZ4Rk9LQmlsMmVidGVHT2MyQnpGX0U4Z2xUeDA4R21rdmxXa1NaUVJqNHhZTExPSklOXzhYdTFJSnIxV090UWFBUV90WUFuSjZ3Vk5ZNGJ1OXFQS1p3UkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Xinyi Automobile Glass Company to raise up to US$700 million in HK IPO next year, IFR reports - The Standard (HK)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa3BmWW5OSXRCRTVwZ3NRWW41dFAxQ2RrSUhsem01SDJBd2hNXzBQZWtYNlJGVno4bzBvenp3bmtLazJFdkh3UzV1enpidDdZZmxzV0hhWWw4Z3pyUnVCTDB4c1NnRE5XUVN0U29INjNnMmlHRDZjUkxCX3hZTWp5YldYRG0xOTRkQVlmSk9VSDE0dS1MejVNZ3lLZXRNVmhMdlV6bmtCNTd0SFhnZFBjR0hEOGtETVplaWdZTVJ2cXd2MFZNeVZTN2E1dnMzSzNQNlJHVGVUTUJNOHZaSEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oi_glass-2026-10-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass (OI) Set to Report Q3 Earnings Amidst Challenging Valu - GuruFocus",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVNHTHEyQTc2SGlWV1dIWXgwR080ak5EN1R4RE5OMHJNME1MdFpIa3otQU0zRFZ6WVpJdzg5Y28tMU51VGtUNE9JR3k5cE4yYXJtSnBpVkFRcUlVNzhxakFpTERxbkNVY09Vc3hlMWlOakNuTnFyZFFqZmpRMDU2Qk9oMDlLeGRVZVZmeW9VdnZYei1hLVZEeTRzN3k3TzFVeXRYcWVHcHFUaVRCcGxtbkVDenlTZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "oi_glass-2026-10-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "O-I Glass Q3 2026 Earnings Date and Estimates - MarketBeat",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3dTaTFjQ2JXcVVZS0hWS1NRVUFqNXJMcGlrbnoyaTM0eTJ2VlQ3cHNZeS1WN3E5dUhMV2dGb0NzRXhwQ2IyTHFVRGRXV01mVkpVdWw0d2hteVg3dHNzMGRrTTFGaHdHSUowR2dlX0R2OUIyUldHT2txS2JqbFRLUA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-10-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar to Release Q3 Earnings: Here's What to Expect - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWppUEJDNDZGaTBNeGp0M1phSk9pQktVUzNwU25VSlV1UWl0akxFbXRDT1RHN3lac3RjbkVMTkdlUFkyeEtpa2RRTTM4Vng4RTdvNkhjay1MaWpNMVV1QTlkR2xweEhDUzJtWFM0QVpXNUt4d09sMmpKRE1kVHNSaVRjQTZ1cWd6eUJrSWd2MEVxSUpfa2gzRzJ6VHI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.19,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 174,
+    "too_old": 185,
+    "gate1_blocked": 31,
+    "gate2_blocked": 9,
+    "passed": 27,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Noel Tata renews challenge to Chandrasekaran’s reappointment, questions Tata Sons board voting and c",
+      "Owens Corning Inc $OC Shares Sold by RWC Asset Management LLP - MarketBeat",
+      "AGC Inc. Estimates – TSE:5201 - TradingView",
+      "Nippon Sheet Glass Co., Ltd. Estimates – OTC:NPSGY - TradingView",
+      "Xinyi Solar Holdings Ltd Unsponsored ADR Estimates – GETTEX:13X0 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為O-I Glass、First Solar、Owens Corning相關動態：「High Court declines to hear suit on Tata Magadi permit su...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "High Court declines to hear suit on Tata Magadi permit suspension - Business ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Xinyi Automobile Glass Company to raise up to US$700 million in HK IPO next y...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

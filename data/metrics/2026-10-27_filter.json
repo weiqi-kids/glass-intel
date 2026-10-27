@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 185,
+  "gate1_fail": 31,
+  "gate2_fail": 9,
+  "passed": 27,
+  "gate2_samples": [
+    "Noel Tata renews challenge to Chandrasekaran’s reappointment, questions Tata Sons board voting and c",
+    "Owens Corning Inc $OC Shares Sold by RWC Asset Management LLP - MarketBeat",
+    "AGC Inc. Estimates – TSE:5201 - TradingView",
+    "Nippon Sheet Glass Co., Ltd. Estimates – OTC:NPSGY - TradingView",
+    "Xinyi Solar Holdings Ltd Unsponsored ADR Estimates – GETTEX:13X0 - TradingView"
+  ]
+}
