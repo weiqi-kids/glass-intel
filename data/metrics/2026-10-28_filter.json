@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 33,
+  "gate2_fail": 13,
+  "passed": 60,
+  "gate2_samples": [
+    "AGC Inc. Estimates – TSE:5201 - TradingView",
+    "Nippon Sheet Glass Co., Ltd. Estimates – OTC:NPSGY - TradingView",
+    "Saint-Gobain : Receives a Buy rating from Berenberg - www.marketscreener.com",
+    "Saint-Gobain : Receives a Buy rating from Jefferies - marketscreener.com",
+    "Saint-Gobain withstands turbulence and confirms its ambitions for 2026 - www.marketscreener.com"
+  ]
+}
