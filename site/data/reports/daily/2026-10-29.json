@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:04:36.694730Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-10-29-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "First Solar Opens $330M South Carolina Plant, Targets 3.4 GW Capacity by 2027 - Yahoo Finance",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd19keVZjMGJkZ3hjX1Z6WWNuQUI1MlRNUm1FckpWUl9CSmlVQ3dSenVDWC1BMUV0LXpnNUVDTWQ0b3ZYbTlDOVNpS1AzV1Z5VXhEdmNwYjJYOWt3SlpxWllfa0dJOGFhZHh2TWM0cjU0clJ3blpvcFF5Q0dYSkY4YWU0VkliNmViMlBFNFFn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-10-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lake Magadi: Inside Ruto’s plan to bring 4 investors after ordering Tata Chemicals to ‘pack up and leave’ - People Daily",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3JnU2FYM2p5UFZVelRJbzVuOE93dHNMaGd1M29sbExyODdBRVBjUnNoeFlMMVNRbDdUYktyZEhHNVZURS11Tk5odkV3YWJHQ1VUR1Fjblk2WEdfTWllblk0VHRXdnc2Zk5oUnlFWEpwT1Q3NFdiS2RmblhLTlEtRkZKWGtqRE9fSUpWTXV5cnF3cGh5Sld4NHYtYjAzdHNFcGFlUWt6dHYtSmRUUVZwU2hIQWhtcGJGOUI0a2gxVlczWmxkMlotejl1ZE5vX3phR01Xaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-10-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "COP31: Saint-Gobain sparks a conversation on building resilience - Saint-Gobain",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW1Xc0I5S3hYelJhMXVzeTFlanlfaWRYc0hGUGI3QzVlbXJvQ1h4R3FabzhkMmNoYXNzeDVyMEVpR21LdWVsR1pacXlXdS1PU3ZPazFsdWM0U3lsWEFpd3RGOWRscWhiaWVYUFlzczluVTRTX2J6WU0tOWs5UEJxWjdJQ1hKN2RXc2xVMUZUS3QtOU55YS1yTTE2UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "oi_glass-2026-10-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What O-I Glass (OI) Said on Its Q3 Earnings Call - MarketBeat",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRjJaU0JTeHdTTHN4YkFTRWx2SWFhSElaUlowT2NHdTZoeWVVZWIwcXJOM2lNQVNfU2VhZVFWT010bWJrZ1BXX3B3U0x1MjhtX3AwSG1nay1nSzZ5d3hKVUxfNTBaUWJIR3FmckJKOE0xSnllOUgxcnhleXJFV05jUm5WdWVndHVZQW9qcFlsUmdnazFtNlV0LVR4aTMxbGFlWnVnWmZMcGhmSDRLMndXbA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-10-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar inaugurates 1.7GW initial phase of South Carolina module manufacturing facility - PV Tech",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajE4ZEtQN1J5ZlpGbEtYUno2bEo0WVRrbzY5X016QS0wb2xpM3JzNFB1S3hLajFjVFZxRzEwQUVQVlIyOHlzNDB1MC03YnZOYVNleGdjNkNZRktPWFAxRThrNDBQcE8wbElIdEcya2ZKajdHR2JtU2hlcmVWMzkwMUQ1Vk55LW1XNkVVcEJjd3c1aWxIWDhBSkREV2ZWcTBoSjI5ZFVkUU8zMU5vVTE4NTNqWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 6
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 449,
+    "dup_title": 183,
+    "too_old": 180,
+    "gate1_blocked": 31,
+    "gate2_blocked": 17,
+    "passed": 38,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Noel Tata renews challenge to Chandrasekaran’s reappointment, questions Tata Sons board voting and c",
+      "Owens Corning Inc $OC Shares Sold by RWC Asset Management LLP - MarketBeat",
+      "AGC Inc. Estimates – TSE:5201 - TradingView",
+      "Nippon Sheet Glass : Showcasing Advanced Reinforcement and Sustainable Adhesion Technologies at IRC2",
+      "Nippon Sheet Glass Company, Limited Estimates – LSX:864743 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為First Solar、塔塔化工、Owens Corning相關動態：「First Solar Opens $330M South Carolina Plant, Targets 3.4...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "First Solar Opens $330M South Carolina Plant, Targets 3.4 GW Capacity by 2027...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Lake Magadi: Inside Ruto’s plan to bring 4 investors after ordering Tata Chem...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

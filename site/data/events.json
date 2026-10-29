@@ -1,5 +1,241 @@
 [
   {
+    "id": "tata_chemicals-2026-10-29-001",
+    "date": "2026-10-29",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lake Magadi: Inside Ruto’s plan to bring 4 investors after ordering Tata Chemicals to ‘pack up and leave’ - People Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3JnU2FYM2p5UFZVelRJbzVuOE93dHNMaGd1M29sbExyODdBRVBjUnNoeFlMMVNRbDdUYktyZEhHNVZURS11Tk5odkV3YWJHQ1VUR1Fjblk2WEdfTWllblk0VHRXdnc2Zk5oUnlFWE",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3JnU2FYM2p5UFZVelRJbzVuOE93dHNMaGd1M29sbExyODdBRVBjUnNoeFlMMVNRbDdUYktyZEhHNVZURS11Tk5odkV3YWJHQ1VUR1Fjblk2WEdfTWllblk0VHRXdnc2Zk5oUnlFWEpwT1Q3NFdiS2RmblhLTlEtRkZKWGtqRE9fSUpWTXV5cnF3cGh5Sld4NHYtYjAzdHNFcGFlUWt6dHYtSmRUUVZwU2hIQWhtcGJGOUI0a2gxVlczWmxkMlotejl1ZE5vX3phR01Xaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-10-29-002",
+    "date": "2026-10-29",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Owens Corning Inc $OC Shares Newly Bought by Beacon Bank & Trust - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWlHM2pOdmxPZjZlQU12a0VWdmZpU3g0MVVwa0lIeDJOLVZrMDhIRUlRVUZ2dnIwRWo4YVFZSm9LS2lZbC1EUEZ4QTI0Wnh5TUJZWHZTY0F1Z0NmeXJQd3lxUlBQT0pmYzl4WXVhNl",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWlHM2pOdmxPZjZlQU12a0VWdmZpU3g0MVVwa0lIeDJOLVZrMDhIRUlRVUZ2dnIwRWo4YVFZSm9LS2lZbC1EUEZ4QTI0Wnh5TUJZWHZTY0F1Z0NmeXJQd3lxUlBQT0pmYzl4WXVhNllyWExBSDBUQUZHaGk2QkNic2ZabDZRODViNy13R1FTWUFmN3FlTkpBSVRHNU9pS1JNa1hCZFlQeWNIbGxXS3VEMmdiZmhGREplenZnNkdJbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-29-003",
+    "date": "2026-10-29",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "construction_activity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "COP31: Saint-Gobain sparks a conversation on building resilience - Saint-Gobain",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW1Xc0I5S3hYelJhMXVzeTFlanlfaWRYc0hGUGI3QzVlbXJvQ1h4R3FabzhkMmNoYXNzeDVyMEVpR21LdWVsR1pacXlXdS1PU3ZPazFsdWM0U3lsWEFpd3RGOWRscWhiaWVYUFlzcz",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW1Xc0I5S3hYelJhMXVzeTFlanlfaWRYc0hGUGI3QzVlbXJvQ1h4R3FabzhkMmNoYXNzeDVyMEVpR21LdWVsR1pacXlXdS1PU3ZPazFsdWM0U3lsWEFpd3RGOWRscWhiaWVYUFlzczluVTRTX2J6WU0tOWs5UEJxWjdJQ1hKN2RXc2xVMUZUS3QtOU55YS1yTTE2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-29-004",
+    "date": "2026-10-29",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What O-I Glass (OI) Said on Its Q3 Earnings Call - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRjJaU0JTeHdTTHN4YkFTRWx2SWFhSElaUlowT2NHdTZoeWVVZWIwcXJOM2lNQVNfU2VhZVFWT010bWJrZ1BXX3B3U0x1MjhtX3AwSG1nay1nSzZ5d3hKVUxfNTBaUWJIR3FmckJKOE",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRjJaU0JTeHdTTHN4YkFTRWx2SWFhSElaUlowT2NHdTZoeWVVZWIwcXJOM2lNQVNfU2VhZVFWT010bWJrZ1BXX3B3U0x1MjhtX3AwSG1nay1nSzZ5d3hKVUxfNTBaUWJIR3FmckJKOE0xSnllOUgxcnhleXJFV05jUm5WdWVndHVZQW9qcFlsUmdnazFtNlV0LVR4aTMxbGFlWnVnWmZMcGhmSDRLMndXbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-29-005",
+    "date": "2026-10-29",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Solar cuts ribbon on USD-330m S Carolina module factory - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGlZTlhreTRlbUIyVlVfVG5yV3N3dkFia1ZrSTdFa1VoMFBncWJyc2tpeHFqT3pZb3RBQTlCN0ZFalc3Nzd3c3lkWURrbExYSk1PS19vVHNzMEZGcjBWam9wU0piaF8ta1FPUkdvd3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGlZTlhreTRlbUIyVlVfVG5yV3N3dkFia1ZrSTdFa1VoMFBncWJyc2tpeHFqT3pZb3RBQTlCN0ZFalc3Nzd3c3lkWURrbExYSk1PS19vVHNzMEZGcjBWam9wU0piaF8ta1FPUkdvd3pVdVgtLWhnOVpaZlpjVnpXOGJ2RXNmWnhrZExpbG5YbDdqaUlFMkZQS3FiV0FGX1czLXVJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-29-006",
+    "date": "2026-10-29",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar inaugurates 1.7GW initial phase of South Carolina module manufacturing facility - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQajE4ZEtQN1J5ZlpGbEtYUno2bEo0WVRrbzY5X016QS0wb2xpM3JzNFB1S3hLajFjVFZxRzEwQUVQVlIyOHlzNDB1MC03YnZOYVNleGdjNkNZRktPWFAxRThrNDBQcE8wbElIdEcya2",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajE4ZEtQN1J5ZlpGbEtYUno2bEo0WVRrbzY5X016QS0wb2xpM3JzNFB1S3hLajFjVFZxRzEwQUVQVlIyOHlzNDB1MC03YnZOYVNleGdjNkNZRktPWFAxRThrNDBQcE8wbElIdEcya2ZKajdHR2JtU2hlcmVWMzkwMUQ1Vk55LW1XNkVVcEJjd3c1aWxIWDhBSkREV2ZWcTBoSjI5ZFVkUU8zMU5vVTE4NTNqWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-29-007",
+    "date": "2026-10-29",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Opens $330M South Carolina Plant, Targets 3.4 GW Capacity by 2027 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd19keVZjMGJkZ3hjX1Z6WWNuQUI1MlRNUm1FckpWUl9CSmlVQ3dSenVDWC1BMUV0LXpnNUVDTWQ0b3ZYbTlDOVNpS1AzV1Z5VXhEdmNwYjJYOWt3SlpxWllfa0dJOGFhZHh2TWM0cj",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd19keVZjMGJkZ3hjX1Z6WWNuQUI1MlRNUm1FckpWUl9CSmlVQ3dSenVDWC1BMUV0LXpnNUVDTWQ0b3ZYbTlDOVNpS1AzV1Z5VXhEdmNwYjJYOWt3SlpxWllfa0dJOGFhZHh2TWM0cjU0clJ3blpvcFF5Q0dYSkY4YWU0VkliNmViMlBFNFFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-29-008",
+    "date": "2026-10-29",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar opens first phase of $330M South Carolina facility - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEZRY2VRazR6WlFOTTNPcHlCcWhXSnFDM3ZPLU5lS3BKUE1obDdNX3BQZi0wRS1rMjE5LTE2WFdZcWNPMTZyNEdZQ2F3VlNUQndhb0NWVGJCZWo2RVpRQmphU3BnSE9udGJHcXViMV",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEZRY2VRazR6WlFOTTNPcHlCcWhXSnFDM3ZPLU5lS3BKUE1obDdNX3BQZi0wRS1rMjE5LTE2WFdZcWNPMTZyNEdZQ2F3VlNUQndhb0NWVGJCZWo2RVpRQmphU3BnSE9udGJHcXViMV9NdkhaODI3Rl81SlJiQTZpY2dVRE0wbmtuVktTMmtLckVYSGpXNDZaR0liQWZZeXZfTjNuVm41NXlLYVRPOG9lT2VSaHNJT29ZSDlEVXlvQ1NfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-29-009",
+    "date": "2026-10-29",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Launches New Manufacturing Plant Phase in Sou - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0NoYUZzcHhLVFBqS0ZCQ0FNUnNFSFY5eTNIUldHZzMyZ3RYUEVIeXQ4LVplSEpWUWdYZnplSHhxaVFfODNVTXVtZUFaVnZLVnRJY3VyUmNNTGdwRUc2MlpnX0tSNWdRR19Za01KR3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0NoYUZzcHhLVFBqS0ZCQ0FNUnNFSFY5eTNIUldHZzMyZ3RYUEVIeXQ4LVplSEpWUWdYZnplSHhxaVFfODNVTXVtZUFaVnZLVnRJY3VyUmNNTGdwRUc2MlpnX0tSNWdRR19Za01KR3pZUm0wTFlZZjZlMEU4Q0p1cFRpUFhKVG1VQ2VCSW5UaXFhOU5WNGdPU3E3Y2FrRUtGaG1NTkg0RmdhVmE2bFgzVkpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-29-010",
+    "date": "2026-10-29",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar earnings on deck: Can tariffs drive pricing power? By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNOG50Vjk0NEJhMl9pYVA2U2VaOFJRR3B3dk1DMnFKUnJWZXNwVmNuQThHSlpyQUx4UEJiMXNVRzYwZDJsdVRjbWtQc3BnYlVDRnZoTjlPdzJGbTNYcG5uZGc4SWRDSF8xNk1XRjZ6eX",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOG50Vjk0NEJhMl9pYVA2U2VaOFJRR3B3dk1DMnFKUnJWZXNwVmNuQThHSlpyQUx4UEJiMXNVRzYwZDJsdVRjbWtQc3BnYlVDRnZoTjlPdzJGbTNYcG5uZGc4SWRDSF8xNk1XRjZ6eXRuYjNvUDBqUFpYOHljZEM1Sm1nY2w4a0tLelFkLTE2V0JORi1mSUlHYVZIdG1TbTNLc0xQWFBHdmNJZ2Vpem0wTVNWWURHMm9fbEthYlpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-011",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "CRH Reports Third Quarter 2026 Results",
+    "summary": "<p>Resilient Q3 performance despite a challenging cost environment and subdued residential activity Expect FY26 Net Income of $3.1B-$3.3B and Adjusted EBITDA* of $7.8B-$8.0B Announcing new share buyba",
+    "sources": [
+      {
+        "name": "crh_news",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-reports-third-quarter-2026-results/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-012",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "BYD (BYDDY) Q3 profit jumps 28% on exports, but inventory balloons 60%",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-updated-Seagull-EV-launch.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/10/29/byd-q3-2026-earnings-profit-exports-inventory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "owens_corning-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -610,6 +846,382 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "agc-2026-10-28-032",
+    "date": "2026-10-28",
+    "companies": [
+      "agc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AGC Joins Five Partners to Develop Quantum Computing-Based Materials Platform - VZ VermögensZentrum",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPel9Ncnp6aXFmbUQ3MmM4eDRsTVNlWEo5VXdLR3JrSE1mNWpHMnlfTXE5UEFPWTNQQXRCQWNXRTYtVFRDenZ2TGdXZkRWekFJVnI5Y0l1X05VMWtvTWpoVUNOYVhpTms0VFZsaW52Zk",
+    "sources": [
+      {
+        "name": "agc",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPel9Ncnp6aXFmbUQ3MmM4eDRsTVNlWEo5VXdLR3JrSE1mNWpHMnlfTXE5UEFPWTNQQXRCQWNXRTYtVFRDenZ2TGdXZkRWekFJVnI5Y0l1X05VMWtvTWpoVUNOYVhpTms0VFZsaW52Zkc0MlRpMXZNYkpxSlMwTWZUT0NGeTR1U3JKYklCTWVuYThtOTlNZngwRkwtdk9XamRKa0phd2Z4NTdhYjllQ0RnNWR1bm1uSGhPS3RZN01UVzJ2QkhuRXIzOXZQdG1ZQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-033",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "auto_glass_trends"
+    ],
+    "impact": "neutral",
+    "title": "Jeep drivers sue windshield maker in class action lawsuit - Top Class Actions",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUFURFlZejdxU29IbmtOUkdHcndfbG1FNG5MejdNZWRQMFl5ZFlFRTJhb2ZCcDEweEl1WVRlcTB0MmdGOFpCYnRzV3lmWWd3M3hsV1ViczZVRFRySENXR2Z0NnNwS3F4SFl3TlV3aE",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUFURFlZejdxU29IbmtOUkdHcndfbG1FNG5MejdNZWRQMFl5ZFlFRTJhb2ZCcDEweEl1WVRlcTB0MmdGOFpCYnRzV3lmWWd3M3hsV1ViczZVRFRySENXR2Z0NnNwS3F4SFl3TlV3aERuYnlkdG91V3NYRWdLZG1nYWUyOWxMYTA2Xy1yWE56bFRkTGQzRlFwOXJ3a0lzX2p2bXJEVkVqMkIzODdsWTlZcjBRMnV4dVM5c2pJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-034",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass feels the pain from higher freight, energy, trade charges - Packaging Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZU1WOVZwRm1Xa0VJUkQ1NE1OdDBsR2lOaml4eEtDMnNRaFBKRVBfbzM1bll1ODJKcHduclFXaUxJN1VNWUdJWmlhNktpNzVoakljYVI1dUFKcl9ybmdwbGdRaWx5WElRbnFhT0ZGRz",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZU1WOVZwRm1Xa0VJUkQ1NE1OdDBsR2lOaml4eEtDMnNRaFBKRVBfbzM1bll1ODJKcHduclFXaUxJN1VNWUdJWmlhNktpNzVoakljYVI1dUFKcl9ybmdwbGdRaWx5WElRbnFhT0ZGRzlUZ3hEd0tSa2pnSmg5WVBmemFhTlI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-035",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass: Q3 Earnings Snapshot - kare11.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaENjak1icVQ1U1hTRnhMTGdSSHhmanlQOWE2aV9EQTZnUDN5ejVnTWY2SllVRlNTY3NIRWRjN3YzWFFyUU9QcjdHZTNBcjJiVFVlbzRiLWJzZnN6MFo4aG14cTRPY1NoZU9IQ2k5Z3",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaENjak1icVQ1U1hTRnhMTGdSSHhmanlQOWE2aV9EQTZnUDN5ejVnTWY2SllVRlNTY3NIRWRjN3YzWFFyUU9QcjdHZTNBcjJiVFVlbzRiLWJzZnN6MFo4aG14cTRPY1NoZU9IQ2k5Z3RYTzloWmNENk5TTUVwWHFGVHdGbUs4VnBxT2xmbWJUaXZSYmlYMGhTRXliUFE5eUtTejZKMWlVRktfM05MT280YjRENGlyeG5hUnJPZlM4SlViR1B1T3QxekR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-036",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:OI) 2026-10-28 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNT0JGRi1fWC1seE5ESk83d1pJajk2YXd5RUdFenZJNWphVmNZb3NYS1VKQmY5QjJIZm1MdVczVXJfc1hUeE4wRF9TU3cxSHZ2TXNaTndyN3VyZVV3MG4wYXpkWTYwbWdLX1JQODJqc3",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0JGRi1fWC1seE5ESk83d1pJajk2YXd5RUdFenZJNWphVmNZb3NYS1VKQmY5QjJIZm1MdVczVXJfc1hUeE4wRF9TU3cxSHZ2TXNaTndyN3VyZVV3MG4wYXpkWTYwbWdLX1JQODJqc3BTX0U5N2ktYmJ6enVLaXpKcVgtc3RTdlJUelBwcVhtYUQ3cXpPZzZiNVhwNEtCZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-037",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "O-I Glass 3Q 2026: Revenue $1.623B, Net Loss $13M, EPS ($0.08) — 10-Q Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1Iyd2s1ZUlkbkpEYnFsazdkcTZOc18ya21nSFV5UlJ3VEQ1UzV4X1BKbjkycGR0QTB6MHp3Mmctd3M3SnlvMmRUMzFCUjZUUTJNdkU4bE9ibHpZY2dUTUJhYTJDcFl2bkc2akxfdl",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1Iyd2s1ZUlkbkpEYnFsazdkcTZOc18ya21nSFV5UlJ3VEQ1UzV4X1BKbjkycGR0QTB6MHp3Mmctd3M3SnlvMmRUMzFCUjZUUTJNdkU4bE9ibHpZY2dUTUJhYTJDcFl2bkc2akxfdldmWm5oQkVDZzFOT0ZrMm54T2VCVG5QTTNsYzZkNzR3b2VKX0lubXU3bElrbVkzT0EzR1cyMHY3aXprUHFSb2NZanlFY2VmNnNnZU9EM3pOcklEQk5EWEpEMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-038",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Why is O-I Glass stock plunging today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVhGYXZOSEdQLXVBYUYxTDlib1pqSXBmR29Ra19HLW1QM213MlBQMV9WQ2szbHJhYzZGblExdVVkTGRyai1qSUtaRkdSSkRSWk9fekRyZXFHREJXZnVsUkJBd21HRjBiX1BqNkptME",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVhGYXZOSEdQLXVBYUYxTDlib1pqSXBmR29Ra19HLW1QM213MlBQMV9WQ2szbHJhYzZGblExdVVkTGRyai1qSUtaRkdSSkRSWk9fekRyZXFHREJXZnVsUkJBd21HRjBiX1BqNkptMElMS0JtVXFNMmtnazR2TDlXZ3BXNU9UMjlfX3huMlBFMUd5ZnljSlJmOTZjS1FrZk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-039",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass Inc (OI) (Q3 2026) Earnings Call Highlights: Europe St - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxQbkFKeVFkZGl4dGRORGJOdEdKaVNqcHJtRVdoenluZU81N2RiTnFPSnZBWTgweU05Q1lXTFpsenBySXB4TzhPTUtfSnRfMzJESjVWcTVXekFRdmhPQ3dGeWc3R1NIRkRlRW1sOU1FXz",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQbkFKeVFkZGl4dGRORGJOdEdKaVNqcHJtRVdoenluZU81N2RiTnFPSnZBWTgweU05Q1lXTFpsenBySXB4TzhPTUtfSnRfMzJESjVWcTVXekFRdmhPQ3dGeWc3R1NIRkRlRW1sOU1FXzgzNTR2RURZVWJPaTNERnl6b0hIR3dLb1ZrMVJEU2dYQzVyVElRcUhkcDRHRkRUMkY4QmhhWkFMaXFKT1VZTWpYRGpRTEFpazkzUjhIR1o4RDVFY0ZXSnpiWEVoeFJnQkhLdHFkZVcxTEJrMWhGeUp6R0NzZXBZanFsdjRTZ3NoaDYyaWxsSU5rNktIeTU4TFFsb1RXN1hKMkxXTGR3T1RNTUwxckw0YzZmWUJNRVZ2RFVWZDJCMy1IeDZDaHotOG5NbVF4SDMzZ0gzWXZpMVVEN3ZtZVI3MnE2WFJ2S1hPbS1USElIMW5UNlNxamRqdjI5RFFRdWVHMzdfS1E2SGxKTzRZeGxQblE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-040",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights O-I Glass, Inc. and Apogee Enterprises - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQekJIcTN2eEo4SHZlU2lrWEJNUUQyRE9QNDVfYWZPYnNOVkxNcmRqSUVLaEd4Sk9rWllVWDFTNGNVWnZnZ0laWE1VXzg3bTJTalBuTlVBb1ZFS3FRUzBEWGVqOHlRMmpuN2Raa1JlLU",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQekJIcTN2eEo4SHZlU2lrWEJNUUQyRE9QNDVfYWZPYnNOVkxNcmRqSUVLaEd4Sk9rWllVWDFTNGNVWnZnZ0laWE1VXzg3bTJTalBuTlVBb1ZFS3FRUzBEWGVqOHlRMmpuN2Raa1JlLUFFZnF5VWRmSnFzdGVCRUpTQzBlU0RYQy1rOG1LVTZMejNWRnJPRzhoNUVZV1FLMmVpX3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-041",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass Inc Reports Q3 2026 Earnings: EPS at -$0.09 and Revenue of $1.6 Billion, Missing Analyst Estimates - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaDhWdk9fTTdMR2V3MFNubGRrc3EweEhTYkhmclItYjI3cWsyNFF2b0pwT2F6Mnc0N3BLWkFiLUliSml5UGU4cWJ6VjhLLWRjRnVnWDg4XzJkVlQ5RUt1Sk1EQ2tZOUlMRGZ3azBtbz",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaDhWdk9fTTdMR2V3MFNubGRrc3EweEhTYkhmclItYjI3cWsyNFF2b0pwT2F6Mnc0N3BLWkFiLUliSml5UGU4cWJ6VjhLLWRjRnVnWDg4XzJkVlQ5RUt1Sk1EQ2tZOUlMRGZ3azBtbzhBTkRWeE5DU3RwWm1rbkxjakgwbERYSHJGUEZfN2tEU0hsN1VqRDZyeWFkd3c1a1luVVQwMWhBMzJjaldwLW1Lb1ZKZzByNmhJQXV0aDc0d3RUNXYzVGFNcnFGVTBiN0hGcmltVERn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-042",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTRhUXFYWVJsWjZ3OUZtVFhHeUV3Ykx2SDlPRlBtWW9CekxqUjYtbjVnWVF6M3RiU25sanlRQU1wTXE1cXhWRUdDcFA1ZXFkYmpEMVljSmtXZWtKLWN4dWxxcU1BTzlTVjZYOUV6Vj",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTRhUXFYWVJsWjZ3OUZtVFhHeUV3Ykx2SDlPRlBtWW9CekxqUjYtbjVnWVF6M3RiU25sanlRQU1wTXE1cXhWRUdDcFA1ZXFkYmpEMVljSmtXZWtKLWN4dWxxcU1BTzlTVjZYOUV6VjVycDZ2V0MyY3B1eGExVUJ3RHR6aHRxTHhTc01vQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-043",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass, Inc. (OI) Q3 FY2026 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFdfdldUVTRxQnJ1M1NFa0VvYVVqTjRsNTNPOW1BM2diWE5yR2o0TDdld0JpWWpKU3FvVEZVYVBHTUlfd0J6M1lCNC13YTdZNlVwVXVST2c2OEdyVVVfSW9XSEdOZE12NFFiVTk3Z2",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFdfdldUVTRxQnJ1M1NFa0VvYVVqTjRsNTNPOW1BM2diWE5yR2o0TDdld0JpWWpKU3FvVEZVYVBHTUlfd0J6M1lCNC13YTdZNlVwVXVST2c2OEdyVVVfSW9XSEdOZE12NFFiVTk3Z2cwSmtrNF9DZ05MbTd5U3NybjhzVDg3bVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "flat_glass-2026-10-28-044",
+    "date": "2026-10-28",
+    "companies": [
+      "flat_glass"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "72T.SG interactive stock chart | Flat Glass Group Co. Ltd. stock - Yahoo Finance - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmYVM5RG9kX2RWcWZZTURzdk5Vb3ljWjBzMW5xUXktNFpXQ0lKOV9JWlhDVzg1TlEyUW4zY1hUTFZHOXl0N3lkbG1SX3FuYnhza3h6MA?oc=5\" target=\"_blank\">72T.SG intera",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmYVM5RG9kX2RWcWZZTURzdk5Vb3ljWjBzMW5xUXktNFpXQ0lKOV9JWlhDVzg1TlEyUW4zY1hUTFZHOXl0N3lkbG1SX3FuYnhza3h6MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-28-045",
+    "date": "2026-10-28",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar to inaugurate South Carolina solar panel finishing facility - Solar Power World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1hUZ3JFekJiOWk3enJjbmhpM251bmJZdWNEMW5BMHJpQTFoMXBfWllsdWJTT2VsdHp2U3lLOWpMcU0tSUpGS2ZOaUFxRWYwbDUyU3BUTTF3RmwyU3BucThLckxOMy00SThMSW4tZW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1hUZ3JFekJiOWk3enJjbmhpM251bmJZdWNEMW5BMHJpQTFoMXBfWllsdWJTT2VsdHp2U3lLOWpMcU0tSUpGS2ZOaUFxRWYwbDUyU3BUTTF3RmwyU3BucThLckxOMy00SThMSW4tZWVsR3g0aklZUHlVWmdnU0hPcTRGV0Y0dTFzelBnZElDNi1xSWdzMERaZW9NRm90clN4cFNhblMtWTZGaWVFTVFGYzJpMVMtT0tJM1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-28-046",
+    "date": "2026-10-28",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Inaugurates First Phase of South Carolina Production Facility - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWFSenI5NHMxdmI4c01vNlBvRVNhZmw2VFJWU2pjN1FOWmZGelRNR0ZJWl8wdTBxcTZJUDVxN2h2X0pRcWF1SUhjZXVBRTloNHBtUkFhQmM4Y1BDdFdvSWEyRUtfQTNkX1NYRGdqdm",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWFSenI5NHMxdmI4c01vNlBvRVNhZmw2VFJWU2pjN1FOWmZGelRNR0ZJWl8wdTBxcTZJUDVxN2h2X0pRcWF1SUhjZXVBRTloNHBtUkFhQmM4Y1BDdFdvSWEyRUtfQTNkX1NYRGdqdmh3UTRLMGtXa1N3TjQ4RDVGMVljOHVScDV3YWhtVnJBTnBlN0sxSFYwalBoSGlnaUYtaTViTTVyR2Z4c1RxYTFRVWJFMC1zNmhXc3oyMm9INHJWM1dwbHJBOGp0bGlNV2Fh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-28-047",
+    "date": "2026-10-28",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First Solar, Inc. (FSLR) stock price, news, quote and history - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE43VkY2MkgtUjIxeUlJZDRjcG1LMU15R1NFeS1oWVI2RmNUSUFURkdoQnFRb3huVUg4UTkwNUU2WWhNczY2N1JOdnIyZlgzcUdfT1E?oc=5\" target=\"_blank\">First Solar, Inc",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43VkY2MkgtUjIxeUlJZDRjcG1LMU15R1NFeS1oWVI2RmNUSUFURkdoQnFRb3huVUg4UTkwNUU2WWhNczY2N1JOdnIyZlgzcUdfT1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-28-048",
+    "date": "2026-10-28",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Set to Report Q3 Earnings Amid Modest Underva - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzRyVExiRUhueVMyNFk2d0xQbWx4QlVuXzFIWlVpaHRBemh4TWFTa0lybmhqRU9GZG94TWFUOFVMejctWGdzdEVvVV9NYUR3NzhIc3FhZXhFcmJMTHEyT3N6Tk02SnUzb0l0WW5EaW",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzRyVExiRUhueVMyNFk2d0xQbWx4QlVuXzFIWlVpaHRBemh4TWFTa0lybmhqRU9GZG94TWFUOFVMejctWGdzdEVvVV9NYUR3NzhIc3FhZXhFcmJMTHEyT3N6Tk02SnUzb0l0WW5EaWx2VnVqVE5nZUpoVkJRZVBPUjFiYmhRbF9mX21OeVlzcGtTLTRXUVlDQ0w3bWNlQ1IzRHlRQ29kXzR4RGZK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-049",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s EV battery recall reaches over 85,000, with Audi now included",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">V",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/10/28/volkswagens-ev-battery-recall-reaches-over-85000-with-audi/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-050",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jacobs-PCL JV wins $1B San Francisco wastewater upgrade",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I_2S0EcZtfw_2vveLVJcn2bfrVGiGX5ZfVCJN-uZ_Tg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CaW9zb2xpZHNfQ29uc3RydWN0aW9uX1VwZGF0",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/jacobs-pcl-jv-award-san-francisco-wastewater-upgrade/873095/",
         "type": "rss"
       }
     ]
@@ -1284,6 +1896,123 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/suffolk-hospital-construction-crunch-california-earthquake/872854/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sibelco-2026-10-27-036",
+    "date": "2026-10-27",
+    "companies": [
+      "sibelco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SCR-Sibelco N.V. Estimates – LS:A0D835 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPUS1LWmhwclFSQmEzdmtSdzBSYUMyaUpZY0M2U0VNcHdGcUZ1dkRjbFRCc2UtbzA5MEZGeGtRT2xzT3JTVlVVaHNHcm9lTE92N1Q2dnlsRHV2VG5Na0FkXzlyTVM5ZjF5Uy1oRUwtc1",
+    "sources": [
+      {
+        "name": "sibelco",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUS1LWmhwclFSQmEzdmtSdzBSYUMyaUpZY0M2U0VNcHdGcUZ1dkRjbFRCc2UtbzA5MEZGeGtRT2xzT3JTVlVVaHNHcm9lTE92N1Q2dnlsRHV2VG5Na0FkXzlyTVM5ZjF5Uy1oRUwtc1ZsOWZjNHNwTmdBTmdGZy1CdEFIQUxHM2tDV0FwUlg4dW1fSi0yUk1SMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "owens_corning-2026-10-27-037",
+    "date": "2026-10-27",
+    "companies": [
+      "owens_corning",
+      "corning"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "BofA cuts Owens Corning stock price target on weak shingle demand - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHEtZ25wLTZsV25KdXBOOTBhZW04dzlzRlF4R2E4MDR3YVNINXpkRmVSNTRucE5pUVdWRTRyemQtU1hvRVpWTXhsMEhQNjVEVE03ci1kYXBxVnZkWndpakRFYzVYamJYR1BwZXNfZm",
+    "sources": [
+      {
+        "name": "owens_corning",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHEtZ25wLTZsV25KdXBOOTBhZW04dzlzRlF4R2E4MDR3YVNINXpkRmVSNTRucE5pUVdWRTRyemQtU1hvRVpWTXhsMEhQNjVEVE03ci1kYXBxVnZkWndpakRFYzVYamJYR1BwZXNfZmFDMFlWVDMyd2NVbTV4TDFmQ2V0XzlYSjJZNWZ0MXRXdXRCN2JMSUxNWkxySUdBdTduNW9CMFVnazU2b1JXMGJGcmtoYlNvQ1NKcThoWml4QTJnLUU1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-27-038",
+    "date": "2026-10-27",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain confirms margin outlook as Q3 sales rise 2.5% like-for-like - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUoyaTNZejJsbVh4WEpwRGwtWkpnX05URWhBN0lsb2xMWmVyTjEtZktDbjBuTVVFTnkySEZOc3hKWktyNXNzZTk4TjVsdUltMTR5TGxJYkMwVHRKZXptel91T3VoLW1yZWw0d0Rfdn",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUoyaTNZejJsbVh4WEpwRGwtWkpnX05URWhBN0lsb2xMWmVyTjEtZktDbjBuTVVFTnkySEZOc3hKWktyNXNzZTk4TjVsdUltMTR5TGxJYkMwVHRKZXptel91T3VoLW1yZWw0d0RfdnpTQ0g0Wm5PNnY1RVR6ckhuN2s4Y3Ytb0s0dFVyV0ZIaDRPNDBxa0RFNjI3ZlVWTjM0Umk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-039",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SAINT GOBAIN (SGO.PA) Q3 FY2026 TU earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3JmMXp6WDhwbHIzeVN0Uml6RUJPeGZFZ3pybldabnpkOUlhVmFZQmVSWmx1Sk9lb2xUOFRWaGpveHBzQWlQZFhjbkhOTHU1VEJGTEEzYmh3d0dhWTZPOXl6dmRsTnpaSlZJdVRqSz",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3JmMXp6WDhwbHIzeVN0Uml6RUJPeGZFZ3pybldabnpkOUlhVmFZQmVSWmx1Sk9lb2xUOFRWaGpveHBzQWlQZFhjbkhOTHU1VEJGTEEzYmh3d0dhWTZPOXl6dmRsTnpaSlZJdVRqSzUwV2F4VGVhNnVqaUJ4YV95ZVhCZHFMRmlneDlKUlRKdHU0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-27-040",
+    "date": "2026-10-27",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Solar to Inaugurate First Phase of South Carolina Production Facility - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVFFRHFfRzlJZzFYMGFxTm04UjdrLUY4ekxrek5lbU1fdE1mRGZINF9RZTV3akx0YlBmalRDWk1BWTlyanNKd2tveDBpbGhqUDgwNU5zTmZTTnhYYmg2YTlJbjhIRlZ3QS1kRXhUZV",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVFFRHFfRzlJZzFYMGFxTm04UjdrLUY4ekxrek5lbU1fdE1mRGZINF9RZTV3akx0YlBmalRDWk1BWTlyanNKd2tveDBpbGhqUDgwNU5zTmZTTnhYYmg2YTlJbjhIRlZ3QS1kRXhUZVFhcGdzcVFZbklEQWd1ZDRqaHhYS1FCcWt1N0lJLWRMcV9JbGtWR3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-041",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "construction_activity"
+    ],
+    "impact": "neutral",
+    "title": "Turner-led JV completes $300M Cleveland higher ed facility",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mdwUUNpk4JTPlvmgoc1dzdepeoDSFUuAWn8B6nwREFo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDE4MjAyNl9VR0VOX0ludGVyZGlzY2lwbGlu",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/turner-led-jv-completes-cleveland-facility-case-western/872954/",
         "type": "rss"
       }
     ]
@@ -2510,6 +3239,26 @@
       {
         "name": "usglassmag",
         "url": "https://www.usglassmag.com/glasstec-2026-innovation-amid-uncertainty/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-23-026",
+    "date": "2026-10-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Corning Inc. stock: JPMorgan cuts target to USD 165.00 pre-market - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmFHZG5fSnZmYU5QU2VGbTNSQk00d2o5b2p6THA5d3BXdklLMi1TSGlPV2dvdEJWTVVYSWQwNFlHVS1udU0ySEFlclNYSVRqdThldndUNGlBY1BHalN1VnZBbkdOSFZGMU02YWpHNH",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmFHZG5fSnZmYU5QU2VGbTNSQk00d2o5b2p6THA5d3BXdklLMi1TSGlPV2dvdEJWTVVYSWQwNFlHVS1udU0ySEFlclNYSVRqdThldndUNGlBY1BHalN1VnZBbkdOSFZGMU02YWpHNHlKUEFnNXB4UlFqMzR3c2IyVXlBbFQzUW9OeGVvOFNfVWhnaUxYbnNsbThyQlphTi1BdWJtUnVWYnI5WUx3dHNpWlA2UjBERzJMRU1OdFpn?oc=5",
         "type": "rss"
       }
     ]
