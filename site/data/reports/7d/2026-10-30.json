@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-30",
+  "date_range": {
+    "start": "2026-10-24",
+    "end": "2026-10-30"
+  },
+  "generated_at": "2026-10-30T14:57:08.696301Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "owens_corning-2026-10-24-003",
+      "date": "2026-10-24",
+      "title": "How Investors May Respond To Owens Corning (OC) Weaker Earnings Outlook - Simply Wall Street",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 70,
+      "last_week": 36,
+      "week_over_week_change": "+94%",
+      "sentiment_this_week": -0.07
+    },
+    "guidance": {
+      "this_week": 11,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.14
+    },
+    "inventory": {
+      "this_week": 10,
+      "last_week": 14,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": -0.1
+    },
+    "auto_glass_trends": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "solar_glass_demand": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "construction_activity": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.08
+    },
+    "capacity": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "tata_chemicals": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "owens_corning": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 5
+    },
+    "corning": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 4
+    },
+    "xinyi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sibelco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "first_solar": {
+      "event_count": 28,
+      "sentiment_avg": -0.05,
+      "rank": 1
+    },
+    "oi_glass": {
+      "event_count": 10,
+      "sentiment_avg": -0.22,
+      "rank": 2
+    },
+    "longi": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 10
+    },
+    "saint_gobain": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 177,
+        "last": 154,
+        "change_pct": 14.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-24",
+      "event_count": 10,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 23,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 41,
+      "sentiment_avg": -0.11
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 53,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 23,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-30",
+      "event_count": 22,
+      "sentiment_avg": -0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-24 ~ 2026-10-30）共 177 則事件，重點為「How Investors May Respond To Owens Corning (OC)...」。O-I Glass、隆基綠能情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "O-I Glass",
+        "reason": "本週情緒偏負面（-0.2），共 10 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "福耀玻璃",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

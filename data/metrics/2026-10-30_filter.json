@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 23,
+  "gate2_fail": 16,
+  "passed": 36,
+  "gate2_samples": [
+    "Noel Tata renews challenge to Chandrasekaran’s reappointment, questions Tata Sons board voting and c",
+    "What Could Owens Corning (NYSE:OC) Reveal in Its Next Results? - Kalkine Media",
+    "Owens Corning Inc $OC Shares Sold by RWC Asset Management LLP - MarketBeat",
+    "AGC Inc. Estimates – TSE:5201 - TradingView",
+    "Nippon Sheet Glass Company, Limited Estimates – LSX:864743 - TradingView"
+  ]
+}

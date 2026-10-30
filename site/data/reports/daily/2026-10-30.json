@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:57:08.558383Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-10-30-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning stock: BofA cuts target to USD 145 - ad-hoc-news.de",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZUNvMDJJQXBmY1B2VnA5VDBweTlvZHl1TDBMd2psemFpTmNjMlVrYlNlMGJfdmZ2UURQNjRxWXpQWFhYTWZwaEd1REQ3UHprUVo2ODhRTVNKaDE4SWlzQXEtZXJZWlNlSndBMTJPb3dxVk80aWZPVGlaR0twR3FXQUdBTmxqbkhFRGp0VWpiRHRwbHBEMWRJVW1JZ2dfQXNvYUItQWhyZTc1QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-30-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Glass maker Beatson Clark invests in capacity and safety upgrades - Packaging Gateway",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtWmZuUkthNEE1NjI3NmpkeU5YaGUzTFNmSkwxMTc2QURfQ3pBYUFwWHFSWGpsWmJ0NTNpYlY0MGlvaElMMmk3RkxUVC1KSXpCNGFuV3YtRHRKMmJ2MVN6MWtFMEpMRUxvMXJzbFJxS29nTi12RDZWVXBR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flat Glass stock heads into board review of third-quarter results - ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1RNV3pBWTJKdW1vanNIaWxmc0xqOHJqd3M0ODhJMnlUNUo1VllPQnBUdnpxQldRazhtUEFXU3plZG9pZGNlOHk0c0VfRVgyV1pZeFBINEhLUVQ0ekpQNTdCUTdZdEF4bi00YTlIaEYzRlNMeEZsUldMQkdSU2ZCWGRFbTRrSDd5b0pvM3ZBZDdJMVp6VG9vZXgyRzE3Q185SjdlcUtUWl9Ub0hPTFhzOUZfR1ZETE5vaHhtclZ4UnhrZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-10-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Benin secures financing for first solar IPP projects - pv magazine Global",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0haa1FnRTFGWk1CcG1sazJBc1FLdnJycFVNU211OThXVDdQYWIzVE11Y083Q19nRHlEWFZ1bXN5TGxIa2FXREJ2QjRqLXdGWl9rUUpMdzY0Vk1tM0ptQnF5dm85TWFxZDhDZEFtN3RJX3ppTV9TbzRYbVN0eE5QMFFNenVXMFI2cXRYV3JNbjNmcWo0dnFqaGpHdzFRdmVzS0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-10-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar posts 58% gross margin in Q3, trims 2026 sales guidance amid post-tariff market shift - pv magazine USA",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUdOSG8wUGVCYVRDemlxX2Y0dW1naVduSHBZNVlPSmxNNm9fdVNvc0FTYS1iY0NJUm9CY3VSazAwb1N5cTd1N0RSbkVzUExqZ2lfMVpNS2dITERoLUVQVVlaa2R1VmdEYkJJWFlkQjlPdG1GQ1FPcXctZ2ZoUkEwMlhZb2NabVo2RlFjUmNhM1h6RHBfbGlaSkVzdVhkdGppb0VnbUYzTDczT3JDME9HWjJwRjZYT3I1TnJxeHNOcFMwRHpoaVBYTjh0VGY4aHNS?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 11
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 186,
+    "too_old": 165,
+    "gate1_blocked": 23,
+    "gate2_blocked": 16,
+    "passed": 36,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Noel Tata renews challenge to Chandrasekaran’s reappointment, questions Tata Sons board voting and c",
+      "What Could Owens Corning (NYSE:OC) Reveal in Its Next Results? - Kalkine Media",
+      "Owens Corning Inc $OC Shares Sold by RWC Asset Management LLP - MarketBeat",
+      "AGC Inc. Estimates – TSE:5201 - TradingView",
+      "Nippon Sheet Glass Company, Limited Estimates – LSX:864743 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為First Solar、Owens Corning、康寧相關動態：「Owens Corning stock: BofA cuts target to USD 145 - ad-hoc...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Owens Corning stock: BofA cuts target to USD 145 - ad-hoc-news.de（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Glass maker Beatson Clark invests in capacity and safety upgrades - Packaging...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
