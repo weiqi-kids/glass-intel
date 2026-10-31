@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:26:15.086925Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-31-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Sisecam stock: Egypt flat-glass capacity doubles with new line - ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlQwMnVrQktqeWdER3hNSWFLZkpvSTJRS2kyYjVCcm83eklrNWxqNWFwYm9GVFhicmw5WVN6OFA5b2xvUkRmbEtaMGZod3lHSmtfcERFWkU5ZExCYTAxbndVd2gzSzVzaVNlVThacTNRSFVFb254VVdrdl8zZ1hSUzM2ZUJlN3hpb0stVGVvTGRicUxZcUoyNWtQdVR5UGY1Y0F1NFhuZm9UTUtuMnplc0VrWWJ1N2g0M2xzUw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 439,
+    "dup_title": 167,
+    "too_old": 209,
+    "gate1_blocked": 24,
+    "gate2_blocked": 14,
+    "passed": 25,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Noel Tata renews challenge to Chandrasekaran’s reappointment, questions Tata Sons board voting and c",
+      "What Could Owens Corning (NYSE:OC) Reveal in Its Next Results? - Kalkine Media",
+      "Nippon Sheet Glass Company, Limited Estimates – LSX:864743 - TradingView",
+      "Nippon Sheet Glass : Showcasing Advanced Reinforcement and Sustainable Adhesion Technologies at IRC2",
+      "Fuyao Glass: Leading Global Market Top Position, 4 Key Inspirations for Chinese Enterprises - 36Kr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為產能、庫存相關動態：「Sisecam stock: Egypt flat-glass capacity doubles with new...」。主要關注主題為產能、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sisecam stock: Egypt flat-glass capacity doubles with new line - ad-hoc-news.de（產能、庫存）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

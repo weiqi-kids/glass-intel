@@ -1,0 +1,16 @@
+{
+  "total_raw": 439,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 209,
+  "gate1_fail": 24,
+  "gate2_fail": 14,
+  "passed": 25,
+  "gate2_samples": [
+    "Noel Tata renews challenge to Chandrasekaran’s reappointment, questions Tata Sons board voting and c",
+    "What Could Owens Corning (NYSE:OC) Reveal in Its Next Results? - Kalkine Media",
+    "Nippon Sheet Glass Company, Limited Estimates – LSX:864743 - TradingView",
+    "Nippon Sheet Glass : Showcasing Advanced Reinforcement and Sustainable Adhesion Technologies at IRC2",
+    "Fuyao Glass: Leading Global Market Top Position, 4 Key Inspirations for Chinese Enterprises - 36Kr"
+  ]
+}
