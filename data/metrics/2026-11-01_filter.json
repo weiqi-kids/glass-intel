@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 203,
+  "gate1_fail": 25,
+  "gate2_fail": 11,
+  "passed": 12,
+  "gate2_samples": [
+    "Nippon Sheet Glass Company, Limited Estimates – LSX:864743 - TradingView",
+    "Nippon Sheet Glass : Showcasing Advanced Reinforcement and Sustainable Adhesion Technologies at IRC2",
+    "When Should You Buy Xinyi Glass Holdings Limited (HKG:868)? - Moomoo",
+    "Saint-Gobain withstands turbulence and confirms its ambitions for 2026 - www.marketscreener.com",
+    "Flat Glass Group: Solar-glass weakness drove a nine-month swing to an RMB836m attributable loss - Tr"
+  ]
+}

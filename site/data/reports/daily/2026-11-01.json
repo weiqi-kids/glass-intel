@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:52:38.534716Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "flat_glass-2026-11-01-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Flat Glass Group (SEHK:6865) Q3 Results Deepen Losses As Revenue Contracts - Yahoo Finance",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0FEV09qTS1lSjRqZG91YV9PRUpGaExZdEpJeWgxenA0dXl0clpJUk56VFFNdHZtTnIxcGt0djkyTEtDOTlhNkZjcUNRWHRfRjlEVlFuZ29XWDZyV1JiSVZSVW5KcUZadjdZbW9XUGZvYllDSEtOejZLdThmM1ZkcVo0YnE1T3o5ZG4wdFV4djREZFEyLWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "News by CNBC TV18 on TradingView, 2026-11-01 — cnbctv:d2dfa2add094b:0 - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iVGtBU1ZsZEoyQ2ZpbzRvVlpGY05ldU8zZGFmdlVXRGRySDlHWVB5Z2piOGx1SFJ1OFc1SUlXOTUwNDBrbUZBT1Iyd3loUGRGQjdJdWQtVUk3SWU1a2w4bDVwV3Y2cFk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-11-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar Holdings Limited (0968.HK) Seasonal returns chart - Yahoo Finance Australia",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DdDM3a1hNQlA5ejFDY2tDRTJVc3QwelZXZWhoVVJwZlhwSVliMy1PWEVZdEt2YXBHQ0xlamcxNXZySEhVQnp4dzFtYldDZGlWem0zNDJMSk9ycE1HRHFJd0c2eFFWQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 187,
+    "too_old": 203,
+    "gate1_blocked": 25,
+    "gate2_blocked": 11,
+    "passed": 12,
+    "pass_rate": "4.8%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Nippon Sheet Glass Company, Limited Estimates – LSX:864743 - TradingView",
+      "Nippon Sheet Glass : Showcasing Advanced Reinforcement and Sustainable Adhesion Technologies at IRC2",
+      "When Should You Buy Xinyi Glass Holdings Limited (HKG:868)? - Moomoo",
+      "Saint-Gobain withstands turbulence and confirms its ambitions for 2026 - www.marketscreener.com",
+      "Flat Glass Group: Solar-glass weakness drove a nine-month swing to an RMB836m attributable loss - Tr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為信義光能、福萊特相關動態：「Flat Glass Group (SEHK:6865) Q3 Results Deepen Losses As ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Flat Glass Group (SEHK:6865) Q3 Results Deepen Losses As Revenue Contracts - ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "News by CNBC TV18 on TradingView, 2026-11-01 — cnbctv:d2dfa2add094b:0 - Tradi...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

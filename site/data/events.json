@@ -1,5 +1,61 @@
 [
   {
+    "id": "unknown-2026-11-01-001",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "News by CNBC TV18 on TradingView, 2026-11-01 — cnbctv:d2dfa2add094b:0 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iVGtBU1ZsZEoyQ2ZpbzRvVlpGY05ldU8zZGFmdlVXRGRySDlHWVB5Z2piOGx1SFJ1OFc1SUlXOTUwNDBrbUZBT1Iyd3loUGRGQjdJdWQtVUk3SWU1a2w4bDVwV3Y2cFk?oc=5\" targ",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iVGtBU1ZsZEoyQ2ZpbzRvVlpGY05ldU8zZGFmdlVXRGRySDlHWVB5Z2piOGx1SFJ1OFc1SUlXOTUwNDBrbUZBT1Iyd3loUGRGQjdJdWQtVUk3SWU1a2w4bDVwV3Y2cFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-11-01-002",
+    "date": "2026-11-01",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings Limited (0968.HK) Seasonal returns chart - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DdDM3a1hNQlA5ejFDY2tDRTJVc3QwelZXZWhoVVJwZlhwSVliMy1PWEVZdEt2YXBHQ0xlamcxNXZySEhVQnp4dzFtYldDZGlWem0zNDJMSk9ycE1HRHFJd0c2eFFWQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DdDM3a1hNQlA5ejFDY2tDRTJVc3QwelZXZWhoVVJwZlhwSVliMy1PWEVZdEt2YXBHQ0xlamcxNXZySEhVQnp4dzFtYldDZGlWem0zNDJMSk9ycE1HRHFJd0c2eFFWQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "flat_glass-2026-11-01-003",
+    "date": "2026-11-01",
+    "companies": [
+      "flat_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Flat Glass Group (SEHK:6865) Q3 Results Deepen Losses As Revenue Contracts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0FEV09qTS1lSjRqZG91YV9PRUpGaExZdEpJeWgxenA0dXl0clpJUk56VFFNdHZtTnIxcGt0djkyTEtDOTlhNkZjcUNRWHRfRjlEVlFuZ29XWDZyV1JiSVZSVW5KcUZadjdZbW9XUG",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0FEV09qTS1lSjRqZG91YV9PRUpGaExZdEpJeWgxenA0dXl0clpJUk56VFFNdHZtTnIxcGt0djkyTEtDOTlhNkZjcUNRWHRfRjlEVlFuZ29XWDZyV1JiSVZSVW5KcUZadjdZbW9XUGZvYllDSEtOejZLdThmM1ZkcVo0YnE1T3o5ZG4wdFV4djREZFEyLWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-31-001",
     "date": "2026-10-31",
     "companies": [],
@@ -14,6 +70,66 @@
       {
         "name": "google_glass_industry",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlQwMnVrQktqeWdER3hNSWFLZkpvSTJRS2kyYjVCcm83eklrNWxqNWFwYm9GVFhicmw5WVN6OFA5b2xvUkRmbEtaMGZod3lHSmtfcERFWkU5ZExCYTAxbndVd2gzSzVzaVNlVThacTNRSFVFb254VVdrdl8zZ1hSUzM2ZUJlN3hpb0stVGVvTGRicUxZcUoyNWtQdVR5UGY1Y0F1NFhuZm9UTUtuMnplc0VrWWJ1N2g0M2xzUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_glass-2026-10-31-002",
+    "date": "2026-10-31",
+    "companies": [
+      "xinyi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Glass Holdings Limited (0868.HK) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwMXVzNUtPTzJHd0YtQVFDUzdtNnJ2MlNfVmFfcmVmT1pKTDd1ZnhGbHIta0ROdGNFMDJjeTYxZVpLeTVzdXFsbm1xWXJTX2NtY21EazBtOHE4UW9JTXl1TnQ4MjEzQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "xinyi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwMXVzNUtPTzJHd0YtQVFDUzdtNnJ2MlNfVmFfcmVmT1pKTDd1ZnhGbHIta0ROdGNFMDJjeTYxZVpLeTVzdXFsbm1xWXJTX2NtY21EazBtOHE4UW9JTXl1TnQ4MjEzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "flat_glass-2026-10-31-003",
+    "date": "2026-10-31",
+    "companies": [
+      "flat_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Flat Glass Group (SEHK:6865) Q3 Earnings Sink Deeper Into Losses - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSzNzd2VxNmVrTGwzazg5ZFR5UzgxcWhXSGsyTXpPMDY5TE4zLUd6TnV6ZnpjT0ZlUF9hQ1FMMXR2QTJza1pjejBFcnY3ZWF6TnNqY3p2VjVRdHRYRHpZZ0QyeVBLZ29pNVVULUhvTW",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSzNzd2VxNmVrTGwzazg5ZFR5UzgxcWhXSGsyTXpPMDY5TE4zLUd6TnV6ZnpjT0ZlUF9hQ1FMMXR2QTJza1pjejBFcnY3ZWF6TnNqY3p2VjVRdHRYRHpZZ0QyeVBLZ29pNVVULUhvTWxwMVpUb0JXS1lXdFJmWEstYjgzU3V0RnlHVVF5WWN3OGJrUXMteDBEM1Y5VS1abTdtaTV1RExwVmVsMGFnTWxHWHJSeTBJWlVkY084UFQ1RWZFdkVSN19EUDdIOUhtZU05bmFoTE1Vc0lzeVdNUjVaV01jUdIB4wFBVV95cUxQSzNzd2VxNmVrTGwzazg5ZFR5UzgxcWhXSGsyTXpPMDY5TE4zLUd6TnV6ZnpjT0ZlUF9hQ1FMMXR2QTJza1pjejBFcnY3ZWF6TnNqY3p2VjVRdHRYRHpZZ0QyeVBLZ29pNVVULUhvTWxwMVpUb0JXS1lXdFJmWEstYjgzU3V0RnlHVVF5WWN3OGJrUXMteDBEM1Y5VS1abTdtaTV1RExwVmVsMGFnTWxHWHJSeTBJWlVkY084UFQ1RWZFdkVSN19EUDdIOUhtZU05bmFoTE1Vc0lzeVdNUjVaV01jUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "flat_glass-2026-10-31-004",
+    "date": "2026-10-31",
+    "companies": [
+      "flat_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Flat Glass Group Co., Ltd. (6865.HK) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRndXM21RckJjcmQ0X1k2Q1NYQWZOMUFia0lGczRScmZ2VW9NVjgzSUREWjZESXlyQ0NBamptMW5jZHBLVkhiNkQ0am9XRE1VeHM0Sno4OUtveWZfQ0Y1eS1lTU1JQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "flat_glass",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRndXM21RckJjcmQ0X1k2Q1NYQWZOMUFia0lGczRScmZ2VW9NVjgzSUREWjZESXlyQ0NBamptMW5jZHBLVkhiNkQ0am9XRE1VeHM0Sno4OUtveWZfQ0Y1eS1lTU1JQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -790,6 +906,46 @@
     ]
   },
   {
+    "id": "tata_chemicals-2026-10-30-040",
+    "date": "2026-10-30",
+    "companies": [
+      "tata_chemicals"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tata Chemicals Removes Nusli Wadia As Director - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTy1hSURaenZ1WmU3djNWWXh5bXF4T1cyeV8wbGpSaV90V1dSZXdCbjlTUlRQYW9Ta2ItOFNFd2tIeTE1TWxWSzBCSUhHV3BLY1U5MjNPTzI2THAxMGpoMno3TmJXZmdSRFpDVVNqQz",
+    "sources": [
+      {
+        "name": "tata_chemicals",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTy1hSURaenZ1WmU3djNWWXh5bXF4T1cyeV8wbGpSaV90V1dSZXdCbjlTUlRQYW9Ta2ItOFNFd2tIeTE1TWxWSzBCSUhHV3BLY1U5MjNPTzI2THAxMGpoMno3TmJXZmdSRFpDVVNqQzNhUnRLSkRDaG9YRkZobkpENm1fRlNJUF9GbFNhQU51QkpoSW1kQ1V1X2tlRV91V2Q0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-30-041",
+    "date": "2026-10-30",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass, Inc. (OI) Seasonal returns chart - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOQ2EzblJUMDQ0X2JVMnZObmF2clBTRkZHcnN1UjVXYzBEY0RoVEFvVWR1cFNEOUoyYW9VVk82cTF6X2VVVWdWQkh5aHpqYkNrNHc5ZmM2czAzaWd6SGNv?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOQ2EzblJUMDQ0X2JVMnZObmF2clBTRkZHcnN1UjVXYzBEY0RoVEFvVWR1cFNEOUoyYW9VVk82cTF6X2VVVWdWQkh5aHpqYkNrNHc5ZmM2czAzaWd6SGNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tata_chemicals-2026-10-29-001",
     "date": "2026-10-29",
     "companies": [
@@ -1273,6 +1429,66 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0ZnX0JOZHZkaXNCNDFEYnhrSGJzVnpHSVllaE9pWGkwaVl0dWdRTkxFckpUMW9IcnRaV2YtMmtOSlJIbzNuWVRRamp0MXF6OGlQSXF2ZThuOTNDTFV4a3BTR0FVRjRjQkRBOXYwWXNhaWZKbkhiQUtRRTkyNWxYV2lBZExaMDllc05xSEJrSUVRaGtRMjFSbjBtNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-29-026",
+    "date": "2026-10-29",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What O-I Glass (OI) Said on Its Q3 Earnings Call - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDJwUkRNbGMzVWM2UUZ3TjFtcERDeEl5YmdrSGVkWmM1QWpkZzJlTmZycDVsSFpGRGlSZnZTYWxYZDRKckI2NlNpQ3UyNW9SVEhPaGNCVzlyN2lyYnN1QTVGWFlHaXljR1lHeFlLYn",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDJwUkRNbGMzVWM2UUZ3TjFtcERDeEl5YmdrSGVkWmM1QWpkZzJlTmZycDVsSFpGRGlSZnZTYWxYZDRKckI2NlNpQ3UyNW9SVEhPaGNCVzlyN2lyYnN1QTVGWFlHaXljR1lHeFlLYndLbEthWTEyOXVqbThLd1gtYU90cno4aUtBQVU0dXNTSVN0RjlyX3U3V29Qbjc1MkcwbWVVeXpWU3VEZ1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-29-027",
+    "date": "2026-10-29",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Q3 Earnings Call Highlights - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFE1cW9lWUhCaHotOEVVWnN4RHduSFhHNUlTNVVYUjlkaEJuM24tbEJTVkY4MTlwM0t4enh6aXlXTURTMHFGR0hMSUNtMWlJM2NkRnlURVFGSkZGQmxmck4tZ0F4Ny04dFM3QnR0MG",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFE1cW9lWUhCaHotOEVVWnN4RHduSFhHNUlTNVVYUjlkaEJuM24tbEJTVkY4MTlwM0t4enh6aXlXTURTMHFGR0hMSUNtMWlJM2NkRnlURVFGSkZGQmxmck4tZ0F4Ny04dFM3QnR0MGRYWkF0QXlocU9PbzFaMGduQmw4WTJ5cnh1ZXBaVkdWRnpBdFlhLXA5YVprTXBaV1VNSUZYY051MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-29-028",
+    "date": "2026-10-29",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "First Solar, Inc. Announces Third Quarter 2026 Financial Results, Updates Guidance, and Announces $500 Million Share Repurchase Program - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUpKSHNCb0daUGR6YTg2M1BhZHhTRTFWOUNFQm90bXpfYW5QQVczWmxZWjR6aS1aQXZVNHBITmV6THJCaE5SVUtYVmVfQXI4dnpUZnVicXZVYTNHSVZCYk5tNDF6d3VZTnBLVTUzU3",
+    "sources": [
+      {
+        "name": "first_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUpKSHNCb0daUGR6YTg2M1BhZHhTRTFWOUNFQm90bXpfYW5QQVczWmxZWjR6aS1aQXZVNHBITmV6THJCaE5SVUtYVmVfQXI4dnpUZnVicXZVYTNHSVZCYk5tNDF6d3VZTnBLVTUzU3ZLY0ZqVlBnUVlBaW5kSGxVU1lNUzFjX3hTZ1p3WUVCUXFaMm8yTFdtTThxdFc?oc=5",
         "type": "rss"
       }
     ]
@@ -2362,6 +2578,26 @@
       {
         "name": "first_solar",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWkxeDFNX3B4elNIbDVwVU1YcGNJWV9Ud1E4RXUyVFZkem9YbmlpT1J0aWU4TWxGTWswUTVzVm9KTFFxU0Q5WXIxUG5XZXBuTmhzc1dfb1ZhSmNHZ3BKLXpteGItWkhGYTJVU2hsQnBfX2cxMVVPR3p6TUZ3aHBEUDZqZEpMZUcxTHVEMDJxTnZiS1ZxSWlJ0gGrAUFVX3lxTE40dDJDdVZ6RGFUTFRpeHlCSFdLTWQzaldPdGx5Ti1IZWFldVJmWDVYYnVseF9JSkJQWXI3SXNPUGQ5ZmdjSWFIaGdxcEItMHh3VGdFbTdxMEVRZDU2a3FwcngyTzhCaERYMW1GUG9RSEkxSVBYaFgtcGFnRmk5RDJ6bXBHZ0QwRWRkXzR3RW0zdTdiNHlxN0p0dHRzLV83LWdNMlMzVE0xS2FVSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oi_glass-2026-10-28-056",
+    "date": "2026-10-28",
+    "companies": [
+      "oi_glass"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "O-I Glass Inc (OI) (Q3 2026) Earnings Call Highlights: Europe Struggles Weigh on Results as ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFkzdVpYMWlVM3ptekxRdXZ3eGxaeWJNVWR4VHZNNnc0S3cwUjhoY0M4bjRjcm1sQlFZN1RoMjZGT0tZeF9BWjVhNkxTLVpsaDUxUWx0b01SRGYwOTlKQndpZkNndnpEbC1JYm82Q0",
+    "sources": [
+      {
+        "name": "oi_glass",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFkzdVpYMWlVM3ptekxRdXZ3eGxaeWJNVWR4VHZNNnc0S3cwUjhoY0M4bjRjcm1sQlFZN1RoMjZGT0tZeF9BWjVhNkxTLVpsaDUxUWx0b01SRGYwOTlKQndpZkNndnpEbC1JYm82Q0VBR3B6bWRWVk1RMXBKSHItaVNKSHVTZFRudmc?oc=5",
         "type": "rss"
       }
     ]
