@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T18:02:38.936407Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-11-02-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Baird maintains First Solar at Outperform, lowers price target to $266 from $290 - TradingView",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0FBODdVQ0FHQ21LWnk4ZlJxd1hsM0toVG9PdnlTUkdrZzEtRWh6M2o1SDhINk1lclFSaTdCdmZjUGlDekZ6dUZuWW9YZ21fVjhveV9RdUtTVS1oMjlOVXEySGZjQlFFei1Db2dXcEg4MnZMTzZDTE9INjdCYUl0anpVeVpxYnFUQVpCVXFQV2I3R2dMWnhqWkJiVUlDZVUwc2FaZ0dqUWI3ZnVVeWpMZFBXeElwWGpfOXpkZHdxTFl5TXNkVmVaWDRXeUJEZE1VV0JvR3lR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-11-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain India, IIT Madras to establish research labs for sustainable construction - The Times of India",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY0ZGMy10eFNmTFdkUkFfOEdUQmFkQ1JHQjVQa1JtZEJ4QThMWkdsVndGM2VoTnA0Yzd2dXp4c1VRRGRrY1RpcmNKek1fTmVneU5ibDRSS2Q3eXhwaHRwWEJ5QnE3UDZINnlCM25oVzAtQ1FHbnQtQm4xWHY0dUlGVE1nR0d6LTV1NHMwRmhfOTJla1hHdHg2RUNNZ19aZldrS3AxS0VSdktJUk9BeTRRRGpmRjBUSk9nQU5IRE9QYnp2bUl1X1pHRTFQcm4wa1g5YnZ5YTZVd0VrUjF0bEVqNl9Nc2l6eksyS3FBUV84OWJkQdIB9wFBVV95cUxNeU9XSmdibXp4SGVEQ3VYd2hnUG5ieTAtNFdXOWxVU1JGeVltU0V1VndKalJJa0daNXVHY2lDMnJVSWdRV01lVFRPRmV2UDJ0VDZyYVR4RVpuYzlfanEweG4xLXpKeHZGREZjUG1scFpqVHYyMnlRWUFueWxwczdxUlZsTS03VkNfb05ZanVGZ0FYWVNydEhnblFseEVLVFdXcTlKTm0tQ1RNbGlDekJ1cEpOLTBfX2hfY1FOLVJtT2pGcnNtZ3dyTmlSeXBRamdtSkVJNjVHNVhUU3JFX2hHdWlOSlNhb3BKS1JkdGZWSTE3U2lxbGdV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Q3 like‑for‑like sales +2.5% and 3.2% price rise - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYm9aQlRuN1pEMFY5NFYtRnFHMmNSc3FXZElpMFJsWFRhaFJ3MGdnZFFxdUl0TkpOa3hETVc0SEpXVnlrS3FxdGE0bG13ZnlnV0JYSXBYVS1GM0FvN01OeGxjWkNZRUY5emFZX1J2cW4wRnl6Nkl0aVZ1LUFhU0t0VVRLNld5UnlwSDVGUHRGSkVaQjF5ZDd5V3ZTTURjb1o1bkFnM0d3eGJib2VMa05GMGpleGhQMGdyRUFqRg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-11-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain India, IIT Madras Set Up Two Research Labs for Sustainable Construction - The CSR Universe",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "construction_activity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWNzNUlnR2RfSlhwN0pqUW90cUZkX2JGVEhtUjRLaGxuOWduNmd6RWJGWmtqb1RQZzVHa1NrTHJfVTNITElTQTk3VEFsa3RtQ2ZPMDhrcFpBWVpsM1lLbDVmYjB0WFFlWVZzVzFtUHJJb0RWMnEwSnR1X0JKTm1FRlBzdzlsbzNyb24tU0t4TURIdTMzcGNfb2NCTl90eXg4c2lDZnRuS0I4ZWYwMG9jWjNUZWZGZlRHVjBV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-11-02-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain shares among the strongest gainers in the CAC 40, up 3.5% over one month - Idéal Investisseur",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSDg4WEV4eE04YTZQMTBLTlRVWXNodk94NUpVVjBpcFl6S0xBQ21oMUdUNWVJQkhqdGlHTjEybEx3dHRqSmFoemZ6Tll6NlFrbTF6N00tTkZDV2RYaHN1WC1rdk92ejV3MGtJMDEydHhZSFFSNVkyLWtxN1lfb0pJN1N3dkVKWmJYakV5RVhXYWx4LVFPVEtPTTFydVVnZGJ5dVVfVm9ndVVqYWFtVlRXZjc5V0QxMUJQcF9KRkI2M2ZPaWtyNURadHZ6Rllia2FwNmw2ZUp0ay1uUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 7
+      },
+      {
+        "id": "saint_gobain",
+        "count": 5
+      },
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "construction_activity",
+        "count": 5
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 179,
+    "too_old": 165,
+    "gate1_blocked": 26,
+    "gate2_blocked": 23,
+    "passed": 35,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Owens Corning News — MUN:O5Q - TradingView",
+      "Lisbon veteran gets new roof - SalemNews.net",
+      "Owens Corning (OC) Rises Higher Than Market: Key Facts - Yahoo Finance",
+      "Owens Corning (OC) Seasonal returns chart - Yahoo Finance Australia",
+      "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為First Solar、聖戈班、O-I Glass相關動態：「Baird maintains First Solar at Outperform, lowers price t...」。主要關注主題為財報、庫存、建築活動，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Baird maintains First Solar at Outperform, lowers price target to $266 from $...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Saint-Gobain India, IIT Madras to establish research labs for sustainable con...（建築活動、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

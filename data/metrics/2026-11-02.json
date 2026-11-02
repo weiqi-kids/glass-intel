@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-02",
+  "total_events": 21,
+  "by_company": {
+    "saint_gobain": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oi_glass": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    }
+  },
+  "by_topic": {
+    "glass_fiber_electronics": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "inventory": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "construction_activity": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": 0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

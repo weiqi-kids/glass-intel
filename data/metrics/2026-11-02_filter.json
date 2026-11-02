@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 26,
+  "gate2_fail": 23,
+  "passed": 35,
+  "gate2_samples": [
+    "Owens Corning News — MUN:O5Q - TradingView",
+    "Lisbon veteran gets new roof - SalemNews.net",
+    "Owens Corning (OC) Rises Higher Than Market: Key Facts - Yahoo Finance",
+    "Owens Corning (OC) Seasonal returns chart - Yahoo Finance Australia",
+    "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+  ]
+}
