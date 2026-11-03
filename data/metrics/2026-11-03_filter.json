@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 29,
+  "gate2_fail": 20,
+  "passed": 30,
+  "gate2_samples": [
+    "Tata Chemicals Limited (TATACHEM.NS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapor",
+    "14,600 Owens Corning Inc $OC Shares Bought by VIRGINIA RETIREMENT SYSTEMS ET Al - MarketBeat",
+    "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance UK",
+    "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance Australia",
+    "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+  ]
+}
