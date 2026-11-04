@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 27,
+  "gate2_fail": 12,
+  "passed": 45,
+  "gate2_samples": [
+    "Form 8K Owens Corning For: 4 November By Investing.com - Investing.com India",
+    "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance UK",
+    "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance Australia",
+    "Nippon Sheet Glass Company, Limited Estimates – LSX:864743 - TradingView",
+    "Nippon Sheet Glass : Showcasing Advanced Reinforcement and Sustainable Adhesion Technologies at IRC2"
+  ]
+}
