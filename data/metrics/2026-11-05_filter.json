@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 185,
+  "gate1_fail": 26,
+  "gate2_fail": 12,
+  "passed": 40,
+  "gate2_samples": [
+    "Truist Raises Price Target on Owens Corning to $120 From $115, Keeps Hold Rating - www.marketscreene",
+    "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance Australia",
+    "Nippon Sheet Glass Co Ltd (NI9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Nippon Sheet Glass : Showcasing Advanced Reinforcement and Sustainable Adhesion Technologies at IRC2",
+    "Nippon Sheet Glass Company, Limited (NPSGY) Seasonal returns chart - Yahoo Finance - Yahoo Finance S"
+  ]
+}

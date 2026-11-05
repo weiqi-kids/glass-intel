@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:19:02.657601Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-11-05-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning roofing revenue falls 16% on weak storm demand - Homepros",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0dFMUpwc3VTb1dNSExsRTBlU0k3b2dwa3ZoRzVNZmdXMWdkWlhEMHZhcGNqdWhDTjNsalhCQ1J5Wk9vMXR1dE5WN3FGS3ZzaUJhdFdGMUlRR0l0cEFHaFN5Z0ozdzc3ZTA1NUs3SjlTbUs1WmhFa3FjU2NVN1pFLTZkaTM3OEcxMWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-11-05-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Earnings Miss Raises Questions For Owens Corning Stock - Yahoo Finance Singapore",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEVUNjVHMkhrdW05VklIYlJuWVVodlhZZlREdFh3ZExxSDVUOHdZNUxaMjVZQms0WFBuYWwwY0VVcFd1dW1rVzRWQVh6bFZTT0V3VnRkRHA1bVFtbnRYaldoSjlPc2g3Q3lsaDlXMUU3N2NnWDFVakdvTnJDdGpBV29sUEFhcmJTdUVlaXdB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-11-05-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning (NYSE:OC) Stock Price Expected to Rise, Truist Financial Analyst Says - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUlNIQXlLelpVY1ByVHUxM25sTnNEamM3WFdYUldHWmZfMkphMHlva1UyZEo4WUplbUxnek1HS0lIU0x1c2ZLNWNZa3NURUlGci0tYmNVejlKUXU5LXpyaXpqRjNENGZsTjV1NkEyb25DMmpjQzBpZ013dVF5bU42dHktbHN4R0pscWdkMUVUUy1CT0hXRzh6eFVveWYxeWdreTNZY1ptdEg0ZU1MSlpCYzNOYTBaVWVmOS1RMEJNWEItaUNseXpNVFQxQTh0M0p4Q2hJQWZnaWhoUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "agc-2026-11-05-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AGC: Sales grew, but profits fell as FY2026 guidance was cut and one-time losses weighed - TradingView",
+      "companies": [
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTG1JMXhNNHBrdlpxS2ItTm9EVTVDUjV4LXN1T1QyQ0R0dVp3X1pfVi1NNFNIS2pMM25aeDVtMjBNMlpTdjVZX0ZORkZvdncxc1piVkNlYnBvbmV6aHlTX0dMa3IyUFNfd0RhY3A4UGxHbUo0X2x5T3dnR1Bjand5dlk0RlhJY3J2TlNCVWR3RXplT1hGdDAwbDBickdTQXVZRjBnajhTRmVlSGJra3Y2TFU0ZEJoczhQV1NnNl9PNEJpRVNpVVpkbWZvQ09oaGJ5VTZBRjk3VmdsRUhtUTd4QmNGa0pvZzZ4Q21KaFBXQVZsZ3RtNnAtcU9mNkFoUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-11-05-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "First Solar upgraded to Outperform from Market Perform at William Blair - TipRanks",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUttcDVMNEwtZTg0N1dGZ2pJWmRkTUNoaE93WXFVZ2NPNGQtRHJreFVsdFFVeksxazVhVV8xTllTaUR1VUFfQi13eWhNZHE1LVljXzJVWm1GbkUxQ0VuSUczQ3RwSnFveTVBZmtBMFRIUlUzVnk4MmUtT0pkUjBsSzF1U0JMeG5aS1owZkxuRzcyNjgxZnlUanRUSmRsUm5PT3Y5WmQtX0txYVBYOGd6YTBoWEpYcVpSZTlPRUV3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "inventory",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 20,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 8
+      },
+      {
+        "id": "corning",
+        "count": 5
+      },
+      {
+        "id": "owens_corning",
+        "count": 4
+      },
+      {
+        "id": "agc",
+        "count": 2
+      },
+      {
+        "id": "oi_glass",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "construction_activity",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 160,
+    "too_old": 185,
+    "gate1_blocked": 26,
+    "gate2_blocked": 12,
+    "passed": 40,
+    "pass_rate": "15.2%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Truist Raises Price Target on Owens Corning to $120 From $115, Keeps Hold Rating - www.marketscreene",
+      "AGC Inc. (5201.T) Seasonal returns chart - Yahoo Finance Australia",
+      "Nippon Sheet Glass Co Ltd (NI9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Nippon Sheet Glass : Showcasing Advanced Reinforcement and Sustainable Adhesion Technologies at IRC2",
+      "Nippon Sheet Glass Company, Limited (NPSGY) Seasonal returns chart - Yahoo Finance - Yahoo Finance S"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為First Solar、康寧、Owens Corning相關動態：「Owens Corning roofing revenue falls 16% on weak storm dem...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Owens Corning roofing revenue falls 16% on weak storm demand - Homepros（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Earnings Miss Raises Questions For Owens Corning Stock - Yahoo Finance Singapore（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
