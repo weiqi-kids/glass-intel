@@ -1,0 +1,16 @@
+{
+  "total_raw": 421,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 24,
+  "gate2_fail": 17,
+  "passed": 26,
+  "gate2_samples": [
+    "Huge Tata Chemicals track donation could secure Llangollen Railway's future for a generation - The R",
+    "RBC Cuts Price Target on Owens Corning to $119 From $127, Keeps Sector Perform Rating - marketscreen",
+    "Wells Fargo maintains Owens-Corning at Overweight, raises price target to $133 from $125 - TradingVi",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Nippon Sheet Glass Co Ltd (NI9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+  ]
+}

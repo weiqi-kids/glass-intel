@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T16:18:58.224959Z",
+  "updated_at": "2026-11-06T15:48:39.336035Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "旭硝子",
       "ticker": "5201.T",
       "currency": "JPY",
-      "ar": 342972000000,
-      "ar_prev": 343238000000,
-      "ar_qoq": "-0%",
+      "ar": 333604000000,
+      "ar_prev": 342972000000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 495857000000,
-      "inv_prev": 472394000000,
-      "inv_qoq": "+5%",
+      "inventory": 495441000000,
+      "inv_prev": 495857000000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "au_optronics",
@@ -41,17 +41,17 @@
       "name": "康寧",
       "ticker": "GLW",
       "currency": "USD",
-      "ar": 2932000000,
-      "ar_prev": 2676000000,
-      "ar_qoq": "+10%",
+      "ar": 3101000000,
+      "ar_prev": 2932000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 3426000000,
-      "inv_prev": 3279000000,
-      "inv_qoq": "+4%",
+      "inventory": 3646000000,
+      "inv_prev": 3426000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "first_solar",
@@ -177,17 +177,17 @@
       "name": "Owens Corning",
       "ticker": "OC",
       "currency": "USD",
-      "ar": 1508000000,
-      "ar_prev": 1353000000,
-      "ar_qoq": "+11%",
+      "ar": 1173000000,
+      "ar_prev": 1508000000,
+      "ar_qoq": "-22%",
       "ar_period": "QoQ",
-      "inventory": 1455000000,
-      "inv_prev": 1492000000,
-      "inv_qoq": "-2%",
+      "inventory": 1464000000,
+      "inv_prev": 1455000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "saint_gobain",
