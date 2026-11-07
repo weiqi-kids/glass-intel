@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 28,
+  "gate2_fail": 14,
+  "passed": 24,
+  "gate2_samples": [
+    "Huge Tata Chemicals track donation could secure Llangollen Railway's future for a generation - The R",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "AGC Inc. Posts ¥1.66 Trillion in Nine-Month Sales, ¥157.59 GAAP EPS - www.tokenpost.com",
+    "Nippon Sheet Glass Co Ltd (NI9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Nippon Sheet Glass Company, Limited (NPSGY) Seasonal returns chart - Yahoo Finance - Yahoo Finance S"
+  ]
+}

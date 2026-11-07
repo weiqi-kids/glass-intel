@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:48:39.336035Z",
+  "updated_at": "2026-11-07T14:48:09.701297Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "Solvay",
       "ticker": "SOLB.BR",
       "currency": "EUR",
-      "ar": 664000000,
-      "ar_prev": 678000000,
-      "ar_qoq": "-2%",
+      "ar": 635000000,
+      "ar_prev": 664000000,
+      "ar_qoq": "-4%",
       "ar_period": "QoQ",
-      "inventory": 579000000,
-      "inv_prev": 592000000,
-      "inv_qoq": "-2%",
+      "inventory": 625000000,
+      "inv_prev": 579000000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "taiwan_glass",
