@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:54:56.104637Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tata_chemicals-2026-11-08-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tata Chemicals posts loss at ₹50 cr in Q2 on lower realisations, higher energy and logistics costs - TradingView",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWVIyaXRIRlBkTjVZRFY2Rm5obEJ5eDVhU0drd0xYekxTRU9tNzJnMXlKQ0ZuS1U0YlE0TXl0ZGtlNFFWTjNEXzhneWZPTHFyblcwWHVSdlI3LXFsX0JOcHRUVWZPcWo5MFBuQXdjU1pEbkRoT1RxSllTWjE0RTBwM041UlpBZjIwNWFfWkJmMVRSbFVPaEVCbVM0amRLdW5rd0ZBd1RNR1d0S204bXdfZWd3X3RhbmQ0UExTMUNfSVdpVkJPa0hpRVo1UndnZFhQYkN6aEQtenVMWlJuQmw5NVlfQmpVSXVr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "flat_glass-2026-11-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flat Glass Group Co., Ltd. (FGSGF) Seasonal returns chart - Yahoo Finance UK",
+      "companies": [
+        "flat_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRDlUTkthVHpqQkxabmNiVENmUGs2bjJxWUQ1THo1YXZjaS1ILURYX0hwRFM5dVBpLXRQSHBPbkNMcHMyOUZLbFFQZEFac2xJdTlkTlVmSnh4a1NzVURpdzJIaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "flat_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 178,
+    "too_old": 186,
+    "gate1_blocked": 24,
+    "gate2_blocked": 14,
+    "passed": 21,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Nippon Sheet Glass Co Ltd (NI9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Nippon Sheet Glass Company, Limited (NPSGY) Seasonal returns chart - Yahoo Finance - Yahoo Finance S",
+      "Xinyi Solar Holdings Ltd (13X.SG) Seasonal returns chart - Yahoo Finance Australia",
+      "Cause of Fuyao Glass America fire ‘undetermined,’ city manager says - Dayton Daily News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為塔塔化工、福萊特相關動態：「Tata Chemicals posts loss at ₹50 cr in Q2 on lower realis...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tata Chemicals posts loss at ₹50 cr in Q2 on lower realisations, higher energ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Flat Glass Group Co., Ltd. (FGSGF) Seasonal returns chart - Yahoo Finance UK（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

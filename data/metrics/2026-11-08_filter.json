@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 186,
+  "gate1_fail": 24,
+  "gate2_fail": 14,
+  "passed": 21,
+  "gate2_samples": [
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Nippon Sheet Glass Co Ltd (NI9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Nippon Sheet Glass Company, Limited (NPSGY) Seasonal returns chart - Yahoo Finance - Yahoo Finance S",
+    "Xinyi Solar Holdings Ltd (13X.SG) Seasonal returns chart - Yahoo Finance Australia",
+    "Cause of Fuyao Glass America fire ‘undetermined,’ city manager says - Dayton Daily News"
+  ]
+}
