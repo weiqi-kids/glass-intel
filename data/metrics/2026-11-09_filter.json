@@ -1,0 +1,16 @@
+{
+  "total_raw": 421,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 28,
+  "gate2_fail": 16,
+  "passed": 31,
+  "gate2_samples": [
+    "What Investors Got Wrong About Tata Chemicals Before The Drop - Simply Wall St",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "AGC Inc. Posts ¥1.66 Trillion in Nine-Month Sales, ¥157.59 GAAP EPS - www.tokenpost.com",
+    "Nippon Sheet Glass Co Ltd (NI9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Nippon Sheet Glass Company, Limited (NPSGY) Seasonal returns chart - Yahoo Finance - Yahoo Finance S"
+  ]
+}

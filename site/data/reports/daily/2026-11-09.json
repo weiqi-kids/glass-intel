@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:34:10.255630Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-11-09-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "LONGi Posts RMB 1.03 Billion Q3 2026 Loss As BC Sales Grow - TaiyangNews",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wX2xjV2FuZF9fUG1lN01EY0hnUW5YN3RfTnRjN0ZMUWlsM2FIbWtTVWVuYmdqNVNwOFlITWtKdF8xR3dqNWxOVzVmMnloTUpyVEJ3YWdqeE83MHBSNFNmR05zdnZwNWcyeWdhSnI0U2RZZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-11-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals Reports 8% Revenue Growth in Q2 FY27 - Machine Maker",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTVhdUJPRXAwdjFJNDNwc0tIbFNZZlc4dS0xWEF3R3BaY3ZIT1pYeDNjVlNvVlNya1d5RUJCYWNIUkdvS2FaXzVuc0VCZ2JVQmFmY1hDZHh1bWNVSFRyWm9fS1dqWDZCc1pOTWcwbWhmVmtidms5Z09tY21FMnk2SEI1N0hVVVc0WWZSWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-11-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Neutral Tata Chemicals Ltd For Target Rs.600 by Motilal Oswal Financial Services Ltd - Investment Guru India",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONVUwcTVydzF5RTZfMXJSSUplMC1jbUVKaVpwakt4eU9JSXNaRWl2YXB1a29aSzk5eWRKWnRaVWVlMndCSTAxcWhBd3JMd3hPQzFQZWlRSkRuZEZ4WnlMOHZqY0hPN0JjWWNhWEZqQ0Y0cGJIN2xvdnJTNy1vTTRHNmJ6bGhrYUNvV0RLNXlSemdHdGw0dDRpV3dXdHBGVjU2THlLa2Q4a200UWhFTzRleVlHQm9XeEo1TTFJblBUUkoxNW0xalQ0VEtsS3d3QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "agc-2026-11-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AGC Reports Higher Architectural Glass Sales, Lower Profits - USGlass Magazine",
+      "companies": [
+        "agc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjZOMk9MdnRjZzdDSVc4V191WTZqZ0F4bmdxMVJOMHQ4YkVLQlgtbXVGakk0dU1TNkdIaW1wN1RyNFVkOTlZZi1pMDFRbHhXemVTV0JTSGdVbFNaTk96RkNaRmxCTjdHOF9KY2FCZGRCR2tuSWdpNGw2T25pSkFPNmp0OVJCakhqbzRmeXlBOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-11-09-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock enters a new phase after Dahl sale to Kesko - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemlFdUExSUwxcVB5a2JPV0ZlczdIUUdWZmltLTVCSndjS0VqbkxjTVdraUpNWFpTaVFTUmlmN2UzX2M5MU9xY3p5dlpBdU1DZVNrUWFnZzFHcU9IUmYtR1Y1OGl3OG5fakdILTdVSWxLWnVzQ3J4QmlTRzNWLXFsQXY4YlpfMUlONjB5OHk0RzRKTFcyS09QTVhDX2tHTFNfcFhIY0lXNTZpdksxdUhBOVY4RF9TZjh3U0xSVWJycDc1Z3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 7
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 3
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "agc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 7
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 421,
+    "dup_title": 176,
+    "too_old": 170,
+    "gate1_blocked": 28,
+    "gate2_blocked": 16,
+    "passed": 31,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "What Investors Got Wrong About Tata Chemicals Before The Drop - Simply Wall St",
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "AGC Inc. Posts ¥1.66 Trillion in Nine-Month Sales, ¥157.59 GAAP EPS - www.tokenpost.com",
+      "Nippon Sheet Glass Co Ltd (NI9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Nippon Sheet Glass Company, Limited (NPSGY) Seasonal returns chart - Yahoo Finance - Yahoo Finance S"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為First Solar、塔塔化工、聖戈班相關動態：「LONGi Posts RMB 1.03 Billion Q3 2026 Loss As BC Sales Gro...」。主要關注主題為財報、庫存、建築活動，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LONGi Posts RMB 1.03 Billion Q3 2026 Loss As BC Sales Grow - TaiyangNews（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Tata Chemicals Reports 8% Revenue Growth in Q2 FY27 - Machine Maker（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

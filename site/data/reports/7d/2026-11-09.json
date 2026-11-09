@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-09",
+  "date_range": {
+    "start": "2026-11-03",
+    "end": "2026-11-09"
+  },
+  "generated_at": "2026-11-09T18:34:10.370088Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "corning-2026-11-04-033",
+      "date": "2026-11-04",
+      "title": "Owens Corning Q3 2026 slides: resilient margins amid revenue decline - Investing.com",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 80,
+      "last_week": 74,
+      "week_over_week_change": "+8%",
+      "sentiment_this_week": -0.08
+    },
+    "inventory": {
+      "this_week": 27,
+      "last_week": 14,
+      "week_over_week_change": "+93%",
+      "sentiment_this_week": -0.02
+    },
+    "capacity": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 10,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": -0.19
+    },
+    "construction_activity": {
+      "this_week": 10,
+      "last_week": 8,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.1
+    },
+    "glass_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "glass_fiber_electronics": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "solar_glass_demand": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "corning": {
+      "event_count": 25,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "owens_corning": {
+      "event_count": 23,
+      "sentiment_avg": -0.07,
+      "rank": 3
+    },
+    "taiwan_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "agc": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 6
+    },
+    "saint_gobain": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "oi_glass": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 5
+    },
+    "fuyao": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "first_solar": {
+      "event_count": 28,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "tata_chemicals": {
+      "event_count": 14,
+      "sentiment_avg": -0.21,
+      "rank": 4
+    },
+    "longi": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "flat_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "xinyi_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 190,
+        "last": 238,
+        "change_pct": -20.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-03",
+      "event_count": 26,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 49,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 43,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 31,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 14,
+      "sentiment_avg": -0.18
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 5,
+      "sentiment_avg": -0.4
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 22,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-03 ~ 2026-11-09）共 190 則事件，重點為「Owens Corning Q3 2026 slides: resilient margins...」。塔塔化工、隆基綠能情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "塔塔化工",
+        "reason": "本週情緒偏負面（-0.2），共 14 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "康寧",
+        "reason": "本週出現 25 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
