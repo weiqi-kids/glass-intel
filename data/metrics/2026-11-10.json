@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-10",
+  "total_events": 13,
+  "by_company": {
+    "saint_gobain": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "oi_glass": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": -0.08
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

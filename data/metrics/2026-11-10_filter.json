@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 24,
+  "gate2_fail": 21,
+  "passed": 24,
+  "gate2_samples": [
+    "What Investors Got Wrong About Tata Chemicals Before The Drop - Simply Wall St",
+    "Form 4 Owens Corning: Edward F. Lonergan (Director) For: 5 November By Investing.com - Investing.com",
+    "35,063 Owens Corning Inc $OC Shares Sold by Candriam S.C.A. - MarketBeat",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "AGC Inc. Posts ¥1.66 Trillion in Nine-Month Sales, ¥157.59 GAAP EPS - www.tokenpost.com"
+  ]
+}
