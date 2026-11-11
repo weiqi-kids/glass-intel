@@ -1,0 +1,16 @@
+{
+  "total_raw": 420,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 25,
+  "gate2_fail": 21,
+  "passed": 22,
+  "gate2_samples": [
+    "What Investors Got Wrong About Tata Chemicals Before The Drop - Simply Wall St",
+    "Owens-Corning Inc (OC) Shares Fall 3.2% -- What GF Score of 85 T - GuruFocus",
+    "UBS Adjusts Price Target on Owens Corning to $170 From $198, Keeps Buy Rating - www.marketscreener.c",
+    "Form 4 Owens Corning: Edward F. Lonergan (Director) For: 5 November By Investing.com - Investing.com",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+  ]
+}
