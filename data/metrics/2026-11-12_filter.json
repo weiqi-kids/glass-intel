@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 30,
+  "gate2_fail": 16,
+  "passed": 27,
+  "gate2_samples": [
+    "Tata Chemicals Names Bhaskar Swaminathan To Lead Enterprise Business Finance - TradingView",
+    "What Investors Got Wrong About Tata Chemicals Before The Drop - Simply Wall St",
+    "Form 4 Owens Corning: Todd W. Fister (President and COO) For: 15 September - Investing.com Canada",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "AGC Inc. Posts ¥1.66 Trillion in Nine-Month Sales, ¥157.59 GAAP EPS - tokenpost.com"
+  ]
+}

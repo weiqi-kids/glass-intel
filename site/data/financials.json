@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:58:46.098614Z",
+  "updated_at": "2026-11-12T16:42:20.676554Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -228,17 +228,17 @@
       "name": "台灣玻璃",
       "ticker": "1802.TW",
       "currency": "TWD",
-      "ar": 9466806000,
-      "ar_prev": 7636883000,
-      "ar_qoq": "+24%",
+      "ar": 11966081000,
+      "ar_prev": 9466806000,
+      "ar_qoq": "+26%",
       "ar_period": "QoQ",
-      "inventory": 11169100000,
-      "inv_prev": 11312931000,
-      "inv_qoq": "-1%",
+      "inventory": 10961903000,
+      "inv_prev": 11169100000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "tata_chemicals",

@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:42:24.335702Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "owens_corning-2026-11-12-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "608,547 Owens Corning Inc $OC Shares Sold by Allspring Global Investments Holdings LLC - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNXF0RG52RGRVSkRoTHRzaGRMSDFicDFpWVJjdlc3azQwRWNVTmlXYnQzWTEzMTRGQkl1M0pyWklESDVqSThaQ0xuLVpWYWJpUFBFaWlpS3FfX3JHeGRYUk03Q3ZMWWR4c25JeXdkM0dtQmJGT2pjaEdpY3hZM2o3WHZwTEtDZ2U3N0tQeFJGWDl6ODNjLW9hZUozZXh2dTZkUzhkcFZ4Wi1EZElMdGpLeC1GeDVjRWJiNG5lNHFTcTQ1TlY4b1lOTzcyNXkxaHZGQjBCM0UwVHAtMWFCVXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Nan Ya Plastics to Spend NT$11.53 Billion on Fifth Glass Fiber Cloth Plant in Changbin; Foreign Brokerage Sees Electronics Materials Profit Boost From 2030 - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glass_fiber_electronics",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lMzQyLU9zbWlaM1hqSi1WNGV1MkNoak1QTmtVbEROMEtPcGhmZmVpR3FxZl9VYlFERUMxMnlKNUJHM1NUZ09yOUh0Ym1Ra296aUlrcEVXUC00enctNVN5TWlZWG9NZHdfUDkxVktyb1YwaVFrdFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-11-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain : Jefferies reiterates its Buy rating - marketscreener.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTkhfcGZSX2labFU4eUwxMVlKOGVZWjVDTV9wSXdHbzQ0QWxRZWdqVUFXVmk3d09PX2tEXzdUN0J0cW92azlGZ3dGVEh4UmtjUzd4dzU1WWNXcFdVMG04NEgtQ2NTWjhCUlV5S19lSnlYVmlyMlBYd1FISmlldGxvZEpkTXhGUk5RX2R5OHhScEt3SDB5N2NldnVRbzFKWVRVN2RF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-11-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain shares break above €76.34 and take the lead in the CAC 40 - Idéal Investisseur",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVVtTi1LMWkya0pJTDZLYnFZREw4QlNqWVg5Q2ZxN010bUNNbUkxT1dvN3ptc2xzc2lrZnFWbFNIZzdIVUlnUnRkUDN1VjVjZUhHSmVCcWl4bFVSR0ZaN0w3djhIZVJmUEtENXFGVUpnOGZQNTlOdDhEQ29HeXQ0ekxMWElJVGhSeXVOVXRkS1MyMFd5VDNTNFlQZm0zS2puRWFROXdyZ2Z5MklPMjRBSnIxa2M4d1ZDbnBJTkw3VkRBRWxIREVTSVl3Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "oi_glass-2026-11-12-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OI UPCOMING DEADLINE: SueWallSt Alerts O-I Glass, Inc. Stockholders of Securities Class Action - Contact the Firm - PR Newswire",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbDVTUm5vMkJaSEx6aXU1VHlwdmlROG9pbUxjVUdoU1A2MDd3V1FMX3VwM0gzSjN5eDlRRTA3amtQZE1sQXlSbkE3X0Q3aVV1QTQxU3ZEZXIwc05ZZzlQdEUxbDJNNzVTTVJLT1lHd0NwaTFVR25rMmo3ZS14NjlRdFFmbXhVc29xWHpfYmFwNjlWWlM5YkczajZWeExjWl9URkdEbFRHaXZhSU1PT3hlR1ZVYlhKeTBDQVBjdi1sU19xNkVoN1NsbnVPX29YenVFZzdib2ljRmxocmxWdFMwUXE5aWs2b3Fob002Wk1vUHh0aVZsVGhCYUNR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glass_fiber_electronics": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "solar_glass_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "oi_glass",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "glass_fiber_electronics",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "construction_activity",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 165,
+    "too_old": 177,
+    "gate1_blocked": 30,
+    "gate2_blocked": 16,
+    "passed": 27,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Tata Chemicals Names Bhaskar Swaminathan To Lead Enterprise Business Finance - TradingView",
+      "What Investors Got Wrong About Tata Chemicals Before The Drop - Simply Wall St",
+      "Form 4 Owens Corning: Todd W. Fister (President and COO) For: 15 September - Investing.com Canada",
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "AGC Inc. Posts ¥1.66 Trillion in Nine-Month Sales, ¥157.59 GAAP EPS - tokenpost.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為聖戈班、O-I Glass、First Solar相關動態：「608,547 Owens Corning Inc $OC Shares Sold by Allspring Gl...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "608,547 Owens Corning Inc $OC Shares Sold by Allspring Global Investments Hol...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Taiwan's Nan Ya Plastics to Spend NT$11.53 Billion on Fifth Glass Fiber Cloth...（玻纖電子、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
