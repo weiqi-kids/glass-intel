@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:42:20.676554Z",
+  "updated_at": "2026-11-13T16:00:50.977968Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "塔塔化工",
       "ticker": "TATACHEM.NS",
       "currency": "INR",
-      "ar": 20880000000,
-      "ar_prev": 19000000000,
-      "ar_qoq": "+10%",
+      "ar": 25070000000,
+      "ar_prev": 20880000000,
+      "ar_qoq": "+20%",
       "ar_period": "QoQ",
-      "inventory": 30820000000,
-      "inv_prev": 25580000000,
-      "inv_qoq": "+20%",
+      "inventory": 31040000000,
+      "inv_prev": 30820000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "xinyi_glass",
