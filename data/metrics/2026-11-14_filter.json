@@ -1,0 +1,16 @@
+{
+  "total_raw": 410,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 192,
+  "gate1_fail": 29,
+  "gate2_fail": 12,
+  "passed": 13,
+  "gate2_samples": [
+    "What Investors Got Wrong About Tata Chemicals Before The Drop - Simply Wall St",
+    "Owens Corning teaches roofing, insulation to Penta carpentry students - Sent-trib",
+    "Owens-Corning Inc (OC) Shares Fall 3.2% -- What GF Score of 85 T - GuruFocus",
+    "Form 4 Owens Corning: Todd W. Fister (President and COO) For: 15 September - Investing.com Canada",
+    "Xinyi Solar Holdings Limited (XISHY) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}
