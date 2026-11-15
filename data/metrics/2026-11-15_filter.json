@@ -1,0 +1,16 @@
+{
+  "total_raw": 408,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 199,
+  "gate1_fail": 28,
+  "gate2_fail": 6,
+  "passed": 7,
+  "gate2_samples": [
+    "Form 4 Owens Corning: Todd W. Fister (President and COO) For: 15 September - Investing.com Canada",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Xinyi Solar Holdings Limited (XISHY) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Did You Lose Money Investing in O-I Glass, Inc? Robbins LLP Urges Investors with Significant Losses ",
+    "Louisiana Innovates: Harnessing Louisiana talent to build the future of energy - The Advocate"
+  ]
+}
