@@ -1,0 +1,16 @@
+{
+  "total_raw": 409,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 198,
+  "gate1_fail": 27,
+  "gate2_fail": 8,
+  "passed": 13,
+  "gate2_samples": [
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Xinyi Solar Holdings Limited (XISHY) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Saint-Gobain : Jefferies maintains a Buy rating - marketscreener.com",
+    "Price target changes: Saint-Gobain, Orange, BNP Paribas... - Idéal Investisseur",
+    "OI Deadline Alert: Levi & Korsinsky Reminds O-I Glass, Inc. - GlobeNewswire"
+  ]
+}
