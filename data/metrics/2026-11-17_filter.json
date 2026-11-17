@@ -1,0 +1,16 @@
+{
+  "total_raw": 410,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 28,
+  "gate2_fail": 12,
+  "passed": 23,
+  "gate2_samples": [
+    "Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why - Money",
+    "Tata Group shares rise as RBI reiterates Tata Sons listing requirement; Tata Chemicals gains up to 6",
+    "Mining PS Kimtai meets incoming Tata Chemicals Magadi boss - The Star, Kenya",
+    "Owens Corning Roof Deployment Project helps Hallowell Purple Heart recipient get new roof - WGME",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:10:55.987841Z",
+  "updated_at": "2026-11-17T17:30:09.230416Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "友達",
       "ticker": "2409.TW",
       "currency": "TWD",
-      "ar": 35427279000,
-      "ar_prev": 34990566000,
-      "ar_qoq": "+1%",
+      "ar": 28898659000,
+      "ar_prev": 35427279000,
+      "ar_qoq": "-18%",
       "ar_period": "QoQ",
-      "inventory": 40786911000,
-      "inv_prev": 37913971000,
-      "inv_qoq": "+8%",
+      "inventory": 45114304000,
+      "inv_prev": 40786911000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "corning",
@@ -109,17 +109,17 @@
       "name": "群創",
       "ticker": "3481.TW",
       "currency": "TWD",
-      "ar": 43646151000,
-      "ar_prev": 41594147000,
-      "ar_qoq": "+5%",
+      "ar": 39386006000,
+      "ar_prev": 43646151000,
+      "ar_qoq": "-10%",
       "ar_period": "QoQ",
-      "inventory": 46883205000,
-      "inv_prev": 46700952000,
-      "inv_qoq": "+0%",
+      "inventory": 51710966000,
+      "inv_prev": 46883205000,
+      "inv_qoq": "+10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "longi",

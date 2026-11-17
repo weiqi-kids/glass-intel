@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:30:12.462797Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-11-17-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Roof Deployment Project helps Hallowell Purple Heart recipient get new roof - fox23maine.com",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFhqMGI5ZmNuaWdNWURyazdxUWNSZ0JzX2tvTzdvQzhid3pXaHl5eE5YNDdZQXdFU0U3SXVkalRJeU1xYWpCZ1hXUl9ZQ3k4azhiWFh0Z05OSlhsZW12ODk1SGM2ZEk1WHQtWGxQZ1dJeW9XYmZUdUFEbEhyTEYycjlvYmJLdW1EWXQ5YV9VcVgxMlB4aUhFNTY4WHVyZWVlQTdQdUVCVUZlMC04OFdGQkNsbE5Eckttd0stN3E5MmI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tata_chemicals-2026-11-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nifty 500 at open: Tata Chemicals jumps 8% as RBI asks Tata Sons to list; Apar Industries slips 3% - CNBC TV18 - LinkedIn",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFdWT3A2a0IyMHF4N2RGSm1FRE1nQ1l4Rnd2RnFnQ0tVT1NfODRIMWxLLXZlUG1hRWhxdHBkS285NkhiSmtTSVdxd21tN1J6eWdYaVRXc29VR0czRUdienNoYzBCdzNpVnI1Y2hWeUtuMExBU3VIc2NOeTVHQWFYaUFUUFhjWl9fVE5fOEZ0T3hMY1lxcmV1U1NaQV9uaTFtX1ZoMDRhenhBMWd5aHZ2WTdiekZlQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tata_chemicals-2026-11-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals shares rally 11% in 3 days; why is Tata Group stock rising? - Business Standard",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXl0VGpDVkhFbE1FdmxpMExNVnBYQ0Jra3B5UHJsMmdJSzJzX1dkUTctNTJwcHRWY1NJekVkYXBjUEU4cmVXXzN0UUlIOTk0RllRMlZFaS11Y2pOX21Qa0FJZkJlUTMwNlNLT3Y4T2hvYTc3WnN0Z3c3OFVsWWZENTBURW1RV0QzV3lxb0NmZExFRVRnWXR1MkVKUWZxZGNOREV3bFJlbk1wYlNMa1NfejRsOVBBSTRZdmkyNkc4R3R0Wmd2VTdEenBHZnFwWHZFbnNVONIB2gFBVV95cUxQTl8tMzdwMkE5bEpjdVA2MXRQYUtjdVpROEFlek0xQ3B0aWpPYW1kTXZ3VW9jT0cxNHZTTUdhTEJHRFJ0cmN6U3VRazIwT2Vqc3E2MXpDVFlZYThicUxmS2M4LWp2dGxRRnZVYS1MMzBEWW9qNjJYZjhkeTVwT2NtTmVEYkVPeW1DRWpfVnBYU0ROZlJtOHgwaUJ6bDdxX1JjR3NIQzR0ZXVOcnhaWm1RVWRKbndyQ3AwRkFNMXF0TEdhcF9BNElmT0hKaW82R203R0xhOVh5Y2Zrdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata group stocks rally up to 9% after RBI nudges Tata Sons to comply with listing norms - The Times of India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOGpyUDBxSUotRlRZUEkxeDZsUDk1WWdZUk1TRnFRVWppd0wzNGpJR3FTSU5vanRFQnQybWo1VFh3ZkJNZ05WdnBCc2pJMnJmRG9CcWpPZ19wa1VHT1BIU0dxSnNaMmo0TGstd3o2U2VsNzYwclRQLTZ0Y1BkUDZFRGk2bGxhMTdiS2NhenlDcDZvTnBtOEtvQnFmM0owa2tMS0lESVZMZmVQUU1HbXRhems5LVRES09JVEZMZzFkLURwZngzSHhaRTQ4clNTNld1TllzUUlYMlphckI4WHBEeTZtalFkN0hRU2xvdGNhbDVrOGlyMUJRZmZ6SFBhNWRqSlZz0gGIAkFVX3lxTFB5Zlg1NHhhNlNTeF9QN3NIUFFmZU5KQWtweGVWaU1kcWlCa1IxSUdpc2tGczU4Rk5WRk5mQnVyckVQejlRWnFSeWV6dHpBQ0JkeUtYUEdvd3RPTFlTby1XRXhkdHpvM3J0a1VNYmZpcVNZQndmY3NZQmN6Qm1FbUNPVVdJOEloamNaa2Z0STFEbnF5UnR4dkFwbnpBSUxSaTVhR0VTLXZqSExsOW5MMFNGekFReUtkSm9CSi15Tlh3bXRTaENKdTNid2hQemYzWUN5d21MenppU3ZuQzA0MUQyRWpoZFNPdzJxYlpqNVFXV04wYjltb1oxbENzamVsQldGaGNFc3FScw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tata_chemicals-2026-11-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Chemicals Ltd. Opens 5.88% Higher in Sharp Gap Up, But Can the Technicals Support It? - MarketsMojo",
+      "companies": [
+        "tata_chemicals"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXpTbC11SS1DcHIwam5pbVZRMDY5Q1RxWEtTZkl5cE1IUnB5c3Q5bE0xaEUtVHRqd2drWlhTR2o1SGpkVkE3TFRpSkotdXZWYVhfOG1ZS3FQMGlJRWtTWmtBSWYyeEVWUlhXbmhiZk9mMkItMzA0WFdzSXpsdEFET1h0Qm5CU29XT0JUQ3hCS1RUaUMzSVFSeDQ2dW5hWWR5dlRrMFZRRVNmLXJxUExLQXdjZkxiUVZCX0lua1RGUmRfVExyXzFv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "construction_activity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corning",
+      "to": "owens_corning",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tata_chemicals",
+        "count": 6
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "construction_activity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 410,
+    "dup_title": 156,
+    "too_old": 191,
+    "gate1_blocked": 28,
+    "gate2_blocked": 12,
+    "passed": 23,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why - Money",
+      "Tata Group shares rise as RBI reiterates Tata Sons listing requirement; Tata Chemicals gains up to 6",
+      "Mining PS Kimtai meets incoming Tata Chemicals Magadi boss - The Star, Kenya",
+      "Owens Corning Roof Deployment Project helps Hallowell Purple Heart recipient get new roof - WGME",
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為塔塔化工、康寧、Owens Corning相關動態：「Owens Corning Roof Deployment Project helps Hallowell Pur...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Owens Corning Roof Deployment Project helps Hallowell Purple Heart recipient ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Nifty 500 at open: Tata Chemicals jumps 8% as RBI asks Tata Sons to list; Apa...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
