@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 188,
+  "gate1_fail": 29,
+  "gate2_fail": 15,
+  "passed": 18,
+  "gate2_samples": [
+    "Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why - Money",
+    "Tata Group shares rise as RBI reiterates Tata Sons listing requirement; Tata Chemicals gains up to 6",
+    "Army Veteran With Dementia Gets a New Roof Free Through Owens Corning Program for 100% Disabled Vets",
+    "Owens Corning teaches roofing, insulation to Penta carpentry students - Sent-trib",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
