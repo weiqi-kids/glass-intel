@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:12:49.424638Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-11-19-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Owens Corning Inc (NYSE:OC) Stock Rated \"Hold\" by Sell-Side Analysts - MarketBeat",
+      "companies": [
+        "corning",
+        "owens_corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZmNQLXpQQ2dZSmthdnRmLW9qUnNJU3JpR2xEbE1qR2NQQUFFUUZZRWFLTG0wRTctNEhnb19uVXRDS2ROd2l2ZmtiS1puQTJaQ3I4ZVVKSDJCMDlDQkxBWVhJbUVjOVUyZkFURm94MWY3dFpFM1VGVU14bFROUzc0eVJlcHFQUS1nMXRJOWJRRGtwdlpWa01WMUVrTGtyZ21tcVBWd01jdG5iNHk0bEM4eW54Z0U4VUJhR0ZVQy13NGxXdXVxMjhB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oi_glass-2026-11-19-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "OI Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in O-I Glass, Inc. Securities Lawsuit - Contact SueWallSt - PR Newswire",
+      "companies": [
+        "oi_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQTQ0Sm9sVGVsT1ZKdmV5ZjR3dGhSaWdPcUFBVHgyNlhIR0gwTHUwbExHRUs1OWtUb09nRElZR3NydE5YUmNYR3I2ZjlpQ3IzSmtJcnBrMGN1Y3ZsUG90LVZkYlhVTGxqZWgzdmNVcXlndTdIelJSdnp0S2FPTnZFcy1QSzdUR3U2a3VGWVJ6cXl5Wlh6LVN1cm5TNHJodFFMdlFDekJINGRhRXpLZFdKOFdxMjVKSW0xVUZhdVp0ZmQzYm9vTzQ3OGI0R1pGRUdYbU9hSGo3Rnp5bWNMTmk3ZTdLMXRBMWhDVl9kcjEzRml5SkRiNU5pSkFBSVpCcGhkbzhfNG5OMkpkcm9HLWxpbl9hT0F5Zmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-11-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar Stock: 8 Straight Red Days, Down 25% - Trefis",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUlLdWNrM0lnNnU5VkxsVDluc0pfMERuMXI5NExIek5EUTgzUjc0dEJCb3hiY0M2OTZDUlhwS0ppRW1MLTEzMHhpV0ZqWFg4SnVVcEpDa21KQ3R6Rk01X2F6Z2hxdzZWZVRzSUkwOGNvbVYweWt1QUtCWDdXSHJDNlZqZmxzSWNMTFRyc0x2Q1dJMDNqY0JqSEQzS0xCcEVKRWJyYzh3YXA4Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aptera (SEV) completes its first customer solar EV — for its top crowdfunder - Electrek",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSl9rVW9fU2hVaWdLaUNkT29JcWo3ejBWYU9HT05FQ1VFbko1Z1hlRWEwLWt3NTFEckNBSFZaMXNGbXRySDRfOE5NTHNHWjBQS3FWNG9KRWJabnUwQVliSWNqbTg5MGUteFgwNUNJZFRqOFJ5UmZacHp1TEgzaUQ4NHNzaVJISnJVUmo0WQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-11-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Jeremy Clarkson's Hawkstone Brewery appoints Geo Green Power for its first solar PV installation - Renewable Energy Magazine",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmhJRlZjRlExUWFMVlFBZTN3ck9KRS01LTQ5WkM0U3hrcHNXZmxNUkJfZ1BialBPV1d1dXl4Q19DRzlXd0hkcnk4b2tCbE45akgybGFReEdWSlZ1bU1ocF9zTGdVZWM1VXNtMVFLQjlkZDRRem5oeTM1VnF6YVY5aEg4bGVVekozN2ZaSE1KeDFPdnBtbVYyVDFtUldwZ0YzeHpZRmlwQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "tata_chemicals",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "oi_glass",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 146,
+    "too_old": 176,
+    "gate1_blocked": 29,
+    "gate2_blocked": 22,
+    "passed": 20,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why - Money",
+      "Tata Group shares rise as RBI reiterates Tata Sons listing requirement; Tata Chemicals gains up to 6",
+      "Army Veteran With Dementia Gets a New Roof Free Through Owens Corning Program for 100% Disabled Vets",
+      "Owens Corning teaches roofing, insulation to Penta carpentry students - Sent-trib",
+      "AGC Biologics Welcomes Multiple Cell Therapy Projects to New Yokohama Site - GlobeNewswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為First Solar、塔塔化工、康寧相關動態：「Owens Corning Inc (NYSE:OC) Stock Rated \"Hold\" by Sell-Si...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Owens Corning Inc (NYSE:OC) Stock Rated \"Hold\" by Sell-Side Analysts - Market...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "OI Shareholder Alert: Investors With Losses May Seek to Lead the Class Action...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

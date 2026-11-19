@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 29,
+  "gate2_fail": 22,
+  "passed": 20,
+  "gate2_samples": [
+    "Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why - Money",
+    "Tata Group shares rise as RBI reiterates Tata Sons listing requirement; Tata Chemicals gains up to 6",
+    "Army Veteran With Dementia Gets a New Roof Free Through Owens Corning Program for 100% Disabled Vets",
+    "Owens Corning teaches roofing, insulation to Penta carpentry students - Sent-trib",
+    "AGC Biologics Welcomes Multiple Cell Therapy Projects to New Yokohama Site - GlobeNewswire"
+  ]
+}
