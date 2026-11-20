@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T17:12:45.177995Z",
-  "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
+  "updated_at": "2026-11-20T16:51:19.145877Z",
+  "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "agc",
@@ -143,17 +143,17 @@
       "name": "日本板硝子",
       "ticker": "5202.T",
       "currency": "JPY",
-      "ar": 87985000000,
-      "ar_prev": 84406000000,
-      "ar_qoq": "+4%",
+      "ar": 93460000000,
+      "ar_prev": 87985000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 185511000000,
-      "inv_prev": 175225000000,
-      "inv_qoq": "+6%",
+      "inventory": 194358000000,
+      "inv_prev": 185511000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "oi_glass",

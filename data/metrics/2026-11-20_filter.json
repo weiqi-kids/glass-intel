@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 30,
+  "gate2_fail": 13,
+  "passed": 20,
+  "gate2_samples": [
+    "Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why - Money",
+    "Tata Group shares rise as RBI reiterates Tata Sons listing requirement; Tata Chemicals gains up to 6",
+    "Army Veteran With Dementia Gets a New Roof Free Through Owens Corning Program for 100% Disabled Vets",
+    "Nippon Sheet Glass : Joint Exhibit at IPF Japan 2026 (International Plastic Fair) - www.marketscreen",
+    "Saint-Gobain to Exit Latin America Pipe Business in €170 Million Divestment - ChemAnalyst"
+  ]
+}
