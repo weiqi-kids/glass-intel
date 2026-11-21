@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T16:00:00.655586Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fuyao-2026-11-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Jeep owners sue Fuyao in New Jersey for broken, cracked windshields - Dayton Daily News",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_glass_trends",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0FqbnZiNzF3MmV1U2FOcDQ4X25sdy0yaWZ6dGtJeU5DeTkwWk1zdzFyUUZTOU9rWmZ6UjIwdkNCZkdUXy1JX3NlOXNvUVR4Q3FCdHNYQlpMNTBlYWF2bE1zU3ZBcFdjQmNPQVZTb3R2VjdYanh2Q2doOWZWaGZ1RF9ZZmt0TFgzam84Q0sxelVDa1I0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-11-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ritco Logistics secures new contracts with ISRPL and Saint-Gobain - scanx.trade",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVNtdUkzNHZWNkZjaEY2eHQyY0xWek1iZzdrS1FhdlhSTFJ5YVlKcHBqS0ZHTmk4VXlkaE52NmVkVklwZVhhakNVMXpqcjZBMG9ub1U3Z3htc0t6TXJ6UFNGS2w0d255elZYdG5WZzV5M1ZDcE1jUVpjMUVoajZndnc3ekhmamhfTG9zNXI2VkFDVjdzb0MwV21BT2hub1hTVmFiQ1BDZ0tzVV9GZWpyS1JaUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-11-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Solar (FSLR) Could Be 48% Undervalued As Tariff Lawsuits Cloud The Story - Simply Wall St",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1Q2THhzcDNxTUc3aFI2Y3pPc085djBvX2gybENCR1FfU3JvUWw4RnhXb2VaWWt0Y0JNZ3lpZUZIQUw2bTQxQnRBS2F3Z0RwM3hCeDlqZlZaSW1MUlJBd2NoY2o1YjNiOGdqMFJWSkdYZzdWZGItTjdKeDhjVjdPYTE3WlVyVS02RVV3NVNzVUN2Z2s1WkpVVDhXZ3l2ZkNoZUhKOGNYdl9lXzR0d0Vya3VpY0pfQllkM3dVU09iWWtkU0E5TWF1NDZYU3A3eklm0gHWAUFVX3lxTE15QTcwLVpMc0twSmJheG5lcFBESzRubFBkSVR5LXd5MTdGc0xPVzBvMUNob0t0TnhtRXNrWi1halJqTVhXbHNBMXcyRmgxaGtvZTJ1UEVRXy1Eem9OMFZ4ZUNJM3pUUjZLdlNoa21ha3ZrRjFCdFFMdG5Ea1kweWZMUHNxWUhYRnBSRzduLWV5eUU0bFQzU1FxbnpMdTNicmtDYXRxZ05lVV9uQTBwNUExMnRQNDhiOHhCZnVtX3dDUmFUX2ZCb1N5Rml0Yk45cFZMd2F0TGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "owens_corning-2026-11-21-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Owens Corning's Stock Slump May Have a Silver Lining for Dividend Investors - MarketBeat",
+      "companies": [
+        "owens_corning",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalplZG9pX1VIWWdTN0pRR2VjbGg1TThXNG5jemlzMTlWU0pVUExiTTM1NkVDSlcwblZUYlRTR1ZycEJkZnZQYzhYWVFDWnp3RE4tbzZHd1hrUjRhczBDR29Dc1NQWV9HWlYxTUVyLVhQeEVFSTB3NUZOU0xkWGE0djRudTM0dmxhYTY5VkptU2o4NVpYd2lDNXlWS3pqYXM2M25pblhnNXlwek1FQUF4Rg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-11-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar, Inc. (FSLR) Stock Forecasts - Yahoo! Finance Canada",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWFrYzl6VlhUV1hWOENhcTQ0eVFwRkhJODl3aDNMSUp5MDJJNmwxS0RTWHZMUzdUXzZaV2NqeDNHM2hmY0pyRF9WWW9qREFSaC1CY2ExWjhmUXZUaUUxUlk3STNvQ0xuTHdCRjdfaXpCQUd6WEczTThSSHljSEpxLXlVM0tkV3Z4U245dzE3bE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_glass_trends": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 2
+      },
+      {
+        "id": "owens_corning",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "fuyao",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "auto_glass_trends",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 159,
+    "too_old": 189,
+    "gate1_blocked": 29,
+    "gate2_blocked": 14,
+    "passed": 9,
+    "pass_rate": "3.7%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐞𝐧𝐠𝐚𝐠𝐢𝐧𝐠 𝐓𝐚𝐭𝐚 𝐂𝐡𝐞𝐦𝐢𝐜𝐚𝐥𝐬 𝐧𝐞𝐰 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐨𝐯𝐞𝐫 𝐩𝐞𝐧𝐝𝐢𝐧𝐠 𝐨𝐛𝐥𝐢𝐠𝐚𝐭𝐢𝐨𝐧𝐬 The government has reaffi",
+      "Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why - Money",
+      "Tata Group shares rise as RBI reiterates Tata Sons listing requirement; Tata Chemicals gains up to 6",
+      "Nippon Sheet Glass : Joint Exhibit at IPF Japan 2026 (International Plastic Fair) - www.marketscreen",
+      "Xinyi Solar Holdings Ltd (13X0.MU) Seasonal returns chart - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為First Solar、Owens Corning、康寧相關動態：「Jeep owners sue Fuyao in New Jersey for broken, cracked w...」。主要關注主題為財報、庫存、汽車玻璃趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Jeep owners sue Fuyao in New Jersey for broken, cracked windshields - Dayton ...（汽車玻璃趨勢、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ritco Logistics secures new contracts with ISRPL and Saint-Gobain - scanx.trade（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
